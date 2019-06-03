@@ -1,0 +1,809 @@
+{
+   "id_query": "1002778",
+   "total": 23618,
+   "total_current": 100,
+   "max_score": 70.69541,
+   "origin_question": "Máy zenphone 5 của em lúc sạc qua đêm đến Sang lúc mở máy phai mở nguồn",
+   "hits": [
+      {
+         "score": 70.69541,
+         "id": "1002778",
+         "field_search": "question",
+         "question": "Máy zenphone 5 của em lúc sạc qua đêm đến Sang lúc mở máy phai mở nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.40068,
+         "id": "805144",
+         "field_search": "question",
+         "question": "con ip5 của em không sạc được, lúc mở máy thì nó không thông báo là đang sạc, cũng không thông báo là vào pin, nhưng khi tắt nguồn thì lại sạc được, lúc nó còn 1% thì tắt nguồn, em nghĩ là hỏng rồi nên thử mở lại, lúc mở lên đã thấy nó sạc được 64%, làm cách nào khắc phục được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.127172,
+         "id": "1161237",
+         "field_search": "question",
+         "question": "Điện thoại Iphone X của mình hôm qua trong lúc sạc bị nóng và hiện tại mở nguồn không lên. Cho mình hỏi có thế đem đến TGDD sửa chữa được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.157547,
+         "id": "1141500",
+         "field_search": "question",
+         "question": "Iphone 5 của em ngày hôm qua em có tắt nguồn rồi sạc pin nhưng khi sạc đủ rồi thì em có mở nguồn lại nhưng nó chỉ hiện màn hình trắng rồi tắt tiếp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.024778,
+         "id": "1157861",
+         "field_search": "question",
+         "question": "Sau một đêm sạc điện thoại của em là realme c1 thì mở nguồn không lên. Cáp sạc vẫn tốt. Bị như này là như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.57762,
+         "id": "1157670",
+         "field_search": "question",
+         "question": "oppo a3s còn 30% pin sạc được 2 tiếng đến khi bật thì bị sập nguồn lúc nào k hay biết,nhấn mở nguồn vẫn không lên là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.503805,
+         "id": "1146479",
+         "field_search": "question",
+         "question": " Cho hỏi muốn xoá quảng cáo lúc mở điện thoại phai lam s ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.502949,
+         "id": "1007553",
+         "field_search": "question",
+         "question": "Cho em hỏi là đt A7 2017 em mua lúc mới ra mà bây giờ khi để sạc qua đêm thì nó chỉ sạc đến 97% thì dừng lại vậy có sao không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.25488,
+         "id": "852218",
+         "field_search": "question",
+         "question": "laptop win 10 của mình tắt nguồn rồi mà sao đèn nguồn vẫn sang, rồi mình mở lại máy nhưng nó không lên, đợi 5 phút sau nó mới mở được là tại sao? ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.152157,
+         "id": "1137085",
+         "field_search": "question",
+         "question": "Mình đang xài Samsung galaxy J7+, đột nhiên màn hình mở không lên.Tối qua trước khi ngủ thì mình đi sạc máy,  tầm một lúc lâu sau mình xem đầy pin chưa thì mở màn hình không được. Đến giờ điện thoại vẫn còn hiện đèn màu cam sau sạu khi mình rút giây sạc ra Mình đã thử nhấn giữ nút nguồn nhưng vẫn không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.550726,
+         "id": "904884",
+         "field_search": "question",
+         "question": " Laptop của em hôm qua ko mở nguồn đc, sạc pin ko vào, cho hỏi bị lỗi j vay ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.301342,
+         "id": "1136867",
+         "field_search": "question",
+         "question": "Máy em lâu lâu hay bị tắt nguồn nhưng khi em muốn mở nguồn lại không lên , phải đợi khoảng 10p mới mở đc em phải nhấn tất cả các nút cùng một lúc nó mới lên. Cho em hỏi máy e bị gì v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.180109,
+         "id": "744401",
+         "field_search": "question",
+         "question": " em dùng win8, lúc mở cốc cốc và google chrome, phải đến 30 phút mới mở lên được. Phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.086319,
+         "id": "1150109",
+         "field_search": "question",
+         "question": "Em dùng htc one e8 . Máy em thỉnh thoảng đang dùng thì nó tự sập nguồn ,mở lên 1lúc lại tự sập nguồn. đoi lúc nó sập nguồn bật ko lên nguồn sạc cũng ko lên, để cho Nó hết kiệt pin sạc vô mới lên. Rồi cứ thế a. Vậy là sao a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.924706,
+         "id": "763979",
+         "field_search": "question",
+         "question": "Mình mời vừa mua điện thoại Samsung Galaxy J5 hôm qua. Nhưng có lúc mở máy ảnh không được hệ thống báo là không thể mở máy ảnh trong cuộc gọi. Nhưng hiện tại lúc đó mình không có cuộc gọi nào. Máy bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.903473,
+         "id": "1165480",
+         "field_search": "question",
+         "question": "Ad ơi, em dùng ipx lúc sạc bằng sạc dự phòng thì nó vào, lúc sạc bằng ổ điện thì nó đòi mở khóa USB, em mở r, xog sạc vẫn k vào, em ktra chân sạc thì ksao cả, ad có cách nào giúp e k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.875988,
+         "id": "1159780",
+         "field_search": "question",
+         "question": "dt em bị lỗi sạc ở máy nokia 8.1 lúc vào lúc không. em có thể đến tiệm để khắc phục không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.634718,
+         "id": "748356",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 4 của em khi em xem tin nhắn rồi bỏ đó không tắt máy. Lúc mở máy lên thì không quay lại được màn hình chính chỉ có thể nhắn tin. Mà nhấn nút nguồn mãi mới mở. Điện thoại em đang làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.454353,
+         "id": "1020264",
+         "field_search": "question",
+         "question": "Máy của em là Ss galaxy J1 mini, tối hôm qua em có reset máy. Đến lúc mở lên thì phải qua bước xác minh tài khoản Google đã đồng bộ hóa trước đó, em đã nhập tài khoản vào rồi nhưng vẫn k đc (e đã nhập các tài khoản khác của e nhưng nó vẫn quay về bước xác minh). Máy này bố em mua về cho em và đến lúc đưa cho em thì máy đã sử dụng đc. Liệu có phải là nhập tài khoản của bố em mới được hay vì lí do nào khác ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.435425,
+         "id": "998313",
+         "field_search": "question",
+         "question": "iphone sài vẫn bt tự nhiên 1 lúc nữa e mở dt ko lên mở nguồn cũng k dc e nghi bị  đứng máy ko pk có phải k nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.314804,
+         "id": "1158695",
+         "field_search": "question",
+         "question": "Tôi vừa bảo hành máy tính về. Mà bảo hành về sao còn hỏng nhiều hơn lúc chưa bảo hành. Lúc đem bảo hành máy tính hay bị sập nguồn. Đem bảo hành xong. Máy tính sập nguồn k cả mở được màn hình rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.233215,
+         "id": "1018427",
+         "field_search": "question",
+         "question": "Cho em hỏi : máy của em sạc đầy 100% rồi sau đó em dùng còn 97% rồi sau đó ko dùng nữa. Một lúc sau mở máy lên thì máy tự khởi động lại . Lúc này pin điện thoại lại hiện lên 99% . Vạy pin của em có bị làm sao ko ạ. Máy em là samsung j2 ạ. Mong anh chị giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.947508,
+         "id": "999940",
+         "field_search": "question",
+         "question": "Mk mới mua máy oppo a37 được 1 tuần. Mọi lần mà sạc đầy pin để máy qua đêm chỉ xuống 2%. Đêm qua để đến sáng nay lại xuống hẳn 15%. Không biết là máy bị vấn đề gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.782421,
+         "id": "881829",
+         "field_search": "question",
+         "question": "Máy của tôi là iphone 5, ios 9.3.5 ( mới nhất vừa update ), ở chỗ logo Mobifone đột nhiên chuyển sang dãy ký tự @@@@@@@@ qua 1 đêm sạc máy, trc đây chưa khi nào bị. Vậy đt của tôi đang bị gì??? Cám ơn đã quan tâm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.749763,
+         "id": "1165453",
+         "field_search": "question",
+         "question": "em sửa bo sạc ở thế giới di động mất 880 lúc mới về ko bị sao để qua 1 đêm lại lỗi y như lúc chưa sửa 2 hôm này phải làm thế nào shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.714472,
+         "id": "1010879",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi điện thoại em là Asus Zenfone 3 Max Em không hiểu vì sao mà cứ sạc thì pin cứ trừ liên tục nhưng khi Cúp nguồn mở nguồn lên trong lúc còn  sạc thì pin lại đủ 100%",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.63562,
+         "id": "1021604",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi đt xiaomi redmi 1s  em  sạc đt mở nguồn mãi kh lên . và mổi lần e cấm sạc vào là đt e nóng tăng dần lên. Lúc tháo sạc ra thì lại hết nóng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.605038,
+         "id": "1017397",
+         "field_search": "question",
+         "question": "Chào ad, samsung a5 của em sau khi hết pin và được sạc thì lúc khởi động cứ hiện chữ samsung mà không chịu mở màn hình. Em nhất home + tăng âm lượng + nguồn nhưng cg k hiện ra phần để reset máy. Em phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.588873,
+         "id": "1135216",
+         "field_search": "question",
+         "question": "BQT cho em hỏi điện thoại em là IPhone X lúc sáng em xài vẫn bth. Sao trưa em sạc chiều cầm lên thì mở điện thoại khong lên nhấn nút nguồn cũng không lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.282,
+         "id": "802692",
+         "field_search": "question",
+         "question": "khi sử dụng camera laptop gọi video qua face thì mở được lúc đầu khoảng phút là bị tắt.cho em hỏi cách để mở lại hay cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.214752,
+         "id": "1002198",
+         "field_search": "question",
+         "question": "Thegioididong có sửa máy xiaomi mipad 2 k ah. máy của mình đang sạc tới sáng đã đầy pin nhưng mở nguồn k lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.20722,
+         "id": "1143057",
+         "field_search": "question",
+         "question": "Iphone của em đang sử dụng bình thường thì bị sập nguồn có lúc cắm sạc thì lên pin lúc thì không cắm sạc lên cho hỏi máy em bị như thế thì phải khắc phục như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.124401,
+         "id": "1164865",
+         "field_search": "question",
+         "question": "Tôi sài sạc chính hãng của máy, trõng lúc sạc ko dùng tại sao lại có lúc sạc nhanh có lúc lâu vậy. Tôi sài realme 2 pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.064148,
+         "id": "1148368",
+         "field_search": "question",
+         "question": "Tại sao điện thoại của em sạc qua đêm thì khi sáng em bật điện thoại lên chẳng được, như kiểu tắt nguồn mà lại mở nguồn lên không được :| nhưng trên điện thoại vẫn hiện đèn thông báo màu xám trắng cách mỗi 7 giây hiện 1 lần là sao ạEm dùng Sony Xperia XA",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.988115,
+         "id": "1003683",
+         "field_search": "question",
+         "question": "Đt e Lenovo bị rơi xuống nhưng k bể hay nứt màn hình, vẫn mở nguồn đc , sang hôm sau thì mở nguồn chỉ hiện logo ,màn hình lúc đen lúc trắng , có vài đường trắng sọc sọc rồi tắt tối đen k vào đc màn hình chính , vài bữa sau nữa thì mở k lên ạ màn hình tối thuiE đã thử đủ cách, sạc pin , tháo pin ra lắp vào lại cũng k đc Như vậy thì bị hư ở đâu ạ có cần thay màn hình k 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.941725,
+         "id": "871469",
+         "field_search": "question",
+         "question": "QTV cho em hỏi là máy tính em là dell win 10, mới cài win 10 xong thì ngày hôm sau máy nóng, mặc dù đã tắt máy nhưng pin thì cứ hết mặc dù đã sạc đầy. Hiện giờ thì máy không còn nóng như lúc mới cài win 10, em đã thử sử dụng máy mà ko gắn pin, dùng xong tắt máy thì ko vấn đề gì. Khi gắn pin đã sạc đầy vào sử dụng song song với nguồn điện thì cũng ko vấn đề gì. Nhưng khi tắt máy xong để qua 1 đêm thì sáng hôm sau mở máy lên thì máy hết pin... Máy tính em bị vấn đề gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.940575,
+         "id": "753442",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình dùng cáp iPhone 5. Khi điện thoại hết pin tắt nguồn mình cắm sạc máy vẫn lên, đến khi lên nguồn thì không báo nhận sạc . Nhưng để 1 lúc thì phần trăm pin vẫn lên . Tình trạng như vậy là bị gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.922264,
+         "id": "1005248",
+         "field_search": "question",
+         "question": "Tại sao 1 điện thoại luôn có mạng và trong tình trạng ko tắt nguồn ( cũng ko sử dụng) nhưng dùng 1 dt khác nhắn tin zalo thì thấy máy này truy cập x phút trước và tn chỉ hiện đã gửi. Đến lúc dt kia sử dụng( mở màn hình) thì mới có thông báo tn và dt này mới hiện tn đã nhận. Trong lúc đó cả 2 dt đều có mạng và dt nhận tn đang ko dc sử dụng( chế độ nghỉ) nếu 1 dt mở nguồn và mở mạng thì phải nhận dc tn ngay lúc gửi chứ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.919899,
+         "id": "1022133",
+         "field_search": "question",
+         "question": "em muốn hỏi là lúc mà pc sleep ấy, khi mở lên nó có cái lockscreen vậy làm sao để tắt, nghĩa là lúc sleep xong mở lên là nó hiện ra ngay màn hình luôn mà không cần qua lockscreen ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.90019,
+         "id": "1162194",
+         "field_search": "question",
+         "question": "cho e hỏi máy e lúc sài không sử dụng mật khẩu nhưng khi tắt nguồn máy mở lên nó kêu nhập mã kích hoạt iphone là nó bị gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.886362,
+         "id": "1150582",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình mua máy xiaomi redmi note 6 pro hàng đổi trả ở tgdd. Mình dùng đc gần 1 tuần thì thấy lúc mở khóa máy hay bị chậm. Ấn nút nguồn để mở khóa thì mấy 5-6s sau máy mới phản hồi, dùng vân tay 1 chạm cũng bị tình trạng như vậy. Là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.86171,
+         "id": "1008774",
+         "field_search": "question",
+         "question": "Cho em hỏi em đag xài samsung galaxy gt-i9000 máy em bị hỏng nút nguồn. Nhìu lúc máy tắt nguồn em cắm sạc vào máy hiển thị đang sạc pin, đc 100% em rút ra cắm lại nhưng máy không lên nguồn mà vẫn hiện logo đang sạc pin là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.857557,
+         "id": "999424",
+         "field_search": "question",
+         "question": "Mình mua Redmi note 4 từ hôm 28/6 hôm nay sạc cả đêm mà pin vào được có 55%. Rút sạc ra cắm lại thì chập trờn lúc được lúc k, cắm dây sạc vào máy khác thì vẫn ok. Thử sạc máy khác để sạc máy mình vân chập trờn... Hỏi lỗi do đâu hả TGDD?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.799208,
+         "id": "748958",
+         "field_search": "question",
+         "question": " điện thoai iPhone 5 của mình dùng cứ còn 30 pin là bị sâp nguồn, cắm sạc vào mở lên thì màn hình bi nháy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.790945,
+         "id": "1164709",
+         "field_search": "question",
+         "question": "Máy em hôm nay lúc gọi messenger thì tay có lướt qua vùng cảm ứng thì máy tối đen xong mở lại, trong khi mọi hôm lại không bị, có cách khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.772638,
+         "id": "1009901",
+         "field_search": "question",
+         "question": "Em sài samsug j3 2016 lte tai sao đến lúc 1245 là máy cúp nguồn .ngày nào cũng vậy em mới mua 1thang",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.738897,
+         "id": "746455",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 6 lúc thì bị lỗi mở không lên, lúc thì tắt màn hình cứ kêu như mở radio là bị gì vậy ak? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.724127,
+         "id": "1011315",
+         "field_search": "question",
+         "question": "TGDD tư vấn giúp mình.Đt xiaomi redmi note 4 mới mua 2 lần sạc đầu tiên e để máy bình thường (mở máy) để sạc thì pin nạp đủ 100%. Lần thứ 3 e tắt nguồn rồi cấm sạc (nghe đồn tắt ngồn sạc nhanh hơn) thì pin chỉ nạp được 80% rồi ngừng. Lần thứ 4 e tiếp tục tắt nguồn để sạc thì pin chỉ nạp được 76%, e tháo sạc mở máy lên và sạc tiếp thì pin lên được 100%. Lần 5 e mở máy sạc như 2 lần đầu thì pin lên 100% bình thường. Cả 5 lần sạc máy vừa báo pin yếu là cấm sạc ngay. Không biết tình trạng như vậy là máy có bị lỗi gì không ạ? Vì các nhân viên ở cửa hàng cũng thường khuyên khi sạc nên tắt nguồn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.672377,
+         "id": "780011",
+         "field_search": "question",
+         "question": "Cho em hỏi..em dùng iphone 4s, lúc em tắt nguồn và mở lên lại thì màn hình của em không lướt để mở khóa được vậy là sao, những nút home vẫn hoạt động bình thường nhờ tgdd trả lời dùm em.em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.64762,
+         "id": "758351",
+         "field_search": "question",
+         "question": " Máy Dell của em lúc mở lên, không gõ pass vô dc. Nó không hiện con trỏ nhấp nháy để gõ pass. Giờ làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.599442,
+         "id": "836707",
+         "field_search": "question",
+         "question": "Laptop của mình bị lỗi mở màn hình không lên, đèn nguồn vẫn sáng nhưng ko màn hình ko lên. Lúc đè phím nguồn tắt màn hình thì có nghe tiếng bíp, mở lại vẫn vậy. Cho hỏi bị lỗi gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.587551,
+         "id": "1167138",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em dùng A10 mà sao lúc nó mở khóa bằng khuôn mặt nhanh, lúc thì mở đi mở lại vẫn không được là sao ạ. Có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.509598,
+         "id": "804875",
+         "field_search": "question",
+         "question": " Máy iphone 5 của em tại sao dung lượng lúc tăng lúc giảm bất thương. Có cách gì để khắc phục không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.484913,
+         "id": "844298",
+         "field_search": "question",
+         "question": "Hôm nay lúc laptop vừa báo sắp hết pin. Mình cắm sạc vào lúc khoảng gần 1h trưa, rồi cho đến 3h mấy 4h gì đấy thì mình nhớ mang máng là máy báo pin 100% rồi, đèn pin laptop cũng tắt rồi. Cho đến lúc nãy, 8h30 mình tắt máy, cuối cùng mới để ý khi tắt xong cả tự nhiên thấy pin laptop còn sáng. Thấy lạ mình liền mở lap lại để coi, thì thấy máy báo là 99% đang sạc (trong suốt quá trình sài đều vẫn cắm sạc). Là nó bị gì vậy ad?!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.321861,
+         "id": "1022866",
+         "field_search": "question",
+         "question": "J7 prime của em để qua đêm thường bị tụt từ 3 đến 5 còn ban ngày kh bị tụt vậy đt em có bị chai pin kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.23613,
+         "id": "757021",
+         "field_search": "question",
+         "question": "Laptop của em cách đây 5 tháng máy mở nguồn không lên em đem đến Thegioididong gửi về hãng sửa chữa. Hãng báo cho em biết thời gian bảo hành sản phẩm nhưng giờ em không nhớ. Muốn biết còn bảo hành không thì làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.17891,
+         "id": "1011344",
+         "field_search": "question",
+         "question": "N cứ hiện đã tải về mà lúc e mở thì k có ứng dụng trên máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.072554,
+         "id": "1156152",
+         "field_search": "question",
+         "question": "shop cho hỏi máy của e mở khóa sai nhiều lần và bị vô hiệu hóae đã làm theo hướng dẫn kết nối với ituns cập nhật được 1 lúc máy báo cần mở khóa thiết bị là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.009706,
+         "id": "999957",
+         "field_search": "question",
+         "question": "Mình mới mua máy oppo a37 được một tuần. Mọi lần mình sạc đầy pin, tắt hết các ứng dụng, Wi-Fi, 3g để qua đêm chỉ xuống 2%. Nhưng đêm qua mình để đến sáng nay lại xuống hẳn 15%. Không biết máy bị vấn đề gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.953285,
+         "id": "1158857",
+         "field_search": "question",
+         "question": "Điện thoại realme c1 của mình mỗi lúc còn 1-2% thì sạc kiểu gì sáng mai dậy cũng bị tắt nguồn, mở lên không được, mình toàn phải bấm tổ hợp phím để reset máy, rất rắc rối và bất tiện, nhiều lần không có báo thức là vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.949451,
+         "id": "1023137",
+         "field_search": "question",
+         "question": "Add cho mình hỏi. Mình mua cái máy samsung tab A6 từ ngày 2/9/17, máy đổi trả, sau về mở máy lên hay có hiện tượng máy bị tối màn hình, lúc sáng lúc tối là bị ji vậy, tắt rồi mở lại thì màn hình cứ như zay hoài.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.898071,
+         "id": "766347",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 6s plus sử dụng 2 ngày đầu bình thường bữa nay phần trăm pin xài không tụt sạc không lên tắt nguồn mở lại thì hiển thị đúng nhưng 1 lúc lại đứng im",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.895638,
+         "id": "1003248",
+         "field_search": "question",
+         "question": "Lúc mua hàng thì lịch sự lằm lúc k sài bán lại thì kêu mở cái mật khẩu ra k biết mở ??? nghĩ làm mẹ đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.893509,
+         "id": "1159047",
+         "field_search": "question",
+         "question": "Em ở hcm, mới mua Huawei nova 3i, sử dụng chưa đến 1 tuần mà pin tuột rất nhanh. Lúc mở hộp đem máy về là pin có 43%. Trường hợp này có bảo hành cho em không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.881807,
+         "id": "1160750",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao cái realme C1 của em để qua đêm sáng mai không lên nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.803314,
+         "id": "1157977",
+         "field_search": "question",
+         "question": "Em mới mua máy Realme c1. 2 hôm nay dùng còn khoảng 20% thì em sạc máy. Lúc sau kiểm tra thì máy tự tắt nguồn là bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.734118,
+         "id": "1150676",
+         "field_search": "question",
+         "question": "Mình mới mua samsung s9 plus được 1 tháng mà mình có mở tắt nguồn 2 3 lần liên tiêp nhưng khi mình tắt lần thứ 3 thì một lúc sau mình ko mở lên đc, phải cắm sạc thì nó mới lên mà lúc đó vẫn còn tận 45% pin ,,, bây giờ vẫn dùng bình thương,,, chi mình hỏi máy bị vấn đề gì vậy ạ,,, mình cảm ơn nhiều nhé!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.653225,
+         "id": "1137468",
+         "field_search": "question",
+         "question": "ad cho em hỏi máy samsung J8 của mẹ em mới mua còn 1 ngày nữa mới 1 tháng chẵn. giờ nó lúc gọi được lúc gọi không được em đã tắt nguồn và khởi động lại máy nhưng vẫn lúc gọi được lúc gọi không được? mong ad hồi đáp nhanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.640541,
+         "id": "1157862",
+         "field_search": "question",
+         "question": "Điện thoại a3s của em sạc qua đêm sáng dậy k thấy lên màn hình là bị sao ạ. Mà máy e chưa mua đc 1 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.611946,
+         "id": "897703",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là iphone 6s Plus lúc quay video trên máy mở lại thì ko xem được. Tất cả các video lúc trước quay cũng ko xem lại đc. Có cách nào khắc phục được ko vậy ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.598835,
+         "id": "803024",
+         "field_search": "question",
+         "question": "cho mình hỏi. iPhone 5s của mình xài hơn một năm. mới thay pin được 5 ngày. vậy mà sạc đầy để qua đêm lại mất đến 60%. mọi ứng dụng làm hại pin mình đã tắt hết.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.53251,
+         "id": "1160867",
+         "field_search": "question",
+         "question": "Xin chào tgdg. Em có mua 1 máy nokia 5.1 plus.  Em dùng đc 2 tháng roi. Nhung hiện tại em quên mật khẩu khong mở khoá đuoc máy nua. Dậy giờ em phai lam sao để mở khoá đuoc máy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.514387,
+         "id": "999648",
+         "field_search": "question",
+         "question": "Điện thoại samsum galaxy j3 sạc pin rất lâu vào có khi sạc đến 4 mí phần trăm thì tự ngắt sạc không thì không vào pin nữa mình phải rút ra rồi cắm sạc vào lạiminh sạc nguyên đêm nhưng chỉ có 46 % rồi ko vào pin nữa, rút ra rồi cắm sạc lại thì vào nhưng rất chậmkhỏi động lại thì lúc 43 % lúc 46 % lúc thì 50%Phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.505585,
+         "id": "1157767",
+         "field_search": "question",
+         "question": "Cho em hỏi đt Realme C1 tối e dùng bình thường đt hết pin sạc qua đêm sáng mở không lên. Em có lấy đt khác gọi qua vẫn nghe đổ chuông nhưng đt em vẫn không hiển thị là bị sao vậy ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.493164,
+         "id": "1018782",
+         "field_search": "question",
+         "question": "Em xài iphone 4. Điện thoại e k bật nguồn lên được. Cắm sạc thì hiện logo của apple lúc hiện lúc tắt vậy là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.453243,
+         "id": "1010086",
+         "field_search": "question",
+         "question": "cho e hỏi , máy e samsung galaxy note 3 mới mua (hàng xách tay ạ) e đang dùng thì máy sập nguồn rồi lại tự lên nguồn liên tục được lúc thì tắt hẳn , e bật lên lại thì lúc hiện 0% , lúc hiện 50%...mà e nhớ lúc sập nguồn là pin 37% cứ lên nguồn được lúc rồi lại tự tắt ạ . E sạc đầy lúc sau dùng lại vậy mà pin hết cực nhanh 1h mất cỡ 50% pin . Có phải tại pin hỏng rồi k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.452003,
+         "id": "781516",
+         "field_search": "question",
+         "question": "iPhone vừa sạc vừa chơi có bị chai pin không ạ.với cả máy em có hiện đang sạc cỡ 35% pin xong nhảy lên 40% pin trong vòng 2 giây kể từ lúc mở màn hình vậy có sao không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.433718,
+         "id": "1137875",
+         "field_search": "question",
+         "question": "e mua ip6s cũ 99% đc 4 tháng mà tầm gần 1 tháng nay e cắm sạc máy khoảng hơn 3 tiếng rưỡi mới đầy mà lúc trước chỉ hơn 2h rưỡi. máy để qua đêm pin xuống nhanh. Máy e như vậy là bị sao ạ. E cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.404715,
+         "id": "1143858",
+         "field_search": "question",
+         "question": "Galaxy tab s không mở nguồn được! Khi cắm sạc thì thấy biểu tượng sạcĐã dùng pp bấm nguồn + giảm AL, nguồn+ home+ tăng Al luôn rồi. Có lúc thì vào giao diện khởi động sasung xong rồi đơ luônKhông bit bị gì nhờ tgdd giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.403671,
+         "id": "986331",
+         "field_search": "question",
+         "question": "Cho em hỏi, iphone của em là iPhone 6, chạy Ios 10.3.1, máy lúc trưa xài bình thường nhưng bây giờ mở không lên, em dùng thử cách ấn đồng thời nút nguồn và nút home, ấn giữ nút nguồn vẫn không được, đụng vào thì nút home rất nóng, thế em phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.390661,
+         "id": "902160",
+         "field_search": "question",
+         "question": "laptop acer em vừa mua , lúc đầu ko có hiện tượng này nhưng dạo gần đây hay có hiện tượng em cắm sạc vào thì màn hình tắt như chế độ sleep , nhưng ko bật lên đc , phải tắt nguồn mở lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.382143,
+         "id": "997727",
+         "field_search": "question",
+         "question": "Máy mình Samsung Galaxy s6 edge. Máy mình bị mất nguồn. Nhưng thình thoảng mở vẫn lên, nhưng lên đến logo Galaxy s6 edge thì đơ hoặc lên được tới màn hình khóa nhưng vẫn đơ ngay lập tức. Mỗi lần đơ thì tối màn hình và led thông báo vẫn sáng cod lúc đỏ có lúc chớp xanh.  Như vậy liệu máy có hư phần cứng không? Nhờ chuyên gia giải đáp hộ. :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.354712,
+         "id": "1164638",
+         "field_search": "question",
+         "question": "Máy mình mua được 5 tháng, lúc đầu thì sạc rất nhanh nhưng bây giờ thì sạc rất lâu nếu pin dưới 30% thì sạc phải mất 3 đến 4 tiếng mới đầy 100% cho mình hỏi tại sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.345724,
+         "id": "802610",
+         "field_search": "question",
+         "question": "Em có cái iphone 4 chay ios 7.1.2 có vấn đề về pin như sau: sạc đầy rồi để qua đêm thì xem lại chỉ còn dưới 90%( đã tắt hết 3g, wifi) khi chỉ còn dưới 20% thì sau 1 lúc máy sập nguồn( cũng tăt 3g,wifi rồi). khi còn dưới 15% pin vừa cắm sạc máy đã nhắt lên 25%-27%. em check kiểm tra thì máy đã sạc đc hơn 1000 lần và dung lượng pin chỉ còn 1053 mah. liệu máy của e có bị trai pin k ak và e có nên đi thay pin k.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.324705,
+         "id": "1019132",
+         "field_search": "question",
+         "question": "cho em hỏi lầ máy oppo a37 của em mua dc chưa đầy 1 tháng mà sao nó không chạy mượt mở nguồn lên đó đứng một lúc rồi mới lên vào ứng dụng nó cũng đứng một hồi nó mới vào đc làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.321854,
+         "id": "1020553",
+         "field_search": "question",
+         "question": "Em sài điện thoại oppo f3 mới mua dk mấy tháng mà máy đôi lúc chụp hình có có một ảnh nào được lưu lại.  Cộng xóa hình cũng k được.  Pai tat nguồn mở lên mới chụp va xóa được. Máy bị hoài àh. Đôi lúc e bực mình lắm.  Cho e hỏi máy e rốt cuộc la bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.271847,
+         "id": "867474",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy iphone 5 của em sạc không vào điện, phải tắt nguồn mới sạc được. Dây sạc của em vẫn sài tốt. như vậy là sao hả ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.265768,
+         "id": "757577",
+         "field_search": "question",
+         "question": "Em có iPhone 5s , đã dán cường lực , hiện tại nhiều lúc rất khó mở khóa bằng vân tay ... không biết dán cường lực có làm ảnh hưởng nhiều đến mở khóa bằng vân tay không ạ? Em xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.198153,
+         "id": "1161502",
+         "field_search": "question",
+         "question": "Cho em hỏi, điện thoại em cắm sạc khi ấy là còn 20% pin, nhưng do máy sạc lâu phải mất 4 tiếng thì mới sạc đầy pin. Lúc em rút sạc thì máy mới đến 80%,không biết có ảnh hưởng gì đến chất lượng pin không ạ( e dùng Oppo 3as)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.159582,
+         "id": "1157065",
+         "field_search": "question",
+         "question": "Cho em hỏi máy m20 sạc khoảng bao nhiêu lâu thì đầy pin ạ?! Tại sao em cắm sạc từ lúc 6h30 đến 11h ko có sự dán đoạn nào mà chỉ lên từ 14% đến 74% thôi ạ?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.13644,
+         "id": "996665",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao dt ss j7 của mình lúc mơí xài thì sạc tầm 2 tiếng rươĩ là đầy pin nhưng giờ mình phải sạc tới 4 đến 5 tiếng mơí đầy pin ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.106695,
+         "id": "965162",
+         "field_search": "question",
+         "question": "Em mới mua con ASUS core i5-62000U,tên nó là DESKTOP-SD3LBC8 đang chạy win10.. hôm qua em có cắm sạc để sạc pin từ chiều đến tối rồi quên rút sạc để đến sáng nay... lúc nãy rút sạc ra thì bật máy không lên,khi em cắm sạc vô thì máy lên và hoạt động bình thường,cho em hỏi vậy là máy bị lỗi pin hay bị gì ạ...Vì mới mua đầu tháng 3 nên em có thể đem ra TGDĐ để trực tiếp chỉnh máy hay không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.102205,
+         "id": "746994",
+         "field_search": "question",
+         "question": " em cài lại mật khẩu mà khi mở lại lại không mở được máy của em bị quên icloud. ai biết chỉ giúp em cách mở máy. làm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.088772,
+         "id": "999191",
+         "field_search": "question",
+         "question": "asus zenfone 5 bị liệt nút nguồn nhưng đang tắt nguồn làm sao để mở",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.053974,
+         "id": "1153370",
+         "field_search": "question",
+         "question": "Ad ơi, mình dùng loại Oppo, mình ngủ quên nên sạc máy quá đêm đến 8 tiếng, vậy có ảnh hưởng gì đến máy không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.034496,
+         "id": "824799",
+         "field_search": "question",
+         "question": "Ad cho e hỏi với ạ. Máy e sạc pin hơn 2 tiếng có sao khong. Lúc sạc thì cục sạc hơi nóng. Dt thi ngủ qua đêm bị hụt pin VD như 15% sáng dậy còn 7% nz có s k a? Máy e còn bảo hành e có thế mang ra sửa dc k a? Máy e ip 5s. E cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.034277,
+         "id": "1143967",
+         "field_search": "question",
+         "question": "Lúc e mở máy tính lên thì k bấm mà Cốc cốc tự hiện lên, bh tắt có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.033335,
+         "id": "1144330",
+         "field_search": "question",
+         "question": "Em dùng máy tính bảng samsung, em đã không sử dụng 1 tuần rồi, bây giờ đem sạc thì mở máy không lên, khởi động nguồn cũng vậy. Em phải làm sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.991444,
+         "id": "844541",
+         "field_search": "question",
+         "question": "-Cho em hỏi...e đang dùng iphone 5 tại sao pin e cắm sạc nó báo đã sạc nhưng pin vẫn đưng yên...được lúc sau e khởi động mới đúng pin thực của nó...nhưng lúc dùng nó không giảm gì mà nó tự dưng sập nguồn ạ...tư vấn giúp e được không ạ...cảm ơn adm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.956635,
+         "id": "1136520",
+         "field_search": "question",
+         "question": "Máy của em là j6 mới mua về hôm qua mà sao lúc dùng nó cứ giật giật hoài v ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

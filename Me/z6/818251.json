@@ -1,0 +1,809 @@
+{
+   "id_query": "818251",
+   "total": 29330,
+   "total_current": 100,
+   "max_score": 115.07326,
+   "origin_question": "iPhone 5C có con quay hồi chuyen không? Và xem video 720p mượt mà không? Mình sợ xem giật lag (phim đã tải xuống không lien quan đen mạng).",
+   "hits": [
+      {
+         "score": 115.07326,
+         "id": "818251",
+         "field_search": "question",
+         "question": "iPhone 5C có con quay hồi chuyen không? Và xem video 720p mượt mà không? Mình sợ xem giật lag (phim đã tải xuống không lien quan đen mạng).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.272015,
+         "id": "1020422",
+         "field_search": "question",
+         "question": "Máy nào xem phim, chơi game Liên Quân Mobile mượt và không giật lag nhất giá từ 37 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.279594,
+         "id": "997947",
+         "field_search": "question",
+         "question": "cho mình hỏi tại sao đang xem phim thì đột nhiên laptop kêu típ típ và giật lag không hiểu tại sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.742636,
+         "id": "1141292",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình dùng iphone 7plus lúc trước có quay mấy video nhưng giờ vào xem lại không được mà cần phải bật mạng mới cho xem là tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.702824,
+         "id": "925110",
+         "field_search": "question",
+         "question": "Trước app youtube của mình khi xem 1 video ,kéo xuống dưới có mấy video đề xuất, mà giờ không có nữa, có phải máy mình bị hỏng không mình dùng i phone 5c lock",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.305918,
+         "id": "825742",
+         "field_search": "question",
+         "question": "Cho mình hỏi ip5 của mình giờ không thể xem lại các video đã quay từ trước, chỉ khi có mạng mới xem được. Mình không biết nguyên nhân tại sao?! Giúp mh với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.114319,
+         "id": "1159616",
+         "field_search": "question",
+         "question": "Cho em hỏi...e mua A50 khi chơi liên quân bằng 4g hay bị giật lag ping rất cao không thể chơi được.trong khi vẫn lướt web xem phim bằng 4G bình thường.e cũng đã thử chuyển đổi sang mạng khác nhưng vẫn bị giật lag khi chơi liên quân",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.927937,
+         "id": "1160821",
+         "field_search": "question",
+         "question": "Quay video màn hình lúc mình đang xem phim trên a50 ntn vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.713497,
+         "id": "1157413",
+         "field_search": "question",
+         "question": "Mk dùng Oppo f9 dạo này vào youtobe xem thì xem video chính ở dưới lại không hiện các video khác mà xuống thằng phần comment luôn đã xoá đi tải lại vẫn không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.438612,
+         "id": "813752",
+         "field_search": "question",
+         "question": "Tôi xài điện thoại Sony c4, xin cho hỏi loại này có con quay hồi chuyển không? Khi sử dụng kính thực tế ảo xem video vr thì lúc quay điện thoại thì không gian trên video không quay theo! Khi xài ip5 thì vẫn tốt hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.173319,
+         "id": "762197",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4s có tải vivavideo về nhưng quay xong và lưu rồi nhưng khi vào xem lại không xem được. Yêu cầu bật truy cập trong thiết đặt mà mình tìm mãi không thấy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.834476,
+         "id": "997913",
+         "field_search": "question",
+         "question": "QTV tư vấn giúp em smartphone 3-5tr chơi game mượt (không giật lag khi chơi lâu) không cần load game nhanh chỉ mượt và không giật lag thôi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.711893,
+         "id": "749205",
+         "field_search": "question",
+         "question": " Sony M4 trước vẫn quay phim được, nay quay thì xem lại không thấy hình mà chỉ thấy tiếng. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.090782,
+         "id": "780298",
+         "field_search": "question",
+         "question": " Anh chị cho hỏi Samsung galaxy j2 không xem được video 720p trên youtube ak? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.876762,
+         "id": "1146788",
+         "field_search": "question",
+         "question": "Máy Samsung j4 của e chỉ xem đc video 720p trên youtube có cách nào để xem video 1080p k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.575699,
+         "id": "772196",
+         "field_search": "question",
+         "question": " Em mới mua laptop Acer i5 hôm qua. Mà bây giờ xem video., zingmp3, phim, youtube mà toàn bị giật là sao ạ..??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.573257,
+         "id": "806798",
+         "field_search": "question",
+         "question": "minh xài iPhone 6s plus giờ mình muốn tải video phim về máy mà phần mềm free video và một số phần mềm đã bị xóa trên appstore!giờ mình mún tải thì phải làm sao ạ?????????????? minh đã thử rất nhìu phần mềm nhưng không có chỗ để tải về???????mong phản hồi sớm ạ????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.478739,
+         "id": "798141",
+         "field_search": "question",
+         "question": " Tại sao em dùng oppo r1011 quay phim màn hình mobizen game bị lag và giật vậy ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.725399,
+         "id": "876416",
+         "field_search": "question",
+         "question": "Mình dùng ip5 , lúc mình xem phim máy bảo bị nhiễm 6 con virus và sẽ làm hư hỏng pin . Mình tải cái phần mềm avira có khả dụng không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.684013,
+         "id": "841824",
+         "field_search": "question",
+         "question": "em dùng ip6 ... không hiêu sao k xem đc video tự quay. bấm vào video đó nó có vòng xoay như load mạng, đợi mãi cũg k xem đc. ??? ai giúp e trl vs ... e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.666996,
+         "id": "1142607",
+         "field_search": "question",
+         "question": "Sao đt của em quay video mà mở lên xem lại thì báo là không thể phát video vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.537754,
+         "id": "1018768",
+         "field_search": "question",
+         "question": "e dùng ga A7 2016, cho hỏi sao e không xem được video trên google nhưng vẫn xem được trên youtube và các ứng dụng xem vid đã tải về ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.514193,
+         "id": "991355",
+         "field_search": "question",
+         "question": "tại sao mình quay video bằng iphone 5c lại có đuôi la MOV không zay ban ,làm sao đổi thành  mp4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.979708,
+         "id": "885594",
+         "field_search": "question",
+         "question": "xem phim trên FPT Play và Trình phát video thì bị như vậy, xem youtube thì bình thường, để chế độ Full HD lun, mạng cũng mạnh, xem máy khác thì không bị là sao ạ. em đang dùng Yoga 500 14IBD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.307503,
+         "id": "763320",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính của em bây giờ xem phim trên mạng hay tải về máy đều xem không đươc vậy phải làm sao để máy bình thường lại được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.272184,
+         "id": "1013521",
+         "field_search": "question",
+         "question": "Xin cho hoi: Máy sam sum j3 của mình khi quay video xong thi mở không được, video không chạy cứ báo là video bị lỗi ( Tất cả các video quay trực tiếp) ngoại trừ video tải trên mạng về thì mở được. Mình đã đi chạy chương trình máy lại mà về mở cũng không được. Vậy lỗi là do đâu. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.171232,
+         "id": "931359",
+         "field_search": "question",
+         "question": " cho mình hỏi sao máy mình cứ quay video màn hình iphone vào youtobe quay nà youtobe khôg xem được ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.878832,
+         "id": "907028",
+         "field_search": "question",
+         "question": "anh ơi máy e bị xem phim nó quay mà vô không được nghe nhạc nhaccuatui thi báo lỗi kím không thấy với tải lmht không được ạ em đang sài Laptop Dell Inspiron 3558 i5 mới mua 1 tháng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.872044,
+         "id": "878200",
+         "field_search": "question",
+         "question": " Cho em hỏi nên mua laptop nào tầm 15tr trở xuống mà có thể chơi được fifa mà không giật, lag ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.798286,
+         "id": "1136765",
+         "field_search": "question",
+         "question": "Điện thoại samsung j6+ mới mua tại tgdd trà vinh. Mình lấy điện thoại quay video xong. Mở ra xem lại bị lỗi không xem được. Có cách nào khắc phục không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.764404,
+         "id": "1138576",
+         "field_search": "question",
+         "question": "Mình muốn hỏi máy mình oppo a3s trc xem phim bật toàn màn hình xem phim nó k có cái thanh trắng bên dưới h xem phim bật toàn màn hình quay ngang sang nó cứ hiện cái thanh trắng bên dưới cài lại làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.679363,
+         "id": "751391",
+         "field_search": "question",
+         "question": "Em mua iphone 6s plus mới được hơn 1 tháng. Mà giờ đang quay video tự nhiên bị sập màn hình. Bao nhiêu lâu nó mới khởi động lại. Sau đó vào quay video hay chụp ảnh màn hình đều đen xì. Và vào album xem lại các video cũ. Màn hình vẫn đen chỉ có tiếng thui. Lỗi đây la do nhà sx rồi. Em có được đổi máy mới không. Hay là lại chỉ mang đi bảo hành thôi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.6632,
+         "id": "995326",
+         "field_search": "question",
+         "question": "Tại sao xem video trên iPhone 6 mà không nghe được tiếng.,?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.591242,
+         "id": "1165760",
+         "field_search": "question",
+         "question": "Mình dùng Xiaomi Redmi note 6 pro và đã update lên MIUI 10.3. Có cách nào hạ xuống MIUI 10.2 or 10.0 được không. MIUI 10.3 có cảm giác máy bị chậm và giật. Chơi 1 số game h5 trên Chrome bị lag, giật hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.472847,
+         "id": "1012472",
+         "field_search": "question",
+         "question": "Đã lưu video youTube vao phần ngoại tuyến rồi mà sao không xem offline được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.467894,
+         "id": "806900",
+         "field_search": "question",
+         "question": " Lần trước mình có tải về đc nhưng đã xóa đi giờ muốn tải lại zalo mà không được? bạn xem giúp mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.466228,
+         "id": "1144675",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao tải video trên youtube về nó cứ để 0%, hoặc 1vài video tải về được xem có khi bị rít, sao khi tắt mạng thì vào xem không được, có khi để lỗi hoặc để video thiếu tệp. Em đang dùng itel s11 plus. Mong giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.35844,
+         "id": "1164949",
+         "field_search": "question",
+         "question": "đt nokia 220 tải video nhạc về xem dc k ạ mình tải mà mở tệp k dc dù đã chuyển qua nhạc mp4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.328943,
+         "id": "1169355",
+         "field_search": "question",
+         "question": "Chào ad. Dạo này sao mình xem youtube vs video trên fb thấy hay lag vào kiểm tra tốc độ mạng thế này là bình thường hay có vấn đề gì không ạ. Tks ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.323326,
+         "id": "750031",
+         "field_search": "question",
+         "question": "AD cho mình hỏi mình dùng iphone 5s trước dùng ios cũ vẫn xem video bình thường mà lên ios 9 trang web bây giờ không xem được video giúp mình một chút được không ạ? Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.210968,
+         "id": "1142275",
+         "field_search": "question",
+         "question": "Tại sao ở oppo f1s nghe nhạc và xem phim không có tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.1875,
+         "id": "756237",
+         "field_search": "question",
+         "question": "IPad mini 2 đang chạy iOS 9.0.2, h mình muốn xuống iOS 8.4.1 để chạy mượt hơn có được không và 8.4.1 đã có đa nhiệm chưa. Mong sớm hồi âm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.05099,
+         "id": "1150420",
+         "field_search": "question",
+         "question": "Cho mình hỏi vsmart joy 1 hơi game có mượt không ạ. Có bị giật lag thường xuyên không. Trên tựa game liên quân, crossfire lengden",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.038301,
+         "id": "917672",
+         "field_search": "question",
+         "question": " Máy iphone 5s của mình khi xem video trên máy không xem được toàn màn hình là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.926563,
+         "id": "1007469",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo A37 mà lên google xem phim online lại không xem được, nó cứ báo lỗi các thứ... ??? Ai giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.856705,
+         "id": "1134796",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ip XS, khi quay màn hình cuộc gọi video thì không thu được tiếng mặc dù khi quay màn hình lúc nghe nhạc xem phim vẫn có tiếng bình thường, có cách nào để thu luô cả tiếng khi quay cuộc gọi video không ạ? (Mình làm theo hướng dẫn là nhấn giữ nút ghi màn hình để hiển thị micro nhưng micro không hiển thị khi mình thực hiện thao tác này???)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.776295,
+         "id": "1009939",
+         "field_search": "question",
+         "question": "Sao điện thoại em ss a3 không xem được các video liên tiếp nhau trên facebook.. mọi hôm em vẩn có 1 list video, bây giờ chỉ xem đk mỗi video khi mình click vô.. e đã gở và cài đặt lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.709452,
+         "id": "827967",
+         "field_search": "question",
+         "question": " Tại sao khi tải hình động trên mạng về máy lại không xem được , hình vẫn đứng im . Mình dùng iphone 5s . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.69839,
+         "id": "1011524",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi. Điện thoại em là oppo a37. Mấy hôm nay em có quay video và em vô album để mở xem lại. Khi em nhấn vào xem video thì không lên video mà lại lên hình. Anh chị cho em hỏi máy em bị gì vậy ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.691324,
+         "id": "1010483",
+         "field_search": "question",
+         "question": "J7 prime có cảm biến con quay hồi chuyển không z mong người giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.679008,
+         "id": "1023660",
+         "field_search": "question",
+         "question": "Cho e hỏi là chương trình quay số trúng thưởng TV oled của sony đã quay chưa và có link kết quả không cho em xem ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.662043,
+         "id": "897703",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là iphone 6s Plus lúc quay video trên máy mở lại thì ko xem được. Tất cả các video lúc trước quay cũng ko xem lại đc. Có cách nào khắc phục được ko vậy ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.65177,
+         "id": "1156005",
+         "field_search": "question",
+         "question": "Toi muon quay video lam clip nhac cho hoi galaxy M 20 quay phim  đep không shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.547216,
+         "id": "922646",
+         "field_search": "question",
+         "question": "Tôi đang dùng máy iphone7Plus thinh thoang không xem dc video, kê ca video quay trên máy và trên youtube, phai khoi dong lại mới xem dc, sau đó vài ngày lại bị lại.thường xay ra khi pin thấp(dưới 40%)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.538862,
+         "id": "813641",
+         "field_search": "question",
+         "question": " Mình xem phim sex trên máy macbook pro sợ nó nhiếm virus sex làm thế nào để diệt virus miễn phí ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.402054,
+         "id": "1005450",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Đt samsung j7 của e. Mấy bữa xem phim trên bilutv.com và tải phim về bình thường. Nay vào xem thì không đc nữa. Tải về cũng k đc. Ad cho e hỏi đt e bị lỗi gì và cách khắc phục ạ. Cảm ơm ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.162085,
+         "id": "1013201",
+         "field_search": "question",
+         "question": "Nokia 5 máy em sao chụp hình rồi vào ảnh xem thì không thấy vài tấm hình chỉ thấy 1 màu trắng nhấn vào xem thì nó cứ quay vòng vòng và 1 màu đen thui",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.010544,
+         "id": "1158635",
+         "field_search": "question",
+         "question": "Mình dùng các ứng dụng zalo viberKhi xem ảnh hoặc video thì nó tải về máyLàm sao có thể xem mà ko phải tải về lưu trong máy. Mình dùng sam sung notes 9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.943699,
+         "id": "912773",
+         "field_search": "question",
+         "question": " lam sao để xem video trên ipad air2 full mang hinh được .không còn đen ở trên dưới ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.76402,
+         "id": "796925",
+         "field_search": "question",
+         "question": "Em muốn quay một bộ phim ngắn bằng con iphone 6s.. nhưng không biết dùng phần mềm quay phim nào chuyên nghiệp nào...ATV có thể tư vấn giúp e vài phần mềm được không?? E cám ơn nhiều!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.733051,
+         "id": "1017596",
+         "field_search": "question",
+         "question": "Cho e hỏi. E có máy j7pro khi đang xem video mà có người  gọi tới, khi nghe xong cuộc gọi ,e xem tiếp video mà không nghe được tiếng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.710802,
+         "id": "954951",
+         "field_search": "question",
+         "question": "Em Dùng iPhone 6 , em sạc pin và bật mạng xem YouTube , quên không tắt máy , điện thoại tự động xem YouTube gần 4 tiếng đồng hồ , vậy có sao không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.703094,
+         "id": "935466",
+         "field_search": "question",
+         "question": " laptop mà cắm sạc pin thì chơi game giật lag mà sử dụng pin trực tiếp thì không giật lag nữa là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.680561,
+         "id": "863801",
+         "field_search": "question",
+         "question": " mình dùng ipaf mini 4 lúc tải các ứng dụng trên app rất chậm nhưng vào mạng với xem phim thì bt vậy cải thiện ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.63152,
+         "id": "845269",
+         "field_search": "question",
+         "question": "mình có con blacbery z10 sao mình dùng trình duyệt mặc định không vào được trang m.youtube.com dành cho di động được nó toàn chuyển qua trang dành cho pc , mình có tải chrome về chạy thử thì vào được trang m.youtube ( dành cho di động ) nhưng khi xem video thì không xem được và báo lỗi id phát lại xxxxxx . bạn có cách nào giải quyết không .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.59416,
+         "id": "824020",
+         "field_search": "question",
+         "question": "Anh ơi cho em hõi. Hiện tại em chỉ có 10 triệu thì nên mua laptop mới gì để đánh được game lien minh huyen thoao và mượt mà k lag",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.481064,
+         "id": "1005541",
+         "field_search": "question",
+         "question": "J7 pro còn hàng ko ak. Hiện h còn khuyến mãi gì ko? E mua online từ xa bao lâu thì có. Và nó có cảm biến con quay xem video 360° ko ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.458761,
+         "id": "1154349",
+         "field_search": "question",
+         "question": "Sao máy samsung j4 lúc trc chơi pubg mượt mà h chơi lại bị giật lag. Có cách nào để chơi game mượt như cũ ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.45569,
+         "id": "1141854",
+         "field_search": "question",
+         "question": "Mình muốn tìm nua một cái đt tốt về camera. Thichw hợp cho việc quay video và chụp hình. Bạn có thể giới thiệu cho mình một số mẫu điện thoại để tham khảo không? Vì hiện tại mình thấy các mẫu điện thoại cứ xem xem cấu hình với nhau.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.334644,
+         "id": "1162426",
+         "field_search": "question",
+         "question": "Trình duyệt oneui samsung ad thấy nó vào xem phim trên google nó có bị không tắt thanh điều hướng không ạ ( tức là thanh tác thao tác thoát ra ) Xem xem full màn trên youtube thanh điều hướng tự mất nhưng xem phim trên google thì nó lại không chịu mất đi xem khó chịu lắm ạ :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.327143,
+         "id": "760740",
+         "field_search": "question",
+         "question": "Qtv ơi mình muốn mua 1 chiếc laptop giá khoảng 10 triệu mà chơi game liên minh  huyền thoại + fifa mượt không lag giật thì nên mua loại nào? QTV tư vấn giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.294744,
+         "id": "1010459",
+         "field_search": "question",
+         "question": "E đang dùng ss j3 2016,sao e xem video đã tải về trong máy không được ạ, nó vẫn chạy âm thanh của video đó nhưng hình ảnh thì nó không phát được cứ 0:00 giây đứng mãi. Admin xem thử có cách nào khắc phục được không ạ e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.250792,
+         "id": "780493",
+         "field_search": "question",
+         "question": " Sao ipad air của em chơi game không có tiếng mà xem phim nghe nhạc có tiếng binh thường ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.057491,
+         "id": "1018817",
+         "field_search": "question",
+         "question": "Tại sao điện thoại của mình không xem được phim trên các web như phim Bất Hủ phimmoi.net, kzone.tv trong khi vẫn xem được các clip trên YouTube ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.048107,
+         "id": "777995",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình dùng iPhone 5 mấy hôm trước vẫn xem video bình thường từ hòm qua đến giờ mình xem video cứ bị tối màn hình đi có cách nào giải quyết không ạ, xin cảm ơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.046522,
+         "id": "1154965",
+         "field_search": "question",
+         "question": "Mình mới mua galaxy j6 được hơn hai tuần mà sao vào quay phim lại không quay được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.00233,
+         "id": "921548",
+         "field_search": "question",
+         "question": "iPad 2e không coi đc youtube . Bấm vào video màn hình đen có cây trắng tải đc nhưng video không chạy. Đã tắt nguồn, xóa đi tải lại nhưng vẫn không đc. 3/12/2016 tối 7h tối đã có hiện tượng này xin vui lòng giải đáp giúp mình thân!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.94041,
+         "id": "762725",
+         "field_search": "question",
+         "question": "Bạn ơi mình đang dùng iPhone 5 mọi khi xem YouTube bình thường mà mấy hôm nay không xem được nữa nó chỉ load và báo không được giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.918095,
+         "id": "855138",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e dùng ip5s e xem video trên you tube thì k sao nhưng mà xem trên fbook thì nó cứ load quay tròn ... E dùng wefi cực ổn mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.89368,
+         "id": "757051",
+         "field_search": "question",
+         "question": "Chào qtv cho mình hỏi là tại sao may mình xài iPhone 4 luôn báo là dung lượng đã đầy chụp ảnh, quay phim đều không được, mình chỉ tải facebook, zalo, messenger, youtube, tango thôi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.89003,
+         "id": "993690",
+         "field_search": "question",
+         "question": "Cho em hỏi video đã xoá trên iphone 5s có thể phục hồi được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.872892,
+         "id": "1160535",
+         "field_search": "question",
+         "question": "cho hỏi sao iphone 7 plus mình chạy ios 10 . khi quay video camera trước không có âm thanh mà chỉ nghe đc xoè xoè . khi dùng app khác quay video camera trước lại nhận âm thanh bình thường . mình đã test 3 mic trên đt nghe gọi và ghi âm bình thường , và đã reset như mới mà vãn z / k biết đay là lỗi gì ạ . cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.760061,
+         "id": "788632",
+         "field_search": "question",
+         "question": " Tại sao đang xem video vẫn bấm vào xem toàn màn hình mà nó vẫn tắt . Iphone 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.710854,
+         "id": "1142005",
+         "field_search": "question",
+         "question": "Em samsung j6 mình mua được 3 tháng nhưng giờ xem video thì chỉ được 50s là bị đứng,muốn xem tiếp thì phải nhấn play. Còn quay video thì chỉ lưu được khoảng +-50s là bị thoát ra, ko thể quay quá 1phut",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.666796,
+         "id": "1154194",
+         "field_search": "question",
+         "question": "M dùng vivo v3. Tự dưng ko đăng được ảnh, cứ Báo là sẽ đăng khi kết nối internet. Mặc dù vẫn kết nối wife và xem phim rất mượt,  thử mạng nhiều chỗ khác vẫn cứ Báo như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.659979,
+         "id": "1003293",
+         "field_search": "question",
+         "question": "cho hỏi samsung j7 chơi game võ lâm truyền kỳ có lag giật không? có thể gửi cho tôi 1 video thử nghiệm ngắn dc không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.620663,
+         "id": "1023607",
+         "field_search": "question",
+         "question": " sao laptop mình xem phim trực tuyến là nó cứ chạy như vậy không xem được. ai chỉ cách khắc phục với ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.60478,
+         "id": "1000013",
+         "field_search": "question",
+         "question": "Em có tải 1 video trên mạng dìa. E mún gữi qua tin nhắn zalo cho bạn xem. Điện thoại nokia này có hỗ trợ gữi video qua zalo kh vậy. Video cũng khá dài.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.531746,
+         "id": "1017360",
+         "field_search": "question",
+         "question": "Mình dùng oppo a37, máy mình không xem được video đã lưu, bấm vào cứ chuyển qua ảnh mới chụp, giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.5314,
+         "id": "999728",
+         "field_search": "question",
+         "question": "Em dùng dòng máy LG f160l tải ứng dụng quay video màn hình về sau khi quay xong vào xem thì ns hiện ra chữ tệp ko đc hỗ trợ là như nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.525324,
+         "id": "762036",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5 bản lock em muốn tải phim từ úc mà sao em không tải được khi em tải toàn hiện là video không thể tại vì lý do bản quyền. Em cần sự giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.506811,
+         "id": "1152205",
+         "field_search": "question",
+         "question": "Em có 1 cái oppo j7 rồi giờ em muốn tách ra và mua thêm 1 cái máy chỉ để chơi game và xem phim ạ  theo anh thì dòng nào là tốt nhất. Nhưng giờ em mới có khoảng 7 triệu thôi ạ  . Loại nào dưới 7 triệu trừ iPhone ạ.  Tư vấn cho em với.  Chơi game mượt và xem phim tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.497244,
+         "id": "754503",
+         "field_search": "question",
+         "question": " iPhone 5 có nên lên IOS 9 không ạ? Em muốn lên nhưng sợ bị lag máy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.396906,
+         "id": "1145331",
+         "field_search": "question",
+         "question": "dưới 4tr thì con nào quay video cho âm thanh tốt nhất vậy,mình cần quay video có tiếng guitar",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.389444,
+         "id": "766598",
+         "field_search": "question",
+         "question": " Tại sao Sony M4 nghe nhạc được mà khi xem video lại không có âm thanh vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.388504,
+         "id": "1141089",
+         "field_search": "question",
+         "question": "Hiện tại máy iphone 5s mình bị lỗi gọi video nói chuyện bên kia không nghe, quay video cũng không có âm thanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.361315,
+         "id": "1150414",
+         "field_search": "question",
+         "question": "Dien thoai a7 e lước binh thuong nhung ưa bị đứng máy. khi choi liên quan no bị giật khó duy chuyen",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.331146,
+         "id": "747942",
+         "field_search": "question",
+         "question": "Ad với mọi người cho em hỏi 1 tí ạ. Không biết có ai từng xem Kill Me Heal Me chưa, em mới xem xong và để ý thấy dàn laptop Samsung sử dụng trong phim vừa mỏng vừa đẹp, có vẻ hợp cho sinh viên và dân văn phòng. Em quên chụp ảnh lại rồi mà cũng không biết tìm tên máy ở đâu. Anh chị nào nếu đã xem qua và để ý biết tên máy thì cho em xin với ạ, vì em cũng đang định mua 1 con mà nhìn nó thì vừa mắt quá :DEm cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.290432,
+         "id": "939276",
+         "field_search": "question",
+         "question": " Cho em hoi Iphone 6s plus có bi nhiễm virus không. Em len mang xem phim thì báo đả nhiễm 2 virus ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.283215,
+         "id": "1006596",
+         "field_search": "question",
+         "question": "ad tai sao em xai may asus zenfron a007 cau hinh manh ma choi game lien quan lag wa z",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

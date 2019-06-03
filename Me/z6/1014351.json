@@ -1,0 +1,809 @@
+{
+   "id_query": "1014351",
+   "total": 30847,
+   "total_current": 100,
+   "max_score": 54.275936,
+   "origin_question": "chơi em hỏi đang trả góp có ddc mua  nữa không mong anh trả lời ",
+   "hits": [
+      {
+         "score": 54.275936,
+         "id": "1014351",
+         "field_search": "question",
+         "question": "chơi em hỏi đang trả góp có ddc mua  nữa không mong anh trả lời ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.77268,
+         "id": "999279",
+         "field_search": "question",
+         "question": "mình đang mua trả góp điện thoại muốn mua trả góp laptop nữa có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.419565,
+         "id": "1151875",
+         "field_search": "question",
+         "question": "Em đang trả góp điện thoại sam sung.. Hai tháng nữa là hết.. Giờ em muốn mua trả góp thêm 1 cái nữa có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.151514,
+         "id": "992272",
+         "field_search": "question",
+         "question": "Mua laptop có được trả góp không. Em định mua.Nếu có nhớ Trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.13158,
+         "id": "767320",
+         "field_search": "question",
+         "question": " Anh ơi, tại sao em nâng cấp 5S của em lên iOS 9.2 thì giờ chụp hình không được nữa ạ, mong anh trả lời giúp em? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.792286,
+         "id": "1024276",
+         "field_search": "question",
+         "question": "chồng em đang mua trả góp điện thoại thì giờ e có mua trả góp laptop được nữa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.510187,
+         "id": "1020942",
+         "field_search": "question",
+         "question": "Cho e hỏi m đang trong giai đoạn trả góp m có thể mua thêm sp trả góp nữa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.486841,
+         "id": "995643",
+         "field_search": "question",
+         "question": "admin cho em hỏi em còn 1 tháng trả góp nữa thì có đc mua trả góp tiếp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.217943,
+         "id": "815956",
+         "field_search": "question",
+         "question": "Bên mình còn ip5s máy cũ không ạ ?cho em hỏi nữa nếu mua máy cũ thì có đươc trả góp không?mong anh chị hồi tin em sớm :D em cảm ơn :d",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.145151,
+         "id": "993445",
+         "field_search": "question",
+         "question": "ví dụ em mua điện thoại trả góp ở thanh hóa nhưng em đi làm ở bắc ninh tới hạn trả góp thì trả qua bưu điện được không hay em phải về tận nơi mua để trả ạ...mong QTV xớm trả lời em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.735537,
+         "id": "986766",
+         "field_search": "question",
+         "question": "Tôi đang trả góp ngân hàng FE, nay tôi có thể mua trả góp đt A9 nữa đc k ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.628836,
+         "id": "1162604",
+         "field_search": "question",
+         "question": "tư vấn dùm em với ạ...hiện tại em đang trả góp 2 cái đt mà giờ em muốn mua trả góp thêm 1 cái nữa có được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.482716,
+         "id": "1139367",
+         "field_search": "question",
+         "question": " Bn cho minh hỏi. Mình đang mua trả góp thì có được mua nữa k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.467419,
+         "id": "990054",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mua trả góp, đã trả xong 4 tháng và còn 2 tháng, vậy thì giờ em có được mua trả góp nữa không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.463646,
+         "id": "1160496",
+         "field_search": "question",
+         "question": "em mua trả góp nhưng giả người thân vì ko muống gia đình biết ,nhưng người giả người thân trả lời sai và ko dc duyệt,vậy cho em hỏi có được vay góp nữa ko ậ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.025852,
+         "id": "1004987",
+         "field_search": "question",
+         "question": "Minh muốn hỏi trước đây mình có mua trả góp dt bên bạn nhug còn 2thang nữa lxong nhug mih chưa trả , pjo đã được 1nam rui , vậy pjo monh muốn trả thì tiền lời có nhiu k ah , và mih quên mất số hợp đồng rồi , mong bên mih trả lời sớm giúp mih để mih pit mà trả hết tiền cho bên bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.826092,
+         "id": "1010282",
+         "field_search": "question",
+         "question": "ad cho em hori em đang trả góp ở thế giới di động còn 2 tháng nữa mấy hết hạn hợp đồng giờ em muốn mua trả góp dc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.800232,
+         "id": "1001473",
+         "field_search": "question",
+         "question": "Ad cho em hỏi nếu trước đó em đã mua trả góp 1 điện thoại nhưng chưa hết thời gian đáo hạn trả góp thì em có thể mua trả góp thêm một máy nữa được không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.455528,
+         "id": "772989",
+         "field_search": "question",
+         "question": "Xin hỏi mình đang có hợp đồng trả góp iPhone 6s 16GB của Home credit, mình đã trả được 1 tháng, muốn hỏi mình còn mua trả góp được nữa không? Tiền sử tài chính tốt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.327019,
+         "id": "1158046",
+         "field_search": "question",
+         "question": "Em mua trả góp huawai nova 3i cũ được không ạ? em mong anh chị sớm phản hồi cho em hjhj",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.245106,
+         "id": "1002948",
+         "field_search": "question",
+         "question": "cho em hỏi là em mua trả góp bên viettel store làm hồ sơ bị trả về thế em muốn mua trả góp bên thế giới di động được nữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.213844,
+         "id": "992647",
+         "field_search": "question",
+         "question": "Anhchị cho em hỏi, chị em đang mua điện thoại trả góp, vậy có đứng tên mua được điện thoại trả góp nửa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.080156,
+         "id": "780410",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi cửa hàng còn bán iphone 5 hoac iphone 5s trả góp nữa không.nếu có thì mua như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.0754,
+         "id": "995020",
+         "field_search": "question",
+         "question": "Em lấy CMND của anh em và hộ khẩu có mua trả góp được không.Anh em 19t còn 3 tháng nữa 20t",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.03992,
+         "id": "1134756",
+         "field_search": "question",
+         "question": "dạ mấy anh chị cho em hỏi 4 ngày nữa là em vừa đủ 20 . em có thể tự mua trả góp oppo f5 youth được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.011925,
+         "id": "1154820",
+         "field_search": "question",
+         "question": "Cho e hỏi ,bây giờ e đang trả góp điện thoại hiện còn 1 tháng nữa là xong,nhưng bây giờ e muốn mua trả góp thêm  1 chiếc điện thoại nữa thì có được không vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.966808,
+         "id": "765969",
+         "field_search": "question",
+         "question": " Sao mình có đặt mua iphone 5s trả góp sao đợi xét duyệt hồ sơ không thấy trả lời? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.948023,
+         "id": "1153194",
+         "field_search": "question",
+         "question": "Mình đang trả góp 1 con điện thoại , giờ muốn mua thêm một máy trả góp nữa có được ko ạ . Máy trước mình trả được 4 tháng rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.828028,
+         "id": "1023271",
+         "field_search": "question",
+         "question": "chào TGDĐ cho e hỏi .em đã mua trả góp 1 sản phẩm rồi mà bây giờ e muốn trả góp lần nữa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.799896,
+         "id": "748858",
+         "field_search": "question",
+         "question": "anh cho em hỏi mua điện thoại trả góp iPhone 4s trả trước 2 triệu còn lại em trả góp 2 tháng thế lãi mỗi tháng của em là bao nhiêu anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.766579,
+         "id": "1012991",
+         "field_search": "question",
+         "question": "cho em hỏi. em đang mua trả góp xe máy giờ e muốn mua trả góp điện thoại bên mình có dk k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.718536,
+         "id": "1012924",
+         "field_search": "question",
+         "question": "bên mình cho hỏi . điện thoại đang mua trả góp oy . có mua thẻ qua ghi nợ trả góp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.701387,
+         "id": "1017510",
+         "field_search": "question",
+         "question": "anh chị ơi cho em hỏi tí . 18 tuổi có mua trả góp được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.590921,
+         "id": "1136789",
+         "field_search": "question",
+         "question": " Cho hỏi mình đang góp xe vậy có mua trả góp được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.440853,
+         "id": "788211",
+         "field_search": "question",
+         "question": "cho em hỏi trước em có tham gia gói trả góp với gói trả 0d với cty tài chính fedcdit về hồ sơ bị hủy ,bây giờ em muốn mua trả góp iPhone 6 và em trả trc 30% có được làm hồ sơ nữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.423687,
+         "id": "1155165",
+         "field_search": "question",
+         "question": "Cho hỏi có iPhone 7 cũ trả góp không vậy iPhone 7 thường nha nếu có trả lời mình nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.403267,
+         "id": "1154739",
+         "field_search": "question",
+         "question": "nếu cọc 500k để nhận ưu đãi trả góp 0% sam sung a50 thì đến khi điện thoại về có cần trả trước thêm không ạ?Mong mod trả lời giúp trong câu hỏi này vì em hiện tại không dùng điện thoại ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.381065,
+         "id": "1007862",
+         "field_search": "question",
+         "question": "chị ơiem hỏi chút đc kh? trả góp máy rồi có trả được nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.343279,
+         "id": "778586",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp iPhone 5s thì cần những gì mình đã đã từng mua trả góp cách đây 2 tháng và không được chấp nhận liệu có được mua trả góp nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.336065,
+         "id": "773046",
+         "field_search": "question",
+         "question": " Cho em hỏi iPad mini mua trả góp đã trả góp hoàn tất thì có được đổi trả không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.321318,
+         "id": "750598",
+         "field_search": "question",
+         "question": "iphone của em vừa bị treo táo,liệu sáng mai em mang lên trên đây  có sửa được không các anh,em mong các anh trả lời sớm nhất có thể ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.308573,
+         "id": "1006111",
+         "field_search": "question",
+         "question": "cho em hỏi 18 tuổi có mua trả góp được không vậy. để em mua trả góp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.234219,
+         "id": "996442",
+         "field_search": "question",
+         "question": "chào QTVem có mua trả góp 1 sản phẩm giờ em muốn mua trả góp thêm 1 sản phẩm nữa thì có được khộng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.145252,
+         "id": "1142727",
+         "field_search": "question",
+         "question": "cho em hỏi là nếu em mua trả góp đt và trả trước 40%và góp 12 tháng, và số tiền còn lại trả góp hàng tháng em có thể trả theo từng tháng. Nhưng nếu còn góp khoảng 4 tháng phải góp nữa mới xong mà em có tiền đủ trả hết luôn trong 1 lần thì có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.126385,
+         "id": "986140",
+         "field_search": "question",
+         "question": "Em có đang mua trả góp. Bây giờ muốn mua thêm có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.99214,
+         "id": "1017314",
+         "field_search": "question",
+         "question": " anh ơi cho em hỏi đây là sao anh trả lời liền cho đi   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.976913,
+         "id": "1168171",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo a7 e đặt  nào  mới có mong add trả lời nhanh em biết em còn mua sản phẩm khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.97661,
+         "id": "1138559",
+         "field_search": "question",
+         "question": "em đang là sinh viên bây em muốn mua realme C1 trả góp mà em sinh năm 99 có thể trả góp được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.975403,
+         "id": "1167039",
+         "field_search": "question",
+         "question": "Em muốn hỗ trợ mua trả góp 2 chiếc xiaomi redmi note 7.Em có chứng minh thư đủ 20 tuổi hộ khẩu. Nhưng vấn đề thiếu tháng sinh thì bên mình có hỗ trợ cho em mua hàng không ạ. Mong được trả lời sớm từ cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.957773,
+         "id": "990236",
+         "field_search": "question",
+         "question": "Cho em hỏi mình mua điện thoại trả góp tình trạng bây giờ là nhà em xa, em có chứng minh nhân dân với thẻ shinhan bank vậy có mua trả góp được không anh / chị ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.945192,
+         "id": "1017054",
+         "field_search": "question",
+         "question": "Mẹ em muốn mua đt trả gópnhưng trước đó mẹ e có mua 1 cái trả góp rồi vẫn chưa trả xong nếu bây h muốn mua thêm 1c trả góp nữa liệu có được hỗ trợ k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.907116,
+         "id": "1008946",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi mấy vấn đề ạ...em mua 1 cái trả góp 0 đồng rồi giờ e muốn mua cái nữa đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.890465,
+         "id": "986048",
+         "field_search": "question",
+         "question": " Dạ cho em hỏi là mua trả góp Xiaomi note 4 nếu em chỉ có CMND thì có được không anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.770212,
+         "id": "1012082",
+         "field_search": "question",
+         "question": "anh ơi em muốn mua sony xa1 ultra  trả góp ạ anh có thể tư vân em dc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.757092,
+         "id": "789842",
+         "field_search": "question",
+         "question": "Cho em hỏi em có mua cái điện thoại góp bên HomeCredit được 4 tháng rồi bây giờ em muốn mua trả góp thêm cái iphone 6 Plus nữa được không ad, em phải trả trước tối thiểu là bao nhiêu %?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.73555,
+         "id": "1000029",
+         "field_search": "question",
+         "question": "ad cho mình hỏi trả gop 0đ có quà tặng j k hả ad mong ad trả lời sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.735254,
+         "id": "768514",
+         "field_search": "question",
+         "question": "Qtv ơi cho em hỏi. Em dùng IPhone em muốn lưu ảnh, video vào tài khoản Google được không ạ. Và làm cách nào mong anh chị trả lời dùm em. Cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.72071,
+         "id": "790693",
+         "field_search": "question",
+         "question": " Em đang mua trả góp 1 chiếc ip6s bên cửa hàng khác thì em có mua trả góp được 1 sản phẩm của bên mình không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.656544,
+         "id": "1014249",
+         "field_search": "question",
+         "question": "ad cho e hỏi tối hum nay e có qua quán mua điện thoại nhưng em không cầm đủ tiền nên mua trả góp nhưng ngân hàng đóng cửa rồi nên em chưa lấy được máy nên cho em hỏi ngày mai nếu em không mua trả góp nữa mà trả hết tiền thì có được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.631006,
+         "id": "1005329",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua điện thoại trả góp,nhưng mà trong gói trả góp có phí bảo hiểm.mình có thể mua điện thoại trả góp nhưng không mua bảo hiểm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.586916,
+         "id": "1133835",
+         "field_search": "question",
+         "question": "chào ad. tôi mới mua trả góp máy huawei y9 được khoảng 2 tuần, giờ máy đã mất cho tôi hỏi bên t gdd có thể khóa máy đấy vào được không ạ. mong ad sớm cho câu trả lời. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.580318,
+         "id": "1164732",
+         "field_search": "question",
+         "question": "Em Sinh năm 2000 mua điện thoại trả góp được không anh , chị. .?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.384287,
+         "id": "993573",
+         "field_search": "question",
+         "question": "cho em hỏi  mua điện thoại iphon cũ có cho trả góp ko vậy anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.374645,
+         "id": "992850",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi có gói trả góp dành cho sinh viên không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.367344,
+         "id": "994743",
+         "field_search": "question",
+         "question": "e mua 1 dt trả goop nhưng chưa trả hết , giờ e muốn mua thêm đt trả góp nữa được không ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.33701,
+         "id": "1016808",
+         "field_search": "question",
+         "question": "Mua máy đổi trả nhưng hình thức trả góp khi trả góp xong đủ cả mà mình không ưng máy nữa vì lí do nào đó thì có được đổi trả lại máy được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.284124,
+         "id": "992505",
+         "field_search": "question",
+         "question": "sao ko thấy trả góp của acs nữa nhỉ? sao ko thấy trả góp của acs nữa nhỉ?   sao ko thấy trả góp của acs nữa nhỉ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.245358,
+         "id": "1167306",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi là mua trả góp iphone x 64GB trả bằng thẻ VCB thì có trả trước tiền điện thoại góp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.132801,
+         "id": "1018748",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại f3 plus có cho mua trả góp không ạ ! cách trả góp thế nào ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.124018,
+         "id": "1159285",
+         "field_search": "question",
+         "question": "nếu em mua huwai nova 3i đến tháng trả góp rùi ấy mà em trả tiền ko có đúng tháng trả  góp có nghĩa là em trả tiền trễ mấy ngày thì sao ạ?. anh chị hướng dẫn cho em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.121868,
+         "id": "1167383",
+         "field_search": "question",
+         "question": "Em quên mất mật khẩu riêng tư và câu trả lời ở phần câu hỏi để khôi phục thì em phải làm sao?  , hiện tại em đang sử dụng oppo F9 ạ,  mong Anh chị giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.104576,
+         "id": "989385",
+         "field_search": "question",
+         "question": "Cho em hỏi anh chị em muốn mua điện thoại trả góp  em chỉ có hộ khẫu công chứng minh gốc có mua đượn ko anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.065746,
+         "id": "1141993",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua trả gops 1 cái đt oppo a3s rồi bây giờ em trả góp thêm 1 cái f9 nữa được k ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.036564,
+         "id": "1003903",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là Đợt trước e có đóng tiền hàng tháng . Nhưng em nộp chậm mất một tháng lên bị phạtThế nên giờ e có thể mua trả góp được nữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.021236,
+         "id": "748925",
+         "field_search": "question",
+         "question": " Em làm đến đây không thấy trả lời email cả?????!!!! Mòng anh chị giúp em.   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.01998,
+         "id": "870926",
+         "field_search": "question",
+         "question": "Em đã mua trả góp 1 Laptop. Em mới đóng được 2 tháng. Giờ em muốn mua trả góp nữa đc k? Hộ khẩu đứng tên ba của em thì có đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.985365,
+         "id": "763705",
+         "field_search": "question",
+         "question": " Mình dùng Samsung Galaxy S5 SMG900H có 4g không ạ. Mong trả lời sớm. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.978693,
+         "id": "1140013",
+         "field_search": "question",
+         "question": "cho em hỏi mua trả góp trả trước 0 đồng được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.937088,
+         "id": "1022609",
+         "field_search": "question",
+         "question": "Tại sao laptop em mới mua laptop hiệu dell vostro 3568, máy chạy chậm mặc dù là core i7, chơi game liên minh khoảng 1 giờ hơn chút là máy tự động sập nguồn. mong anh chị trả lời giúp em. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.904655,
+         "id": "787866",
+         "field_search": "question",
+         "question": "giờ em phải làm sao ??? nó báo là not activated mà win của em thì có bản quyền hẳn hoi > Mong anh / chị có câu trả lời sớm nhất !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.872763,
+         "id": "1168165",
+         "field_search": "question",
+         "question": "cho em hỏi như em đặt mua trả góp 6 tháng. nhưng tới tháng thứ hai em có tiền vậy có thể trả hết được không? có thể thanh lý trả góp được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.819487,
+         "id": "766317",
+         "field_search": "question",
+         "question": "  Cho hỏi ở TGDĐ có bán khay đựng sim iPhone 4 không? Mong nhận được câu trả lời sớm ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.815353,
+         "id": "1002597",
+         "field_search": "question",
+         "question": " Em muốn mua máy tính bảng trả góp, có cần trả trước không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.719604,
+         "id": "1023942",
+         "field_search": "question",
+         "question": " cho em hỏi em có chứng minh gốc và hộ khẩu phô tô có công chứng em mua điện thoại trả góp được không anh chị  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.672451,
+         "id": "996342",
+         "field_search": "question",
+         "question": "Cho em hỏi là em muốn mua điện thoại tầm 4,5 triệu (xiaomi redmi note 4) với hình thức trả góp 0%, trả trước tầm 2 triệu. Em hiện 20 tuổi, có CMND và bằng lái xe. Em còn cần thêm giấy tờ gì hay không và có cần hỏi ý kiến phụ huynh để xin xác nhận trả góp từ phía công ty trả góp hay không? Tại vì em đang có 1 chiếc điện thoại rồi,  sợ ba mẹ sẽ không cho mua thêm, nên em hỏi xem lúc làm hồ sơ trả góp là có điện thoại cho phụ huynh xác nhận hay không. Nhờ anh/chị tư vấn giúp. Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.64564,
+         "id": "1014127",
+         "field_search": "question",
+         "question": "em có mua trả góp điện thoại hết 1 lần và trả xong rồi. vậy cho em muốn mua thêm cái điện thoại nữa có cần chụp hình, và làm thủ tục vay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.599707,
+         "id": "1021329",
+         "field_search": "question",
+         "question": "Cho tôi TGDĐ giồng trômMobiistar lai yuna 1 còn hàng không. Có chơi ổn được các tựa game này ko. Mong các bạn cho tôi câu trả lời.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.597847,
+         "id": "995189",
+         "field_search": "question",
+         "question": "anh chị ơi cho em hỏi. em mua may mobistar zumbo mới được 7 tháng cũng bên a chị luôn giờ em muốn đổi sang con mobistar prime x1 thì có được không và nếu được thì các thêm bao nhiêu. mong anh chị trả lời cho em sớm nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.58954,
+         "id": "993378",
+         "field_search": "question",
+         "question": "Cho mình hỏi trước mình đã mua trả góp 1 điện thoại rồi, giờ mình mua trả góp 1 cái nữa nhưng có cần phải làm lại thử tục hồ sơ mới không? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.586687,
+         "id": "1144876",
+         "field_search": "question",
+         "question": "Em chào anh,chị ạ em đang sử dụng máy Ipad em lở nhấn vào xóa tất cả cài đặt em nhấn vào nó hiện ra chị quay vòng tròn hoài em đợi cở tiếng mà vẫn còn mong anh,chị trả lời giúp em ạ mong nhận được phản hồi từ anh,chị ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.530191,
+         "id": "1011465",
+         "field_search": "question",
+         "question": "mua trả góp có cần người bảo lãnh k hả shop e đang định mua trả góp sản phẩm của shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.528584,
+         "id": "995872",
+         "field_search": "question",
+         "question": "em muốn mua trả góp, nhưng trả trước 20 có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.45974,
+         "id": "781984",
+         "field_search": "question",
+         "question": "Tình hình là em lỡ xóa hình anh của ipad air 2 qua phần mềm itunes.có cách nào lấy lai a.em đang rất cần mong a/c trả lời em ngay ạ.em xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.448,
+         "id": "830715",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp Iphone 6 Gold 64 gb thì cho mình hỏi giá của nó là bao nhiêu? và lãi suất trả góp 0% là như thế nào. Trả lời sớm giùm mình nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.443525,
+         "id": "832097",
+         "field_search": "question",
+         "question": " Em mua trả góp laptop cần những gì và không trả trước có được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.437538,
+         "id": "791234",
+         "field_search": "question",
+         "question": "Cho em hỏi em có con iPhone 5s mua hồi tháng  11/2015 với hình thức trả góp là 12tr990 giờ chưa hết thời hạn góp mà em muốn đổi trả thì TGDD có chịu không và cách tính ra sao mong ad tư vấn giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.42864,
+         "id": "1142045",
+         "field_search": "question",
+         "question": "Hiện tại em muốn mua trả góp apple watch seri 4, bằng cách trả góp qua thẻ master card em không biết có cần điều kiện gì thêm không, mong bên mình tư vấn giúp.Email hoanglai467@gmail.comSđt 0378687490",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.405422,
+         "id": "1133927",
+         "field_search": "question",
+         "question": "Anh chị tôi hỏi máy của em samsung j3 pro vào game chơi 1 lúc nó tự tắt nguồn bật lại là sao ạ? Nếu dùng để lướt web xem phim cả ngày ko sao. Nhưng chơi game là bị game này gần 1 GB rất mong anh chị trả lời ạ. Cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.39368,
+         "id": "1158708",
+         "field_search": "question",
+         "question": "em muốn mua huawai nova 3i mà trả góp tháng đàu tiên em trả trước là nhiêu ạ mà còn mấy tháng còn lại thì trả nhiêu ạ? anh chị hướng dẫn cụ thể trả góp giùm em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.341187,
+         "id": "774401",
+         "field_search": "question",
+         "question": " Em đang đi làm muốn mua trả góp iPhone 5 thì cần những gì và trả góp trước bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

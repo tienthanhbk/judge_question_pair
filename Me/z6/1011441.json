@@ -1,0 +1,809 @@
+{
+   "id_query": "1011441",
+   "total": 26472,
+   "total_current": 100,
+   "max_score": 93.05662,
+   "origin_question": "Máy HTC Evo 10 mới mua ngày 68 giờ chuyển qua HTC Desire 10 mất thêm phí khoảng bao nhiêu ạ ?.",
+   "hits": [
+      {
+         "score": 93.05662,
+         "id": "1011441",
+         "field_search": "question",
+         "question": "Máy HTC Evo 10 mới mua ngày 68 giờ chuyển qua HTC Desire 10 mất thêm phí khoảng bao nhiêu ạ ?.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.200787,
+         "id": "998933",
+         "field_search": "question",
+         "question": "Em mới mua con HTC 10 Evo hôm thứ 6. Em cảm thấy khá nóng máy, bây giờ em đổi sản phẩm khác thì mất bao nhiêu  tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.5613,
+         "id": "1007861",
+         "field_search": "question",
+         "question": "Cho mình hỏi là HTC 10 Evo thì còn trống khoảng bao nhiêu GB RAM vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.510296,
+         "id": "998210",
+         "field_search": "question",
+         "question": "cho mình hỏi pin HTC desire 10 pro giá bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.860046,
+         "id": "1024081",
+         "field_search": "question",
+         "question": "Mình mới mua 1 con HTC 10 evo tại tgdd 157 trần hưng đạo - tp nam định , được 10 ngày , dùng cáp sạc của máy luôn mà nó báo lỗi như này là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.208992,
+         "id": "996122",
+         "field_search": "question",
+         "question": "em bị lỗi như thế này là sao ạ điện thoại của em là htc 10 evo mới mua sáng nay  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.860826,
+         "id": "1002660",
+         "field_search": "question",
+         "question": "chụp ảnh màng hình trên htc 10 evo? ai biết chỉ với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.694736,
+         "id": "989202",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại HTC Desire 10 Pro, vậy cho mình hỏi hệ thống của mình còn máy đó không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.67743,
+         "id": "1162769",
+         "field_search": "question",
+         "question": "Vsmart joy 1 plus với htc evo 10 cái nào nhỉnh hơn vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.664503,
+         "id": "1136664",
+         "field_search": "question",
+         "question": " cho e hỏi htc 10 evo xem youtube được 2k không ạ?mong được giải đáp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.345947,
+         "id": "1007286",
+         "field_search": "question",
+         "question": "E đang sài HTC Desire 10 pro Pin e bị chai  giờ e muốn thay pin mới thì đem lên TGDD thay đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.32524,
+         "id": "997754",
+         "field_search": "question",
+         "question": "QTV  giúp em cách chuyển ứng dụng từ bộ nhớ trong sang thẻ sd trên điện thoại htc 10 evo Em cảm ôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.297356,
+         "id": "1010384",
+         "field_search": "question",
+         "question": "cho mình hỏi HTC DESIRE 10 PRO có update hệ điều hành được k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.095032,
+         "id": "1007136",
+         "field_search": "question",
+         "question": "Mình muốn hỏi mình mới mua điện thoại htc evo 10 nhưng dùng không như mong muốn, mình có thể đổi điện thoại khác được không ? Và có bị trừ phí không. Điện thoại mình mua chưa được 24 giờ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.057583,
+         "id": "1001651",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi Samsung J7 prime với Htc 10 evo sản phẩm nào tốt hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.315607,
+         "id": "1006336",
+         "field_search": "question",
+         "question": "Thay màn hình HTC desire 826 bao nhIêu vậy ạ. Có dán cường lực luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.744438,
+         "id": "1002790",
+         "field_search": "question",
+         "question": "Mình mới mua đt htc 10 evo chưa đến 1 tháng giờ điện lên nguồn nhưng màn hình k lên. gọi vào vẫn rung. cho mình hỏi giờ mình có thể đổi mới không ạ. đt mình có trầy xước 1 số chổ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.335339,
+         "id": "1015725",
+         "field_search": "question",
+         "question": "Làm sao để tắt chấm tròn màu trắng mỗi khi chạm vào màn hình trên htc 10 evo vậy qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.04938,
+         "id": "1008985",
+         "field_search": "question",
+         "question": "Mới mua a3 2017 10 ngày muốn đổi điện thoại khác thì mất bao nhiêu  vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.047613,
+         "id": "1022764",
+         "field_search": "question",
+         "question": "Em mới mua con ss j7 prime khoảng 10 ngày h e bán lại được bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.785269,
+         "id": "849278",
+         "field_search": "question",
+         "question": " thay màn cảm ứng htc desire 626 plus bao nhiêu vậy  xin cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.482708,
+         "id": "1142493",
+         "field_search": "question",
+         "question": "HTC 10 Evo có dùng được cáp Hoco Ls19 không?. Hay có cáp nào khác 2in1 vừa adapter vừa jack 3.5 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.993887,
+         "id": "1162640",
+         "field_search": "question",
+         "question": "Htc 10 evo của e sao đag chơi game online chừg 10-20 phút thì pị ngưg kết nối mạng v ạ.. 3G với cả wifi luônThoát game ra thì 5 phút sau mạng mới hoạt động bình thuờg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.8986,
+         "id": "1001083",
+         "field_search": "question",
+         "question": "Cho em hỏi.Em đang dùng máy HTC Desire 10 pro nhưng bã bi đánh cắp.Vậy có cách nào tìm lại được? Mong AD chỉ giúp!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.897224,
+         "id": "1007779",
+         "field_search": "question",
+         "question": "Thay màn hình HTC desire 820g bao nhieeu vậy ạ, bao gồm cả cường lực",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.588278,
+         "id": "1134176",
+         "field_search": "question",
+         "question": "E mua samsung a6 hơn 10 ngày, muốn đổi qua sámung a7 thì bù bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.533623,
+         "id": "1008361",
+         "field_search": "question",
+         "question": "mình sử bị đứt tai nghe HTC desire 630 mình mún mua lại tai nghe chính hảng có dc k, giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.370375,
+         "id": "1023666",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi htc desire 10 pro mình vào cài đặt như hướng dẫn sao không thấy mục tắt mở khởi động nhanh...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.28252,
+         "id": "1020798",
+         "field_search": "question",
+         "question": "ngày 10.9.2017 mình có mua 1 máy htc 10 evo cũ ( hàng đã qa sử dụng ) tại siêu thị số 1a nguyễn kiệm gò vấp . đến tối sử dụng mới phát hiện ra là màn hình hở sáng ở 4 viền cạnh . cho mình hỏi mới mua đc 1 ngày vẫn còn trong thời hạn bao test 30 ngày thì có được đổi với lỗi này ko ạ . Mong hồi âm . sdt 0976269601",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.262455,
+         "id": "1009433",
+         "field_search": "question",
+         "question": "lam thế nào để tắt sửa lỗi chính tả trên htc 10 evo. với là lúc đánh liên quân sao ko viết đc dấu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.22527,
+         "id": "1147629",
+         "field_search": "question",
+         "question": "Chào ad ạ!E có máy htc 10 evo..qua đi chơi đút túi quần như bình thường thôi..k hiểu sao nó bị đen mất 1 nửa màn hình..mà lạ la cái phần đen đấy vẫn cảm ứng bình thườngMong ad tư vấn giúp ạE cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.098,
+         "id": "1144406",
+         "field_search": "question",
+         "question": "A chị em mua cục sạc nhanh cho htc 10 evo ở tân phú 037657908 hy vọng anh chị liên hệ lại giúp e sớm em muốn giao hàng cho em luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.688803,
+         "id": "1019890",
+         "field_search": "question",
+         "question": "Có pin máy htc desire 620g dual sim d620h bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.487535,
+         "id": "1002058",
+         "field_search": "question",
+         "question": " EM đang cần mua gấp một cái HTC ạ ? Cho em hỏi HTC One là bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.40811,
+         "id": "990556",
+         "field_search": "question",
+         "question": "Máy HTC desire 728G có hàng tại Huế không vậy shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.329712,
+         "id": "1003916",
+         "field_search": "question",
+         "question": "em đang phân vân giữa mua HTC 10 evo và SAMSUNG galaxy A3 anh/chị có thể tư vấn co em được không ạ . yêu cầu của em chỉ để xem phim và chơi game thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.022064,
+         "id": "1146702",
+         "field_search": "question",
+         "question": "em quên mật khẩu bảo mật máy htc desire 630 thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.891035,
+         "id": "1005971",
+         "field_search": "question",
+         "question": "Mình dùng máy HTC 10 evo mà sao lắp thẻ nhớ vào thì không chuyển được file dữ liệu (ảnh, video, nhạc...) từ bộ nhớ máy sang thẻ nhớ đc? kết nối đt vs máy tính cũng không chuyển đc? Mình mới mua mays đc 2 tuần. nếu đây là lỗi của nhà sản xuất thì có đc đổi k?mojg đc giải đáp sớm!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.802595,
+         "id": "1145810",
+         "field_search": "question",
+         "question": "minh mới mua máy a8star mới hôm trước hop các thứ đầy đủ.máy còn nguyên .giờ e muốn dổi lên nost 8 thì kề thêm bao nhiêu ạ ? a8 có mất phí không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.588335,
+         "id": "765148",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua máy iphone 4s ở tgdd hơn 1 tuần. Giá máy là 4590k .Bây giờ em không có nhu cầu sử dụng nữa em muốn trả lại sản phẩm thì mất phí 10%. Cho em hỏi 10% của 4590 là 459 phải không ạ? Và em có làm mất cái nắp của hộp iphone bây giờ nếu trả thì em mất phí là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.56917,
+         "id": "997054",
+         "field_search": "question",
+         "question": "cho e hỏi là e cần mua 1 chiếc điện thoại với giá tầm 6 triệu. e đang phân vân giữa samsung galaxy j7 prime và HTC 10 evo. ad tư vấn dùm e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.549232,
+         "id": "1000615",
+         "field_search": "question",
+         "question": "ad cho em hỏi là hiện tại em đang dùng sản phẩm htc 10 evo bị báo lỗi là: Để có kết quả nhanh hơn, sử dụng sạc HTC nguyên bản trong khi em sạc điện thoại bằng adapter khi mua máy kèm sẵn. Mong ad trả lời gấp giúp em. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.470892,
+         "id": "1157243",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao em kh chuyển đổi ngôn ngữ cho win 10 đc ạ máy em mới mua giờ đem ra cài có tốn phí kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.219862,
+         "id": "1006705",
+         "field_search": "question",
+         "question": "Minh muốn mua pin dt HTC Desire 526 dual sim có k add ơj",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.14458,
+         "id": "1021377",
+         "field_search": "question",
+         "question": "Cho em hỏi là có thể đổi ứng dụng tải về từ bộ nhớ trong sang tải ứng dụng về bộ nhớ ngoài( thẻ sd) được ko ạ em dùng htc 10 evo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.45729,
+         "id": "1154681",
+         "field_search": "question",
+         "question": "Máy Huawei 3e sửa loa ngoài mất khoảng bao nhiêu tiền và khoảng mấy ngày ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.334757,
+         "id": "1017424",
+         "field_search": "question",
+         "question": "Mình mới mua máy htc a9s được 2 ngày ( 28 /8 /2017) ở thế giới di động 315 hà huy tập , long biên, hà nội . giờ mình muốn đổi sang máy htc one a9 thì thế nào ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.306288,
+         "id": "992899",
+         "field_search": "question",
+         "question": "Ad ơi ...em mới mua máy mobiistar zumbo s2 ngày hôm qua 14_06_2017 và bây giờ Em có thể đổi sang máy oppo F3 được không ạ...Hiếu được thì cần phụ thêm bao nhiêu Tiền ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.217854,
+         "id": "1013963",
+         "field_search": "question",
+         "question": "em mới mua a5 2017 dc 10 ngày ko muốn dùng nữa jo bán lại dc bao nhiêu ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.11012,
+         "id": "1018223",
+         "field_search": "question",
+         "question": "Cho mình hỏi là win mua theo máy là win bản quyền đúng không ạ . Mình vừa mua máy khoảng 10 ngày và máy khởi động rất chậm sau đó mình đem ra bảo hành thì họ hẹn mình ngày sau lấy từ win 10 single home chuyển thành win 10 pro nhưng lại là bản crack .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.83485,
+         "id": "1014976",
+         "field_search": "question",
+         "question": "cho em hỏi em có mua con htc 10 desire pro ak ad thì về sử dụng khi tải ứng dụng thường hiện lên lớp phủ màn hình em muốn tắt nó thì phải như thế nào ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.678865,
+         "id": "1160801",
+         "field_search": "question",
+         "question": "E k đăng nhập được email mới lập vào máy chủ. Ad giúp e nhanh với, Please!Máy e là HTC Desire 620G dual sim ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.451263,
+         "id": "1156330",
+         "field_search": "question",
+         "question": "Em mới mua mấy hưawei y9. Trả trước 10%. (500 ngàn). Mua chưa được 10 ngày. Giờ em muốn trả máy lại. Thì bên tgdd tính như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.249674,
+         "id": "999743",
+         "field_search": "question",
+         "question": "Bên mình có bán tai nghe của máy htc m10 evo k ạ? Và nếu có thì giá bn ạ? E ở Đà Nẵng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.18109,
+         "id": "1008481",
+         "field_search": "question",
+         "question": "Cho mình hỏi phí cài win 10 và phần mềm diệt vi rút bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.118862,
+         "id": "1157523",
+         "field_search": "question",
+         "question": "cho mình hỏi nâng win 10 mất bao nhiêu tiền vậy ? và mất bao nhiêu tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.711908,
+         "id": "1003666",
+         "field_search": "question",
+         "question": "cho e hỏi là máy của e là HTC Desire 626G sao không chụp được bằng gậy tự sướng thế ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.63899,
+         "id": "1142941",
+         "field_search": "question",
+         "question": "Mình sử dụng máy HTC 10 Evotự dưng dạo gần đây không sử dụng được camera trước mặc dù mình đã cấp hết quyền cho máy ảnh và các ứng dụng chụp ảnh camera cơ bản của máy ấn vào phần chuyển qua camera trước cũng k đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.634165,
+         "id": "1163382",
+         "field_search": "question",
+         "question": "Em mua điện thoại ss A7 được hơn 10 ngày. Bây giờ em muốn đổi qua A50 thì có được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.608032,
+         "id": "832404",
+         "field_search": "question",
+         "question": " cho em hoi may htc desire 620G co nang cap android len 5.0 duoc khong a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.582195,
+         "id": "996664",
+         "field_search": "question",
+         "question": "Máy mới mua trả lại thì sẽ mất bao nhiêu tiền. Máy vẫn tốt mới mua hôm qua xong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.44247,
+         "id": "1014208",
+         "field_search": "question",
+         "question": "cho e hỏi có ốp lưng htc 628 ko ạ. giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.361664,
+         "id": "1149883",
+         "field_search": "question",
+         "question": "em mới được người thân cho máy tính nhưng các phần mềm đều cũ chuă cập nhật ,em muốn cài đặt win 10  thì chi phí là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.221916,
+         "id": "803290",
+         "field_search": "question",
+         "question": "Bqt cho e hỏi với ạ!!E có mua máy laptop ở tgdd vào ngày 21/2/2016 hãng dell. Khi mua máy là được hỗ trợ cài win 10, bây giờ e muốn hạ xuống win 7 thì có bị mất chi phí ko ạ!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.214336,
+         "id": "1010011",
+         "field_search": "question",
+         "question": "Cho e hỏi máy mới mua dc 1 ngày  e muốn đổi máy khác có mất phí k ạ. Nếu mất thig phí ntn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.168125,
+         "id": "1010177",
+         "field_search": "question",
+         "question": "Chào ad. Máy tính của em bị đứa em em nó nghịch, dẫn đến bây giờ không tải được ứng dụng về máy. Em có thể mang qua cửa hàng mình sửa được không ạ.? Cho em hỏi thêm là chi phí khoảng bao nhiêu ạ.? Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.11464,
+         "id": "1000433",
+         "field_search": "question",
+         "question": "ad cho e hỏi,e muốn mua điện thoại HTC desire 628 thì ở đâu còn ạ,e muốn mua trả góp thì thủ tục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.101568,
+         "id": "1134876",
+         "field_search": "question",
+         "question": "em mua realme 2 còn 1 đổi 1 trong 1 tháng nếu e muốn đổi qua máy khác e mất khỏang bao nhiêu phí ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.099522,
+         "id": "1002136",
+         "field_search": "question",
+         "question": "ad cho em hỏi. em mới mua j7 prime trả góp bây giờ em muốn chuyển sang note5 thi phải phụ thêm bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.93806,
+         "id": "994838",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Cách đây khoảng 5 tháng mình có mua trả góp 1 máy điện thoại HTC Desire 10 Pro, nhưng hiện tại nó gặp vấn đề về pin, pin nó bị phù và không cầm pin nữa sạc đầy pin 100% xài còn khoảng 50% là nó lag máy và tắt nguồn lun lần nào cũng vậy. Cho em hỏi trường hợp vậy em có được bảo hành kiểm tra or thay pin không? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.899233,
+         "id": "909832",
+         "field_search": "question",
+         "question": " Cho em hỏi là máy em lỡ cài bản win 10 enterprise giờ hết hạn thì cài lại win 10 bản quyền hết bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.851788,
+         "id": "1144725",
+         "field_search": "question",
+         "question": " Cho hoi? Chuyển danh bạ điện thoại htc xang máy tính ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.809517,
+         "id": "1156094",
+         "field_search": "question",
+         "question": "Em có mua Samsung A9 2018 trong khoảng ngày 16-20/2, đến bây giờ đã được 1 tháng hơn rồi ạ , em mua tổng là 10tr070, máy vẫn còn mới vì em giữ rất kĩ, không trầy hay có lỗi gì... em muốn đổi sang dùng iphone7plus giá 13tr9,,, thì bây giờ em phải bù thêm bao nhiêu để có thể mua được cái 7plus ạ ? Hộp và hoá đơn vẫn còn đầy đủ, tai nghe còn nguyên tem chưa tháo ra, chỉ mới sử dụng dây sạc thôi ạ , em muốn đổi qua thì bù thêm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.73784,
+         "id": "1134011",
+         "field_search": "question",
+         "question": "mình mua laptop được hơn 1 năm máy của mình chạy win 10 nhưng máy dạo này có hiện tượng lag chạy chậm v giờ mình có thế ra cửa hàng chạy lại win 10 không? và có mất phí không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.652838,
+         "id": "1014733",
+         "field_search": "question",
+         "question": "Đt của mình là htc 10 evo hiện thông báo cuộc gọi nhỡ nhưng không tắt được. Trên thanh thông báo hiện khung trắng như hình bấm vào thì hiện lịch sử cuộc gọi. Có phải bị lỗi phần mền không. Ad giúp chỉ giúp mình khắc phục. Mình mới mua ở tgdđ được 1 tháng thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.500938,
+         "id": "997985",
+         "field_search": "question",
+         "question": "Cho e hoi pin htc 826 giá bao nhiêu vậy. Máy e mua ở tgdđ xài hết bảo hành thì pin củng hỏng lun r ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.443275,
+         "id": "870909",
+         "field_search": "question",
+         "question": " nâng cấp laptop lên window 10 tốn bao nhiêu tiền ?khi nâng cấp lên window 10 có mất dữ liệu không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.426748,
+         "id": "1009990",
+         "field_search": "question",
+         "question": "Em có mua một con máy tính bảng acer vẫn trong thời gian bảo hành em muốn thay pin cho máy tính bảng vì em thấy pin có thể đã bị chai vậy em thay pin có mất thêm khoản phí nào không ạ và sửa thì mất bao nhiêu ngày ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.370998,
+         "id": "1162917",
+         "field_search": "question",
+         "question": "Cái tablet Huawei T3 10 của em bị bể màn hình, bây giờ nếu em gửi đến thay thì mất bao lâu và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.338356,
+         "id": "997795",
+         "field_search": "question",
+         "question": "cho e hỏi, e mua điện thoại htc one khoản 3 tháng trước, bây giờ thu lại giá khoản bao nhiêu ak. lúc đầu mùa là 5990",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.279936,
+         "id": "1022523",
+         "field_search": "question",
+         "question": "Laptop window 10 của em bị 2 sọc trên màn hình bây giờ em đem ra sửa nhưng không phải mua ngoài thế giới di động vậy sửa khoảng hết bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.225216,
+         "id": "1164315",
+         "field_search": "question",
+         "question": "e mua oppo F9 được 6 tháng, giờ muốn đổi qua oppo F11 pro thì phải thêm bao nhiêu tiền nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.171207,
+         "id": "888879",
+         "field_search": "question",
+         "question": " Bản window 10 anniversary dung lượng tải về khoảng bao nhiêu vậy bà con cô bác??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.11915,
+         "id": "999882",
+         "field_search": "question",
+         "question": " Em muốn cài win 10 cho lap của mình thì mất bao nhiêu tiền ạ. Em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.106684,
+         "id": "1149595",
+         "field_search": "question",
+         "question": "Em mới mua chiếc điện thoại Oppo F9 10 ngày. Bây giờ em muốn đổi sang điện thoại Samsung được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.066036,
+         "id": "1168046",
+         "field_search": "question",
+         "question": "tôi muốn thay pin điện thoại HTC Uplay cho tôi hỏi giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.033098,
+         "id": "1154444",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi 6s máy bị mất vân tay giờ đem qua sửa thì mất bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.01584,
+         "id": "1006621",
+         "field_search": "question",
+         "question": "Cho hỏi cửa hang mình có thay pin Htc M7 không ạ, và thời gian thay pin thì mất bao lâu mới có thể lấy máy được, cho xin giá cả luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.011253,
+         "id": "998677",
+         "field_search": "question",
+         "question": "HTC Desire 820q dua sim  bị vỡ màn hình.  Xin cho giá thay màn hình.  Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.002262,
+         "id": "906397",
+         "field_search": "question",
+         "question": "cách đây 1 tuần mình có mua laptop ASUSTek X540LA với hệ điều hành win 10 cài sẵn ở máy.sau 1 thời gain dùng minhf cảm thấy không hợp với win 10 va muốn cài lại win 7 thì cần những thủ tục gì và mất bao nhiêu lệ phí nữa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.904564,
+         "id": "1159069",
+         "field_search": "question",
+         "question": "em có thể thau chuôi sạc  HTC 530 ở mình ko ạ ,và giá cả tầm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.889458,
+         "id": "1017096",
+         "field_search": "question",
+         "question": "em mới mua máy Huawei y5 II sài đc 10 ngày bị lỗi em đổi lại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.87074,
+         "id": "1009707",
+         "field_search": "question",
+         "question": "điện thoại htc 826 của e bị bể màn hình không biết e thay hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.842863,
+         "id": "756443",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi? Mình đang xài iPad air 2 và mình mới đi bảo hành đổi máy mới cách đây 2 ngày. Mà máy cảm ứng nó không có nhạy như máy cũ. Lâu lâu khoảng 5-10 giây thì nhấn nó lại không ăn, cho mình hỏi thêm là máy mình còn bảo hành thì ra dán màn hình có tính phí không ạ? Mình Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.833107,
+         "id": "1150593",
+         "field_search": "question",
+         "question": "Mình vừa mới mua Xiaomi Mi 8 được vài ngày, bây giờ mình muốn đổi sang iphone 7 plus thì có được không và hình thức như thế nào, nếu được thì có mất phí đổi không và phí đó là bao nhiêu, mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.78665,
+         "id": "1140009",
+         "field_search": "question",
+         "question": "E mới mua ĐT huwei Nova 3i ngày 10/11/2018. H e muốn bán lại có hộp mà kh có tại nghe với sạc thì giá thu lại là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.724123,
+         "id": "1158269",
+         "field_search": "question",
+         "question": "Mình mới mua 1 máy mobell s60 vào ngày 173 vừa rồi bây h mình muốn đổi sang realme c1 thì cần phải bù thêm bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.689997,
+         "id": "1157593",
+         "field_search": "question",
+         "question": "Tôi mới mua 1 chiếc điện thoại samsung A50 tại shop mình được 2 ngày. Giờ tôi muốn đổi sang máy samsung s8 plus và chịu các thêm tiền là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.682384,
+         "id": "1166151",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop asus X554L 4GB , 500GB , i5 , win 10 giờ giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.677221,
+         "id": "1020011",
+         "field_search": "question",
+         "question": "Cho mình hỏi thâu máy mới tính % là bao nhiêu ?Mình mới mua điện thoại sony xa1 untral Tại thế giới di động được 4 ngày. Bây giờ mình đổi lấy máy samsung j7pro tính phí % là bao nhiêu vậy ? xin cho mình cái thông tin .cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

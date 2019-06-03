@@ -1,0 +1,809 @@
+{
+   "id_query": "1167839",
+   "total": 34134,
+   "total_current": 100,
+   "max_score": 117.47746,
+   "origin_question": "Hqa e có mua 1 cái máy samsung m20 tại tgdđ mà e muốn cài khoá vân tay nhung e tìm ko ra cho e hỏi e muốn cài khoá vân tay thì mình vô mục nào ạ",
+   "hits": [
+      {
+         "score": 117.47746,
+         "id": "1167839",
+         "field_search": "question",
+         "question": "Hqa e có mua 1 cái máy samsung m20 tại tgdđ mà e muốn cài khoá vân tay nhung e tìm ko ra cho e hỏi e muốn cài khoá vân tay thì mình vô mục nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.568867,
+         "id": "857383",
+         "field_search": "question",
+         "question": " Có phần mềm mỏ khoá iPhone 5 bằng vân tay k ạ có thì cho e xin cái link ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.79628,
+         "id": "962439",
+         "field_search": "question",
+         "question": "I phone 5s của mình tại sao vân tay không nhạy cho lắm ... 1 lần mở khoá phải 2-3 lần hoặc không nhận vân tay luôn 😩 Đã xoá vân tay rồi cài lại vân tay mới cài khoảng 3-4 lần mới thành công",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.683296,
+         "id": "1134197",
+         "field_search": "question",
+         "question": "Con nokia 6.1 plus sao e đặt khoá bằng mã Pin + vân tay nhưng khi mở khoá bằng vân tay thì k còn lưu khoá bằng mã Pin.Còn mã Pin chỉ dùng đc 1 lần tới lần sau mở máy chỉ cần vuốt lên mà k phải nhập mã PIN",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.592335,
+         "id": "996931",
+         "field_search": "question",
+         "question": "Cho e hỏi oppo a37 co cài mat khẩu bằgn vân tay được kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.48101,
+         "id": "930827",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Lỗi Tunes ID này trên ip5s phải khắc phục như thế nào ạ. Muốn cài mở khoá bằng vân tay nhưng nó cứ báo lỗi như vậy đó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.691864,
+         "id": "872461",
+         "field_search": "question",
+         "question": " Máy iPad mini 4 có thể cài chỉ 1 vân tay hay nhiều vân tay ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.630478,
+         "id": "1158732",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi. Đt e mua đc 1 tháng 10 ngày, Giờ bị lỗi camera và lỗi vân tay thì e có được 1 đổi 1 ko ạ iphone 6s plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.080738,
+         "id": "1151147",
+         "field_search": "question",
+         "question": "Cho hỏi. Ss M20. Mình cài đặt mở khóa vân tay. Vậy mà khi chạm vân tay để mở khóa máy vẫn hiện vẽ mẫu hình( vẫn phải vẽ mẫu hình máy mới mở khóa). Có bỏ đc ko, để chỉ chạm vân tay là mở khóa.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.00431,
+         "id": "951373",
+         "field_search": "question",
+         "question": "E hơi dốt về ip các bác cho e hỏi bị thế này là bị thế nào ạVân tay của e không nhậy mấy hôm qa e có xoá bỏ vân tay cũ đi đặt lại vân tay mới nhưng mà k được đặt gần xong ùi thì nó cứ chạy lại từ đầu nên giờ e gí vào vân tay nó k chạy nữa là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.977383,
+         "id": "1151588",
+         "field_search": "question",
+         "question": "Samsung m20 có mở khoá bằng khuôn mặt k ạ e đang muốn mua nhưng đang hơi băn khoăn về mở khoá khuôn mặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.9059,
+         "id": "1002976",
+         "field_search": "question",
+         "question": "Vân Tay mày e bị s thế a? . lúc vân tay để không nhận dạng được, lúc vân tay không phù hợp , dù xoá vân tay cái lại vân tay rồi thử lại liền vẫn bị nv (F1S)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.509617,
+         "id": "779190",
+         "field_search": "question",
+         "question": "lúc trước em có mua máy tại tgdd , mua về e cài win 10 , mà e lỡ tay xóa mất cái win 8.1 bản quyền , giờ e muốn cài cái win 10 bản quyền thì có tốn tiền ko ạ , e mua máy từ lúc 15/11/2015 và em còn giữ biên lai + tài khoán outlook",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.412216,
+         "id": "1004146",
+         "field_search": "question",
+         "question": "Dạ, chuyện là Chồng e mua j7 pro, mà đi công tác xa, k đem theo, nhưng đt lại mở bằng vân tay, e muốn mở đt, nhưng k có dấu vân tay cũng k biết mã pin. Không biết bên TGDĐ có dịch vụ mở khóa màn hình không ạ, nếu có cho e tham khảo giá tiền luôn ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.706635,
+         "id": "1134187",
+         "field_search": "question",
+         "question": "Sam sung j8 của e mới mua mà nó cứ bắt nhập pin dù đã có vân tay, vân tay thì lâu lâu ms dùng được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.48655,
+         "id": "769718",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi , nếu thay nút home iphone 6 thì giá bao nhiêu và bao lâu mới lấy được ạ ?? máy em không khoá vân tay được do lần trước đã từng bị vô nước đã bảo hành rồi ạ ! bây giờ máy không khoá vân tay được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.384834,
+         "id": "941279",
+         "field_search": "question",
+         "question": " Ad cho hỏi iphon khoá bằng vân tay mà ngừoi khác biết mật khẩu có mở đc không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.020874,
+         "id": "1136473",
+         "field_search": "question",
+         "question": "Chào ad cho em hỏi là e có mua laptop vostro 3468 bên mình , em muốn cài đặt mở khóa máy = vân tay khi máy về lock screen mà vào cài đặt windown hello thì nó báo face and fingerprint recognition are not available on this device",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.073242,
+         "id": "1158243",
+         "field_search": "question",
+         "question": "Samsung j5 có phần dấu vân tay nhưng khi bấm vào thì hiện đã xảy ra lỗi với cảm biến vân tay là sao ạ có vân tay mà ko xài đc mong giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.578327,
+         "id": "1016406",
+         "field_search": "question",
+         "question": "Điện thoại mở khóa bằng vân tay của e mở ko đc. Nó kiu mở bằng mật mã thay cho vân tay theo yêu cầu của chính sách bảo mật. Giúp e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.358627,
+         "id": "940110",
+         "field_search": "question",
+         "question": "Cho e hỏi, e dùng cái 5s e nâng cấp cái giờ muốn mở khoá thì phải bấm nút home, e muốn quay về lại \"vuốt sang phải\" như trước đây thì làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.344612,
+         "id": "1135557",
+         "field_search": "question",
+         "question": "cho em hỏi em e dang phân vân mua cái dt huawei p20 nhung kiểu máy là EML-L29    không biet máy này la sách tay hay đã mua trong thế gioi di dong hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.055584,
+         "id": "999886",
+         "field_search": "question",
+         "question": " h e đang cài app này mà muốn đặt khoá màn hình như ảnh thì phải làm sao ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.904427,
+         "id": "812521",
+         "field_search": "question",
+         "question": "Em mua cũ lại iPhone 6s plus nhưng đã cài khoá vân tay, mà chủ máy lại không ở đây, vậy em phải làm sao mới mở được máy và sử dụng ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.73699,
+         "id": "855545",
+         "field_search": "question",
+         "question": " E lỡ tay xoá tài khoản viễn vĩnh bây giờ e đăng nhập vô thì tài khoản này đang bị khoá vui lòng thử lại sau 24h ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.46864,
+         "id": "1024587",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình đang dùng samsung A7 2016. Muốn cài bảo mật vân tay và mật mã. Và máy đã đồng y, tuy nhiên khi vuốt máy vẫn chấp nhận. Mình ko muốn cài mật mã mà vuốt vẫn chấp nhận",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.42498,
+         "id": "1167942",
+         "field_search": "question",
+         "question": "máy a8 star của e bị tróc sơn ngay chổ vân tay thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.32993,
+         "id": "1023132",
+         "field_search": "question",
+         "question": "Anh cho e hỏi, e mới lấy cái lap dell 3568 chạy win 10 SL mà hơi chậm nên e có mang lên nhờ mấy a cài bản ghost, nhưng khi về mở máy ra thấy chức năng bảo mật bằng vân tay lại không sử dụng được. Anh có thể hướng dẫn e cách mở lại chức năng đó được không ah?E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.325607,
+         "id": "1000258",
+         "field_search": "question",
+         "question": "A ơi sao dt em mới mua dc 4 ngày cái galaxy J5 prime sao e ko sài dc vân tay nữa ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.25144,
+         "id": "1146135",
+         "field_search": "question",
+         "question": "Cho e hỏi tí ... cái đt iphone của e bị dánh t.k icloud á mà nó bị khoá rùi . H e muốn bỏ cái icloud phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.83975,
+         "id": "1163672",
+         "field_search": "question",
+         "question": "Máy xiaomi redmi note 6 pro của mình bị lỗi cảm biến vân tay . Rêsest lại máy thì nó mất luôn phần cài đặt vân tay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.747334,
+         "id": "1141188",
+         "field_search": "question",
+         "question": "E đang sd mây coolpad e561. E cài đặt mật khẩu màn hình nhưng giờ e ko nhớ mk. V giờ muốn mở khoá màn hình thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.587486,
+         "id": "996999",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e đang dùng iPhone 6 từ ngày nâng cấp phiên bản 10.2 touchid dấu vân tay của e không dùng được ạ. E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.57213,
+         "id": "1014511",
+         "field_search": "question",
+         "question": "Cho e hỏi e đặt khóa vân tay, nhưg ko biết làm sao để mở quay số nhanh để có gì người khác có thể liên lạc được với gđ e ạ khi khóa máy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.489803,
+         "id": "1015348",
+         "field_search": "question",
+         "question": "Cho e hỏi cảm ứng vân tay của ip 6s có đc bảo hành không ạ? E mua ở bến tre lên tp bảo hành đc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.098965,
+         "id": "996490",
+         "field_search": "question",
+         "question": "e muốn bán 1 cái samsung j5 e mua từ 31102016 thì được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.08703,
+         "id": "1164873",
+         "field_search": "question",
+         "question": "E muốn bán máy honor 8x max hàng xách tay Bên TGDĐ có mua k ạMáy xách tay chỉ có máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.89392,
+         "id": "1150370",
+         "field_search": "question",
+         "question": "Máy galaxy s8 của e sao k có phần bảo mật vân tay,mống mắt,khuôn mặt vậy.e tìm hết tất cả trong phần cài đặt rồi nhưng vẫn k có những tính năng đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.886677,
+         "id": "1020930",
+         "field_search": "question",
+         "question": "E mới mua 1 cái máy j7 pro mà lỡ tay làm màn hình , giờ e ra thế giới di động e có được bảo hành lại màn hình mới hông ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.786102,
+         "id": "1012997",
+         "field_search": "question",
+         "question": "Xin chao TGDĐ,Xin cho hoi! Mình đã cài đặt mở khóa màn hình bằng vân tay thành công trên A3 (2017). Nhưng khi mở khóa bằng vân tay thì không mở được, mà thấy thông báo là \"Vẽ mẫu hình thay vì sử dụng nhận dạng vân tay do chính sách bảo mật\". Xin hướng dẫn dùm. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.656513,
+         "id": "795218",
+         "field_search": "question",
+         "question": "cho e hỏi e xài iPhone 6s .. e bấm vô phần cài đặt rồi không biết sao bấm vô cái gì mà giờ nó ra ntn .. giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.488827,
+         "id": "1137316",
+         "field_search": "question",
+         "question": "Ad ơi, tình hình là tháng trước e có mua cái samsung galaxy j6 pro tại TGDĐ cho cha e, mà sáng nay cha e lỡ tay làm rớt điện thoại vào xô nước, e đã tháo sim và thẻ nhớ ra hết rồi còn pin e hk tháo dc vì điện thoại nguyên khối, giờ cho e hỏi e phải xử lý làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.280003,
+         "id": "1134190",
+         "field_search": "question",
+         "question": "Sam sung j8 của e mới mua mà hay bị tình trạng bắt nhập mã pin chứa ko cho dùng vân tay vì chính sách bảo mật j ấy h e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.23763,
+         "id": "994410",
+         "field_search": "question",
+         "question": "E mua trả góp ip6 dc 3 ngày, hôm nay mới phát hiện dấu vân tay k mở dc mật khẩu máy, e phải làm gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.182102,
+         "id": "1019992",
+         "field_search": "question",
+         "question": "em xài vân tay j7 prime ad cho e hỏi khi mất điện thoại người ta có hard reset lại được không ạ .e cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.173737,
+         "id": "1169185",
+         "field_search": "question",
+         "question": "Hướng dẫn Cài đặc lại dấu vân tay điện thoại samsung j62018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.853497,
+         "id": "1163135",
+         "field_search": "question",
+         "question": "Tôi sài realme 2 pro, có hiện tượng mở khoá bằng vân tay ko lên, ko sáng màn hình lun. Bấm nguồn cũng vậy. Phải đợi hồi bấm lại mới chịu lên. Tôi cũng thấy vân tay ko nhạy như lúc mua. Máy tôi coa bị gì ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.773823,
+         "id": "1166395",
+         "field_search": "question",
+         "question": "Ad ơi e ms mua một con reame 3 ở cửa hàng tgdd rồi xài đc tầm 1 tháng thì bây giờ không sử dụng đc cảm biến vân tay nữa e đã cày lại dấu vân tay rồi lau chùi đủ kiểu mak vẫn k đc... Ad giúp với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.709625,
+         "id": "1000159",
+         "field_search": "question",
+         "question": "A chị cho em hỏi cái này tí. E mới mua J7 mà quên mật khẩu màn hình. Khi tắt nguồn nó yêu cầu e ko vẽ dc. vân tay thì nó không chịu nhận. em thử reset lại máy rồi mà đến phần nhập email em không nhớ mail thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.506634,
+         "id": "783241",
+         "field_search": "question",
+         "question": " Ad ơi ip5s của e tắt nguồn lên là k nhận vân tay? Là lỗi do máy phải k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.43728,
+         "id": "1021307",
+         "field_search": "question",
+         "question": "AD ơi! E mới mua 1 máy nokia c5-00 nhưng tại sao máy của e ko vào ovi store (mục lưu trữ) đc vậy ạ! E nhấn vào thì nó \"Đang cài đặt\" xong thì chả có j xảy ra cả! E nhấn lần nữa thì vẫn như thế! Xin cho e biết lý do với AD! :( nếu sửa đc thì e ra thegioididong để e sửa ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.393463,
+         "id": "790253",
+         "field_search": "question",
+         "question": " Cho e hỏi cài win máy xách tay lại thì có bị mất dữ liệu máy không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.37338,
+         "id": "918813",
+         "field_search": "question",
+         "question": " iPhone 5s mua chưa được 1 năm giờ cài dấu vân tay không được là sao hả ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.277473,
+         "id": "813013",
+         "field_search": "question",
+         "question": " Ac cho e hỏi là đt Ip6s của e bị vỡ mặt kính và e đi thay xong giờ k dùng đc cảm ứng vân tay là bị sao vậy ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.205788,
+         "id": "1163199",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi điện thoại samsung A8 Star cảm biến vân tay có rung không? Vì hiện tại đt e ko có rung. Và mã pin bằng mật khẩu khi nhập sai ko báo rung ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.021587,
+         "id": "1162642",
+         "field_search": "question",
+         "question": "Sắp tới e đang muốn sắp 1 em mấy tính bảng phục vụ cko việc giải trí. E đang phân vân là nên chọn dòng máy nào samsung hay hawuei .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.011017,
+         "id": "1166313",
+         "field_search": "question",
+         "question": "Cho e hỏi muốn tìm lại ảnh trên máy ssj7 prime thì làm sao ạk. E vào thùng rác mà báo là k tìm thấy mục nào bị xóa là sao ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.01089,
+         "id": "1141079",
+         "field_search": "question",
+         "question": "Cho mình hỏi lúc mình vào chức năng ID vân tay/quản lý vân tay/ có yêu cầu mã pin 6 kí tự bây giờ mình muốn đổi mã pin đó thì phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.003128,
+         "id": "763635",
+         "field_search": "question",
+         "question": " Cho hỏi mình mới mua iPhone 5s mà sao ko dùng được vân tay? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.97876,
+         "id": "1154786",
+         "field_search": "question",
+         "question": "E mới mua máy samsung M20.nhưng e muốn bán để lên đời máy.Bên mình có thu mua lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.943428,
+         "id": "921775",
+         "field_search": "question",
+         "question": " Cho e hỏi máy iphone 4 cdma có khe sim Hk?có khóa vân tay hk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.937508,
+         "id": "806662",
+         "field_search": "question",
+         "question": " Cho em xin ảnh chụp màn hình iphone 5s phần mở khoá bằng vân tay được không ạ tiếng việt nhé thank ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.934772,
+         "id": "1146144",
+         "field_search": "question",
+         "question": "ad cho e hỏi cái này ?? e quên mk icloud mà h nó bị khoá . làm sao lấy lại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.84644,
+         "id": "1159765",
+         "field_search": "question",
+         "question": "A/c cho e hỏi với. E có 1 chiếc samsung galaxy S9 lỡ quên mật khẩu. Nhưng lại chưa đăng nhập samsung account trên máy đt. Nhưng e lại lỡ chữa lợn lành thành lợn què vì lỡ ấn bảo mật trên tìm đt nên gio cũng ko thể tắt nguồn để hard reset. Cho e hỏi gio có cách nào để mở máy không ạ? E vẫn giữ tài khoản google mà vừa khoá máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.781265,
+         "id": "1140836",
+         "field_search": "question",
+         "question": "Em vừa mới mua 1 máy Oppo A3s. Cho em hỏi là máy này có thể khóa bằng dấu vân tay và mã pin hay không? Nếu có cho em xin cách hướng dẫn cài đặt bảo mật khóa vân tay và mã pin luôn ạ. Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.775955,
+         "id": "1151970",
+         "field_search": "question",
+         "question": "Oppo f9 . Em ấn vào cài vân tay xong ấn Mật khẩu xong là lại bị văng ra như vậy là sao vậy ạ. Có ai có thể giúp em với. Chỉ vân tay còn khuông mặt vẫn cài bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.40933,
+         "id": "992689",
+         "field_search": "question",
+         "question": " em cài đặt lại máy mà nó như vậy mấy tiếng giờ ai tư vân giúp e  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.3956,
+         "id": "1146070",
+         "field_search": "question",
+         "question": "e có 1 đồng hồ apple watch series 2 e dc người khác cho , nhưng e nhỡ tay khôi phục lại nên jo nó đòi tải khoản icloud apple mà e ko có , thì bên shop có cách nào jup e ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.378124,
+         "id": "1150097",
+         "field_search": "question",
+         "question": "Các a cho e hỏi tài khoản iclour mà bị khoá thì mở khoá phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.265827,
+         "id": "747447",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi.. Khj mình đang ở bản 9.0.2 của máy ip6 thì cảm biến vân tay có bị lỗi ko.. Máy mình bị lỗi cảm biền vân tay.. Lúc đc lúc ko... Cảm ơn nếu ad giúp mình biết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.236916,
+         "id": "828851",
+         "field_search": "question",
+         "question": " Sao iphone của mình không hiện chỗ khoá mật khẩu bằng vân tay vậy? Giúp mình với, mình đang dùng iphone 5 thường 16g ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.184345,
+         "id": "1003312",
+         "field_search": "question",
+         "question": "e cài ra tiệm cài win, ngta cài e win 8. Giờ khởi động máy lên nó lại kêu cập nhật win10 hoặc win 8.1, vậy là s ạ. E có nên ra tiệm cài lại win 8.1 ko ạ. Tại e sợ ngta chỉ cài win8 cho e mà chỉ là phiên bản dowload thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.16557,
+         "id": "790173",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em bị khoá tài khoản icloud do nhập sai nhiều lần vì ông anh ko nhớ mật khẩu. Giờ e cầm lại máy thì e biết mật khẩu nhưng không mở khoá tài khoản đc. Câu hỏi bảo mật thì khi lập tk thì e lại ghi linh tih nên giờ không nhớ. Vậy e có cách nÀo mở khoá tài khoản lại ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.12953,
+         "id": "760834",
+         "field_search": "question",
+         "question": "Xin lỗi làm ơn cho em hỏi một chút ạ. Em có dùng 1 máy iPhone 6 plus. Nhưng do bạn em nghịch nên giờ em mất mật khẩu khoá máy, em lại không cài chế độ mở vân tay. Mà hiện tại em lại không nhớ tên cũng như mật khẩu iCloud. Làm ơn cho em hỏi có cách nào khắc phục lỗi trên không ạ? Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.078575,
+         "id": "828429",
+         "field_search": "question",
+         "question": "cho e hỏi e mới cài đặt 3G trên iphone! Nhưng khi cài đặt xog thì vô facebook không được, vô bất kì trình duyệt web nào cũng k được! E thử mượn máy nhỏ em thì lại vô được! Cho e hỏi nguyên nhân vì s máy e k vào đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.07707,
+         "id": "1016559",
+         "field_search": "question",
+         "question": "cho em hỏi hôm bữa em có mua 1 chiếc sony xperia X 99% tại thegioididong nhưng về nhà em thấy cảm ứng vân tay lúc được lúc không ?mong anh chị giải thích giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.04982,
+         "id": "745863",
+         "field_search": "question",
+         "question": " QTV cho e hỏi, TGDĐ có bẻ khoá iphone của Nhật không, giá bao nhiêu. E mua của nhà mạng Domoco, Softbank ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.031433,
+         "id": "1168805",
+         "field_search": "question",
+         "question": "A chị ơi huong dan giup em cach mở samsung galaxy m20 bang vân tay mà khong cần dùng mật khảu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.979849,
+         "id": "1024055",
+         "field_search": "question",
+         "question": "Cho e hỏi..máy e là máy LG G6 bị khoá mã pin giờ có cách nào mở đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.943697,
+         "id": "924528",
+         "field_search": "question",
+         "question": "Hqa e có khôi phục máy iphone 5s xong thì mail báo là tìm iphone bi vô hieu hoá trên iphone là sao ạChỉ e cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.937769,
+         "id": "1006997",
+         "field_search": "question",
+         "question": "Oppo F3 Plus, Samsung galaxy S7 Edge, Samsung galaxy A9 Pro, trong 3 cái này thì cái nào có bảo mật vân tay vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.931862,
+         "id": "994798",
+         "field_search": "question",
+         "question": "Tại sao dt ip5s của mình đang sạc pin bị mất vân tay và rút sạc ra là mất vân tay luôn..có sửa đc k moi ng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.91629,
+         "id": "769011",
+         "field_search": "question",
+         "question": " Cho e hỏi xíu nha. E có con 4s e lỡ tay làm rớt bể kính màn hình ngoài e muốn thay giá cả thế nào tư vấn e với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.878582,
+         "id": "1153953",
+         "field_search": "question",
+         "question": "Là 1 tín đồ samsung. Tuần trước e mua 1 chiếc samsung m20. Trong 1 tuần sử dụng e thấy k hài lòng lắm vì đã đổi máy 1 lần (vì lỗi máy) . hiện e k muốn sử dụng nữa máy ss m20 nữa nên e muốn đổi lại 1 sản phẩm samsung khác bằng tiền hoặc cao hơn đc k. Và e có bị mất phí gì k ạ. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.847422,
+         "id": "992684",
+         "field_search": "question",
+         "question": " em cài đặt lại máy mà nó như vậy mấy tiếng giờ ai tư vân giúp e  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.842794,
+         "id": "1015054",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi máy e mới mua được 2 tháng vẫn trong thời gian bảo hành nhung e lowc tay làm vỡ màn hình thì đi sửa mất nhiều phý k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.802547,
+         "id": "1001346",
+         "field_search": "question",
+         "question": "cho e hỏi ở các chi nhánh tgdđ có bán hàng xách tay iphone ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.662775,
+         "id": "1010246",
+         "field_search": "question",
+         "question": "Cho e hỏi dt samsung s8 plus, hiện tại ảnh và video nằm chung 1 thư mục. Làm sao để e tách được ra riêng ảnh với video ạ?. Tức là khi phát sinh 1 video mới thì máy mặc định sẽ vào thư mục video, chứ mình ko phải vô thư mục chung đó rồi di chuyển thủ công wa thư mục video vừa tạo ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.561625,
+         "id": "954939",
+         "field_search": "question",
+         "question": " Ad cho e hỏi. Cánh nào mở khoá iphone. Khi bị quên. Nếu đem ra tiệm thì bao nhiu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.532309,
+         "id": "1156380",
+         "field_search": "question",
+         "question": "bình thường điện thoại cài vân tay sẽ xài song song với mẫu hình nhưng em cài vân tay với mẫu hình thì mẫu hình khi mở máy lên lại không có chỉ cần vuốt là máy mở cho em hỏi cách khắc phục ạ điện thoại em là s7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.50777,
+         "id": "1151806",
+         "field_search": "question",
+         "question": "Cho e hỏi c9 pro hiện nay rất khó để cảm biến vân tay (dù đã lau hoặc khởi động máy nhiều lần)! Làm cách nào để khắc phục ạ?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.50579,
+         "id": "1154531",
+         "field_search": "question",
+         "question": "Cho em hỏi cách khắc phục khi Redmi S2 mất cài mật khẩu bằng vân tay với ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.48216,
+         "id": "994059",
+         "field_search": "question",
+         "question": "Mấy anh cho hỏi .. e muốn tìm 1 laptap để chơi game 3q phiên bản 3d thì máy nào chơi tốt ạ... cho e link tham khảo 1 số máy đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.41462,
+         "id": "998348",
+         "field_search": "question",
+         "question": "Sao iphone 7 plus của em mới mua được 5 ngày mà em tạo vân tay rồi khóa máy thì mở bằng vân tay không được ạ em làm đi làm lại hoài mà vẫn vậy cho hỏi có bị lỗi gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.388844,
+         "id": "895172",
+         "field_search": "question",
+         "question": " iPhone 4s có cài mật khẩu bằng vân tay đc k? Giúp với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.332378,
+         "id": "1013202",
+         "field_search": "question",
+         "question": "QTV cho e hỏi cái ạ.e mới mua bên tgdd mình con samsung j7 pro mà e ko biết sao chép danh bạ về,vì khi e dùng cái điện thoại trước e đã sao chép đám mây rồi.sao qua máy này e ko tìm ra chổ tải danh bạ,sms về đc ạ.QTV biết chỉ giùm e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.275864,
+         "id": "1160637",
+         "field_search": "question",
+         "question": "e mới mua samsung m20 dc hơn một tháng máy xài đơ e muốn trả sản phẩm dc ko ak.e mua trả góp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.268866,
+         "id": "1167937",
+         "field_search": "question",
+         "question": "Làm sao sao để cài khóa vân tay Samsung Galaxy A7 bản cập nhật mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.145607,
+         "id": "780877",
+         "field_search": "question",
+         "question": "iPhone của em bị như thế này các anh chị giúp em với : khi em đặt vân tay vào thì máy hiện ra là touch id không nhận ra vân tay e nhập mật khẩu thì nó không nhảy số ( em tắt nguồn thì kéo qua không được trong khi nút trợ năng vân hoạt động bình thường ) các anh chị giúp em với ạ .em xin chân thành cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.124947,
+         "id": "1150454",
+         "field_search": "question",
+         "question": "Cho e hỏi em mua máy a6plus muốn đổi sang samsung m20 thì thủ tuc sao ạ em mua trả góp",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

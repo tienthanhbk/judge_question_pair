@@ -1,0 +1,809 @@
+{
+   "id_query": "1000963",
+   "total": 30949,
+   "total_current": 100,
+   "max_score": 140.43959,
+   "origin_question": "Hôm qua e mua máy có đc tặng phiếu 300 nên mua dây nốiAi ngờ ko xài đc vs máy e hay bất cứ máy nào trong nhàE ra tiệm đổi dây nối để lấy gậy tự sướng đc ko",
+   "hits": [
+      {
+         "score": 140.43959,
+         "id": "1000963",
+         "field_search": "question",
+         "question": "Hôm qua e mua máy có đc tặng phiếu 300 nên mua dây nốiAi ngờ ko xài đc vs máy e hay bất cứ máy nào trong nhàE ra tiệm đổi dây nối để lấy gậy tự sướng đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.208923,
+         "id": "1149236",
+         "field_search": "question",
+         "question": "Cho e hỏi, e mới mua máy được 10 ngày nhưng xài cảm ứng có khi không nhạy vs điện thoại hay tự động tắt ứng dụng, e muốn đổi lại máy Huawei Nova 3i mới có được ko? Có phải bù tiền gì ko và đổi thì lại cửa hàng tgdđ lúc mua đổi hay đổi ở bất kỳ hệ thống tgdđ nào cũng đc ạ. E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.531467,
+         "id": "1017296",
+         "field_search": "question",
+         "question": "Ad kiểm tra giúp em. Hôm 25/8 em có mua 1 đt Nokia 5 và được tặng kèm 1 gậy tự sướng. Nhưng tại hôm đó cửa hàng hết gậy tự sướng nên hẹn em hôm sau sẽ gọi đến lấy. Nhưng hôm nay vẫn chưa có. Ad kiểm tra giúp e. Sdt 0969916977",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.70478,
+         "id": "748926",
+         "field_search": "question",
+         "question": " Tại sao gậy tự sướng có kết nối dây nhưng không sử dụng được với Gionee Gtab G3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.207523,
+         "id": "1020604",
+         "field_search": "question",
+         "question": "mình mới mua máy J3 hôm qua, mình có thể đổi sang J5 đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.189663,
+         "id": "1144897",
+         "field_search": "question",
+         "question": "Cho mình hỏi hôm bữa mình có mua hưawei y9 có tặng loa mà mấy nay mình bận ko ra lấy giờ ra lấy đc ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.9645,
+         "id": "1166503",
+         "field_search": "question",
+         "question": "cho e hỏi, e mua điện thoại SamSung galaxy A70. và mua thêm sạc dự phòng. Nhưng dây cáp của điện thoại này ko cắm vào sạc dự phòng đc. Vậy bên mình có bán dây cáp để sử dụng đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.326126,
+         "id": "1010382",
+         "field_search": "question",
+         "question": " Mong ad giúp e ạ xem máy này mua từ đâu ạ e đc tặng nên ko biết may nay mua ở đâu  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.90275,
+         "id": "1015855",
+         "field_search": "question",
+         "question": "cho em hõi máy samsung galaxy a5 2017 e mua mới 8tr990 mà chưa bóc hộp còn ms 100% bán lại đc bn ạ vs lại e cũng ko có nh cầu sài máy ạ máy đc người ta tặng máy ms luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.837593,
+         "id": "1138503",
+         "field_search": "question",
+         "question": " mua iphone đc tặng tai nghe air pots mình ko lấy có thể trừ vào giá cua máy ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.64768,
+         "id": "1165791",
+         "field_search": "question",
+         "question": "E mua máy f9 trả góp đc 2 tháng rùi giờ e muốn đổi máy f9 phụ thêm tiền lấy máy oppo f11 có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.61939,
+         "id": "1134891",
+         "field_search": "question",
+         "question": "Có dây sạc xaomi note5 ko a.em mua ở tgdd máy em đc bảo hành những gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.91031,
+         "id": "1166749",
+         "field_search": "question",
+         "question": "Mua dây sạc bảo hành 1 năm mà chưa đc mây tháng đã hỏng thì có dc đc đổi hay ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.85651,
+         "id": "1143008",
+         "field_search": "question",
+         "question": "Vậy mua oppo f9 có tặng sạc vooc ko mua trên TGDĐ mới đc tặng hay mua ở đâu cx đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.834232,
+         "id": "1010598",
+         "field_search": "question",
+         "question": "Máy tính e mua ở tgdd, ko may trong quá trình sử dụng key của windown bị mất hoặc bị lỗi, em có đc hỗ trợ lấy lại key ko, máy em đã qua thời gian bảo hành đc mấy ngày rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.81189,
+         "id": "1021121",
+         "field_search": "question",
+         "question": "chào QTV, cho hỏi e vừa mua Sony XA Ultra nhưng giờ muốn trả lại máy hoàn toàn có đc ko ạ,. E vừa lấy máy tối hôm qa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.79977,
+         "id": "1014264",
+         "field_search": "question",
+         "question": "máy e mua đc hơn tháng mà bị sập nguồn ko ro lý do .bây h máy đag ngoài bắc mà e ở trong nam .vậy nguoi o nha có ra tgdd đôi đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.78978,
+         "id": "805595",
+         "field_search": "question",
+         "question": "E ms mua dây sạc ip5 trong tgdd. Hnay trong lúc sạc e có chạm vào đt thì bị giật.ko giật quá mạnh nhưng cũng ko phải là hơi tê tê. Cho e hỏi có phải do sạc ko và có đc đổi trả ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.711952,
+         "id": "1005306",
+         "field_search": "question",
+         "question": "Cho em hỏi TGDĐ có hỗ trợ sửa lỗi này ko ạ.  Chuyện là em xài con Zenfone5 dạo gần đây hay bị treo máy, cứ khi nào pin còn 70-50% thì sẽ bị treo máy bất ngờ. Muốn mở nguồn lại phải cắm sạc vào nó mới lên, ko thì nó cứ bị treo ở logo Asus rồi tự reset lại mãi. Lỗi này có sửa đc ko ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.39273,
+         "id": "1020935",
+         "field_search": "question",
+         "question": "E đã mua 1 củdây cáp ở thế giới di độngMấy hôm nay sạc tự nhiên ko đcLiệu e có đc đổi cái khác ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.248302,
+         "id": "990563",
+         "field_search": "question",
+         "question": "TGDĐ tư vấn cho e xem điện thoại smart nào có màn hình 5-5.5inch, chạy mượt k lác, Camera sau trên 15MP, camera trước 8MP, Pin ổn và bộ nhớ trong trên 8GB, có khe cắm thẻ nhỡ tối đa 232GB, kết nối đc vs gậy tự sướng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.24274,
+         "id": "991839",
+         "field_search": "question",
+         "question": "Add cho e hỏi?? Mua trả góp lãi suất 0 trog 4 tháng ma mua online có được tặng gậy tự sướng k ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.106514,
+         "id": "1134216",
+         "field_search": "question",
+         "question": "e mua máy huwaei 3i mà h máy bi lỗi thì e có thể đổi lại oppo đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.062454,
+         "id": "999936",
+         "field_search": "question",
+         "question": "E gặp chút rắc rối với việc copy hình ảnh trong đt ss j7 prime qua máy tính. Anh chị có thể giúp e với đc k ạ 😓😓 chuyện là e có kết nối đt vs máy tính qua dây sạc . Nhưng khi vào my computer thì k thể tìm thấy hình ảnh trong đt mà nó chỉ hiển thị mấy cái tệp gì đâu k à??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.890347,
+         "id": "742130",
+         "field_search": "question",
+         "question": " Em xài điện thoại Wiko Bloom nhưng e không xài gậy tự sướng được có cách nào sử dụng gậy đựơc không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.796875,
+         "id": "1145041",
+         "field_search": "question",
+         "question": "Xin chào tgdd, Em có mua 1 chiếc laptop đã qua sử dụng. Máy có bị lỗi và em tới bảo hành nhưng đc vài hôm lại bị lỗi như vậy ạ. Tgdd cho e hỏi em có thể đổi trả máy đó  đc ko và cách tính giá như thế nào ạ ,e mua ngày 14/12/2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.785044,
+         "id": "1022471",
+         "field_search": "question",
+         "question": "Ad cho e hỏi.  E mua bộ dây+ sạc đt tại tgdd . Dung 1 time kđưt hay bị gi cả.  Mà dây ko sạc dc nưa.  Thê h e lên đổi dây khác dc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.661634,
+         "id": "995301",
+         "field_search": "question",
+         "question": "mua máy mobistar lai yuna x có đc tặng ốp lưng ko a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.629255,
+         "id": "1001349",
+         "field_search": "question",
+         "question": "Máy sony XA1 e mua đc 3tháng nhưng màn hình cảm ứng bị liệt  pin giống như muốn phù ( e ko cắm sạc chơi game ) . giờ e muốn bảo hành thì đi đâu bảo hành lấy liền đc ko vì e cần đt sài nên ko thể chờ mấy ngày đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.458464,
+         "id": "1163336",
+         "field_search": "question",
+         "question": "Em muốn mua đt dưới 3tr dung lượng tương đối nhiều sử dụng đc mxh mà ko giật vs lại xài lâu pin trâu thì nên mua máy nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.243338,
+         "id": "1140705",
+         "field_search": "question",
+         "question": "Cho e hỏi là ipad e ms mua ở tgdd đc hơn tháng, mọi ngày dùng vẫn bt và để vài ngày ko hết pin, mà hôm qua tự dưng máy nóng và tụt pin rồi tự sập nguồn là sao là mn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.214357,
+         "id": "1021958",
+         "field_search": "question",
+         "question": "Qtv ơi cho e hỏi. Máy e đang sử dụng ios11. Nhưng tự nhiên bây h ko kết nối đc với appstore nữa. Restart, thoát icloud ko đc. Mà bây h e ko cập nhật đc bản ios mới nữa. Nó cứ bảo là up to date mà ip của e cập nhật đều đều. Có phải là lỗi của ios11 hay ko ạ. Giúp e với ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.092894,
+         "id": "820963",
+         "field_search": "question",
+         "question": " Htc butterfly 2 không chup bằng gậy tự sướng đc à ad? Nếu đc hướng dẫn giúp mình với. Thanks Ad. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.066126,
+         "id": "1012432",
+         "field_search": "question",
+         "question": "mình mới đc tặng mã coupon 20k. ko biết có mua đc mã thẻ ko QTV? và mua thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.919188,
+         "id": "993784",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để chụp hình bằng gậy tự sướng với máy Oppo r831 ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.913383,
+         "id": "1143466",
+         "field_search": "question",
+         "question": "Máy em vừa chơi game vừa nghe nhạc ko đc liệu máy e đc bảo hành ko ạ em xài Oppo f9 ms mua ở trung tâm mình đc 4 tháng rồi ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.692875,
+         "id": "1011314",
+         "field_search": "question",
+         "question": "QTV cho e hỏi, dây phone của Em bây giờ nghe cứ chập chờn bên nùa nghe đc nhưng bên kia lại k nghe đc vậy có đc đổi lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.453764,
+         "id": "1004989",
+         "field_search": "question",
+         "question": "Hôm nay là ngày đóng hạn trả góp mà e tìm ko đc phiếu mua hàng, giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.31367,
+         "id": "809837",
+         "field_search": "question",
+         "question": "E sd ip6s Plus khi cắm dây sạc lightning vào máy thì máy thôq báo \"❕Cáp hoặc phụ kiện này k đc chứq nhận và có thể k hoạt độq ổn định vs ip này\" là sao ạk. E nên làm ntn?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.280075,
+         "id": "1007683",
+         "field_search": "question",
+         "question": "máy e là ss j7 prime bình thường máy e sạc nhanh, nhưng hôm nay sạc rất lâu nhưng ko đầy, thường e vẫn sạc 1 ổ điện đó, cũng là dây sạc đó nhưng sao sạc lâu hơn bình thường, e thấy sạc lâu quá ko đầy nên mới 60% e đã rút.vậy hãy hướng dẫn cách khắc phục và e rút máy khi chưa đầy vậy có bị gì ko ạ???(máy e mua đc 9 tháng r ạ!!!)E cám ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.261482,
+         "id": "1160164",
+         "field_search": "question",
+         "question": "Chuột mays tinh nhà em bị hư mua chuột không dây mới nhưng chuột này chỉ kết nối với máy tính bằng máy tính đc thôi Cho em hỏi  còn cách kết nối nào khác không ạ? ( nó không có thiết bị cắm vào máy tính để kết nối )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.142868,
+         "id": "1013745",
+         "field_search": "question",
+         "question": "Ád oi bây giơ còn áp dụng mua sao du phòng tặng  gậy tự sướng không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.07974,
+         "id": "1138797",
+         "field_search": "question",
+         "question": " Cho e hỏi nếu mua máy hôm trước hôm sau đổi trả lấy dòng máy khác thì có bị mất phí ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.036152,
+         "id": "991107",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua máy Acer B1 723 khoảng 7 tháng rồi mà mình mún đổi lấy máy khác và có thể đổi .mua máy cũ đc ko Imei",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.97014,
+         "id": "1156407",
+         "field_search": "question",
+         "question": "Mình mua máy samsung m20 vừa tròn 1 thang máy ko có vẫn đề gì. Nhưng mình muốn đổi trả để mua máy khác có đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.931637,
+         "id": "1147314",
+         "field_search": "question",
+         "question": "Nếu bây giờ em muốn đổi từ samsung j7 prime xài đc vài tháng hơi trầy ở mặt lưng đổi lấy iphone 6s plus cũ cũng đc thì phải mua một máy khác hay là mình bù thêm tiền để đổi ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.854027,
+         "id": "1138802",
+         "field_search": "question",
+         "question": "E muốn biết khi e mua ĐT ở tgdd thủ đức nhưng về phát hiện máy bị trục trặc vậy e có thể ra tgdd ở chỗ e đổi hoặc xử lý đc không hay phải ra tới tgdd ở thủ đức để đc xử lý",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.852303,
+         "id": "1021671",
+         "field_search": "question",
+         "question": "e đặt mua gậy tự sướng onl. thì nhận giao hàng nhanh hay lại cửa hành nhận ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.831532,
+         "id": "854622",
+         "field_search": "question",
+         "question": " MÁy tính em bị j vậy mà ko có vùng hiển thị wifi và mạng ko dây kết nối vs wifi ko vào dc mạng  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.82878,
+         "id": "1023205",
+         "field_search": "question",
+         "question": "Cho e hỏi, e mua máy asus zenphone live ngày 12/8/2017. Sau 1 khoảng thời gian sử dụng e cảm thấy ko phù hợp nên e muốn đổi trả lại có đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.78873,
+         "id": "938801",
+         "field_search": "question",
+         "question": "Máy e tự nhiên không khôi phục được touch id nút home thỉnh thoảng nóng ran máy e là máy mua đổi trả nhưng vẫn còn bảo hành 5 tháng vậy e có đc bảo hành này ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.758501,
+         "id": "1144034",
+         "field_search": "question",
+         "question": "Máy tính cũ của em xài office bình thường mà máy tính em ms mua office của e ko dùng đc nó cứ hiện lên thông báo phải đăng kí dịch vụ cái này là do ứng dụng đc cài đặt hay s ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.69695,
+         "id": "1167956",
+         "field_search": "question",
+         "question": "Cho e hỏi e mua con realmi 2 đc 6 ngày e đổi realme 3 đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.656248,
+         "id": "1166898",
+         "field_search": "question",
+         "question": "buổi tối mình sạc pin đt (SS A50 mới mua chưa đc 1 tháng) vẫn thấy hiện sạc nhanh 22%, xong để kệ đi ngủ, sáng 5h cầm điện thoại lên thì ko thấy sáng, ấn bật nguồn cũng ko đc. mình mang ra đổi lấy máy mới đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.636713,
+         "id": "828904",
+         "field_search": "question",
+         "question": "Cho e hỏi chút ạ e dùng j2 sao tối qua vẫn vào đc f mí cả messenger mà hôm sau ko vào đc mà trong khi đó vào zalo mí line vẫn đc mà vào f máy báo ko có kết lối mạng.e cập nhật lại xóa đi tải r mà vẫn ko vào đc. Liệu có phải do cài đặt gì ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.604088,
+         "id": "1148891",
+         "field_search": "question",
+         "question": "mình muốn mua mi band 3 có phiếu mua hàng 200k mình mua cùng máy mi a2 lite có đc trừ vào tiền máy ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.600163,
+         "id": "1000039",
+         "field_search": "question",
+         "question": "Mình tên Nguyễn Công Đức Cmnd 024898377 mình muốn bán lại máy J7 prime vừa mua đc ít hôm !! Mình muốn đổi máy J7 pro thì đc ko ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.469866,
+         "id": "1022144",
+         "field_search": "question",
+         "question": "Mình mua máy Nokia 5 này đc 2 tháng, nay ko muốn xài nữa nên muốn bán lại, TGDD có thu lại ko vậy? Và nếu đc thì lỗ khoảng bao nhiêu %? Hay là tùy theo chất lượng máy khi xem trực tiếp...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.457428,
+         "id": "1003666",
+         "field_search": "question",
+         "question": "cho e hỏi là máy của e là HTC Desire 626G sao không chụp được bằng gậy tự sướng thế ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.347115,
+         "id": "998425",
+         "field_search": "question",
+         "question": "máy e cứ bị liên tục mạng như vậy, k có kết nối mạng đc, tắt bật lại thì chỉ có đc 2phút lại bị mất mạng mà ko có lại. z là s ad? mới 2 hôm trước còn bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.178305,
+         "id": "998788",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua dt trả góp hôm qua. Trong 30 ngày nếu e muốn đổi thì e fai lạ cửa hàng đó hay bất kì cửa hàng nào cũng dc?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.086035,
+         "id": "1011311",
+         "field_search": "question",
+         "question": "Kết nối Bluetooth giữa máy samsung j3 vs tai nghe Bluetooth có dây thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.968842,
+         "id": "850691",
+         "field_search": "question",
+         "question": " E xài ip5s. Hôm qua e ngủ quên có để điện thoại kết nối Wifi suốt đêm mà ko xài ! Vậy điện thoại e có bị sao ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.901913,
+         "id": "1142177",
+         "field_search": "question",
+         "question": "mình muốn kết nối nokia2 với laptop qua dây usb để lấy ảnh ra. nhưng khi kết nối thì điện thoại chỉ có xạc không thể kết nối với máy được? xin hỏi phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.896385,
+         "id": "1016206",
+         "field_search": "question",
+         "question": "Cho e hõi e mua vivo 5s xài đc 2 tháng máy còn nguyên còn đũ phụ kiện sạc vậy bên tgdd có thu mua lại ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.8934,
+         "id": "989150",
+         "field_search": "question",
+         "question": "Mình mua sony xa1 xài mới hơn 1tháng mà bị lỗi cảm ứng ko bấm đc số 0 và chữ p.loa  có lúc ko nghe đc phải khởi động lại mới nghe đc.phím tăng giảm am lượng củng bị lỗi.đem ra thêgioididdong thì bảo vừa hết hạn đổi máy mới.mà đem về xài cũng ko đc.đem đi bảo hành thì xong chắc cũng đc vài bữa.vậy tgdd có thể đổi máy mới cho mình ko vi mới xài hơn 1tháng vừa hết hạn đổi máy mới.vi đây lài lỗi nhà sản xuất.bỏ tiền ra mua máy mà vậy mình ko hài lòng.mình ở tỉnh gia lai",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.824335,
+         "id": "995700",
+         "field_search": "question",
+         "question": "Em có mua một sơi dây sạc bên cửa hàng tgdđ hôm nay e sd e ghim sạc r sạc k vào nữa e rút ra thì cái đầu gắn bị đứt ra khỏi dây e mua khoảng 2 tháng r cho e hỏi như v có bảo hành cho e ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.740257,
+         "id": "1021010",
+         "field_search": "question",
+         "question": "Đth nokia 3 em mua chưa đc 1 tháng nhưng nó bị sập nguồn ko kở lên đc 2 lần rồi , máy em nó cũng bị nứt màn hình rồi nên ko đổi đc cái mới đúng ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.730007,
+         "id": "1008573",
+         "field_search": "question",
+         "question": "ad cho e hỏi. máy e đang sạc thì bị cháy cổng dây vs điện thoại. e đã gửi đi bảo hành.., jo nhận đc thông báo là k đủ điều kiện bảo hành. máy - dây sạc vẫn còn thời gian bảo hành... bên đó kêu dây sạc bị sỉ séc ?? ( dõ là dây sạc e mới mua chưa được 1 tháng ). khi máy bị cháy thì tất nhiên sẽ có sỉ séc rồi.... quả thực e rất khó chịu . bảo hành được hơn nửa tháng rồi, jo kêu dây sạc rỉ séc k bào hành... vậy nghe vô lý k ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.729557,
+         "id": "999848",
+         "field_search": "question",
+         "question": "Cho em hỏi mua máy củ ở tại trung tâm rồi muốn đổi qua dòng khác đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.68081,
+         "id": "1006804",
+         "field_search": "question",
+         "question": "E đang trong bảo hành mà muốn ra đổi máy láy lại tiền v có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.477482,
+         "id": "872267",
+         "field_search": "question",
+         "question": " Sao e zo facebook ko đc messenger cũng ko đc AD khắc phục giùm e vs  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.443056,
+         "id": "1002725",
+         "field_search": "question",
+         "question": "e mới mua j7 pr tgdd đc 2 tháng.e trả góp 4 tháng nhung trả đc 2 tháng rồi.giờ em muốn đổi sang xài iphon z e có đc đổi hay k.nếu đc thì e đổi tính phí như thế nào.mong anh chị tư vấn giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.408707,
+         "id": "1011832",
+         "field_search": "question",
+         "question": "Cho e hỏi tgdd có lại win ko ạ.máy e bị lỗi nhưng e ko mua máy ở tgdd vậy có đc sửa ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.33646,
+         "id": "1021944",
+         "field_search": "question",
+         "question": "mình có cài đặt iloud gmail cho con j7 pro mới mua. mà mình bị mất máy. vậy cho mình hoi mình có thể kết nối icloud bằng điện để tìm ra vị trí hay là khóa máy đc ko vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.329388,
+         "id": "995746",
+         "field_search": "question",
+         "question": "Cho e hỏi e mún trả lại máy samsung s8 mới mua đc 3 hôm ạ h e trả lại thì bị mất j ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.315044,
+         "id": "1159866",
+         "field_search": "question",
+         "question": "Mình muốn đổi máy redmi 5 plus lấy redmi 6 note pro đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.26823,
+         "id": "834787",
+         "field_search": "question",
+         "question": " Cho e hỏi. Là ip 5 hay 5s có đổi sang phiên bản Thái Lan được ko ạ, e đem máy đến cửa hàng làm cho e đc ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.267288,
+         "id": "1152368",
+         "field_search": "question",
+         "question": "Cho r hỏi. Máy iphone của e mua đc 5 ngày, nhưng ko bt tại s hôm nay zalo ô nhận được tin nhắn thoại (đeo tai nghe vào thì nghe đc. Ko đeo thì ko nghe) là do lỗi đt hay lỗi app ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.223307,
+         "id": "1139514",
+         "field_search": "question",
+         "question": " Em mới mua trả góp bên mình máy Oppo A3S mà giờ e muốn đổi sang máy khác ngang giá đc ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.21447,
+         "id": "1161349",
+         "field_search": "question",
+         "question": "E xài f9 mới mua đc 4ngay, trong mục tự động tắt màn hình, e cài là 2p, nhưng sau đó đc 3 4 tiếng hay có khi 1tiếng thì nó lại tự động trở về 15s là sao v ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.151506,
+         "id": "883645",
+         "field_search": "question",
+         "question": " Mình mới xoá cydia và bây giờ máy mình ko tải đc bất cứ ứng dụng nào từ appstore là sao vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.120361,
+         "id": "1141456",
+         "field_search": "question",
+         "question": "TGGĐ cho e hỏi Máy e mua lại bị thế này sửa đc ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.117708,
+         "id": "1167311",
+         "field_search": "question",
+         "question": "Mẹ tôi có mua máy samsum j4 của tgdd, mới sd dc 1 tháng đã mở loa ngoài khi gọi ko đc. Có đem ra tgdd chỉnh sửa j đc rồi, giờ lại hư y vậy. Xin hỏi tgdd có thu lại máy ko? Tôi muốn bán mua máy khác. Máy xài rât kỹ, ko rớt, ko trầy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.105196,
+         "id": "992765",
+         "field_search": "question",
+         "question": "Tgdd cho e hỏi. E mua máy samsung tab e trả gop tai tgdd giờ e có đc trả lại máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.08469,
+         "id": "999218",
+         "field_search": "question",
+         "question": "E muốn đổi máy hãng mobell nova S2 lấy máy hãng khác đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.077967,
+         "id": "1159173",
+         "field_search": "question",
+         "question": "Ss A50 e lâu lâu mở máy bị tối màn hình và giật giật như tivi bị lỗi giờ ra tgdd xem mà nó ko bị gì thì e có thể đổi lại máy a50 khác đc ko ? Hiện e đag trả góp chưa đc 10 ngày",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.035654,
+         "id": "1019629",
+         "field_search": "question",
+         "question": "Cho e hỏi pin y325 10.000mah có đi chung vs dây cáp k ạ? Tại hôm bữa e mua mà k thấy có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.994768,
+         "id": "998970",
+         "field_search": "question",
+         "question": "Mình mới mua cây sony XA đc 1 tháng. Dạo này xài nó cứ bị loạn cảm ứng. Lúc nghe gọi đt là nó loạn, mình ko thao tác đc bất kì gì như mở khoá, nhắn tin.. Etc. Ngoài ra trong lúc nghe gọi thì màn hình cứ tắt chớp mãi dù mình đã áp đt sát vào tai.  Làm thế nào để khắc phục nhỉ?!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.949385,
+         "id": "1147929",
+         "field_search": "question",
+         "question": "Dạ e mới mua j6 đc 2 tuần .giờ e muốn đổi lên j6 và thêm tiền đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.919909,
+         "id": "1162683",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi vs. Mình đang xử dụng tai nge bluetooth kết nối vs ip7 plusMình lỡ ấn vào quên “quên thiết bị này”Sau mình kết nối lại thỳ máy dò ko ra thiết bị bluetooth Mình dùng 1 số máy khác dò cũng ko thấy. Khởi động lại máy cũng lo đc. Mà kết nối với thiết bị bluetooth khác thỳ lại đc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.820202,
+         "id": "1010901",
+         "field_search": "question",
+         "question": "E dùng j7 prime khi tăng âm lượng thì máy tự hạ xuống tăng cách nào cx ko đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.816916,
+         "id": "801017",
+         "field_search": "question",
+         "question": "laptop em tự dưng kết nối wifi k đc ngta chỉ vô là ấn cái chỗ màu đỏ trong hình là đc mà máy e nó k ấn đc vào đó là sao chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.798695,
+         "id": "780394",
+         "field_search": "question",
+         "question": " Mình mua iphone 5s được tặng PMH laptop máy tính bảng 400k. Phiếu đó có sử dụng được khi mình mua MTB đổi trả ko QTV? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.739262,
+         "id": "1000200",
+         "field_search": "question",
+         "question": "Em có mua cái máy hàng đổi trả xài lâu lâu nó bị đứng và đơ hỏi em có thể đổi sản phẩm khác đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.671764,
+         "id": "1021832",
+         "field_search": "question",
+         "question": " giờ e đang ở vs cô chủ thì e lấy hóa đơn điện của cô chủ đc ko ak  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.668968,
+         "id": "994442",
+         "field_search": "question",
+         "question": "Cho em hỏi máy A37 lúc mấy ngày đầu em mới mua còn đỡ mấy hôm nay em thấy bắt mạng kém lắm em muốn đổi mới đc ko...em mua đc 10 ngày",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.38591,
+         "id": "766385",
+         "field_search": "question",
+         "question": "Quản trị viên ơi,Hôm qua e mới mua ip 5s tại cửa hàng.Mà sao k kích hoạt đc imeesger vs facetime bằng số của em đc ạ.mong qtv giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.346691,
+         "id": "879722",
+         "field_search": "question",
+         "question": "Hiện e đang sử dụng laptop Asus A540LJ i3, cho e hỏi pin có thể tháo rời ra khỏi máy ko ạ?. Nếu đc thì e có thể tháo pin ra đến khi cần thì mang theo để lắp vào máy, còn lúc ở nhà thì có thể vừa cắm điện vừa xài mà ko cần pin ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.33302,
+         "id": "921154",
+         "field_search": "question",
+         "question": "| Mod choa em hỏi, bh óc rất nhìu loại dây cáp ip 5 nhái. Theo như các mod thì nên mua cục sạt rin để xài cáp lõm, hay dùg cục sạt lõm xài cáp rin ( giá cỡ 2 - 300k, chính hãg thì mắc qá nên cũg hơi tiếc ). Ý của câu hỏi này là nên xài dây cáp ngon hay cục sạt ngon ??, vd như dây cáp ngon xài cục sạt giá tầm trug thế cóa bị hư hk, chứ em dùg cục sạt rin, xài 2 dây cáp 60k, sạt chưa tới 5 ngày đã hư. Nản hk nói đc",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

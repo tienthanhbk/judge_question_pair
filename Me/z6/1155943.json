@@ -1,0 +1,809 @@
+{
+   "id_query": "1155943",
+   "total": 10863,
+   "total_current": 100,
+   "max_score": 60.340286,
+   "origin_question": "Tạo Tài khoản ID Apple nhanh và hướng dẫn dùm với admin",
+   "hits": [
+      {
+         "score": 60.340286,
+         "id": "1155943",
+         "field_search": "question",
+         "question": "Tạo Tài khoản ID Apple nhanh và hướng dẫn dùm với admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.12892,
+         "id": "994115",
+         "field_search": "question",
+         "question": " Thế giới tạo tài khoản id apple dùm em được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.557253,
+         "id": "794546",
+         "field_search": "question",
+         "question": "Xin chào!Tôi có 1 câu hỏi rất mong được Thế Giới Di Động (TGDD) giải đáp giúp.Vợ tôi có mua 1 điện thoại IP6 plus tại TGDD,và cô ấy có nhờ nhân viên tao dùm tài khoản ID Apple,sau khi tạo thành công thì cô ấy lại không nhớ mật khẩu gmail đã đăng ký để xác minh tài khoản ID Apple.Tôi muốn đăng xuất tài khoản ID Apple hiện tại để tạo tài khoản mới nhưng không được.TGDD vui lòng hướng dẫn cho tôi cách xử lí trong tình huống này.Xin chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.385876,
+         "id": "836097",
+         "field_search": "question",
+         "question": "MÌNH MỚI MUA IPHONE 5S 16G BÂY GIỜ MÌNH MUỐN TẠO TÀI KHOẢN ID MỚI NHƯNG KHÔNG BIẾT CÁCH LÀM NHỜ MỌI NGƯỜI HƯỚNG DẪN MÌNH VỚI",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.23248,
+         "id": "989781",
+         "field_search": "question",
+         "question": "Cho mình hỏi tài khoản Apple id của mình ko tải được ứng dụng Apple của nhà phát triển như ITunes U thì phải làm thế nào. Mong admin xem hình hướng dẫn giúp mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.227152,
+         "id": "864904",
+         "field_search": "question",
+         "question": "Làm sao để tạo status dưới tên tài khoản??tôi thấy nhiều người trong frendlist có dòng status chạy dưới tên tài khoản zalo...xin hướng dẫn dùm mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.642282,
+         "id": "1147681",
+         "field_search": "question",
+         "question": "C hị bị mất mật khẩu ID apple và cũng muốn tạo ID mới nhưng không được. Dù chị đã làm theo hướng dẫn trên mạng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.395847,
+         "id": "778181",
+         "field_search": "question",
+         "question": " Tôi muốn tạo tài khoản ID Apple nhưng khong biết làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.150684,
+         "id": "846108",
+         "field_search": "question",
+         "question": " A chỉ giúp e Tạo tài khoản ID Apple mới với e mua máy cũ nên k biết phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.146288,
+         "id": "828867",
+         "field_search": "question",
+         "question": " Hướng dẫn cách tạo tài khoản email exchange cho điện thoại android 2.1 như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.505913,
+         "id": "811325",
+         "field_search": "question",
+         "question": " Mình tạo tài khoản ID Apple để tải ứng dụng tốn bao nhiêu vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.434046,
+         "id": "1007565",
+         "field_search": "question",
+         "question": "Tạo tài khoản ID Apple bị lỗi như vầy thì khắc phục ntn vậy ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.414545,
+         "id": "986793",
+         "field_search": "question",
+         "question": "Tại sao em tạo tài khoản ID Apple miễn phí đến bước đang tạo để là không thể tạo mới ID Apple.Kết nối yêu cầu thời gian.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.263323,
+         "id": "907929",
+         "field_search": "question",
+         "question": " Điện thoại iphone 4s của e quên tài khoản ID apple giúp e tạo lại đi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.148746,
+         "id": "812796",
+         "field_search": "question",
+         "question": "sau khi tạo tài khoản apple id Itunes & App Store xong, bước 2 điện thoại hiện lên hình như thế này thì phải làm sao đây, xin giúp đỡ dùm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.24107,
+         "id": "1163129",
+         "field_search": "question",
+         "question": "Hướng dẫn khắc phục lỗi điều khoản dịch vụ apple media trên appstore với ad ,giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.009117,
+         "id": "792372",
+         "field_search": "question",
+         "question": " Tôi mua máy cũ không biết tài khoản và mật khẩu ID apple bây giờ muốn tạo mới của mình thì làm như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.780064,
+         "id": "843507",
+         "field_search": "question",
+         "question": " Tại sao em tạo được tài khoản id apple mà khi đăng nhập vào để tải game thì không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.452642,
+         "id": "1163131",
+         "field_search": "question",
+         "question": "Khắc phục hướng dẫn giúp mình sửa lỗi điều khoản và điều kiện về dịch vụ apple media đã thay đổi với ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.417683,
+         "id": "760417",
+         "field_search": "question",
+         "question": "Admin hướng dẫn mình cài lại iPhone 4S sau khi iPhone 4S quên mật khẩu ( passcode ) mình đã xóa iPhone 4s trên tài khoản iCloud.com ( IP 4s mình đã jiailbreak và đang chạy iOS 8.4), hiện giờ mình khôi phục và cập nhật lại iOS 9.2 qua iTunes phiên bản mới nhất 12.3.2 không thành công, Admin hướng dẫn mình với, thanks !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.343346,
+         "id": "898375",
+         "field_search": "question",
+         "question": "Hi. Cho em hỏi tại sao em tạo tài khoản ID apple đăng nhập được vào app store và itunes mà lại không đăng nhập được icloud?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.342102,
+         "id": "919759",
+         "field_search": "question",
+         "question": " anh ơi, tại sao tài khoản itune store của e với tài khoản id apple lại khác nhau vậy anh.     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.008484,
+         "id": "743934",
+         "field_search": "question",
+         "question": "Tôi bị treo táo iPhone 4 nhưng tôi đã quên tài khoản ID Apple. Khi chạy chương trình lại thì không mở được máy vì không nhớ tài khoản iCloud.Cho hỏi bây giờ tôi phải làm sao? Mong anh chị hướng dẫn giúp tôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.735739,
+         "id": "1164494",
+         "field_search": "question",
+         "question": "E có tài khoản icloud nhưng e tải zing play về họ kêu e đăng nhập tài khoản itunes khi e tạo tài khoản itunes theo hướng dẫn của thế giới di động thì lại báo ko thể tạo tk lúc này,giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.476717,
+         "id": "840973",
+         "field_search": "question",
+         "question": "mình sử dung Iphone4 đã lâu nhưng khi mình tạo ID thì nhầm địa chỉ email và từ đó đến giờ thì mình không tài nào để tạo tài khoản ID nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.318886,
+         "id": "812215",
+         "field_search": "question",
+         "question": "Mình xác minh tài khoản id apple trên 1 cái máy tính bị nhiễm virus có sao không? Virus có xâm nhập qua tài khoản id apple đó và xâm nhập qua iPhone không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.21406,
+         "id": "858313",
+         "field_search": "question",
+         "question": "Cho em hỏi đăng xuất tài khoản id Apple cũ và đăng nhập tài khoản id apple mới mà không gỡ cài đặt các ứng dụng lúc trước tải bằng tài khoản của thì có thể tải ứng dụng bằng tài khoản mới được không ad, e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.06047,
+         "id": "856337",
+         "field_search": "question",
+         "question": " độ tuổi tối thiểu để tạo tài khoan ID apple là bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.966698,
+         "id": "806545",
+         "field_search": "question",
+         "question": " Ad có thể hướng dẫn dùm cách cài window 10 với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.847115,
+         "id": "764076",
+         "field_search": "question",
+         "question": "  Mình chưa có tài khoản Apple ID quản trị viên có thể cho mình xin tài khoản ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.689413,
+         "id": "768671",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi mình muốn copy danh bạ trong ip5 cần có tài khoản apple id nhưng làm sao mình tạo tài khoản đó đc ad có phải tài khoản đó là tài khoản icloud ko ad. ad giúp giùm em vs em cảm ơn ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.66019,
+         "id": "918473",
+         "field_search": "question",
+         "question": "Chào bạnMình đã đăng ký tài khoản ID Apple.Cũng đã vào email đăng ký xác nhận tài khoản, đã báo thành công nhưng vẫn nhận được thông báo tài khoản chưa được xác minh.Nhờ ad hướng dẫn mình cách xử lý.Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.642736,
+         "id": "1167057",
+         "field_search": "question",
+         "question": "Hướng dẫn cài 1 tài khoản messenger trên 2 điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.591063,
+         "id": "745398",
+         "field_search": "question",
+         "question": "E đã làm theo tất cả các bước hướng dẫn cài icluod và e nhận đc dòng thông báo \" Thiết bị này không còn đủ điều kiện để tạo một Icloud miễn phí nữa \" trong khi đó e đã dùng tài khoản email đễ tạo chứ ko phải chọn mục nhận tài khoản miễn phí .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.479553,
+         "id": "737358",
+         "field_search": "question",
+         "question": " Tôi muốn tạo tài khoản apple phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.454163,
+         "id": "961147",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình đã tạo được id apple và đã đăng nhập ok,nhưng khi mình tải đồ thì lại bắt mình nhập mật khẩu của tài khoản khác,như hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.415087,
+         "id": "807603",
+         "field_search": "question",
+         "question": " Khi tạo apple id mới thì ứng dụng và game trên apple id cũ còn không tgdđ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.287827,
+         "id": "804763",
+         "field_search": "question",
+         "question": " Tôi bị khóa tài khoản ID của máy iPhone 6S Plus giờ phải làm thế nào và làm cách nào để mở khóa học tạo tài khoản mới? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.28047,
+         "id": "574474",
+         "field_search": "question",
+         "question": " Xin AD hướng dẫn cách đăng xuất tài khoản Facebook Messenger trên iPhone? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.28047,
+         "id": "1009927",
+         "field_search": "question",
+         "question": "Hướng dẫn mở khóa xác minh tài khoản Google trên samsung j2 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.196802,
+         "id": "767033",
+         "field_search": "question",
+         "question": "Em mua iPhone cũ, máy chưa dính iCloud, vào App Store tải ứng dụng thì bắt đăng nhập, em không biết tài khoản ID Apple hiện có giờ em phải làm sao, em có thể tạo ID Apple mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.169058,
+         "id": "1022238",
+         "field_search": "question",
+         "question": "Dạ cho hỏi khi tạo tài khoản ID xong sao k hoàn tất và đăng nhập vào iTunes đc ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.112907,
+         "id": "813385",
+         "field_search": "question",
+         "question": " Làm thế nào để xác minh tài khoản ID Apple vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.095982,
+         "id": "743346",
+         "field_search": "question",
+         "question": " Tôi bị hack mất ID và mật khẩu Apple còn lại email cũ của tài khoản đó, tôi có thể lấy lại được tài khoản không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.059448,
+         "id": "811577",
+         "field_search": "question",
+         "question": " Mã quà tặng là gì trong lúc lập tài khoản ID Apple. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.048122,
+         "id": "756850",
+         "field_search": "question",
+         "question": " Làm thế nào để lập tài khoản ID Apple bằng iPhone? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.015034,
+         "id": "881865",
+         "field_search": "question",
+         "question": " Tại sao tôi không thể xác nhận tài khoản Id Apple ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.927536,
+         "id": "1160040",
+         "field_search": "question",
+         "question": "Chào Add, Mình đang thực hiện lấy lại mật khẩu Apple ID theo hướng dẫn của Add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.927471,
+         "id": "995178",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình bị quên mật khẩu ID Apple cách đây khoảng 1 tháng. Sau đó mình có làm gửi xác minh đến Apple và có yêu cầu chờ tài khoản hiện đang khóa vì lý do bảo mật và chờ xác minh.Nhưng 1 tháng nay không có hướng dẫn gửi về cho mình.Có cách nào để mình lấy lại được mật khẩu và mở khóa ID ko. Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.901014,
+         "id": "745056",
+         "field_search": "question",
+         "question": " Có ai có thể tạo dùm mình cái ID Apple mới không? Mình tạo hoài không được vì nó yêu cầu mã thẻ gì gì đó? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.897327,
+         "id": "1143712",
+         "field_search": "question",
+         "question": "Cho em hỏi khi nhân viên ở TGDĐ tạo tài khoản ID Apple cho mình là *****@gmail.com thì địa chỉ Gmail đó có tồn tại để sử dụng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.839571,
+         "id": "817147",
+         "field_search": "question",
+         "question": "admin cho em hỏi? có ai đó đã cố gắng thay đổi thông tin id apple của e không thành, và có thư gửi đến email tạo tk id apple của e thông báo vì điều đó, và bây giờ thì không hiểu sao id của em bị không tồn tại là sao? em có cách nào để khôi phục lại id apple của e k? e còn email tạo tk và số đt???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.807983,
+         "id": "808900",
+         "field_search": "question",
+         "question": " Làm sao xác nhận tài khoản id apple,và làm sao vào được đường liên kết trong email? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.736767,
+         "id": "813539",
+         "field_search": "question",
+         "question": " để xác minh tài khoản ID Apple thì mình phải làm gì ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.636215,
+         "id": "991885",
+         "field_search": "question",
+         "question": "cho em hỏi,em có mua máy cũ iphone 6 quốc tế, nhưng em ko tạo tài khoản icloud được do icon icloud trong phần cài đặt bị mờ nên ko bấm vô được, vậy làm sao để em có thể xóa tài khoản icloud cũ trước đó để lập tài khoản mới cho em được ạ? hướng dẫn em tạo tài khoản icloud mới đi ạ, e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.582033,
+         "id": "785396",
+         "field_search": "question",
+         "question": " Máy mình hết lượn tạo tài khoản icluod rôi ai tao hộ một tài khoản với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.560633,
+         "id": "999092",
+         "field_search": "question",
+         "question": "Nếu em tạo tài khoản id cloud mới thì mã thư tín là gì ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.49352,
+         "id": "792416",
+         "field_search": "question",
+         "question": "e restore máy rồi nhưng quên tài khoản ID apple active máy, e chỉ có tài khoản icloud thôi, co cách nào xóa tài khoản active đó ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.476023,
+         "id": "792819",
+         "field_search": "question",
+         "question": " Co tài khoản ID Apple mà vẫn không tải được game ứng dụng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.449337,
+         "id": "1148371",
+         "field_search": "question",
+         "question": "Giúp e vs ạ... ac chỉ e cách tạo lại tài khoản ID vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.433315,
+         "id": "754304",
+         "field_search": "question",
+         "question": " Mình có tạo 1 tài khoản apple cái phần mã vùng với điện thoại chính nhập làm sao vậy.có thể hỗ trợ mình không?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.416412,
+         "id": "748458",
+         "field_search": "question",
+         "question": " Cách tạo ID Apple trên iPhone 4 và 4S tải game chơi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.338396,
+         "id": "791647",
+         "field_search": "question",
+         "question": " Thế giới di động có tạo tài khoản Apple không vậy???Với lại tại sao ứng dụng Facebook trên ip không sử dụng được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.332603,
+         "id": "912403",
+         "field_search": "question",
+         "question": "Chào bạn. Mình không nhớ rõ mật khẩu id apple nên đăng nhập nhiều lần dẫn đến bị khoá tài khoản. Các bạn có các nào để giúp mình lấy lại tài khoản và mật khẩu không ạ,mình dùng iphone 6 plus, ios 10.1.1. Thaks bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.321077,
+         "id": "758873",
+         "field_search": "question",
+         "question": "  Tại sao tôi không xác minh được tài khoản id apple của mình? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.300072,
+         "id": "949574",
+         "field_search": "question",
+         "question": " Mình cái tài khoản app store mà ko đc hướng dẫn cho mình đc ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.296938,
+         "id": "746615",
+         "field_search": "question",
+         "question": " Tài khoản của tôi đã không nhớ rồi t phải làm gì để tạo tài khoản để tải game trong cửa hàng apple iphone 3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.294127,
+         "id": "763720",
+         "field_search": "question",
+         "question": " Làm sao để xác minh tài khoản ID Apple khi không có gmail ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.290707,
+         "id": "751615",
+         "field_search": "question",
+         "question": " Em tạo được ID Apple rồi nhưng nó phải xác nhận ID apple? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.269289,
+         "id": "1160769",
+         "field_search": "question",
+         "question": "Hủy lệnh xóa tài khoản zalo thì phải làm thế nào ? Vui lòng hướng dẫn giúp tôi vì tôi lỡ xóa nhầm tài khoản zalo ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.170553,
+         "id": "884766",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi Icloud và ID Apple mình dùng chung 1 tài khoản được ko vậy? Thanks Ad nhiều. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.148964,
+         "id": "803127",
+         "field_search": "question",
+         "question": " Cho em hỏi tài khoản khoản id appstore với tài khoản icloud khác nhau chỗ nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.13131,
+         "id": "853566",
+         "field_search": "question",
+         "question": "Quản trị viên ơi cho e hỏi: e đã tạo xong tài khoản ID APPLE rồi,đã xác nhận đồ xog rồi và có thể sử dụng nhưng khi em nhập vào để tải app thì nó cứ hiện là :\" ID Apple này chưa được sử dụng trước đây ở iTunes Store.Chạm vào xem xét để đăng nhập, sau đó xem xét thông tin tài khoản của bạn.\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.127796,
+         "id": "882732",
+         "field_search": "question",
+         "question": " Cho toi hoi Vào đường xác minh tài khoản id apple như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.127796,
+         "id": "747135",
+         "field_search": "question",
+         "question": " AD tạo dùm mình 1 cái  tài khoản Apple ID dùm !!! thank ad nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.09051,
+         "id": "986721",
+         "field_search": "question",
+         "question": "Khi mà e vô tạo ID Apple miễn phí thử máy báo là không kết nối được với ID Apple với lại không kết nối với máy chủ là zao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.068785,
+         "id": "758895",
+         "field_search": "question",
+         "question": "Ad hướng dẫn mình cách đăng ký tài khoản fifa 2016 trên điện thoại Note 4 bằng tài khoản Facebook với. Lần trước mình đăng nhập được nhưng giờ làm tương tự không vào được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.034245,
+         "id": "937093",
+         "field_search": "question",
+         "question": " Mình mới nhặt được iphone5 trên đường nhưng mở khóa tới đoạn Tài khoản id apple thì lại hông biết giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.005909,
+         "id": "995058",
+         "field_search": "question",
+         "question": " Khi đăng kí tài khoản id Apple thì bị như thế thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.005909,
+         "id": "918931",
+         "field_search": "question",
+         "question": " Cho em hỏi để mở khóa tài khoản ID APPLE làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.992783,
+         "id": "806287",
+         "field_search": "question",
+         "question": " Cho mình hỏi là khi tạo một apple id mới thì có mất ứng dụng và game của apple id cũ hay không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.976978,
+         "id": "843683",
+         "field_search": "question",
+         "question": " Tài khoản ID Apple bị vô hiệu hoá rồi giờ phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.966906,
+         "id": "1166512",
+         "field_search": "question",
+         "question": "Mình muốn đổi email trong tài khoản OPPO 11Pro, bạn hướng dẫn giúp mình . Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.959673,
+         "id": "1157773",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi tài khoản iCloud có bảo mật 2 lớp bị quên Mk.mình vẫn còn Sđt và tài khoản Gmail đăng ký iCloud.mình đã làm theo tgdđ hướng dẫn,đã nhập mã số 6 con số Apple gửi về sđt.có Thông báo là trước giờ này ngày mai sẽ có hướng dẫn gửi về tk gmail mình đăng ký iCloud nhưng 2 ngày rồi mà ko thấy gì.mong qtv giúp đỡ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.837835,
+         "id": "780309",
+         "field_search": "question",
+         "question": "Ad cho em hỏi sao máy của em muốn tạo một ID Apple mới mà máy bắt trả phí. . . có còn cách nào để thay tài khoản mà không mât phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.75706,
+         "id": "785394",
+         "field_search": "question",
+         "question": " Ai tạo hộ cái tài khoản app store với máy mình hết lượt tạo rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.7325,
+         "id": "781589",
+         "field_search": "question",
+         "question": " Trong iPhone 5s mình muốn thay đổi địa chỉ mail và pass trong tài khoản ID Apple và Icloud thì làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.678898,
+         "id": "827916",
+         "field_search": "question",
+         "question": " Sao tôi đăng ký tài khoản id apple sao không nhận được mật khẩu xác minh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.664518,
+         "id": "767948",
+         "field_search": "question",
+         "question": "iPad của em tự nhiên bị báo mất và tài khoản ID Apple của em bị hack. Hiện tại máy cứ yêu càu nhập ID để xóa iPad..em phải làm thế nào..ad giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.64492,
+         "id": "894074",
+         "field_search": "question",
+         "question": " Em làm thế nào để xác minh tài khoản ID APPLE ạ.Em dùng iPhone 3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.63664,
+         "id": "772238",
+         "field_search": "question",
+         "question": " Em muốn tạo tài khoản Apple cho iPhone 4s 16G thù phải làm thế nào ạ ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.624474,
+         "id": "758651",
+         "field_search": "question",
+         "question": "  Ai giúp với không tạo được tài khoản là sao? ai giải thích với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.623348,
+         "id": "903283",
+         "field_search": "question",
+         "question": " Làm cách nào để biết iPhone đã đăng nhập bao nhiều tài khoản id apple ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.623348,
+         "id": "763455",
+         "field_search": "question",
+         "question": " Tại sao tôi không đăng nhập được tài khoản ID Apple của máy iPhone 4s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.417477,
+         "id": "1146669",
+         "field_search": "question",
+         "question": "em chào ad,ad có thể hướng dẩn cách mở khóa tài khoản ID được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.414738,
+         "id": "991634",
+         "field_search": "question",
+         "question": " Cho em hỏi là em đã đăng nhập tài khoản ID Apple mới rồi khi cập nhật ứng dụng lại còn tài khoản cũ á? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.392984,
+         "id": "792013",
+         "field_search": "question",
+         "question": "Cho mình hỏi tí tài khoản icloud với tài khoản appstore trên mạng là 1 tài khoản đúng hok tgdđ tại lỡ tạo tài khoản icloud mà quên mất?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.372894,
+         "id": "828391",
+         "field_search": "question",
+         "question": " tạo ID apple như thế nào ạ                                         ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.36816,
+         "id": "858081",
+         "field_search": "question",
+         "question": "Cho hỏi cái tài khoản id apple do tgdd lập giờ ko nhớ mật khẩu thì lấy lại làm sao. Tài khoản là htkt.tdt9084@gmail.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.33171,
+         "id": "1166130",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại vivo ở thế giới di động sao về nhà e ko tạo được tài khoản wechat ạ. Anh chị biết chỉ dùm e với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

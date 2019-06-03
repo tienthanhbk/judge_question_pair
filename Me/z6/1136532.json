@@ -1,0 +1,809 @@
+{
+   "id_query": "1136532",
+   "total": 34732,
+   "total_current": 100,
+   "max_score": 161.00429,
+   "origin_question": "Cho e hỏi nếu mình thanh toán bằng thẻ vp bank để mua dt thì mình phải thanh toán hết ở bên trong thẻ luôn hay sao ạ tại thẻ e mới đăng kí nên có thể nào thanh toán bằng tiền mặc nhưng dc hưởng ưu đải khi có thẻ ko ạ",
+   "hits": [
+      {
+         "score": 161.00429,
+         "id": "1136532",
+         "field_search": "question",
+         "question": "Cho e hỏi nếu mình thanh toán bằng thẻ vp bank để mua dt thì mình phải thanh toán hết ở bên trong thẻ luôn hay sao ạ tại thẻ e mới đăng kí nên có thể nào thanh toán bằng tiền mặc nhưng dc hưởng ưu đải khi có thẻ ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.63462,
+         "id": "986310",
+         "field_search": "question",
+         "question": "Khi mua laptop bên mình, em thanh toán bớt 5 triệu bằng thẻ tín dụng mater card, còn lại thanh toán bằng tiền mặt. Bên mình có chiết khấu giảm giá khi thanh toán bằng thẻ tín dụng mater card không á.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.216034,
+         "id": "995051",
+         "field_search": "question",
+         "question": "tại sao ko kick thanh toán bằng thẻ atm internetbanking dc vậy e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 79.16458,
+         "id": "1016997",
+         "field_search": "question",
+         "question": "cho e hỏi bên mình có thanh toán bằng thẻ ngân hàng agribank k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 78.41312,
+         "id": "1168023",
+         "field_search": "question",
+         "question": "Cho em hỏi là khi mua hàng có thể thanh toán bằng thẻ atm dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 76.97638,
+         "id": "1024074",
+         "field_search": "question",
+         "question": " Có thể thanh toán bằng thẻ atm thường khi mua ở tgdd k bạn  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.57612,
+         "id": "1003832",
+         "field_search": "question",
+         "question": "cho toi hỏi, mua điện thoại online thì có thanh toán bằng thẻ mastercard đc ko? và sd thẻ đó có đc ưu đãi gì ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 75.126785,
+         "id": "1001860",
+         "field_search": "question",
+         "question": "Cho mình hỏi hiện mình đang thanh toán tiền hàng tháng cho Home Credit. Mình có thể thanh toán bằng cách quẹt thẻ tín dụng của BIDV được hay không ạ?Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.67129,
+         "id": "1020634",
+         "field_search": "question",
+         "question": " Cho e hỏi ở tgdđ có bán thẻ thanh toán tiền mặt k ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 74.551674,
+         "id": "1002196",
+         "field_search": "question",
+         "question": "Mua điện thoại ip7 thanh toán bằng thẻ mátercard được ưu đãi gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.892624,
+         "id": "988450",
+         "field_search": "question",
+         "question": "Cho mình hỏi thegioididong có hỗ trợ thanh toán bằng thẻ Visa ko?Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 72.76699,
+         "id": "1006211",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi, mua iphone 6S thanh toán bằng thẻ visa có được giảm như Mastercard ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.96229,
+         "id": "775940",
+         "field_search": "question",
+         "question": " Ad cho e hỏi tại sao e vào tạo idapple mà ko đc ak nó bắt thanh toán bằng thẻ tín dụng mà thẻ tín dụng thì e ko có ak? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.13378,
+         "id": "756389",
+         "field_search": "question",
+         "question": " Bạn ơi trang mình có hỗ trợ cái thanh toán bằng thẻ visa thêm vào itunes để mua mã thẻ không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.60939,
+         "id": "991471",
+         "field_search": "question",
+         "question": "Tôi muốn mua thẻ cào ngay bây giờ. Phương thức thanh toán bằng thẻ HOMECREDIT vào tháng này. Vì ngày 20 tôi mới đến hạn thanh toán tiền. Mỗi tháng tôi thanh toán là 504.000đ bây giờ tôi mua thẻ cào 100.000 thì đến ngày 20 tôi sẽ đóng với số tiền là 604.000đ, xin hỏi có được không? Mong trả lời trong thời gian sớm nhất.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.57303,
+         "id": "1001482",
+         "field_search": "question",
+         "question": "Tgdd làm ơn cho mình hỏi...mình mua hàng online ở nước ngoài cần thanh toán bằng thẻ visa...mình không có visa...tgdd có nhận tjanh toán không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.26204,
+         "id": "990719",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp.. Nhưng vì vấn đề công việc.. Em có thể thanh toán tiền hàng tháng bằng thẻ hay Viettel bankplus được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.0373,
+         "id": "992521",
+         "field_search": "question",
+         "question": " Cho em hỏi ở Thế giới di động có mua thanh toán bằng thẻ HSBC trả góp lãi suất 0 không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.582855,
+         "id": "1152875",
+         "field_search": "question",
+         "question": "minh muốn mua SS M20 bằng thẻ Amex của Vietcombank đc ko thanh toán 1 lần?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.96524,
+         "id": "996998",
+         "field_search": "question",
+         "question": "Chào bạn ! Bạn cho mình hỏi, mình muốn mua 1 sản phẩm bên cửa hàng. Khi thanh toán mình có thể vừa chạc thẻ và vừa thanh toán thêm tiền mặt 1 lúc được không vậy ? Cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.293106,
+         "id": "1014535",
+         "field_search": "question",
+         "question": "Mình làm mất cái thẻ trả góp.mình chỉ có hình chụp của cái thẻ có thể thanh toán được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.721115,
+         "id": "998963",
+         "field_search": "question",
+         "question": " Tôi mua trả góp j7 prime. Muốn thanh toán hàng tháng nhưng ko có thẻ gì hết. Giờ phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.450188,
+         "id": "1140220",
+         "field_search": "question",
+         "question": "xin chào!!! mình có thẻ tín dụng VP Bank Hạn mức 20tr! mình có thể dùng thẻ đó để quẹt mua sản phẩm XSMAX hay không!!hay phải trả trước bằng tiền mặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.080284,
+         "id": "767997",
+         "field_search": "question",
+         "question": "Cho mình hỏi.! Khi mua điện thoại iPhone 6 tại thế giới di động Cà Mau có nhận thanh toán bằng thẻ visa của ngân hàng Vietcombank không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.869225,
+         "id": "1151622",
+         "field_search": "question",
+         "question": "E muốn mua điện thoại onl nhưng muốn ngày mai nhận hàng thì ngày mai mới phải thanh toán hay là thanh toán luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.81875,
+         "id": "1005098",
+         "field_search": "question",
+         "question": "Cho tôi hỏi là mua IP6 32G mới,  thanh toán bằng thẻ MASTER sẽ  được khuyến mại 1,000,000. Thông tin được hiểu cụ thể là như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.065308,
+         "id": "1145405",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình muốn mua trả góp IpX 64GB bằng thẻ tín dụng VPBank, trong vòng 6 tới 12 tháng thì mỗi tháng phải trả bao nhiêu, hồ sơ thế nào? Và cách thức thanh toán trả góp ra làm sao, charge hết tiền một lần, hay mỗi tháng sẽ quẹt thẻ 1 lần?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.904118,
+         "id": "1143537",
+         "field_search": "question",
+         "question": "cho hỏi hiện tại mình đã đặt mau trả góp qua thẻ chiếc điện thoại Y7 Pro và đã trừ tiền trong thẻ nhưng mình chưa nhận điện thoại. nếu mình muốn đổi thành co Y9 2019 thì có phải thanh toán thêm gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.81958,
+         "id": "1150131",
+         "field_search": "question",
+         "question": "Chào shop. Tôi muốn hỏi hiện tại tôi muốn mua đt galaxy note 9 và thanh toán bằng thẻ master ( thẻ phụ) thì giá cuối cùng tôi phải trả là bn. Bản 128G",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.86996,
+         "id": "1169238",
+         "field_search": "question",
+         "question": "cho mình hỏi.mình muốn mua con A50.thanh toán qua thẻ ATM.bên mình có htro k nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.800175,
+         "id": "997596",
+         "field_search": "question",
+         "question": "E muốn Thanh toán trả góp thì e phải thanh toán ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.53886,
+         "id": "1159719",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn mua điện thoại và thanh toán bằng thẻ tín dụng HSBC, cty TGDĐ có là đối tác trong chương trình trả góp 0% lãi suất của HSBC không ạ không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.452595,
+         "id": "994400",
+         "field_search": "question",
+         "question": " tôi muốn mua đt, có thể sử dụng thẻ visa để thanh toán trực tiếp tại cửa hàng được k? xin hướng dẫn.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.09503,
+         "id": "1023327",
+         "field_search": "question",
+         "question": "Chào A/C TGDD, em muốn mua trả góp điện thoại cũ bằng thẻ tín dụng được không và nếu được thì hình thức mình thanh toán như thế nào ạ.Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.57479,
+         "id": "1000523",
+         "field_search": "question",
+         "question": "mình thanh toán mua hàng qua thẻ tín dụng tại thế giới di động thì có mất thêm phí gì khác nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.365284,
+         "id": "1163242",
+         "field_search": "question",
+         "question": "https://www.thegioididong.com/may-tinh-bang/samsung-galaxy-tab-a-101-t515-2019ưu đãi này mình đến shop thanh toán bằng thẻ nội địa được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.130966,
+         "id": "998083",
+         "field_search": "question",
+         "question": "E có mua thẻ cào va thanh toán bằng thẻ ATM internet banking và đã nhận được tin nhắn của thế giới di động gởi qua nhưng em vẫn chưa có sử dụng mà đã xóa bỏ tin nhắn đi rồi bây giờ em phải làm gì để có thể lấy lại được mã thẻ cào đó xin chỉ dùm em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.42573,
+         "id": "1139280",
+         "field_search": "question",
+         "question": "Mình mượn thẻ tín dụng của người khác để mua trả góp, nhưng chọn nhầm thanh toán ngay, vậy cho mình hỏi có hủy đơn để mua trả góp lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.314365,
+         "id": "999482",
+         "field_search": "question",
+         "question": "Cho tôi hỏi có thanh tóan được bằng thẻ tín dụng khi mua hàng ở tgdd không ? Thẻ FE credit",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.191654,
+         "id": "1135689",
+         "field_search": "question",
+         "question": "cho mình hỏi. Nếu như mình mua điện thoại nokia 1 cũ, có thanh toán bằng được bằng Zalopay. và được hưởng \"khuyến mại 50% nhưng >=250k vnd không\"?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.97884,
+         "id": "837460",
+         "field_search": "question",
+         "question": "Xin hỏi, tôi muốn mua ứng dụng trên app store nhưng lại không có các loại thẻ được hỗ trợ thanh toán. Vậy thegioididong.con có thể mua giúp tôi ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.84922,
+         "id": "1149557",
+         "field_search": "question",
+         "question": "E muốn thanh toán qua thẻ visa thì làm sao để biết cơ sở nào còn sản phẩm ạ? e muốn hỏi sản phẩm huawei nova 3 quanh khu vực mễ trì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.83721,
+         "id": "841748",
+         "field_search": "question",
+         "question": "thanh toán tiền trên ch play bằng viettel, lúc trước mình dùng được, nhưng từ khi mình khôi phục lại điện thoại, mình chọn thanh toán viettel nhưng báo lỗi \" không thể xác minh tài khoản của bạn\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.02589,
+         "id": "1164948",
+         "field_search": "question",
+         "question": "Em mới order điện thoại samsung Galaxy a7 mà không biết công ty đã lấy được tiền trong thẻ Mastercard của em chưa ? Và làm cách nào để kiểm tra xem đã thanh toán thành công ( em ở canada nên không biết kiểm tra bằng cách nào ) Cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.61776,
+         "id": "997874",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi mình có mua 1 cai ipad trả góp nhưng mình có sài tài khoản ebankinh mình muống thanh toán trực tuyến luôn, nếu thanh toán như vậy có vấn đề gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.287106,
+         "id": "1139463",
+         "field_search": "question",
+         "question": "Tôi mua thẻ đt Viettel lúc 21:28 online trên website của TGDĐ, thanh toán qua internet banking của VCB, tiền đã trừ ở tài khoản VCB mà tại sao tôi chưa nhận được mã thẻ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.15823,
+         "id": "1000989",
+         "field_search": "question",
+         "question": "toi dang sinh song o nuoc ngoaitôi muốn mua hàng teim của anh chị ...nhưng mà khi thanh toán tiền qua thẻ master carte thì ko được ...hay là không thu thế nước ngoài hà ....?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.104588,
+         "id": "1003385",
+         "field_search": "question",
+         "question": "Thanh toán mua hàng online: vì sao TGDD chỉ khuyến mãi thanh toán bằng Master card, trong khi đó Visa card van mua online tương tự được. Giống phân biệt đối xử.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.709343,
+         "id": "999836",
+         "field_search": "question",
+         "question": "e muốn hỏi e đợi ngày máy ra rồi mua trực tiếp tại cửa hàng thanh toán bằng tiền mặt thì sẽ được ưu đãi gì k vậy qtv sản phẩm samsung galaxy j7 pro ạ! thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.564804,
+         "id": "1020445",
+         "field_search": "question",
+         "question": "Cho mình hỏiMình vay tiền của VP Bank Minh trễ hạn 2 tháng nhưng đã đóng tiền lãi rồi còn tiền phạt mình chưa thanh toán, vậy tiền phạt thanh toán sau được không ạ? 1 tháng minh trễ hạn 4 ngày bị phạt 300 ngàn đồng, và ngân hàng cho qua tháng đó nhưng trong hệ thống của thế giới đi động vẫn co tiền phạt đóTrả lời giúp minh với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.54381,
+         "id": "758218",
+         "field_search": "question",
+         "question": "Cho em hỏi là khi em thanh toán tiền mua ứng dụng trên ios nhưng lại báo là phương thức thanh toán của bạn không được chấp nhận là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.58235,
+         "id": "1016987",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tại sao tôi đến thanh toán trả góp tại Thế giới di dộng ở Sài Sơn, Quốc Oai, Hà Nội mà lại không chấp nhận thẻ Visa của tôi? Trừ khi thẻ tôi quá hạn mức hoặc không có thiết bị quẹt thì không dùng được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.425617,
+         "id": "1152437",
+         "field_search": "question",
+         "question": "miband 3 còn chương trình mua thanh toán bằng zalo play dc giảm giá k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.89576,
+         "id": "1166304",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi. E vào chplay chọn phương thức thanh toán -> sử dụng thanh toán qua viettel telecom, nhưng máy lại báo lỗi là ko thể gửi tin nhắn sms để xác minh tài khoản. E lm gì để chọn được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.811848,
+         "id": "1153823",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đăng kí mua Ip X màu bạc đã thanh toán qua ATM nhưng mình muốn đổi sang mau đen thì có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.565716,
+         "id": "1006515",
+         "field_search": "question",
+         "question": "Ad cho hỏi, mua online thanh toán bằng Visa có được giảm giá như Master card ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.49798,
+         "id": "894000",
+         "field_search": "question",
+         "question": " Tại sao tài khoản app store của mình ko có phần none ở thanh toán vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.450146,
+         "id": "1139690",
+         "field_search": "question",
+         "question": "em định thanh toán xiaomi mi 8 lite 6/128 bằng zalo pay nhưng bị rớt mạng nên chưa kịp quét mã QR, sau khi vào lại thì e nhận được thông báo là \" số điện thoại này đã tham gia chương trình \" nên không thể tiếp tục thanh toán được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.347347,
+         "id": "1016124",
+         "field_search": "question",
+         "question": "cho mik hỏi muốn biết số tiền thanh toán trả sau máy tính bảng hawer 8.0 đăng ký mua trả góp bằng sdt 0982208509 thì tìm ntn mới biết đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.815823,
+         "id": "997029",
+         "field_search": "question",
+         "question": "Cho hỏi bên công ty có chấp nhận thanh toán tiền bitcoin không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.511223,
+         "id": "1167434",
+         "field_search": "question",
+         "question": "Mình có.mua 1 chiếc thẻ cào điện thoai bằng thẻ matercard hệ thống báo là đã mua thanh công ma khing thấy gui mã thẻ về cho minh ạ sdt 0969519000",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.509823,
+         "id": "844149",
+         "field_search": "question",
+         "question": "Mình không xác minh thông tin thanh toán được mà nó cứ hiện liên hệ support, mình dùng loại Visa ảo trustcard. Hay chắc apple không chấp nhận thẻ visa ảo?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.345387,
+         "id": "965358",
+         "field_search": "question",
+         "question": "Làm sao tạo itunes mà không cần thẻ visa, master card... tải app miễn phí để tạo itunes mà không có chọn phương thức thanh toán là \"none\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.160103,
+         "id": "767161",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình muốn tạo ID apple mới nhưng vào hình thức thanh toán lại ko có hình thức khác thì phải làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.943893,
+         "id": "766050",
+         "field_search": "question",
+         "question": "Bạn ơi giúp mình với, khi mình lập tài khoản ID Apple mà khi hỏi phương thức thanh toán, máy của mình không hiện chứ không để bỏ qua cái phần thanh toán đó thì làm sao bây giờ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.814747,
+         "id": "1010444",
+         "field_search": "question",
+         "question": "AD cho mình hỏi tại sao mua thanh toán online không được vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.35381,
+         "id": "1001542",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình thanh toán muộn tiền trả góp thì phí trả ntn bạn nhỉ? Tháng sau mình thanh toán cả 2 tháng thì vẫn áp dụng chính sách trả góp như bình thh đúng ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.180107,
+         "id": "1001505",
+         "field_search": "question",
+         "question": "Xin chào TGDD, mình vừa thanh toán hóa đơn điện tháng này trên website của TGDD, vậy cho mình hỏi mình muốn hóa đơn thanh toán thì mình ra TGDD in lại có được hay không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.12607,
+         "id": "1158006",
+         "field_search": "question",
+         "question": "A cj ơi cho e hỏi e mua cái thẻ đt  bằng thẻ ATM nhưng nó k ghi hiệu lực ...nên làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.72694,
+         "id": "1154999",
+         "field_search": "question",
+         "question": "Xin hỏi nếu mình đặt chuyển sản phẩm cũ về cửa hàng gần mình thì mình thanh toán phí giao hàng trước đúng không? Thanh toán như thế nào? Nếu mình ra xem sản phẩm, không vừa ý có bắt buộc mua không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.71649,
+         "id": "1001344",
+         "field_search": "question",
+         "question": "Xin chào ad  Cho e hỏi  muốn thanh toán online thì phải làm sao vấy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.55311,
+         "id": "1002544",
+         "field_search": "question",
+         "question": "Mình muốn hỏi về trá góp thẻ tín dụng... ví dụ nếu hạn mức thẻ 30tr mà mình mua sản phẩm 35 tr mình có thể thanh toana 5tr tiền mặt và trả gopa 30tr còn lại k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.02509,
+         "id": "1157982",
+         "field_search": "question",
+         "question": "Mua trả góp  hộ khẩu cmnd gốc  là bên bán giữ cmndhk tới khi nào thanh toán xong tiền đt rồi trả hay s ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.92024,
+         "id": "1009265",
+         "field_search": "question",
+         "question": "Cái này là có thật k vậy ??? Nếu trúng  thì tổng tiền thanh toán là 124k ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.423813,
+         "id": "1137947",
+         "field_search": "question",
+         "question": "Cho mình hỏi chút mình muốn mua 1 máy điện thoại tầm 5 triệu 500 .mà mình lại có thẻ thanh toán của .thấy nhân viên của   home credit nói là mua máy dưới 10 triệu đồng là được giảm gần 1 triệu đồng có đúng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.142036,
+         "id": "797332",
+         "field_search": "question",
+         "question": "Tôi muốn tạo tài khoản mới trên ID Appe trên iPhone 5s trên mục thanh toán thẻ máy tôi lại chỉ có 3 mức là : visa,mastercard,AmeX ,không có mục 4 là không,giờ để đăng ký đc tài khoản mà không đúng thế thì tôi phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.140476,
+         "id": "1140146",
+         "field_search": "question",
+         "question": " CHO MÌNH HỎI VỀ CHÍNH SÁCH GIẢM 250K KHI THANH TOÁN ZALO PAY Ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.791393,
+         "id": "1140112",
+         "field_search": "question",
+         "question": "đối với sản phẩm\" \" giá 255000 vnđ , khi thanh toán bằng zalopay được giảm giá 50% thì trong ví zalopay của tôi cần 255000 vnđ hay 130000vnđ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.711452,
+         "id": "1000690",
+         "field_search": "question",
+         "question": "e bịp mất mã số hợp đồng và số điện thoại thì giờ phải làm sao để thanh toán trả góp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.538082,
+         "id": "1140138",
+         "field_search": "question",
+         "question": " mua hàng thanh toán online,giờ hủy đơn thì có được hoàn tiền không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.520863,
+         "id": "1157957",
+         "field_search": "question",
+         "question": "Cho hỏi, nếu tôi mua  điện thoại theo hình thức trả góp 6 tháng, nhưng nếu sao  đó tôi thanh toán đủ 1 lần số tiền nợ thì như thế nào? có mất thêm phí hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.385815,
+         "id": "781709",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp ipad mini 2 cho mình hỏi số tiền trả góp mỗi tháng mình thanh toán ở đâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.229305,
+         "id": "1156383",
+         "field_search": "question",
+         "question": "Shop ơi cho e hỏi nếu mình mua trả góp bằng thẻ visa thì hình thức như thế nào ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.927685,
+         "id": "1018994",
+         "field_search": "question",
+         "question": "Bên mình có hỗ trợ thanh toán trả góp cho ngân hàng M Crecdit k ạh.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.876377,
+         "id": "998772",
+         "field_search": "question",
+         "question": "Mình mới mua trả góp 1 cái điện thoại sony trong 6 tháng vậy mình không muốn góp nữa mà muốn thanh toán hết có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.762478,
+         "id": "1023455",
+         "field_search": "question",
+         "question": "nếu em thanh toán hợp đồng củ thì có thể mua trả góp lại liền được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.749172,
+         "id": "1011928",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tại sao tôi phải thanh toán trả góp ở ngân hàng và bưu điện mà k phải ở tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.725746,
+         "id": "1021489",
+         "field_search": "question",
+         "question": "Mua hàng trực tiếp tại Thegioididong và thanh toán bằng ứng dụng Samsung Pay được không bạn ? Thegioididong có áp dụng hình thức này chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.432236,
+         "id": "1011912",
+         "field_search": "question",
+         "question": "Có thể kiểm tra giúp mình stk 201702270008210Nếu bây giờ mình ra thanh toán hết số tiền vay để chấm dứt hợp đồng thì mình đóng gộp hết là bao nhiêu tiền ạk. Mong phản hồi để mình biết ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.241688,
+         "id": "1139817",
+         "field_search": "question",
+         "question": " Không biết khi mua máy giảm giá rồiMà mình thanh toán qua zaloplay có giảm nữa ko nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.20233,
+         "id": "759625",
+         "field_search": "question",
+         "question": "Shop cho mình hỏi , mình muốn mua IP6 S Plus 128 GB , thì bên Shop có gói trả góp 0% , trả trước 30% thanh toán trong từ 6 - 9 tháng không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.928833,
+         "id": "998445",
+         "field_search": "question",
+         "question": "E muốn mua trả góp nhưng ỗ e giờ  dùng thẻ card để thu tiền điện chứ ko dùng hóa đơn.vậy e có thể thay bằng giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.924023,
+         "id": "1139823",
+         "field_search": "question",
+         "question": " Cửa hàng có máy iphone xs củ k ạ nếu có cho mình xin giá và cách thức thanh toán ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.208485,
+         "id": "998728",
+         "field_search": "question",
+         "question": "Minhf thanh toan mua thẻ đt lúc 2251 mà ko thấy gửi mã thẻ về",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.149372,
+         "id": "867571",
+         "field_search": "question",
+         "question": "Giúp e vs ạĐăng kí Id iPhone 5s nó bắt buộc phải ghi mã dự thưởng mới dcE đã chọn cách thanh toán là ko nhưng nó vẫn bắt điền mã dự thưởng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.00322,
+         "id": "1146638",
+         "field_search": "question",
+         "question": "Cho e hỏi sam sung note 8 bên mình có cho trả góp bằng thẻ tín dụng không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.948658,
+         "id": "1019034",
+         "field_search": "question",
+         "question": "EM HIỆN ĐANG THAM GIA TRẢ GÓP CỦA NGÂN HÀNG FE.CÒN 2 THÁNG NỮA LÀ E HẾT KỲ THANH TOÁN, NHƯNG GIỜ EM MUỐN THANH LÝ NHANH HỢP ĐỒNG ĐỂ TIẾP TỤC THAM GIA MUA,NHƯNG VẤN ĐỀ LÀ MỌI GIẤY TỜ CỦA EM ĐANG TRONG THỜI GIAN LÀM LẠI,VẬY CHO EM HỎI SẴN HỒ SƠ ĐÓ E CÓ THỂ TIẾP TỤC MUA DC KHÔNG Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.798855,
+         "id": "822655",
+         "field_search": "question",
+         "question": " Nếu phương thức thanh toán trên tài khoản id Apple không có chữ không thì làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.583237,
+         "id": "905891",
+         "field_search": "question",
+         "question": " Cho mình hoi làm sao thiết lập tảo khoản thanh toán trên appStore ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.53311,
+         "id": "921652",
+         "field_search": "question",
+         "question": "Ae em tạo ip Apple trung quốc thì trong mục thanh toán có chữ none thì em chọn cái đó em điền đầy đủ Thống tin thì bị lỗi nó ghi truy cập https://support.apple.com/itunes để được giải quyến và chữ none trong mục thanh toán mất luôn thì làm sao em tạo ip Apple ko cần visa đây ad",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,809 @@
+{
+   "id_query": "999273",
+   "total": 22223,
+   "total_current": 100,
+   "max_score": 39.534763,
+   "origin_question": "Thẻ 16gb giá bây h là bn vậy ạ??????????????????????????????????????????,",
+   "hits": [
+      {
+         "score": 39.534763,
+         "id": "999273",
+         "field_search": "question",
+         "question": "Thẻ 16gb giá bây h là bn vậy ạ??????????????????????????????????????????,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.998365,
+         "id": "1161845",
+         "field_search": "question",
+         "question": "bh e thay vỏ và màn hình ngoài của ip6s plus 16gb giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.602846,
+         "id": "830231",
+         "field_search": "question",
+         "question": " Ad cho e hỏi iPhone 5s 16gb giá bn ạvà trả góp cần những đk nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.44676,
+         "id": "1015464",
+         "field_search": "question",
+         "question": "E ms mua thẻ nhớ 16gb h trả lại dc k. Mong hồi đáp sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.69449,
+         "id": "1158411",
+         "field_search": "question",
+         "question": ". điện thoại của em là nokia 3 , bây giờ em gắn thêm thẻ nhớ 16GB vào muốn làm bộ nhớ trong thì làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.200308,
+         "id": "1168154",
+         "field_search": "question",
+         "question": "Dạ cho tôi hỏi là Huawei y6 prime tôi bán lại là bn ms sài 1 năm đổi oppo a3s 16gb bù bn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.553188,
+         "id": "1133712",
+         "field_search": "question",
+         "question": "mk mua máy có win bản quyền ở tgdđ bây h muốn cài lại win thì cửa hàng có hỗ tợ cài lại k ạ. phí bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.205571,
+         "id": "1004961",
+         "field_search": "question",
+         "question": "Cho em hỏi mình mua thẻ nhớ 16gb tại cửa hàng tgdđ có đc mua với giá 150k kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.01224,
+         "id": "1150131",
+         "field_search": "question",
+         "question": "Chào shop. Tôi muốn hỏi hiện tại tôi muốn mua đt galaxy note 9 và thanh toán bằng thẻ master ( thẻ phụ) thì giá cuối cùng tôi phải trả là bn. Bản 128G",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.851143,
+         "id": "769108",
+         "field_search": "question",
+         "question": " Em hỏi iPhone 4 16gb có giá là bao nhiêu tiền ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.481625,
+         "id": "1134991",
+         "field_search": "question",
+         "question": "Giờ thay màn hình a5 giá bn vậy ạ bên tgdd có thay ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.470991,
+         "id": "1022209",
+         "field_search": "question",
+         "question": "E đag sd samsung galaxy tab3, có lần e lỡ nhấn vào phần khôi phục cài đặt gốc nên h e ko biết phải lm sao để khôi phục s đt của e vs các bn, e cx ko thể gọi hay nhận đc điện thoại của các bn khác, giống như là máy của e bị xóa mất s đt rồi, lm sao bây h ạ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.358662,
+         "id": "765677",
+         "field_search": "question",
+         "question": "  Cho em hỏi hiện tại ở TGDĐ giá iPhone 4S 16Gb là bao nhiêu vậy nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.267736,
+         "id": "998419",
+         "field_search": "question",
+         "question": "Nếu em mùa điên thoại bên mình mà mang thiếu tiền.Hôm sau ra mua thẻ nhớ đươc giảm giá k ạ?Nếu đuwoc thì bn ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.239424,
+         "id": "798724",
+         "field_search": "question",
+         "question": " Giá iphone 5s đen bản 16gb giá bao nhiêu vậy trả góp đc không?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.234707,
+         "id": "996132",
+         "field_search": "question",
+         "question": "Sim vinaphone bán kèm theo máy,  nhưg máy mìh mua chưa đc 1 thág  thì bây h mih có thể mua sim đc ko,  mog bn tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.114854,
+         "id": "1144321",
+         "field_search": "question",
+         "question": "Cho e hỏi còn iphone 7 plus cũ k ạ ! Và giá bên mình là bn ạ ! Máy 32gb ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.10297,
+         "id": "1021119",
+         "field_search": "question",
+         "question": "Cho e hỏi máy samsung galaxy grandprime của e có thể hỗ trợ. bao nhiêu gb ạ và giá tiền của thẻ nhớ 16gb và 32gb hiện nay ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.069705,
+         "id": "999599",
+         "field_search": "question",
+         "question": "giá đt sony xz pruni giá bây giờ là bao nhieu vậy ban ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.985216,
+         "id": "997494",
+         "field_search": "question",
+         "question": "Cho mình hỏi là cái samsung j2 prime của mình có gắn cái thẻ nhớ 16gb vào nhưng lúc mình download game thì nó lại bảo là không đủ dung lượng, điện thoại đã kết nối với thẻ nhớ, và thẻ nhớ còn đúng 16gb chưa sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.954493,
+         "id": "1020748",
+         "field_search": "question",
+         "question": "Em đang sử dụng galaxy tab3, e lỡ nhấn vào phần cài đặt lại máy, h e mở lại thì lại mất sđt trong sim, lm sao bây h ạ?hm, ý e là, khi mở lại máy thì e ko gọi đc, mí bn gọi cho e cx ko nghe đc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.9307785,
+         "id": "1145446",
+         "field_search": "question",
+         "question": "Cua hang có bán iphone 6 plus cũ k vậy có bán thì giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.869662,
+         "id": "1022495",
+         "field_search": "question",
+         "question": "dạ.cho e hỏi h e mún mua samsung galaxy a5 2016 trả góp thì e phải trả trước bn ạ.và trả góp hàng thang bao nhiu ạ.e có thẻ sinh viên z trả góp có lãi suất k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.8093605,
+         "id": "1016886",
+         "field_search": "question",
+         "question": "Cho mình là sim 2 với thẻ nhớ cho máy samsung galaxy J5 Prime có giá là bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.807484,
+         "id": "1012101",
+         "field_search": "question",
+         "question": "Em mới mua trả góp máy đk 7 ngày h có chuyện thanh lý bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.742252,
+         "id": "1022301",
+         "field_search": "question",
+         "question": "Huawei gr5 mini giá bn ạ. Mk xem lệch giá hm trc mua. Hay bjo giá tăng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.741111,
+         "id": "788543",
+         "field_search": "question",
+         "question": " Cho hỏi hiện giờ giá iphone6 16gb mới còn bao nhiêu vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.703767,
+         "id": "913561",
+         "field_search": "question",
+         "question": "Anh cho e hoi e mới mua 6 thường 16gb duoc 1 hom e thay bin cũng xuong rat nhanh và xuống ntn la binh thương vậy ạ néu trong 5p xuống bn phần trăm là bt ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.624798,
+         "id": "1161159",
+         "field_search": "question",
+         "question": " cho em hỏi h đt e còn bảo hành  mà làm bể màng hình thì chi phí thay màn hình là bn ạ  máy e là ss 8sphus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.611006,
+         "id": "902523",
+         "field_search": "question",
+         "question": " Ad cho e hỏi mả thư tín là bn vậy ạ ....................................  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.594428,
+         "id": "801232",
+         "field_search": "question",
+         "question": " Cho hỏi điện thoại iPhone 4S 16GB giá bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.578367,
+         "id": "1160397",
+         "field_search": "question",
+         "question": "Ip7s giá bn ạ và trả góp thì ntn ạ , jjsjsjsjsjxvfndnffjfjfjfjfjfj",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.480204,
+         "id": "1006480",
+         "field_search": "question",
+         "question": "cho mình hỏi thu lại iphone 6s 16GB giá bao nhieu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.434019,
+         "id": "1020842",
+         "field_search": "question",
+         "question": "Em đang dùng j3 2016. Em vừa gắn thẻ nhớ 16GB vào máy nhưng máy vẫn báo là dung lượng bộ nhớ sắp đầy. Là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.319191,
+         "id": "996085",
+         "field_search": "question",
+         "question": "khoảng 2 năm trước em có mua 1 thẻ nhớ 16gb của Transcend  ở TGDD. Bây giờ thẻ bị hư ( thẻ có định dạng RAW không thể sử dụng) nhưng em không thấy trên thẻ có tem bảo hành. xin hỏi em có được hỗ trợ bảo hành không. SDT khi đăng kí bảo hành của em là 0982414315. tên Trương Trọng Nhân.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.175459,
+         "id": "1142296",
+         "field_search": "question",
+         "question": "Cho mình hỏi chi nhánh 32 nào có dán cường lực cho xiaomi mi A2 lite vậy? giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.173728,
+         "id": "1164971",
+         "field_search": "question",
+         "question": "Cho em hỏi là bây h nên chọn samsung A50 hay A6 thì tốt hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.158662,
+         "id": "1147399",
+         "field_search": "question",
+         "question": "Bên cừa hàng có kinh doanh dt xiaomi redmi note 5 pro Ko vậy và nếu có thì giá hiện tại là bn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.96949,
+         "id": "772178",
+         "field_search": "question",
+         "question": " Con iPhone 5s màu trắng hay màu gold không vậy giá bây giờ là bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.955477,
+         "id": "792841",
+         "field_search": "question",
+         "question": "Em mới mua iphone 6s plus gray 16gb hồi tháng 1. bây giờ em muốn bán. Bên mình có mua lại máy không ạ. Mua được với giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.9508915,
+         "id": "1142656",
+         "field_search": "question",
+         "question": "Ad e mua máy oppo a3s phiên bản 16g mà bây h dung lượng bên trong hết rùi làm cách nào để chuyển ứng dụng game qua thẻ nhớ ko ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.874048,
+         "id": "816594",
+         "field_search": "question",
+         "question": " Có 1 loại iPad Air 2 3G 16GB không shop, giá là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.795604,
+         "id": "1164290",
+         "field_search": "question",
+         "question": "Cho em hỏi cách giải mã thẻ sd trên điện thoại đã khôi phục cài đặt gốc với ạ. Trước đó e có mã hóa thẻ sd trên điện thoại sau đó e khôi phục cài đặt gốc máy bây h muốn giải mã và khôi phục lại thẻ sd thì phải làm sao ạ. Máy e là samsung galaxy a8 2018. Mong anh chị giúp đỡ ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.778305,
+         "id": "1007863",
+         "field_search": "question",
+         "question": "e cso máy oppo f1s 2017 ms mua chỗ mk hơn tháng thì h bán lại dc tầm bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.74501,
+         "id": "1134526",
+         "field_search": "question",
+         "question": "ad cho e hỏi hiện h con Samsung s8 cũ giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.701717,
+         "id": "1150822",
+         "field_search": "question",
+         "question": "cho hỏi là con redmi note 7 khi nào về và mức giá khoảng bn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.697403,
+         "id": "753930",
+         "field_search": "question",
+         "question": "Hiện tại thegioididong chi nhánh quận Bình Thạnh, TP. HCM còn hàng iPhone 5s 16GB Gold không ạ, giá khoảng bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.642735,
+         "id": "754656",
+         "field_search": "question",
+         "question": " Cho mình hỏi giá cái Gmate cho thẻ sim của iphone giá bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.537254,
+         "id": "1018731",
+         "field_search": "question",
+         "question": "bên mình có ip 6 lock không ạ? nếu có thì giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.484238,
+         "id": "782961",
+         "field_search": "question",
+         "question": " Cách chuyển ứng dụng điện thoại Oppo neo 5 16Gb sang thẻ nhớ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.465319,
+         "id": "1137005",
+         "field_search": "question",
+         "question": " Thế giới di động ơi cho hỏi thẻ vinagame là thẻ gì vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.458079,
+         "id": "1157854",
+         "field_search": "question",
+         "question": "Mình có oppo f9 mua từ 2312019  bây giờ muốn đổi sang oppo f11 phải trả bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.390217,
+         "id": "1149451",
+         "field_search": "question",
+         "question": "Cho e hỏi là e có con samsung A8 bây h e mún đổi qua ip7plus có được kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.336621,
+         "id": "1017860",
+         "field_search": "question",
+         "question": "Mình tham gia chương trình mua hàng online được giảm giá của thẻ nhớ 16Gb nhưng mình lỡ tay xóa tin nhắn xác nhận rồi giờ phải làm sao để nhận được hàng. Tin nhắn báo là ngày 1 có thể đến cửa hàng nhận thẻ nhớ. Ad tư vấn giúp với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.308005,
+         "id": "945851",
+         "field_search": "question",
+         "question": " cho em hỏi thay pin iPhone 5s giá bn ạ.. có phải đợi lâu không hay lấy luôn ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.303366,
+         "id": "1016313",
+         "field_search": "question",
+         "question": "Hiện tại tôi muốn bán lại samsung a9 pro 2016 thì giá bn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.302365,
+         "id": "1001425",
+         "field_search": "question",
+         "question": "Ad ơi bên minh có bán đt xaomi not3 với htc 9 k?.. nếu bán giá bn vậy..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.284624,
+         "id": "1002974",
+         "field_search": "question",
+         "question": "E mới mua đt ss galaxy j2 prime, em mua cả thẻ nhớ 16gb ùi ạ. E có chụp ảnh. Nhưng khi e vào bộ sưu tập để xm ảnh thì máy cứ bảo là không thể mở bộ nhớ ùi bảo vào phần bộ nhớ ạ. Thẻ nhớ 16gb mà cn trống rất nhiều...tại sao máy lại nz ạ. M.n tư vấn cho e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.247524,
+         "id": "1002497",
+         "field_search": "question",
+         "question": ".........Admin cho mình hỏi Pin iphone 5 có giá bn nhỉ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.228231,
+         "id": "1147890",
+         "field_search": "question",
+         "question": "Em xài oppo a3s 16GB có thể nâng cấp bộ nhớ trong hoặc mua thẻ tăng dung lượng được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.193285,
+         "id": "995387",
+         "field_search": "question",
+         "question": "cho e hỏi , e muốn mua tai nge iphone thì giá tiền bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.15137,
+         "id": "883140",
+         "field_search": "question",
+         "question": " E mua iphone 4s có dung lượng là 12.6 GB vậy nó là phiên bản 16GB phải không ạ...?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.094634,
+         "id": "1158834",
+         "field_search": "question",
+         "question": "em đang có cái laptop mà nó rất lag nên cho e hỏi. Bây h em mún nâng cấp ram và ssd. Bây h e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.092485,
+         "id": "998748",
+         "field_search": "question",
+         "question": "Mình muốn bán lại j7 2016 đang còn mới chưa lỗi gì và giá khoảng bn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.0890255,
+         "id": "999815",
+         "field_search": "question",
+         "question": "cho em hỏi e mua máy iphone5s tháng 10 năm ngoái giừ bá để lên 6 có được không ạ được  thì giá bán đc là bn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.057391,
+         "id": "1021920",
+         "field_search": "question",
+         "question": "điện thoại của mình có thẻ nhớ 16GB, đã chuyển hết các ứng dụng trò chơi, nghe nhạc, chụp ảnh.... có thể chuyển sang thẻ nhớ vậy tại sao máy lúc nào cũng báo là hết dung lượng lưu trữ. Mình đang dùng dòng máy Huawei.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.005043,
+         "id": "987693",
+         "field_search": "question",
+         "question": " Em cần thay màn hình 6s plus, ở tgdd có thay không ạ? nếu thay thì giá bn ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.005043,
+         "id": "1157915",
+         "field_search": "question",
+         "question": "Add cho e hỏi,bên mình có iphone X 64gb củ k ạ?giá Bn ạ?em cam ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.984767,
+         "id": "1019793",
+         "field_search": "question",
+         "question": "Cho em hỏi là oppo f1w của e sao bây h nói chuyện đt hay bất cứ hoạt động gì có micro là nc bên kia ko nghe rõ vậy ạ. Khi nói lớn thì vẫn nghe ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.9688835,
+         "id": "1009850",
+         "field_search": "question",
+         "question": "Đã đặt mua thẻ nhớ 16GB với tên Huy và SĐT là 0932845581, lấy hàng ở TGDĐ Châu Thị Kim, TP. Tân An, có hàng không ạ? Khi nào lấy được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.930189,
+         "id": "1138369",
+         "field_search": "question",
+         "question": "cho em hỏi giá xiaomi mi a2 bây giừo là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.924286,
+         "id": "1147663",
+         "field_search": "question",
+         "question": "Cho mình hỏi là bên bn có gậy chống rung ĐT không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.909413,
+         "id": "801471",
+         "field_search": "question",
+         "question": " iphone 5 16gb hoặc 32gb giá bao nhiêu tiền ạ cho em thông tin được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.879915,
+         "id": "994011",
+         "field_search": "question",
+         "question": "tôi có đặt 1 thẻ nhớ 16gb nhưng hôm nay tô bận nên cửa hàng có thể giữ đến mai đc kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.860549,
+         "id": "1007410",
+         "field_search": "question",
+         "question": "Cho em hỏi là sony xa em mua hơn 3 thg rii vậy cho e hỏi bn lạy bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.836623,
+         "id": "1165444",
+         "field_search": "question",
+         "question": "Cho em hỏi  giá  a8 star hiện  bây  giờ  là  bao nhiêu  vậy và  em muốn đặc hàng online thì  có  được  giảm  giá  không??  Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.831052,
+         "id": "1168169",
+         "field_search": "question",
+         "question": "cho mình hỏi là con Samsung s7 edge thay man hình hết bn tiền vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.814151,
+         "id": "1147751",
+         "field_search": "question",
+         "question": "máy tính e tự nhiên hiện lên đường kẻ ngang trên màn hình, bây h phải lm sao ạ. Máy e là Acer",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.747473,
+         "id": "1024463",
+         "field_search": "question",
+         "question": "ở đây dán kính cường lực 5.5 inch hết bn tiền vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.733052,
+         "id": "856748",
+         "field_search": "question",
+         "question": " iPhone 4s bây giờ giá bao nhiêu vậy ad, liệu dùng có tốt nữa không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.726678,
+         "id": "762871",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 5s 16gb màu gold tgdd thu lại giá bao nhiêu ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.718919,
+         "id": "1007854",
+         "field_search": "question",
+         "question": "ho em hỏi điện thoại của em bị vào nước và bị hỏng main .điện thoại của em là lenovo a6600 plus.cho em hỏi giá của nó là bn tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.712562,
+         "id": "1139209",
+         "field_search": "question",
+         "question": " Thẻ nhớ 64 gb giá bào nhiu vậy ,gắn vào đỉnh thoại đc khong ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.705878,
+         "id": "1140517",
+         "field_search": "question",
+         "question": "Oppo a83 16gb dung lượng ít quá giờ em muốn chuyển ứng dung tai về sang thẻ nhớ có đk k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.649606,
+         "id": "1166767",
+         "field_search": "question",
+         "question": "iphone 6s 16gb bản bạc giá bao nhiệu ạ? mua trực tuyến cố được khuyến mãi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.64033,
+         "id": "995244",
+         "field_search": "question",
+         "question": "cho mình hỏi cửa hàng còn iphon 5s màu vàng không.? và giá sản phẩm bây giờ là bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.639565,
+         "id": "1021913",
+         "field_search": "question",
+         "question": "Cục sạc oppo f1s hư sạc ko vô giờ mua cục sạc mới có ko ạ..giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.609516,
+         "id": "996463",
+         "field_search": "question",
+         "question": "mình mua cap iphone ở shop bây h muốn xem thời hạn bảo hành thì làm thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.5919,
+         "id": "1117024",
+         "field_search": "question",
+         "question": " Cho em hỏi appe bảo ios 12 bản chính thức ngày 179 ms có mà bây h máy em đã cập nhật đx là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.553517,
+         "id": "1151555",
+         "field_search": "question",
+         "question": "Bây h mình muốn mua laptop có card đồ họa mx150 chip i5 trở lên cofee lake càng tốt ạ.  Bên mình còn hàng như vậy ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.548917,
+         "id": "1145585",
+         "field_search": "question",
+         "question": "cho e hỏi samsung a8 2018 giá bn ạ?bên mình có chương trình khuyễn mãi gì k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.52373,
+         "id": "761831",
+         "field_search": "question",
+         "question": " Điện thoại Samsung Galaxy J5 của mình dùng được thẻ 32G đúng không? giá thẻ là bao nhiêu ? có giao hàng tận nơi không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.513273,
+         "id": "1022139",
+         "field_search": "question",
+         "question": "Thgioididong có mua lại máy không ạ . e có máy mobiistar liệt 40 c.ứng nếu có mua lại thì giá bn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.501951,
+         "id": "1166631",
+         "field_search": "question",
+         "question": "Bây h em quên mật khẩu máy realme c1 thì lấy lại bằng cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.49586,
+         "id": "999743",
+         "field_search": "question",
+         "question": "Bên mình có bán tai nghe của máy htc m10 evo k ạ? Và nếu có thì giá bn ạ? E ở Đà Nẵng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.476793,
+         "id": "1140546",
+         "field_search": "question",
+         "question": "Cho e hỏi e muốn dán cường lực j7 prime ở mình giá bn ạ, có bảo hành k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.475699,
+         "id": "1003338",
+         "field_search": "question",
+         "question": "Iphone 6 plus 16GB mới giá bao nhiêutôi cần máy mới 100",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.450814,
+         "id": "996752",
+         "field_search": "question",
+         "question": "chào chị, em mới mua 1 cái máy mobiistar zumbo j sáng nay bây h em ra đổi sam sung j2 prrine có mất tiền k vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.445302,
+         "id": "998467",
+         "field_search": "question",
+         "question": "Bộ nhớ trong của samsung j7 pro là bao nhiêu vậy? 16Gb hay 32Gb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.441076,
+         "id": "1162535",
+         "field_search": "question",
+         "question": "Em mua con samsang A10 bửa đc 3 ngày rồi giá 2tr790, bây h muốn đổi sang em redmi note 7 thì làm thế nào và bù bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

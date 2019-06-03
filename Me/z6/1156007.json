@@ -1,0 +1,809 @@
+{
+   "id_query": "1156007",
+   "total": 29481,
+   "total_current": 100,
+   "max_score": 45.865467,
+   "origin_question": "Thế giới di động có màn hình điện thoại sony z3 thay không ạ",
+   "hits": [
+      {
+         "score": 45.865467,
+         "id": "1156007",
+         "field_search": "question",
+         "question": "Thế giới di động có màn hình điện thoại sony z3 thay không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.655056,
+         "id": "997350",
+         "field_search": "question",
+         "question": "Thế giới di động có thay màn hình iphone 7 plus không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.412445,
+         "id": "988946",
+         "field_search": "question",
+         "question": "Thế Giới Di Động có thay màn hình iphone 5 không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.297934,
+         "id": "833579",
+         "field_search": "question",
+         "question": " Xin hỏi thế giới di động có thay màn hình ip 5s không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.852167,
+         "id": "766788",
+         "field_search": "question",
+         "question": " Ở thế giới di động có thay pin cho điện thoại iphone 4s không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.755281,
+         "id": "995625",
+         "field_search": "question",
+         "question": "thế giới  di động có dịch vụ sữa chữa điện thoại sony ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.566721,
+         "id": "830916",
+         "field_search": "question",
+         "question": " bên thế giới di động có nhận thay màn hình của iphone ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.558847,
+         "id": "1000240",
+         "field_search": "question",
+         "question": "ad cho mình hỏi thế giới di động có thay màn hình xiaomi m4 không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.533094,
+         "id": "1022283",
+         "field_search": "question",
+         "question": "bên thế giới di động có nhận thay màn hình laptop asus không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.395258,
+         "id": "781605",
+         "field_search": "question",
+         "question": " Bên thế giới di động mình không thay màn hình iphone 4? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.130903,
+         "id": "997064",
+         "field_search": "question",
+         "question": "Mình cần hỏi ở thế giới di động có thay màn hình ngoài k ạĐiên thoại one e8 bị bể màn hình ạThay màn hình giá khoảng bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.955536,
+         "id": "1133588",
+         "field_search": "question",
+         "question": "màn hình điện thoại oppo f7 2018 giá bao nhiêu vậy thế giới di động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.94154,
+         "id": "758234",
+         "field_search": "question",
+         "question": " Hiện nay Thế giới di động có thay màn hình laptop asus 14 inch không, giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.820726,
+         "id": "782883",
+         "field_search": "question",
+         "question": " Laptop em ko mua ở thế giới di động thì có thay được màn hình ở đây không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.792274,
+         "id": "756518",
+         "field_search": "question",
+         "question": " Thế giới di động có nhận sửa điện thoại không? iPhone 5 của mình nó bị hở màn hình. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.750046,
+         "id": "1164849",
+         "field_search": "question",
+         "question": "Chổ thế giới di động có thay màn kính samsung m20 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.741993,
+         "id": "1006197",
+         "field_search": "question",
+         "question": "Thay kính  màn hình j2 prime bao nhiêu tiền vậy thế giới di động,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.736153,
+         "id": "776883",
+         "field_search": "question",
+         "question": " Xin hỏi thay màn hình cảm ứng, máy iphone 6 giá bao nhiêu, và thế giới di động có thay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.395025,
+         "id": "1146921",
+         "field_search": "question",
+         "question": "Chào bạn.Cho mình hỏi đt asus mình mua bên thế giới di động,nhưng hiện tại máy đang bị lỗi màn hình cảm ứng,theo mình biết thì thế giới di động không hỗ trợ thay thế màn hình cảm ứng.Vậy cho  mình hỏi co cách nào thế giới di động hỗ trợ mình thay thế không nhỉ?thời gian mất bao lâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.364191,
+         "id": "1154738",
+         "field_search": "question",
+         "question": "Smart LG 32 in thay màn hình hết bao nhiêu vậy thế giới di động?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.058498,
+         "id": "794931",
+         "field_search": "question",
+         "question": " Cho hỏi pin sony m4 có thay pin được không khi pin bị hư.. Và thế giới di động có thay không..cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.044369,
+         "id": "1003306",
+         "field_search": "question",
+         "question": "thế giới di động có sửa điện thoại không vậy ?,,,,,,,,,,,,,,,,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.006617,
+         "id": "1155591",
+         "field_search": "question",
+         "question": "Bên thế giới di động có hỗ trợ dán màn hình cho laptop không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.93607,
+         "id": "993902",
+         "field_search": "question",
+         "question": "Thế giới di động có miếng dán màn hình oppo f1s không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.625277,
+         "id": "991874",
+         "field_search": "question",
+         "question": " Máy em mua ở Thế giới di động được 1 năm rồi. Mà giờ bị hư màn hình, Thế giới di động có thu lại không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.612534,
+         "id": "1001797",
+         "field_search": "question",
+         "question": "Mình muốn thay pin cho điện thoại xiaomi mi4 thế giới di động có hỗ trợ được không ạ .. nếu được thì thay vào khoảng bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.60423,
+         "id": "1142800",
+         "field_search": "question",
+         "question": "Thế giới di động có bán dán màn hình cho galaxy watch không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.571804,
+         "id": "1142834",
+         "field_search": "question",
+         "question": "bên thế giới di động có nhận sửa điện thoại Sony Xperia Z4 không ạ/điện thoại mình bật nguồn lên hiện logo Sony xong rồi lại tự tắt đi bật lại cứ như thế mãi . đấy  là bị hỏng gì ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.55456,
+         "id": "807907",
+         "field_search": "question",
+         "question": "Máy iPhone 5S của mình màn hình có chấn đen và có dòng kẻ ngang, Như vậy có phải màn hình hỏng rồi không? muốn thay thế màn thì thế giới di động có thay thế không? Giá cả thế nào? mong được chỉ giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.523947,
+         "id": "999070",
+         "field_search": "question",
+         "question": "hình thức trả góp điện thoại bền thế giới di động như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.478565,
+         "id": "988051",
+         "field_search": "question",
+         "question": "cho hỏi thế giới di động có thu mua điện thoại cũ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.45785,
+         "id": "1160446",
+         "field_search": "question",
+         "question": "Bên Thế giới di động có thay pin oppo f1s không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.363308,
+         "id": "1003976",
+         "field_search": "question",
+         "question": "Ad ơi ở thế giới Di động có hỗ trợ thay màn hình Samsung galaxy s3 2014 không vậy .và giá bao nhieu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.187428,
+         "id": "1018762",
+         "field_search": "question",
+         "question": "Thế Giới Di Động có bán dây sạc điện thoại Oppo Neo 7 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.115015,
+         "id": "782863",
+         "field_search": "question",
+         "question": " Thế giới di động có dán màn hình laptop 14 inch không ạ. Và có bảo hành không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.083714,
+         "id": "1013965",
+         "field_search": "question",
+         "question": "cho mình hỏi thế giới di động có bán điện thoại bản lock không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.880743,
+         "id": "1000710",
+         "field_search": "question",
+         "question": "cho e hỏi .. điện thoại e samsung galaxy j7 prime bị rớt bể màn hình ... nhưng còn cảm ứng được ... cho e hỏi . thới giới di động có thay màn hình không .. nếu có thì bao nhiêu vậy ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.778904,
+         "id": "748732",
+         "field_search": "question",
+         "question": " Cho em hỏi ở thế giới di động mình có thay pin điện thoại iphone 4. không? Mà nếu có thì giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.749538,
+         "id": "1155713",
+         "field_search": "question",
+         "question": "Thế giới di động có hỗ trợ root máy sony Android khong ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.702494,
+         "id": "1139900",
+         "field_search": "question",
+         "question": "Cho e hỏi bên thế giới di động có bán điện thoại hiệu coolpad không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.698076,
+         "id": "1021196",
+         "field_search": "question",
+         "question": "Thế giới di động hỗ trợ onl như... họ rứa ad.nhân viên đang bận khang là sao? Mà cho e hỏi miếng dán màn hình điện thoại ở thế giới di động bảo hành sao z ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.452463,
+         "id": "999825",
+         "field_search": "question",
+         "question": "Em muốn bán sony z3 d6653 ạ, bị vỡ màn hình liệt 1 nửa, từng thay màn hìnhCấu hình chắc chắn như ban đầu, không thay đổi gì cả, dùng 90% vẫn tốt. Xin cho em giá với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.370409,
+         "id": "1165788",
+         "field_search": "question",
+         "question": "mình muốn bán điện thoại cũ không biết bên thế giới di động có nhận mua máy cũ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.345951,
+         "id": "1135362",
+         "field_search": "question",
+         "question": "Cho e hỏi thế giới di động có bán điện thoại cũ ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.333893,
+         "id": "1016818",
+         "field_search": "question",
+         "question": "E mới mua điện thoại Sony Xperia L1 ngày 10.8.2017 giờ e trả lại thế giới di động rồi e bù tiền vô lấy điện thoại khác được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.276266,
+         "id": "1013367",
+         "field_search": "question",
+         "question": "Thế giới di động mua điện thoại cũ ko nhỉ ?????????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.272476,
+         "id": "1153451",
+         "field_search": "question",
+         "question": "Cho em hỏi thế giới di động có bán máy điện thoại sharp k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.236717,
+         "id": "996461",
+         "field_search": "question",
+         "question": "Mình mua điện thoại trả góp ở thế giới di động có bán lại được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.085037,
+         "id": "1018807",
+         "field_search": "question",
+         "question": "Cho e hỏi, mk mua điện thoại ở thế giới di động nầy mà qua quán thế giới di động khác bảo hành đc ko ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.025915,
+         "id": "837248",
+         "field_search": "question",
+         "question": " Thế giới di động có thay pin iphone không vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.978222,
+         "id": "999655",
+         "field_search": "question",
+         "question": "chào add...cho em hỏi thế giới di động có nhận mua lại điện thoại cũ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.936121,
+         "id": "1018397",
+         "field_search": "question",
+         "question": "Cho hỏi là thẻ nhớ có bán tại các tiệm điện thoại di động không hay phải vào thế giới di động mới mua được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.912235,
+         "id": "1162482",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở thế giới di động có thay pin cho iphone 7 không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.897156,
+         "id": "1143705",
+         "field_search": "question",
+         "question": "Điện thoại oppo neo 5 sài 3 rồi bị  rè loa  ngoài giờ thế giới di động có thay loa được  ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.892246,
+         "id": "781637",
+         "field_search": "question",
+         "question": " Cho tui hơi THẾ GIỚI DI ĐỘNG có sửa laptop sony vaio không vậy QTV??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.684319,
+         "id": "850150",
+         "field_search": "question",
+         "question": " nếu thay pin iphone thì khoảng bao nhiêu? thế giới di động có thay pin không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.633917,
+         "id": "994204",
+         "field_search": "question",
+         "question": "Cho em hỏi ở Thế giới di động có còn bán điện thoại Iphone 6s Plus 32GB không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.608986,
+         "id": "991633",
+         "field_search": "question",
+         "question": " Tôi cần mua điện thoại trả góp, lên trên Thế Giới Di Động mua được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.595644,
+         "id": "1135076",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại realme 2 có bán trên toàn bộ cửa hàng thế giới di động không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.584951,
+         "id": "1017674",
+         "field_search": "question",
+         "question": "Giá thay màng hình Nova i7 còn bảo hành ở Thế giới Di Động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.57558,
+         "id": "1001702",
+         "field_search": "question",
+         "question": "cho em hỏi là ở thế giới di động có dán skin màn hình dum khách hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.529491,
+         "id": "1018269",
+         "field_search": "question",
+         "question": "điện thoại của e chỉ bể màn hình thôi sao bên thế giới di động báo giá lại cho e là 2600, trong khi đó giá trị điện thoại chỉ 2100",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.496138,
+         "id": "1021603",
+         "field_search": "question",
+         "question": "Cho hỏi bên thế giới di động có card màn hình chiến tốt mọi game mà giá  cả phải chăng không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.474354,
+         "id": "786801",
+         "field_search": "question",
+         "question": " Thế giới di động có bọc màn hình laptop không?Và có dịch vụ hậu mãi gì đi kèm không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.455355,
+         "id": "837077",
+         "field_search": "question",
+         "question": "cho e hỏi , máy ip6 của e bị vỡ màn hình có thể ép m.hình được nhưng so với ép và thay màn hình cái nào tốt hơn ạ ? và nếu e muốn mang tới thế giới di động để thay thì giá cả thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.418644,
+         "id": "1136381",
+         "field_search": "question",
+         "question": "Điện thoại oppo f5 mình đang dùng bị tróc sơn mình muốn thay vỏ mặt sau của điện thoại bên mình có đc k điện thoại mình mua ở thế giới di động.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.413984,
+         "id": "825934",
+         "field_search": "question",
+         "question": "Tại sao thế giới di động lai buôn bán kiểu vậy.tôi có đến thế giới di động mua iPhone 5s màu gold 32gb. Nhưng sao lại bán điện thoại xách tay chứ .Thế giới di động ở Bến Cam.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.410423,
+         "id": "998932",
+         "field_search": "question",
+         "question": "máy sony XA của tôi bị sọc màn hình đã bảo hành nhiều lần đề nghị đổi máy sony khác sao ko được, chứ máy sony đó bị có tùy là sọc màn hình qài mà không cho đổi, chán qá, tui không tin dùng nữa của thế giới di động nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.406754,
+         "id": "778374",
+         "field_search": "question",
+         "question": "Ad ơi cho hỏi tôi có mua máy laptop Acer tại thế giới di động giờ bị bể màn hình có thay được không; bàn phím bị kẹt nhiều nút có sửa được không và có nâng cấp win 8 bản quyền lên win 8.1 ở thế giới di động được không? cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.340303,
+         "id": "1013106",
+         "field_search": "question",
+         "question": "Em mua laptop ở thế giới di động..vậy thế giới di động có bảo dưỡng.vệ sinh laptop không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.288162,
+         "id": "1137023",
+         "field_search": "question",
+         "question": " Ở thế giới di động có thay pin samsung note 5 ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.285582,
+         "id": "1011265",
+         "field_search": "question",
+         "question": "Cần bán 1 điện thoại Samsung Galaxy A6. Thế giới di động có thu lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.216553,
+         "id": "1155779",
+         "field_search": "question",
+         "question": "dạ cho em hỏi bên thế giới di động có thay pin cho laptop hãng dell không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.18999,
+         "id": "992908",
+         "field_search": "question",
+         "question": "tôi muốn mua sạc điện thoại J5ngoài thế giới di động tại Long an có bán không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.131544,
+         "id": "1014458",
+         "field_search": "question",
+         "question": "Điện thoại của tôi hiện vẫn đang trả góp từ thế giới di động nhưng bị rơi nứt màn hình tôi có thể đổi mới chiếc đt được không ? Và bằng cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.076298,
+         "id": "1013953",
+         "field_search": "question",
+         "question": "thế giơí di động  dán màn điện thoại bao nhiêu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.06015,
+         "id": "1163821",
+         "field_search": "question",
+         "question": "Xin chào Thế Giới Di Động, cho em hỏi là ở Phú Quốc có chỗ nào bán điện thoại samsung m20 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.056463,
+         "id": "800163",
+         "field_search": "question",
+         "question": " Thế giới di động mình có xuống phần mềm 9.1 không ạ .e nỡ nâng điện thoại iPhone 4s lên 9.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.016758,
+         "id": "1162913",
+         "field_search": "question",
+         "question": "Em có mua một cái máy galaxy a9 ở thế giới di động bị rơi vỡ màn hình, và đang có bảo hành rơi vỡ 6 tháng vậy em muốn thay màn hình mới có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.989029,
+         "id": "1135407",
+         "field_search": "question",
+         "question": "  cho e hỏi là màn hình  của máy Asus ZenFone 4 ZE554KL bên thế giới di động có k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.977024,
+         "id": "996167",
+         "field_search": "question",
+         "question": "Em múôn hỏi là.  Em mua máy ở thế giới di động gìơ em muốn bán lại máy lại cho thế giới di động.  Điện thoại em còn bảo hành ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.976444,
+         "id": "1004282",
+         "field_search": "question",
+         "question": "Thế giới di động cần thơ có thay mặt kính Lenovo A5000 không ạ?_Và giá nếu co ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.93285,
+         "id": "1022153",
+         "field_search": "question",
+         "question": "Ad cho hỏi sony Xa có dán full màn hình trước ko ad sao em đi 2 tiệm thế giới di động cũng ko có dán kiểu bo lại hai bên ấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.9256,
+         "id": "996271",
+         "field_search": "question",
+         "question": "Giá điện thoại j2 priem ở thế giới di động cần duoc bao nhiêu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.903437,
+         "id": "1014339",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại oppo F1 thế giới di động thu lại bao nhiêu ạ , phụ kiện đầy đủ. Zin trên 90% không hư sửa thay đổi bất cứ gì.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.900637,
+         "id": "990683",
+         "field_search": "question",
+         "question": "chào thế giới di động cho em hỏi điện thoại samsung j5prime đổi lại Samsung j7prime phải bù thêm bao nhiêu tiền vậy thế giới di động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.881893,
+         "id": "1010107",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mới mua chiếc Iphone 6 ở thế giới di động được tầm 1 tháng nhưng vừa mới bị rớt vỡ màn hình. Vậy trường hợp này bên mình có bảo hành thay màn hình mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.876444,
+         "id": "1006025",
+         "field_search": "question",
+         "question": "Ở thế giới di động, nếu e mang máy và màn hình cường lực để nhân viên dán thì có mất phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.874577,
+         "id": "1003571",
+         "field_search": "question",
+         "question": "máy mình bị vỡ mặt kính góc trái màn hình cho mình hỏi ở thế giới di động có hỗ trợ thay mặt kính ip6 ko và giá thay là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.859911,
+         "id": "998895",
+         "field_search": "question",
+         "question": "Thế giới di động có thay kính cường lực cho samsung galaxy j7 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.831892,
+         "id": "1135855",
+         "field_search": "question",
+         "question": "Nokia 5 của mình bị vỡ màn hình, vẫn sử dụng cảm ứng bình thường. máy mình mua từ tháng 9 năm 2017. Cho mình hỏi bên thế giới di động có hỗ trợ thay màn hình không? Giá thế nào? Cám ơn...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.79013,
+         "id": "1143541",
+         "field_search": "question",
+         "question": "em muốn mua điện thoại Sam sung Galaxy J6+ bằng hình thức trả góp. Thế giới di động ở Cổ Lễ - Huyên Trực Ninh - Tỉnh Nam Định có không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.722189,
+         "id": "997468",
+         "field_search": "question",
+         "question": "cho em hỏi thế giới di động có thu điện thoại a8 không và nếu có thì hình thức như thế nào vui lòng tư vấn cho em được rõ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.66329,
+         "id": "811311",
+         "field_search": "question",
+         "question": " Xin hỏi Thế giới di động có bán điện thoại Iphone 5 mới hoặc cũ ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.652729,
+         "id": "988275",
+         "field_search": "question",
+         "question": " Cho hỏi, có phải mua bất cứ điện thoại nào ở Thế giới di động để được mua big sim phải không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.640423,
+         "id": "1003398",
+         "field_search": "question",
+         "question": "Mình sd điện thoại Sony z3.bị rơi vở mặt kính cảm ứng và miếng dán sau.nếu thay cả thì hết bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.60363,
+         "id": "1013820",
+         "field_search": "question",
+         "question": "cho e hỏi cái huawei gr5 của e  nó bị bể màn hình, thế giới di động có nhận thay ko và e có đc chế độ bảo hành k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.602476,
+         "id": "986311",
+         "field_search": "question",
+         "question": "mình có bán dán màn hình note 5 ko ?máy a mua tại thế giới di động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.590866,
+         "id": "1160445",
+         "field_search": "question",
+         "question": "Giờ e muốn bán lại cái sony e mới mua ở thế giới di động được 5 có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.579037,
+         "id": "833472",
+         "field_search": "question",
+         "question": " Bên thế giới di động có thay vỏ 6 thành 6s không bạn ? Nếu có giá thay là bao nhiêu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

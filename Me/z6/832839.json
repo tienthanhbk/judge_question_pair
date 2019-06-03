@@ -1,0 +1,809 @@
+{
+   "id_query": "832839",
+   "total": 31428,
+   "total_current": 100,
+   "max_score": 74.56252,
+   "origin_question": " QTV cho em hỏi laptop DELL win 8.1 của em đang đòi activate windows, bậy giờ em phải làm như thế nào ạ?    ",
+   "hits": [
+      {
+         "score": 74.56252,
+         "id": "832839",
+         "field_search": "question",
+         "question": " QTV cho em hỏi laptop DELL win 8.1 của em đang đòi activate windows, bậy giờ em phải làm như thế nào ạ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.260456,
+         "id": "831947",
+         "field_search": "question",
+         "question": " QTV cho em hỏi Laptop DELL của em đồi kích hoạt của sổ, bây giờ em phải làm sao đây? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.257704,
+         "id": "1164176",
+         "field_search": "question",
+         "question": "cho em hỏi là máy tính của em hiện có hiện chữ activate windows bên phải màn hình thì là thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.686827,
+         "id": "753238",
+         "field_search": "question",
+         "question": "trước kia em mua máy dell có cài win 8.1 bản quyền . sau đó em ra tiệm cài lại win 7 . em còn cái đĩa recovery lại win 8.1 , vậy phải làm thế nào để trở lại win 8.1 bản quyền ạ . Em cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.296946,
+         "id": "832933",
+         "field_search": "question",
+         "question": "Thế Giới Di Động ơi, cho em hỏi:Máy tính DELL của em đang sử dụng hệ điều hành Windows 8.1 Single Language, người ta nói hệ điều hành này mạnh lắm, nhưng sao hiện nay em thấy cái máy của em rất chậm, làm gì cũng chậm hết, giờ em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.814903,
+         "id": "804822",
+         "field_search": "question",
+         "question": "Laptop Dell N5558 i7 win 8.1 khi tắt máy. Mśy báo 1ứng dụng đang chãy: GDI+ WINDOWS. Lần nào tắt máy cũng đều báo như vậy. Mong QTV chỉ cách khắc phục. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.709856,
+         "id": "788037",
+         "field_search": "question",
+         "question": "QTV cho em hỏi giấy bảo hành miến dán màn hình laptop của em bị mờ chữ hết giờ em muốn đi dán lại màn hình phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.17428,
+         "id": "755990",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em đang dùng laptop Asus X553M chạy Windows 8.1 giờ em muốn hạ xuống Windows 7 được không ạ và hết bao nhiêu tiền ạ? Em cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.024672,
+         "id": "804897",
+         "field_search": "question",
+         "question": "Laptop Dell N5558 i7, win 8.1 của mình mỗi lần tắt máy là máy báo: Một vài ứng dụng đang hoạt động như: GDI+ windows mặc dù mình đã tắt hết tất cả rổi. Mong QTV chỉ cách khắc phục. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.798357,
+         "id": "803779",
+         "field_search": "question",
+         "question": " cho em hỏi laptop sony hệ điều hành win 7 cài lên windows 8.1 được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.450962,
+         "id": "806942",
+         "field_search": "question",
+         "question": "Cho hỏi em đang xài windows 7, em muốn nâng cấp lên windows 10 có activate, cho hỏi thế giới di động có hỗ trợ làm không? Nếu có thì giá khoảng bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.296183,
+         "id": "756939",
+         "field_search": "question",
+         "question": "cho em hỏi .Em đang dùng laptop chạy windows 7 có chạy được phần Windows Phone Recovery Tool để hạ xuống windows 8.1 cho Lumia 630 không ạ . Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.253551,
+         "id": "804904",
+         "field_search": "question",
+         "question": "Laptop Dell N5558 i7, win 8.1 của mình mỗi lần tắt máy là máy báo một vài ứng dụng đang chạy mắc dù mình dã tắt hết tất cả rồi, ví như là GDI+windows. Mong QTV chỉ cách khắc phục. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.040571,
+         "id": "839446",
+         "field_search": "question",
+         "question": "Laptop em hệ windows 8.1 khi tắt máy máy hiện đang cài đặt cập nhật.... Máy bị như vậy phải làm sao để tắt máy ạ? Ad giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.916195,
+         "id": "1160845",
+         "field_search": "question",
+         "question": "cho em hỏi e định nâng cấp win 7 lên win 8 nhưng nó lại hiện lên như thế này , em phải làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.673843,
+         "id": "912265",
+         "field_search": "question",
+         "question": "cho em hỏi là mua laptop về em phải tự cài word exel các thứ hay sao ạ và màn hình laptop cua em có chữ activate windows ở góc dưới bên phải mà hình là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.645607,
+         "id": "798139",
+         "field_search": "question",
+         "question": "em đang dùng laptop chạy win 10 máy của em không có numpad có cách nào để biến hàng phím số thành numpad khongovi em cơi game need for speed đòi hỏi cần phải có numpad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.60881,
+         "id": "783604",
+         "field_search": "question",
+         "question": " QTV cho em hỏi tí ạ. em có con ip4s bản ios6. giờ em muốn lên ios7 phải làm như nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.276947,
+         "id": "743396",
+         "field_search": "question",
+         "question": "Máy tính của tôi chạy hệ điều hành Windows 8.1 Single Language...Nhưng vào sáng nay, máy tính của tôi báo như thế này...Giờ tôi phải là như thế nào đây ạ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.22003,
+         "id": "749024",
+         "field_search": "question",
+         "question": " Làm sao để activate win 8.1? cách tìm product key? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.85373,
+         "id": "851226",
+         "field_search": "question",
+         "question": " cho em hỏi làm sao để khắc phục lỗi 0x80070020 trên laptop em đang sài windows 8.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.657131,
+         "id": "897198",
+         "field_search": "question",
+         "question": "Em mua laptop ở tgdd nhưng e làm mất bản quyền win 8.1 của máy rồi. cho e hỏi là tgdd coa thể cài lại win 8.1 cho e đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.64931,
+         "id": "755014",
+         "field_search": "question",
+         "question": "Cho em hỏi là, khoảng 1 năm trước em có mua laptop tại Thegioididong, khi mua thì đã đượcc cài win 8.1 bản quyền Home single language, sau rồi em nâng cấp lên win 10 bản quyền tương tự, nhưng sau thời gian sử dụng em thấy hình như win 10 của em bị lỗi thì phải, cho em hỏi là giờ em mà cài lại win 10 hay là quay về win 8.1 thì có mất bản quyền không ạ, em xin cảm ơn nhiều ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.599163,
+         "id": "808428",
+         "field_search": "question",
+         "question": " Chào QTV, em đang dùng win 7, cho em hỏi mý yêu cầu gõ product key là thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.389479,
+         "id": "1153690",
+         "field_search": "question",
+         "question": "cho em hỏi em mới mua laptop dell inspiron 3567 i3 win 10. nhưng sài được tầm 2 tháng thì nó báo là '' Your windows license will be expired ạ. vậy lúc mua thì em phải được cài win 10 bản quyền chớ ạ. sao giờ nó lại báo hết hạn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.375713,
+         "id": "1002662",
+         "field_search": "question",
+         "question": "Anh chị kỹ thuật viên cho em hỏi, em đang dùng máy dell inspiron 15. Máy của em bị treo thanh taskbar, em phải khắc phục như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.309877,
+         "id": "802226",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi laptop của em á hôm bữa bạn em mượn lở bấm làm sao mà hôm nay em kết nối wifi lại không như bình thường được giờ em phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.239038,
+         "id": "1017292",
+         "field_search": "question",
+         "question": " Ad cho Em hỏi giờ Em mún xóa gmail này trong app stores Em thay bằng icould của máy thì Em phải làm như thế nào ạ ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.181366,
+         "id": "770494",
+         "field_search": "question",
+         "question": "Kính chào admin. Cho em hỏi laptop của em hiệu Vaio đang ở Windows 8 em đang muốn update lên Windows 8.1 em thấy ở Thế giới di động có update windows nhưng máy em không có mua ở Thegipoididong.com thì em đem lại Thegioididong.com update được không ạ, nếu được thì phí là bao nhiêu ạ, rất mong câu trả lời từ các ad. chân thành cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.126692,
+         "id": "1023560",
+         "field_search": "question",
+         "question": "Mấy anh chị cho em hỏi kích hoạt Win 8.1 như nào vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.010353,
+         "id": "751052",
+         "field_search": "question",
+         "question": " Cho em hỏi cách khắc phục lỗi 0x8086000c khi tải ứng dụng trên store. Em đang sử dụng Windows 8.1 trên laptop Asus ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.00863,
+         "id": "802263",
+         "field_search": "question",
+         "question": "Cho Em Hỏi:Tháng Trước Em Mua Laptop Của TGDĐ.Sau Đó Em Cài Win Lại Mà Bị Lỗi.Bây Giờ Thì Phải Mang Đi Bảo Hành Như Thế Nào Ạ?.Mong Anh Chị Giúp Em.Em Chân Thành Cảm Ơn!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.93099,
+         "id": "909271",
+         "field_search": "question",
+         "question": " qtv cho em hỏi theo hình ảnh này laptop của em đang dùng HĐH win bản quyền hay bản dùng thử ạ,em xin cảm ơn...  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.881544,
+         "id": "1168672",
+         "field_search": "question",
+         "question": "Ad cho em hỏi..em đang sài con laptop dell e6520 và đang chạy win 10 pro. Máy tính em khởi động 2 lần mới vào win được. Lần đầu thì màn hình đen. Em phải đè nút nguồn r khởi động lần 2 mới vào được win. Cho em hỏi máy em như v là sao ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.837566,
+         "id": "778060",
+         "field_search": "question",
+         "question": " Em mới từ thế giới di động nâng cấp win 10 về nhưng chưa được activate. Em quay lại activate được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.76211,
+         "id": "909791",
+         "field_search": "question",
+         "question": " Em đang xài win 8.1 mà refresh lại không được,nó hiện rra thông báo này là sao ạ,cach khắc phục như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.741806,
+         "id": "799144",
+         "field_search": "question",
+         "question": " Laptop em đang dùng win 8.1 bản quyền, em muốn nâng cấp lên win 10 được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.453932,
+         "id": "753850",
+         "field_search": "question",
+         "question": "QTV cho em hỏi. Em đang sử dụng laptop Acer Aspire E5 571 core i5 4210U CPU 1.70 GHz  2.40 GHz, mua tại TGDD. Lúc mua cài sẵn win 8.1 Single Language bản quyền . Sau đó em update lên win 10 và dùng một thời gian thấy nó rất chậm và hay bị đơ . Bây giờ em muốn cài lại win 7 thì làm thế nào ạ? Và sau khi cài lại có bị mất bản quyền win không? Vì máy em không có bản backup win 7. Rất mong được sự tư vấn của A/C kỹ thuật. Em xin trân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.258987,
+         "id": "788557",
+         "field_search": "question",
+         "question": "QTV cho em hỏi ! em đang xài iphone 5 mà sao mỗi lần tải ứng dụng từ appvn là bị như vầy , em phải khắc phục như thế nào mới tải được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.156813,
+         "id": "830521",
+         "field_search": "question",
+         "question": "anh(chi) cho em hoi hôm trước em co đem mot laptop dell đến tgdd cài win lai. cài xong về máy báo phai activate windown. gio em phai lam sao ak.mong anh (chi) giup em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.1529,
+         "id": "926773",
+         "field_search": "question",
+         "question": "cho em hỏi là máy laptop em hiện đang chạy win 10 và em muốn hạ cấp nó xuống cỡ win 7 hoặc 8.1 có được ko ạ?? nếu được thì em đem ra thế giới di động cài thì có tốn tiền ko ạ?? ( máy laptop này em mua ở thế giới di động luôn ạ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.14727,
+         "id": "743836",
+         "field_search": "question",
+         "question": " Admin cho em hỏi laptop win 8.1 bản quyền có xuống được win 7 không vậy ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.08054,
+         "id": "997759",
+         "field_search": "question",
+         "question": "Em đang dùng Laptop DELL chạy Windows 10.Hiện tại máy em đang bị lỗi win.em muốn cài win 7 cho máy cho dễ sử dụng.Em có thể mang ra Viễn Thông A giúp được không ạ.thanks ad trước ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.000408,
+         "id": "882896",
+         "field_search": "question",
+         "question": " QTV cho em hỏi laptop của em bị lỗi nhòe màn hình AOE , cách khắc phục thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.987207,
+         "id": "746260",
+         "field_search": "question",
+         "question": " Em đang dùng ios9.1 , em muốn quay về ios 8.4.1 em phải làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.970379,
+         "id": "810731",
+         "field_search": "question",
+         "question": "Em đã cài đặt lại win trên thegioididong.com tại trà vinh cách đây khoảng 30 ngày nhưng bây giờ máy em nó để như thế này : your windows license expires on saturday , April 16, 2016 contact your system admin to get a key giờ em phải làm sao ạ ? với lại hình như là cài win = usb à ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.957571,
+         "id": "774359",
+         "field_search": "question",
+         "question": " Em reset máy mà nó đòi iCluod giờ không biết iCloud giờ thế nào ạ???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.94485,
+         "id": "763761",
+         "field_search": "question",
+         "question": "Máy em dùng win 8.1 bản quyền, em có mang máy ra thế giới di động để update lên win 10 khoảng 2 tháng trước nhưng bây giờ máy cứ hiện thông báo là win sắp hết hạn và bảo là phải nhập key, em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.925425,
+         "id": "783379",
+         "field_search": "question",
+         "question": " Cho em hỏi là máy của em đặt ảnh màn hình không được rõ, bây giờ phải chỉnh như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.922523,
+         "id": "1003625",
+         "field_search": "question",
+         "question": "Thegioididong của mình có cài Win cho lap k ạ? Laptop của e hiệu Dell, cần cấu hình như thế nào mới có thể cài được Win 10 ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.907461,
+         "id": "757391",
+         "field_search": "question",
+         "question": " Cách xóa win 10 trở về win 8.1 thì làm sao ?Máy em laptop? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.904089,
+         "id": "885056",
+         "field_search": "question",
+         "question": " ad cho e hỏi activate windows là gì vậy ạ, làm ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.901411,
+         "id": "1144940",
+         "field_search": "question",
+         "question": "Cho em hỏi muốn lấy đc mã thì phải làm sao ạ Ních facebook của em nó bị như vậy ạ   Warning \"Bạn đã thử nhập quá nhiều mã. Vui lòng thử lại sau.\" giờ em phải làm như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.851042,
+         "id": "851395",
+         "field_search": "question",
+         "question": " qtv cho em hỏi khắc phục lỗi DRIVERPOWERSTATEFAILURE win 8.1 dòng asus làm như thế nào được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.816242,
+         "id": "781108",
+         "field_search": "question",
+         "question": "Laptop dell của em đang cài win 8.1 có cạc màn hình 2gb, em có cài NVIDIA GeForce Experience mà sao không thể update driver được, mỗi lần download driver mới là không được, cho hỏi bị lỗi gì vậy, xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.802021,
+         "id": "833591",
+         "field_search": "question",
+         "question": "Thế giới di động ơi, em đã từng mua 1 chiếc máy tính tại thế giới di động Cai Lậy, máy hiệu DELL, chạy hệ điều hành Windows 8.1 Single Language, nhưng em thấy nó chậm, em muốn nâng cấp lên Windows 8.1 Pro, Thế giới di động có nâng cấp được không ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.692514,
+         "id": "788265",
+         "field_search": "question",
+         "question": "hiện là em đang sử dụng win 10 giờ em muốn hạ cấp xuống win7 như trước nhưng em không có file windows.old với lại em cũng không có \"Go back to Windows 7\". Vậy giờ em phải sao. Trả lời em sớm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.502892,
+         "id": "773668",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 4 của em bị vô hiệu hóa nút ONOFF Wifi thì phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.455101,
+         "id": "806255",
+         "field_search": "question",
+         "question": "ad cho e hỏi e mua laptop ở tgdd hơn 1 năm và laptop có sẵn win 8.1 ( không có đĩa ) vậy bây giờ e muốn cài lại win thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.452328,
+         "id": "753571",
+         "field_search": "question",
+         "question": " Cho em hỏi làm thế nào biết Window 8.1 hạn sử dụng bản Activation và crack trên laptop Asus ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.379202,
+         "id": "1007422",
+         "field_search": "question",
+         "question": "Em lỡ xoá bản cập nhật của google play giờ cập nhật lại phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.348627,
+         "id": "779567",
+         "field_search": "question",
+         "question": " Các anh chị cho em hỏi tại sao windows 8 pro của em không thể upgrade lên 8.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.325686,
+         "id": "778073",
+         "field_search": "question",
+         "question": " Cho em hỏi  Em muốn nâng cấp win 8.1 lên win 10 của latop acer, tgdd có hỗ trợ không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.322025,
+         "id": "890925",
+         "field_search": "question",
+         "question": " Ad ơi. Bây giờ m đag dùng máy dell i5 win 10 mà bây giờ nó bị như vậy thì làm thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.272978,
+         "id": "831670",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mua laptop ở cty bạn, được tặng windows 8.1 bản quyền, nhưng mà giờ mình vào 1 số ứng dụng của microsoft thì nó lại đòi mật khẩu như thế này. Mình nhập mật khẩu mở khóa máy tính thì không được. Bạn trả lời giùm mình nha, cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.26769,
+         "id": "833483",
+         "field_search": "question",
+         "question": "Ad cho em hỏi laptop win 10 của em tự nhiên bật lên bờ ghi hibernating mà mãi chẳng lên .giờ phải làm sao.mong ad trợ giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.242884,
+         "id": "845975",
+         "field_search": "question",
+         "question": " Ad cho em hỏi em đang xài win 7 k bản quyền giờ e muốn update lên win 10 thì phải làm sao ah? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.18886,
+         "id": "765150",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi với, hiện em đang xài win 8.1 key active do trung tâm phong vũ tp.hcm cài thời hạn 16/11/2016 là hết hạn. Mà em update thì giờ nó cập nhập win 10 như thế này, mong ad giúp em có nên cài hay không thanks ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.174526,
+         "id": "951051",
+         "field_search": "question",
+         "question": " Em đang xài windows 7, nếu bây giờ em cài lại win thì các dữ liệu có lưu không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.15832,
+         "id": "907938",
+         "field_search": "question",
+         "question": " Laptop của em nâng lên win10 5 tháng rồi có cách nào hạ xuống win 7,win 8.1 được không v ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.141367,
+         "id": "770119",
+         "field_search": "question",
+         "question": " Bây giờ đã có iOS 9.2 máy em iPad Air 2 mới có iOS 8.1 em muốn lên iOS 8.4.1 thì làm như thế nào ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.119408,
+         "id": "799974",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, em đang xài dell inspiron 3442,win 8.1, tuần trước vẫn sử dụng được wifi nhưng hôm nay mở wifi lên thì cái nút bật tắt wifi nó bị mờ đi không thể bật lên được, driver vẫn đầy đủ ạ, sử dụng mạng dây vẫn bình thường. Em đã cài lại win nhưng vẫn vậy. Vậy anh chị cho hỏi máy em bị gì và khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.088226,
+         "id": "998939",
+         "field_search": "question",
+         "question": "Em bấm bậy nên mất hết ảnh giờ làm sao dể khôi phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.065845,
+         "id": "1015047",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi. Em đang xài laptop Asus A541UA I3 7100U WIN 10. bên phải bàn phím em có những số giống như thanh ngang phía trên. Nhưng khi em bấm vào nó k lên số. Có những số thì di chuyển giống mũi tên. Em phải chỉnh lại như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.03626,
+         "id": "744816",
+         "field_search": "question",
+         "question": " Cho em hỏi cách khắc phục lỗi bảo mật khi chơi game trên laptop hp windows 8.1? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.015984,
+         "id": "799015",
+         "field_search": "question",
+         "question": "Cho hỏi máy tính mình bây giờ đang là win 8.1 giờ mình cài lại win 7 ultimate thì lúc xuống win 7 có mạng không hay là phải cài driver mạng máy mình là máy cây nhé k phải laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.94175,
+         "id": "1152010",
+         "field_search": "question",
+         "question": "Em lỡ tay ấn nút nhả pin ở laptop dell inspiron 15 3000 thì phải làm thế nào để đóng lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.912426,
+         "id": "1155739",
+         "field_search": "question",
+         "question": "QTV giải đáp giúp em với ạ. Em đang lấy lại fb mà nó cứ tới bước đó là ko được nữa ạ,  em phải làm thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.886967,
+         "id": "813455",
+         "field_search": "question",
+         "question": "    Cho em hỏi ki nâng cấp lên windows 10 mấy tính hiện như thế nỳ nghĩa là sao qtv ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.886288,
+         "id": "795703",
+         "field_search": "question",
+         "question": " Qtv cho hỏi cách mở dịch vụ trung tâm bảo mật trên laptop cài windows 10 như thế nào vậy xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.874195,
+         "id": "795355",
+         "field_search": "question",
+         "question": " Xin hỏi em nên dùng laptop win 10 hay win 8.1 thì tốt hơn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.769917,
+         "id": "988755",
+         "field_search": "question",
+         "question": "cho em hỏi cách cài touchpad để phóng to thu nhỏ hay cuộn lên xuống như thế nào ạ. em đang dùng dell vostro 5459",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.758581,
+         "id": "819277",
+         "field_search": "question",
+         "question": " QTV cho em hỏi pin iphone 5s của em như thế này có ổn không ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.72179,
+         "id": "761435",
+         "field_search": "question",
+         "question": "Laptop em mới mua đc 1 tháng lúc đầu chạy win 8.1 . Em hạ suống win 7, giờ láp em không nhận chuột . Em mang máy suống bảo hành có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.692253,
+         "id": "1141160",
+         "field_search": "question",
+         "question": "xin chào anh/chị! cho em hỏi cách khôi phục touchpad trên laptop dell inspiron 3576 như thế nào ạ? vì em lỡ tay Uninstall ứng dụng đó nên không biết làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.686722,
+         "id": "860750",
+         "field_search": "question",
+         "question": " QTV cho em hỏi  muốn tắt chế độ lọc nghiêm ngặt của fb làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.680918,
+         "id": "827503",
+         "field_search": "question",
+         "question": " Làm thế nào để cài win 8.1 hoặc win 10 cho win 7 ram 2GB 32bit ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.531809,
+         "id": "748851",
+         "field_search": "question",
+         "question": " Laptop Dell 5548 Windows 8.1 đủ driver nhưng lại không chỉnh được độ sáng màn hình ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.518097,
+         "id": "896991",
+         "field_search": "question",
+         "question": "Cho em hỏi Bộ phận kĩ thuật bên công ty mình có hỗ trợ reset lại máy tính windows không ạ? Máy em đang bị lỗi mà muốn reset lại thì em lại không biết phải cài đặt như thế nào a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.49281,
+         "id": "1140277",
+         "field_search": "question",
+         "question": "Em đang xài cái lumia 1320 nhưng wifi không thể mở lên được. Em phải làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.482338,
+         "id": "772483",
+         "field_search": "question",
+         "question": " Ad cho em hỏi, em đang dùng iPhone 6 mới nâng cấp lên iOS 9.2 bị lỗi cảm biến xoay, giờ phải làm thế nào ạ? Thanks! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.47087,
+         "id": "821364",
+         "field_search": "question",
+         "question": " AD cho em hỏi máy em win 10 mở ứng dụng không được nó lên ntn phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.441307,
+         "id": "924116",
+         "field_search": "question",
+         "question": "xin hỏi laptop của mình mỗi khi đăng nhập tài khoản windows xong , khi tắt máy mở lại nó đòi nhập pass của cái tài khoản mới vô được , có cách nào tắt chức năng đó không ? bây giờ mình không dám đăng nhập , mỗi khi đăng nhập xong thì phải có mạng mới vô được , laptop của mình hiệu dell win8.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.439535,
+         "id": "935848",
+         "field_search": "question",
+         "question": " e mua laptop thế giới di động như h nó báo lỗi là sao You need to activate windows before you can personalize your pc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.393913,
+         "id": "771265",
+         "field_search": "question",
+         "question": " Cho em hỏi lap cài win 8.1 bản quyền rồi giờ lên win 10 mà em muốn nó xuống win 7 lại thì có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.384262,
+         "id": "763057",
+         "field_search": "question",
+         "question": " Cho em hỏi làm thế nào phân biệt win bản quyền và win lậu vậy ạ. em cám ơn nhiều. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.32119,
+         "id": "951050",
+         "field_search": "question",
+         "question": "  Khi em reset win 10 nó bị lỗi như vậy phải làm sao để khắc phục vậy QTV? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.228369,
+         "id": "828790",
+         "field_search": "question",
+         "question": " Mod hay QTV cho em hỏi nếu em xoá iphone đi mà lấy lại được thì em phải làm thế nào để mở lại máy ạ ? Giúp e, ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.185677,
+         "id": "788473",
+         "field_search": "question",
+         "question": "Máy tính của em kết nối vào wifi nhưng nó cứ báo \"Windows was unable to connect to Assassin's Creed Unity (assassin...là tên wifi)\" Bây giờ phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.151754,
+         "id": "782099",
+         "field_search": "question",
+         "question": "Em có mua laptop Dell inspiron 3543 RAM 4G ở shop và đã được cài sẵn win 8.1 bản quyền sau đó thì em có up lên win 10. Cách đây vài ngày em có cài bản win 7 professional mà là bản 32 bit nên em thấy rất phí RAM. Vậy bây giờ cho em hỏi là em mang máy ra shop thì shop có thể cài lại bản win cũ được không ạ ?. Nếu được thì mang ra chi nhánh nào cũng được ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

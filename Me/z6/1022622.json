@@ -1,0 +1,809 @@
+{
+   "id_query": "1022622",
+   "total": 33802,
+   "total_current": 100,
+   "max_score": 121.56928,
+   "origin_question": "E đang sài j2 prime, vào ứng dụng nào cũng dừng lại, mọi người chỉ là vào cài đặt ứng dụng rồi xóa dữ liệu, nhưng em vào thì ko có chỗ nào để xóa dữ liệu hết.em phải làm sao ạ",
+   "hits": [
+      {
+         "score": 121.56928,
+         "id": "1022622",
+         "field_search": "question",
+         "question": "E đang sài j2 prime, vào ứng dụng nào cũng dừng lại, mọi người chỉ là vào cài đặt ứng dụng rồi xóa dữ liệu, nhưng em vào thì ko có chỗ nào để xóa dữ liệu hết.em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.97121,
+         "id": "1009779",
+         "field_search": "question",
+         "question": "Em đã vào Cài đặt Xóa dữ liệu rồi Khởi động lại nhưng khi vào Ứng dụng để thanh toán thì nó vẫn hiện như vậy em không hiểu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.513134,
+         "id": "1152374",
+         "field_search": "question",
+         "question": "Cách để mở lại ứng dụng chplay cho mấy W-S1Vào cài đặt rồi mà ứng dụng nhấn vài nó chỉ mở bộ nhớ dữ liệu và cache thôi chứ không có chỗ bật lại ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.155453,
+         "id": "1164923",
+         "field_search": "question",
+         "question": "cho e hỏi Lúc trước e vẫn cài đặt mess bình thường. Sau khi e xóa và không tải lại được nữa. Trong khi mọi ứng dụng khác vẫn tải được bình thường. E đã thử xóa dữ liệu và làm mọi hướng dẫn nhưng vẫn không được . Vậy giờ e phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.971195,
+         "id": "998569",
+         "field_search": "question",
+         "question": "Sumsung galaxy j2 prime của em nó cứ báo bộ nhớ đầy là sao vậy. dung lượng máy tới 8g em vào cài đặt xóa bớt mà không biết xóa cái nào em cứ sợ là xóa nhầm vào các ứng dụng cần thiết của máy nên không dám xóa ad có thể hướng dẫn em xóa các ứng dụng không cần thiết của sumsung galaxy j2 prime được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.825607,
+         "id": "1018788",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ, em dùng con Coolpad, bằng một cách nào đó em đã lỡ vô hiệu hoá Coolshow rồi. Em đã thử vào cài đặt -> ứng dụng -> tab vô hiệu hoá để xem có cách mở không, chỉ có nút \"buộc dừng\" và \"xoá dữ liệu\".  Em không biết cách nào để mở lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.32666,
+         "id": "754066",
+         "field_search": "question",
+         "question": "Mình dùng Galaxy J2, mình chuyển ứng dụng mp3Zing sang thẻ nhớ rồi, nhưng sau đó tải nhạc thì sao nhạc đó lại lưu vào bộ nhớ máy chứ k lưu trên thẻ? tương tự B612 mình cũng chuyển sang thẻ nhớ rồi nhưng hình chụp xong cũng lưu trên máy?Bạn chỉ mình cách cài đặt để mọi dữ liệu của ứng dụng đều lưu trên thẻ với, mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.55211,
+         "id": "1020135",
+         "field_search": "question",
+         "question": "Cho mình hỏi sony XA của mình bây giờ vào came cứ bị đẩy ra. Báo là camera đã dừng là sao vậy. Mình đã vào cài đặt ứng dụng và xoá dữ liệu khởi động lại vẫn bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.09536,
+         "id": "828364",
+         "field_search": "question",
+         "question": "Tại sao em dùng iphone 5s khi dùng dữ liệu di động lại không vào được messenger vs facebook nhưng mà dùng wifi thì lại được mà dùng dữ liệu để chạy ứng dụng khác vẫn bình thường ( mới bị hôm nay thôi mọi ngày vẫn bt )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.905197,
+         "id": "1155201",
+         "field_search": "question",
+         "question": "chỉ giúp mình lỗi khắc phục khi khởi động máy lên kích vào ứng dụng đã cài đặt : máy oppo f5 báo là không thể khởi động ứng dụng do k đọc được dữ liệu ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.540367,
+         "id": "1161314",
+         "field_search": "question",
+         "question": "Cho hỏi là e muốn ẩn ứng dụng trên điện thoại j5 prime nhưng khi muốn mở lại ứng dụng thì phải vào cài đặt bỏ ẩn ứng dụng, sau khi sử dụng xong thì phải vào cài đặt và ẩn lại.Nên có cách nào để em mở ứng dụng mà em đã ẩn một cách nhanh chóng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.2571,
+         "id": "1006973",
+         "field_search": "question",
+         "question": "dạ ad co e hỏi  e đang sài con sam sung on7 sao cứ tự nhiên tự resert rồi khôi phục cài đặt mất hêt ứng dụng dữ liệu vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.5582,
+         "id": "819219",
+         "field_search": "question",
+         "question": "Chào các ace. E mới bị mất con ip6s e đã vào icloud.com để khóa máy rồi nhưng dường như nó biết mật khẩu mở màn hình of e nên vẫn thấy n vào dc. Giờ e đang muốn xóa dữ liệu of máy có dc ko ạ. Và nếu e xóa xong nó có dùng dc nữa ko ạ.! Thanks mọi người nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.550198,
+         "id": "1155434",
+         "field_search": "question",
+         "question": "Làm thế nào để chuyển dữ liệu sang bộ nhớ và xóa dữ liệu cache trên Samsung J4 Core ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.421726,
+         "id": "1008203",
+         "field_search": "question",
+         "question": "Làm sao để cài đặt thẻ SD làm nơi lưu trữ mặc định đối với điện thoại meizu m5 ? Có thể chuyển một số dữ liệu ứng dụng vào thẻ nhớ được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.38316,
+         "id": "1158912",
+         "field_search": "question",
+         "question": "Mình xài mobiistat zumbo, chạy androi 7.0. Mình vào quản lý file nhưng ko xóa dc các file bỏ,file rác. Mình tháo thẻ nhớ ra gắn lại thì xóa dc. Nhưng cách này thì làm các ứng dụng mất dữ liệu cũ.Chạy 1 thời gian nó lại ko cho xóa. Mình có thử dùng ứng dụng quản lý file nhưng vẫn không dc. Mong dc giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.27427,
+         "id": "1140777",
+         "field_search": "question",
+         "question": "cho em hỏi. điện thoại của e thuộc hãng samsung galaxy j7 prime. bây giờ e muốn xóa tất cả dữ liệu và ứng dụng cài đặt cả tất cả tài khoản google( trở về máy mới và chưa có thông tin gì) thì e phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.933228,
+         "id": "1012752",
+         "field_search": "question",
+         "question": "Máy em là w mobile e10 ko có sao lưu dữ liệu ứng dụng nên em tải easy backup để sao lưu. Dùng như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.73573,
+         "id": "749935",
+         "field_search": "question",
+         "question": "  Mình muốn mở máy iPhone 4 khu bị ấn nhầm vào xóa dữ liệu iPhone trong phần cài đặt ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.630318,
+         "id": "1013442",
+         "field_search": "question",
+         "question": "Máy em là w mobile e10 ko có sao lưu dữ liệu ứng dụng nên em tải easy backup để sao lưu. Dùng như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.11678,
+         "id": "1014906",
+         "field_search": "question",
+         "question": "Máy của e là lenovoA2010a, e vào sao lưu và đặt lại nhưng nó báo rất tiếc ứng dụng đã dừng lại thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.09848,
+         "id": "1016678",
+         "field_search": "question",
+         "question": "Mình đang sài samsung galaxy j2 prime mà mình ko tải ứng dụng nào mà bộ nhớ máy vẫn tăng.lâu lâu vào xem bộ nhớ thì nó lại tăng là sao? xin chỉ dùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.715015,
+         "id": "1133581",
+         "field_search": "question",
+         "question": "Mình đã xóa hết ứng dụng trên máy nhưng khi vào CH Play tải ứng dụng về thì vẫn báo là: \"Không thể cài đặt ứng dụng\" là sao? Máy mình đang dùng là Oppo Joy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.385254,
+         "id": "1150237",
+         "field_search": "question",
+         "question": "Em dùng thẻ nhớ 32G cho điện thoại sasung j2 nhưng không biết cài đặt thế nào để sử dụng thẻ nhớ. Em đã định dạng thẻ nhớ nhưng vẫn không chuyển file từ máy sang được. Máy đã gần dùng hết 8G nên không tải được một số ứng dụng trên CHplay. Vậy em phải làm thế nào để dữ liệu thẻ nhớ chuyển vào bộ nhớ trong để có thể sử dụng được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.213745,
+         "id": "839510",
+         "field_search": "question",
+         "question": "add cho e hoỉ e vào app store thấy có những ứng dụng hay muốn chia sẻ cho mọi người thì làm như thế nào để lấy link chia sẻ ạ. mà khi mọi người click vào link thì sẽ đưa mọi người vào thẳng ứng dụng đó trong app store",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.101517,
+         "id": "999394",
+         "field_search": "question",
+         "question": "Hiện em đang dùng sony  Zultra. Cho em hỏi là từ khi em cập nhật Facebook cách đây 2 ngày  . Ngày đầu tiên thì bình thường nhưng đến ngày thứ 2 là bị lỗi không thể vào được và điện thoại báo không thể khởi động Facebook. Nếu muốn vào Facebook thì phải vào phần cài đặt ứng dụng và xoá hết bộ nhớ cache và dữ liệu đi thì mới vào được. Nhưng cũng chỉ vào được 1 lần nếu thoát ra thì lại không vào được. Cho em hỏi thế là bị làm sao ạ..Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.06064,
+         "id": "1022368",
+         "field_search": "question",
+         "question": "Em chào ad ạ . Hôm nay em có nâng cấp ipad Lên IOS 10.3 mới nhất ạ . Em đã sao lưu dữ liệu vào ICloud . Nhưng do em cài ở hàng , họ không sao lưu dữ liệu lại cho em . Giờ em muốn dữ liệu được phục hồi thì làm như nào ạ ? Em cảm ơn ad rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.810055,
+         "id": "871244",
+         "field_search": "question",
+         "question": "Tình hình là bây giờ đt em vào messenger với facebook được luôn rồi ạ :( em đã làm đủ mọi cách mà cái anh hồi sáng chỉ em vẫn ko vào đc :( vào nó cứ báo \" Rất tiếc, Facebook đã dừng lại \" :( \" rất tiếc, Messenger đã dừng lại \" :((... Em đã khôi phục dữ liệu gốc rất nhiều lần rồi mà vẫn ko vào facebook với messenger đc :( Anh chị nào còn cách nào fix đc lỗi ko chỉ em với... Em cảm ơn trước !!! :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.77799,
+         "id": "877258",
+         "field_search": "question",
+         "question": "Máy samsung galaxy v plus của em khi vào mesenger cài đặt chat heads nhưng mỗi lần chat là bong bóng chỉ hiện 1 vài giây r tắt ! Em đã xóa dữ liệu của mess với khởi động lại rồi nhưng vẫn không khắc phục đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.679432,
+         "id": "1011887",
+         "field_search": "question",
+         "question": " máy em bị như thế là lỗi gì. Em đã xóa dữ liệu, cài đặt lại google play rồi mà vẫn không được.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.597404,
+         "id": "1004596",
+         "field_search": "question",
+         "question": "E dùng samsung j2 prime. Tại sao e chuyển dữ liệu ứng dụng từ thiết bị sang bộ nhớ ngoài rồi mà sao dung lượng trên thiết bị vẫn như cũ là sao nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.58309,
+         "id": "998482",
+         "field_search": "question",
+         "question": "Em mới mua samsung j2 prime, máy bộ nhớ ít nên e lắp thêm thẻ nhớ, vào file của bạn thì thẻ nhớ gắn được rồi. Nhưng e vào cài đặt-> ứng dụng, ấn vào ứng dụng muốn chuyển sang thẻ nhớ nhưng nó ko có mục chuyển sang thẻ SD ạ, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.51168,
+         "id": "1009018",
+         "field_search": "question",
+         "question": "mình dùng j7 prime, tầm khoảng 3 ngày nay mình khó mở facebook được, cứ báo \"không phản hồi\". Mình đã thử vào phần ứng dụng và xóa dữ liệu rồi tải lại thì chạy được. Nhưng nếu không đăng nhập khoảng 5-6h thì sẽ bị lại, nhờ hỗ trợ giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.358116,
+         "id": "856362",
+         "field_search": "question",
+         "question": "Chọn Erase iphone ( xóa iphone ) để xóa mọi dữ liệu bên trong máy thì icloud bên trong máy còn không hay cũng bị thoát hay xóa luôn vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.169315,
+         "id": "1158727",
+         "field_search": "question",
+         "question": "Máy e samsung J5Prime lúc trước chỉ cần gắn dây cáp sạc vào máy tíh là có thể chia sẻ dữ liệu với máy như USB nhưg nay khi gắn vào chỉ còn tác dụng như dây sạc k thể chia sẻ dữ liệu, có cách nào khắc phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.112286,
+         "id": "1154606",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao em vào CH play tải ứng dụng mà CH play bảo \"yêu cầu xác thực, Bạn cần đăng nhập vào tài khoản của mình\", trong khi đó em đã đăng nhập vào tài khoản Google của em rồi ạ. Nhiều ứng dụng bị vậy lắm ạ. Em đã thử xóa tài khoản Google và dữ liệu CH phay rồi nhưng mà không khắc phục được tình trạng này ạ. Ad giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.921806,
+         "id": "1017801",
+         "field_search": "question",
+         "question": "Note 4 của e k vào đc messenger. Xóa đi tải lại thì CH Play thông báo là chương trình beta đã hết chỗ. Dù e xóa hết ứng dụng nhưng vẫn k vào đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.42555,
+         "id": "796532",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình mới mua điện thoại gionee p5w mình vào ch play tải trog chơi và ứng đụng. Như khi đến cái trò này thì không thể nào rải vào cài đặt đc. Mình đã thủ rất nhiều cách rồi mà không được. Như xóa dữ liệu khởi động lại máy nhưng vẫn không được. Bạn nào biết cách khắc phực giúp mình với . thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.220627,
+         "id": "1139771",
+         "field_search": "question",
+         "question": "Náy mình là Sámung J7 prime đã root...Mọi người tư vấn cho mình xem nên xóa các ứng dụng hệ thống nào...Những cái cơ bản mình đã xóa rồi...Sợ xóa linh tinh tinh nó hỏng room ngại cài lại lắm....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.151188,
+         "id": "840401",
+         "field_search": "question",
+         "question": " cho em hỏi khi xóa dữ liệu trên icloud thì trên iphone còn dữ liệu k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.29824,
+         "id": "1166971",
+         "field_search": "question",
+         "question": "Em dùng samsung j4 khi chuyển ứng dụng qua thẻ nhớ sd chỉ chuyển được khoảng 30mb, làm sao để chuyển hết dữ liệu được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.067772,
+         "id": "998081",
+         "field_search": "question",
+         "question": "Em dùng Mobiistar Lai Yuna 1 , sử dụng thẻ nhớ 8G nhưng dữ liệu vẫn chỉ lưu vào bộ nhở của máy và k chuyển qua bộ nhớ ngoài là thẻ nhớ đc. Thẻ nhớ của e cũng dùng lâu r, nhưng vẫn tốt với những điện thoại khác. Vậy làm sao để khắc phục ạ? Mua thẻ nhớ mới có chuyển dữ liệu được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.96743,
+         "id": "855722",
+         "field_search": "question",
+         "question": " Em muốn chuyển dữ liệu từ iPhone 6 sang LG vu. Có ứng dụng nào giúp em chuyển được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.952366,
+         "id": "998337",
+         "field_search": "question",
+         "question": "Đang sài con Samsung Galaxy J2 Prime em mua thẻ nhớ SD gắn vào khi vào Cài đặt > Ứng dụng > chọn ứng dụng > Thay đổi > Thẻ nhớ SD. Thì đang xuất qua nó ghi là \"Dung lượng lưu trữ không đủ\" trong khi thẻ nhớ còn dư hơn 10 GB :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.623432,
+         "id": "828793",
+         "field_search": "question",
+         "question": "Không vào được facebook là sao, messenger thì cứ \"Đang kết nối\". thử xóa hết ứng dụng rồi cài lại vẫn không được. Truy cập facebook bằng trình duyệt cũng không được. Trong khi đó vẫn vào được các trang khác bình thường.Giúp e với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.574535,
+         "id": "1135628",
+         "field_search": "question",
+         "question": "Qtv ơi mình sử dụng xiaomi redmi 5 plus đã được 2 tháng mà sao bây giờ vô liên quân ko được vạy qtv. Tôi đã xóa dữ liệu và tải lại rồi ứng dụng đó và đã khởi độg lại máy với giải phóng ram rồi tại sao ko vô được. Cũng kiểm tra wify rồi luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.574196,
+         "id": "1023391",
+         "field_search": "question",
+         "question": "Em vào cài đặt rồi vào ứng dụng. Thì nó thoát ra màn hình chủ và thông báo là không may quy trình cài đặt dã dừng lại ai giúp em vs ạ. ( máy lg x power ạ )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.497936,
+         "id": "999001",
+         "field_search": "question",
+         "question": "Máy em tăng dữ liệu lên bất thường, giờ tải ứng dụng toàn báo thiếu dung lượng.  Em phải làm sao đây ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.492413,
+         "id": "767600",
+         "field_search": "question",
+         "question": "Trên Laptop có phần mềm iTools rồi mà khi cắm jack vô để tải dữ liệu như hình ảnh, video hay xóa dữ liệu mà sao không truy cập vô File được, cũng không coi được hình ảnh luôn, nhờ add chỉ dùm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.297153,
+         "id": "1138151",
+         "field_search": "question",
+         "question": "Mình đang sài sam sung A9pro 2016 lên 8.0 rồi .Mình cố gắng tải ứng dụng trên Ch play .nhưng không được  chạy mãi .chạy riết .vẫn ko tải về dc.Mình có ra xóa dữ liệu và xoa bộ đệm của CH play nhưng vẫn ko dc ạ .nhờ qtv giúp mình à. Bị lỗi gì ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.27827,
+         "id": "1021824",
+         "field_search": "question",
+         "question": "E xài samsung j5 prime. Cho em hỏi làm sao để tắt cái cảnh báo sử dụng dữ liệu này đây ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.24017,
+         "id": "785838",
+         "field_search": "question",
+         "question": "Tôi bị mất iPhone 6 tình trạng máy có wifi và icloud nhưng mà máy không bật định vị và tôi cũng có vào iCloud khóa máy với xóa dữ liệu vậy thì kẻ trộm máy tôi restore iPhone lại có sử dụng được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.182556,
+         "id": "1006301",
+         "field_search": "question",
+         "question": "E mới mua samsung j2 prime nhưng điện thoại luôn báo bộ nhớ đầy e mua thẻ nhớ 8g lắp vào nhưng sao khi e vào ch phay tải ứng dụng về nó vẫn báo là bộ nhớ đầy cần xóa bớt để tải trong khi e đã lắp thẻ nhớ còn mới chưa dùng vào điện thoại rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.104137,
+         "id": "1136437",
+         "field_search": "question",
+         "question": "Mjnh đang dùng máy samsung galasy j3 mà k biết cài đặt thế nào để lưu trữ dữ liệu tải xuống từ chomre mặc định vào thẻ nhớ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.05971,
+         "id": "1161327",
+         "field_search": "question",
+         "question": "cho em hỏi máy Xaomi redmi 5 Miui 10 xóa hết dữ liệu đăng nhập lại yêu cầu nhập tài khoản google cũ mới vô cài đặt máy được thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.898632,
+         "id": "801244",
+         "field_search": "question",
+         "question": "Cho em hỏi 1 chút ạ. Hôm trước em backup dữ liệu của mẹ em vào macbook. Đến hôm nay mẹ em chuyển sang dùng samsung. Em muốn hỏi là bây giờ phải làm thế nào để lấy lại dữ liệu trong phần backup kia khi không có iphone ạ? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.88059,
+         "id": "1137884",
+         "field_search": "question",
+         "question": "ad ơi cho mik khi nhấn sao lưu iphone thì tất cả dữ liệu sẽ đc lưu lại phải ko ạr ồi đăt lại iphone xong chỉ cần nhập icloud vào thì tất cả dữ liệu trở lại như ban đầu phải ko ạMong phản hồi sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.82281,
+         "id": "1000616",
+         "field_search": "question",
+         "question": "Mình dùng ip5s trong phần cài đặt-> dung lượng& sử dụng icloud -> quản lý dung lượng. báo ảnh & camera 10,0 GB mà mình tìm mãi không biết dữ liệu đó nó nằm ở đâu. Trước đó mình kết nối iphon với máy tính và copy tất cả dữ liệu ảnh và video ra ngoài sau đó xóa hết đi rồi. Mình muốn xóa đi để nâng cao bộ nhớ thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.820183,
+         "id": "828904",
+         "field_search": "question",
+         "question": "Cho e hỏi chút ạ e dùng j2 sao tối qua vẫn vào đc f mí cả messenger mà hôm sau ko vào đc mà trong khi đó vào zalo mí line vẫn đc mà vào f máy báo ko có kết lối mạng.e cập nhật lại xóa đi tải r mà vẫn ko vào đc. Liệu có phải do cài đặt gì ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.816525,
+         "id": "1164564",
+         "field_search": "question",
+         "question": "Sao cái thẻ nhớ của mình bị gì ák? Điện thoại mình Samsung J2 PrimeThẻ nhớ 8gb mà mới xài có 2gb thì bị rắc rối là: tất cả ứng dụng chuyển vào thì bị thoát ra hết bây giờ máy rất nặng phải xóa bớt còn ảnh thì k bị thoát ra nhưng chuyển ảnh vào thì đễ \"có lỗi khi chuyển file\" mà nó ảnh trong đó cũng k được luôn lúc xóa thì nó mất nhưng 1 lúc vào lại thì nó y như cũ k bị xóa ứng dụng chuyển vào thì nó nói: \"không đủ dung lượng lưu trữ\" dù ứng dụng 12mb nó vẫn để vậy. Là sao ạk giải thích với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.77457,
+         "id": "1015791",
+         "field_search": "question",
+         "question": "Tại sao Lenovo K5 Plus không thể khôi phục cài đặt gốc được.Cụ thể: Khi nhấn vào \"Đặt lại về dữ liệu gốc\" thì máy báo \"Rất tiếc, cài đặt đã dừng lại\". Mạc dù đã khởi động lại vẫn vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.62872,
+         "id": "828849",
+         "field_search": "question",
+         "question": "em đang dùng máy lumia 820 , có đăng kí mimax hàng tháng . Bây giờ em lên facebook thì máy luôn báo đang gặp sự cố khi nhận dữ liệu . vào messenger thì phải đợi mạng rất lâu nhưng cũng ko được . Vậy em phải làm sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.553772,
+         "id": "1164201",
+         "field_search": "question",
+         "question": "điện thoại nokia 215 của mình không vào được ứng dụng bing,vào opera mini thì hiện lỗi không còn chỗ trống chỉ vào được ứng dụng facebook vậy là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.473206,
+         "id": "1013449",
+         "field_search": "question",
+         "question": "Cho hỏi e xài j7 prime mà cài ứng dụng bên ngoài thì khi bấm vào ứng dụng để cài đặt thì bên chữ cài đặt k bấm đc . Bấm hủy thì đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.244003,
+         "id": "760451",
+         "field_search": "question",
+         "question": "Nếu đăng xuất tài khoản iCloud dữ liệu sẽ bị xóa vậy thì khi đăng nhập lại tài khoản đó thì dữ liệu có còn không hay đã bị xóa vĩnh viễn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.02219,
+         "id": "1023962",
+         "field_search": "question",
+         "question": "ad em bấm vào đặt lại dữ liệu góc song nó bị gì luôn á",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.980858,
+         "id": "1159763",
+         "field_search": "question",
+         "question": "Mình dùng galaxy tab e 9.6 nhưng mình không thể mở khóa màn hình vì bàn phím samsung tự động dừng. Mình đã khởi động lại máy nhưng ko khắc phục đc. Cho em hỏi làm thế nào để mở khóa màn hình mà ko cần xóa dữ liệu điện thoại???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.924503,
+         "id": "837577",
+         "field_search": "question",
+         "question": "giúp em với ạ, em có tải 1 số ứng dụng về máy tính nhưng lại có các ứng dụng khác tự tải vag cài vào máy tính của em, mấy ứng dụng đó không thấy hiển thị trong chương trình cài ở trong máy tính ạ nên em không thể xóa được, làm cách nào giúp em với ạ. đó là 2 ứng dụng mở ra trang mua bán và đặt phòng tên Booking và eliexpress",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.920135,
+         "id": "1020743",
+         "field_search": "question",
+         "question": "cho mình hỏi sao samsung j2 prime của mình ở đây ghi ứng dụng 5,58gb nhưng mình vào xem rồi cộng dung lượng lại chỉ gần 2gb ( một số ứng dụng mình đã chuyển sang thẻ nhớ). Kiểm tra chỗ bảo trì thiết bị máy chỉ còn dư 500mb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.67462,
+         "id": "1020244",
+         "field_search": "question",
+         "question": "anh ơi , sau điện thoại của em 1-2 tuần lại không vào được youtube hay google ạ, em xóa ứng dụng rồi tải về vẫn không vào dc. em cài đặt lai thì dùng được 1 hay tuần lại bị lại .. em đang dùng iphone 6s ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.600544,
+         "id": "807088",
+         "field_search": "question",
+         "question": " admin cho hỏi máy e cắm vào pc thì không chuyền dữ liệu usb mà chỉ sạc pin . có cách nào giải quyết được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.52988,
+         "id": "920176",
+         "field_search": "question",
+         "question": " Làm sao để thêm ứng dụng vào chỗ đó .mình vào thêm không được ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.474922,
+         "id": "1140916",
+         "field_search": "question",
+         "question": "E đang sài j3 pro. E muốn chuyển những tập tin dữ liệu qua thẻ nhớ làm cách nào ạ. ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.47351,
+         "id": "779061",
+         "field_search": "question",
+         "question": "Mình sử dụng iPhone 4, hôm rồi mình có reset lại máy, nhưng máy mình chưa sao lưu dữ liệu lên iCloud, giờ mình phải làm sao để sử dụng máy? giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.45285,
+         "id": "1020554",
+         "field_search": "question",
+         "question": "máy mình bị ẩn hết tất cả ứng dụng, k có gì hiện thị trên màn hình cả. mình phải vuốt từ trên xuống để vào cài đặt rồi cài cử chỉ chuyển động màn hình tắt để mở các ứng dụg. bây giờ phải làm sao để nó hiện ứng dụng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.423668,
+         "id": "1154093",
+         "field_search": "question",
+         "question": "Thế giới di động  mình mở cũng lúc wifi và dữ liệu, có nghĩa là mình sài wifi thôi nhưng khi tắc wifi thì nó lại không chuyển sang dữ liệu như nokia 6 (2017) và mình phải tắc mở lại dữ liệu nó mới hiện 4g và thấy cũng hơi bất tiện. mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.40104,
+         "id": "1164634",
+         "field_search": "question",
+         "question": "Thẻ nhớ mình bị gì ák? Điện thoại mình là Samsung J2 PrimeLúc đầu mình chuyển ảnh với ứng dụng vào trong thẻ nhớ cho máy nó nhẹMình xài được khoảng một thời gian thì thẻ nhớ nó xóa tất cả ứng dụng ra ngoài hết không còn ứng dụng nào trong thẻ nhớ cả làm máy nặng quá trời cái mình chuyển vào lại thì nó để là không đủ dung lượng lưu trữ nhưng thẻ nhớ mình tới 8gb lận mới dùm 2gb mà còn ảnh thì nó không thoát ra nhưng chuyển ảnh vào thì không được còn xóa ảnh trong thẻ nhớ thì nó để là có lỗi khi xóa file. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.36816,
+         "id": "1010951",
+         "field_search": "question",
+         "question": "E muon hoi dt em là Samsung J5 Prime còn bảo hành giờ nó bị lỗi cảm ứng nút ỨNG DỤNG GẦN ĐÂY. Vay e dem ra TGDD bảo hanh vay có vị mất dữ liệu hay gì  ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.336308,
+         "id": "1167721",
+         "field_search": "question",
+         "question": "Giúp mình với, mình đang dùng Sony Xperia M4 Aqua xóa mess đi mà không tài nào cài đặt lại được. Đã kiểm tra dung lượng và kết nối wifi, tất cả đều ổnMình cũng thử xóa dữ liệu CH Play và Dịch vụ GG Play nhưng vẫn không cài đặt được. Mong được giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.192974,
+         "id": "1003267",
+         "field_search": "question",
+         "question": "MÌnh phải làm thế nào để lấy lại dữ liệu sau khi định dạng??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.111004,
+         "id": "949098",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone đã đky thành công và làm các bước tắt khoá nguồn rồi mở lại nhưng tại sao vẫn không sử dụng dc 3G sinh ra mình bị mất tiền oan hôm đó. À có nhiều lần mình thử tắt wifi vào cài đặt bật dữ liệu di động nó vẫn hiện lên 3G nhưng cũng ko dùng dc vào gg thì toàn lỗi mạng , chỉ khi có wifi mới truy cập dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.097107,
+         "id": "1004205",
+         "field_search": "question",
+         "question": "AD cho em hoi hom nay em có lỡ tay dí vào màn  hình chính rồi xóa đi tất cả các ứng dụng mặc định trên đó bh em phải l thế nào để khôi phục lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.067966,
+         "id": "1165059",
+         "field_search": "question",
+         "question": "mình đang dùng máy vivo y81 có dùng thẻ nhớ 32gb mà sao mình tải ứng dụng toàn về máy mình muốn chuyển sang thẻ nhớ cũng k được mỗi lần tải app mới đều bắt mình xóa dữ liệu cũ rất quan trong làm mình rất khó chịu ad có cách nào khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.930702,
+         "id": "797567",
+         "field_search": "question",
+         "question": "Các anh cho em hỏi ạ ! E dung ip4s ios 7.1.2 nếu em restore máy thì các cài đặt và ứng dụng đã cài sẽ bị xoá chỉ còn những ứng dụng mặc định thôi đúng không ạ ! Kể cả cydia cũng bị xoá chứ ạ !Và restore lại máy xong tải game về chơi vẫn đăng nhập gamecenter cũ kia như bình thường để sử dụng níck game cũ chứ ạ ! Hay là bị xoá hết dữ liệu không thể vào được níck cũ đang chơi ạ !Em đang chơi Clash of clan nên không muốn bỏ !Mong các anh giúp với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.683044,
+         "id": "999785",
+         "field_search": "question",
+         "question": "Điện thoại của em tự nhiên không thể mở camera được, bấm vào máy ảnh thì nó kêu vui lòng tắt hết các ứng dụng đang sử dụng camera hoặc đèn flash. Em đã thử reset máy, khôi phục cài đặt gốc nhưng vẫn không có tác dụng, vào mục Cài đặt->Ứng dụng->Tất cả ứng dụng thì không thấy camera/máy ảnh. Em đang sài điện thoại philips s358",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.64856,
+         "id": "1161984",
+         "field_search": "question",
+         "question": "cho em hỏi là em muốn chạy lại máy tính win 10 để xóa sạch dữ liệu nhưng nó báo là không thể khôi phục vì đang chạy battery power ? giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.638126,
+         "id": "1169402",
+         "field_search": "question",
+         "question": "Làm thế nào để tắt lớp phủ màn hình trên máy Mobistar Lai ZumboS ạ? Khi em vào cài đặt -> ứng dụng -> icon cài đặt trên cùng -> vẽ lên trên ứng dụng khác -> chọn \"các ứng dụng có quyền\" thì có 1 số ứng dụng không hiện ở đây. Mong anh/chị trợ giúp em với ạEm cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.569973,
+         "id": "936731",
+         "field_search": "question",
+         "question": "Cho em hỏi: cái iPad 4Có phải khi đặt lại-->> xóa nội dung và đặt lại cài đặt gốc thì iPad e sẽ trở về như là mới k? Có phải giống như iPad em bị người khác cài k cho vào wifi của người đó, nếu e cài lại là có nghĩa e đã xóa thông tin mọi thứ của iPad và em có thể vào dc wifi người đó đúng k? Em muốn tìm cách thay đổi giống như là IT hay ID j đó của máy..Em cảm ơn :))",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.50921,
+         "id": "819215",
+         "field_search": "question",
+         "question": "Chào anh chị! A/c cho e hỏi xíu nhé ạ! Chả là e ms có mất con ip6s và e đã truy cập icloud.com để khó nó vào rồi ạ. Cơ mà dường như người bắt dc lại biết mật khẩu mở máy of e hay sao mà họ vẫn dùng dc máy. Giờ e đang tính là dùng icloud xóa dữ liệu trên máy đó đi. Thì ac cho e hỏi nếu xóa đi thì ng đó có dùng được máy tiếp ko ạ. Cảm ơn a/c nhiều ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.505295,
+         "id": "1160091",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình bị mất máy điện thoại, làm lại sim mới rồi thì ứng dụng zalo, viber trên máy bị mất có vào được không? mình rất lo dữ liệu trên phần mềm viber và zalo bị rò rỉ! Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.36647,
+         "id": "1160985",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi tý nhé: khi em vào chia đôi màn hình xong và chạy 2 ứng dụng trên màn hình, nếu em nhấp vào ứng dụng trên thì ứng dụng dưới không chạy và sử dụng ứng dụng dưới thì ứng dụng trên dừng, như vậy cách khắc phục thế nào chỉ giúp em vơi. Em đang xài tap A6 spen. ( chọn ứng dụng nào thì ứng dụng đó chạy, còn không chọn thì không chạy). Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.358418,
+         "id": "1156502",
+         "field_search": "question",
+         "question": "Sao laptop của em khi vào word không nhập dữ liệu được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.279476,
+         "id": "1167929",
+         "field_search": "question",
+         "question": "Dạ e ko thể dùng tài khoản Google  của mình đăng nhập vào ứng dụng của Google như ch play và youtube.tất cả đều báo là ko có kết nối mạng .e đã xóa cache và thử gỡ cài đặt ứng dụng nhưng đều ko đc ạ ..mong ad giúp e khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.121983,
+         "id": "1134367",
+         "field_search": "question",
+         "question": "Cho e hỏi cách sao lưu dữ liệu sam sung tab 4 ạ dữ liệu cài đặt nhé và e vô tình quên pass wifi của m và giờ muốn xem lại thì có cách k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.087875,
+         "id": "828744",
+         "field_search": "question",
+         "question": "ad ơi nếu em nâng cấp win7 lên win10 máy có bị mất dữ liệu hay các ứng dụng j ko, rồi sau khi nâng cấp xong mình có cần pải cài đặt lại mạng của máy hay cái j khác không Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.06524,
+         "id": "828292",
+         "field_search": "question",
+         "question": "Lỗi không vào được bất kì trang nào của facebook bằng 3GQTV, tình trạng là lúc sáng thì vẫn bình thường, đến 12h30 là không vào được facebook nữa, messenger thì cứ \"Đang kết nối\". E thử xóa hết ứng dụng rồi cài lại vẫn không được. Truy cập facebook bằng trình duyệt cũng không được. Trong khi đó vẫn vào được các trang khác bình thường. Dùng Wifi thì vô lại bình thường là sao? Giúp e với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.017796,
+         "id": "1016596",
+         "field_search": "question",
+         "question": "E dùng htc m8 e vào phần khôi phục cài đặt gốc thì báo là rất tiếc cài đặt đã dừng lại..bây giờ e phải làm thế nào để khôi phục được cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.017754,
+         "id": "1133668",
+         "field_search": "question",
+         "question": "làm thế nào để ri sét lại điện thoại oppo a37. và sau khi cài lại dữ liệu gốc mấy có bị đơ ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.90725,
+         "id": "993510",
+         "field_search": "question",
+         "question": "Cho mình hỏi .Sao mình không tải được ứng dụng zalo trên IP4 thường,Vào appstore thì máy bảo chỉ tải được trên iOS 8. .Vậy có cách nào để mình tải ứng dụng zalo về không nhĩ ! Có gì mọi người chỉ mình với nhé !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.811195,
+         "id": "842890",
+         "field_search": "question",
+         "question": "Mình vẫn đang dùng facebook, bỗng dưng mất . Xem bên cài đặt ứng dụng thì vẫn còn , nhưng không thấy ứng dụng trên trang của điện thoại. mình có xóa ,thử cài lại nhưng vẫn bị .",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,809 @@
+{
+   "id_query": "1157220",
+   "total": 33099,
+   "total_current": 100,
+   "max_score": 168.8449,
+   "origin_question": "Em có đặt 1 đt realme 2 pro 8gb trả góp trả trước 30℅ ở 1273 Đường 3/2 P6 Q11 TphcmGiờ làm hồ sơ rồi mai em đem cmnd hộ khẩu + hóa đơn điện lên cửa hàng đc ko tại em mai đem giấy tờ lên duyệt cho nhanh",
+   "hits": [
+      {
+         "score": 168.8449,
+         "id": "1157220",
+         "field_search": "question",
+         "question": "Em có đặt 1 đt realme 2 pro 8gb trả góp trả trước 30℅ ở 1273 Đường 3/2 P6 Q11 TphcmGiờ làm hồ sơ rồi mai em đem cmnd hộ khẩu + hóa đơn điện lên cửa hàng đc ko tại em mai đem giấy tờ lên duyệt cho nhanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.565308,
+         "id": "1009090",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi là ví dụ em xét duyệt hồ sơ trả góp qua điện thoại vào buổi sáng ngân hàng đã duyệt thì tối em ghé cửa hàng tgdd làm hồ sơ trả góp luôn đc ko..hay xét duyệt xong rồi phải đến liền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.822083,
+         "id": "1000340",
+         "field_search": "question",
+         "question": "cho hỏi mình có đặt mua trả góp Samsung J7 Pro bên TGDD. Mình muốn nhận máy vào ngày mai thì ngày mai làm hồ sơ vay trả góp có kịp không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.70685,
+         "id": "1014528",
+         "field_search": "question",
+         "question": "Cho mình hỏi, không có bằng lái xe nhưng có hồ sơ gốc thi sát hạch lái xe và cmnd có đc duyệt hồ sơ không ạ. Hồi trước mình có đứng tên mua trả góp 1 lần rồi, bây giờ có cần thiết giấy tờ trên nữa không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.225636,
+         "id": "999132",
+         "field_search": "question",
+         "question": "Em chỉ có hộ khẩu 4 trang thôi, đã công chứng rồi, có làm hồ sơ trả góp đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.645775,
+         "id": "1006516",
+         "field_search": "question",
+         "question": "em chỉ có cmnd + bằng lái mà không đem sổ hộ khẩu thì có mua được oppo f3 gói trả trước 2 triệu và góp 12 tháng không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.966328,
+         "id": "1009520",
+         "field_search": "question",
+         "question": "cho mình hỏi. mình muốn mua trả góp. sổ hộ khẩu+hóa đơn điện mà ko có cmnd. chỉ có giấy hẹn ngày trả cmnd của công an quận . vậy có đủ điều kiện ko vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.82438,
+         "id": "1022217",
+         "field_search": "question",
+         "question": "cho mình hỏi.mình có hồ sơ trên thế giới di động .giờ mình muốn mua điện thoại trả góp vậy có cần đem giấy tờ gì nữa khong vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.506714,
+         "id": "993550",
+         "field_search": "question",
+         "question": "E muốn mua trả góp trả trước 10  dc ko ạ. E có cmnd hộ khẩu và hoá đơn điện.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.892723,
+         "id": "989281",
+         "field_search": "question",
+         "question": " AnhChị cho em hỏi, cần có giấy tờ gì khi mua điện thoại trả góp tại cửa hàng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.703552,
+         "id": "999178",
+         "field_search": "question",
+         "question": "tôi muốn mua samsung galaxy s8 plus , trả góp và trả trước 30% , ngoài cmnd và sổ hộ khẩu ra thì tôi còn phải chuẩn bị giấy tờ gì nữa vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.65253,
+         "id": "1155605",
+         "field_search": "question",
+         "question": "bữa em có đặt trước 1 điện thoại samsung A50. Em mua theo phương thức vay trả góp. giờ em qua bên cửa hàng đặt cọc cần mang theo giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.4559,
+         "id": "1012409",
+         "field_search": "question",
+         "question": "chào TGDD, cho mình hỏi là mình muốn mua trả góp   Apple Macbook Air MMGF2ZP/A i5 5250U/8GB/128GB/13.3\"/Bạc   cũ đã qua sử dụng. Giấy tờ mình sử dụng là CMND + Bằng lái xe (không có sổ hộ khẩu). Nhưng khi mình chọn Đặt mua trả góp thì trong phần điền thông tin lại kêu điền Địa chỉ hộ khẩu để phê duyệt hồ sơ, vậy là sao ạ? TGDD giải đáp thắc mắc dùm mình được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.745007,
+         "id": "788211",
+         "field_search": "question",
+         "question": "cho em hỏi trước em có tham gia gói trả góp với gói trả 0d với cty tài chính fedcdit về hồ sơ bị hủy ,bây giờ em muốn mua trả góp iPhone 6 và em trả trc 30% có được làm hồ sơ nữa không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.680466,
+         "id": "1141740",
+         "field_search": "question",
+         "question": "cho em hỏi nếu mua góp điện thoại realme không trả trước cần hồ sơ những gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.62398,
+         "id": "996342",
+         "field_search": "question",
+         "question": "Cho em hỏi là em muốn mua điện thoại tầm 4,5 triệu (xiaomi redmi note 4) với hình thức trả góp 0%, trả trước tầm 2 triệu. Em hiện 20 tuổi, có CMND và bằng lái xe. Em còn cần thêm giấy tờ gì hay không và có cần hỏi ý kiến phụ huynh để xin xác nhận trả góp từ phía công ty trả góp hay không? Tại vì em đang có 1 chiếc điện thoại rồi,  sợ ba mẹ sẽ không cho mua thêm, nên em hỏi xem lúc làm hồ sơ trả góp là có điện thoại cho phụ huynh xác nhận hay không. Nhờ anh/chị tư vấn giúp. Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.976982,
+         "id": "1004287",
+         "field_search": "question",
+         "question": "Tôi có cmnd vs hộ khẩu muốn mua góp s8 trả trước 10 có được không cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.937103,
+         "id": "787179",
+         "field_search": "question",
+         "question": "em trả góp iPhone 5strả trước 10%trong 12 thángcủa FECreditmình đi trả góp chỉ cần cmnd vs hộ khẩu thôi được không ad? mìn có cần đem theo gì nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.787174,
+         "id": "1008999",
+         "field_search": "question",
+         "question": "em định mua redmi 4a trả góp tại tân châu An Giang ạ ! Có thể giúp em cần đem giấy tờ gì và trả góp ra sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.68905,
+         "id": "760889",
+         "field_search": "question",
+         "question": "Mỉnh có hộ khẩu giấy điện nước với hộ chiếu ở tp.hcm muốn mua góp điện iPhone 6s Plus màu Rose 16gb trả trước 30% có được không bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.55961,
+         "id": "1019745",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp nhưng chưa đủ 20 tuổi, nên em có thể nhờ mẹ mua trả góp bằng CMND và Hộ khẩu do mẹ đứng tên được không ( kèm theo hóa đơn điện ). Nếu được thì mình lấy bản photo của CMND và Hộ khẩu ( có công chứng ) và bản góc của CMND và Hộ khẩu ra hay sao ạ??.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.87393,
+         "id": "993469",
+         "field_search": "question",
+         "question": "E sinh năm 1994. Giấy tờ hiện có là sổ hộ khẩu và cmnd số tiền e muốn trả trước là 7tr2.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.653435,
+         "id": "998498",
+         "field_search": "question",
+         "question": "cho em hỏi là. em muốn mua trả góp điện thoại Desire 628 với lãi suất trả trước 0% với giấy tờ là CMND + Bằng Lái Xe Thì Làm Thế Nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.594166,
+         "id": "998170",
+         "field_search": "question",
+         "question": "Xin chào anh chị, hiện tại em đang có nhu cầu mua trả góp điện thoại tại thegioididong. Nhưng do em mới 18 tuổi chưa đủ tuổi để tham gia trả góp theo quy định cho nên em có thể sử dụng giấy cmnd của mẹ em và kèm theo hộ khẩu gia đình đến để thực hiện giao dịch đc không ạ? Mẹ em hiện tại không có ở đây , nhưng giấy cmnd của mẹ em có thể đem đến mà không cần mẹ đến không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.277267,
+         "id": "987510",
+         "field_search": "question",
+         "question": "mình mua đt trả góp ngân hàng HD hôm 15/3 mìh đã góp trước đc 4 kỳ ( tính ra mới 2 nhưng mìh đã góp 4) thế có đc đăng ký góp tiếp 1 máy khác ko và đky tiếp có cần mang theo hộ khẩu hay chỉ cần cmnd ( mìh còn 15 ngày nữa mới 21 tuổi )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.257473,
+         "id": "1022880",
+         "field_search": "question",
+         "question": " minh co cmnd vs hộ khẩu thì Mình có thể trả góp 2 máy tại c.ty không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.21082,
+         "id": "1156363",
+         "field_search": "question",
+         "question": "Trả góp chỉ cần giấy tờ của người thân thôi hay người thân phải lên cửa hàng mua ạ. Tại em chưa đủ tuổi trả góp nhưng người thân em khó đi xa được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.135826,
+         "id": "994008",
+         "field_search": "question",
+         "question": " Em muốn mua đt trả góp , không trả trước , cần giấy tờ sao hả? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.11325,
+         "id": "1001075",
+         "field_search": "question",
+         "question": "Cho em hỏi giấy tờ để mua trả góp galaxy s8 gồm những gì. Em thấy có cmnd và gplx sao e mang ra lại kêu cần thêm hộ khẩu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.05698,
+         "id": "996232",
+         "field_search": "question",
+         "question": "A chị ơi nếu mua Hàng online có đầu đủ giấy hộ khẩu giấy cmnd mà giấy điện có mà làm mất có mua Hàng trả góp dc hk a chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.91514,
+         "id": "1004167",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp j7 pro nhưng em chỉ có cmnd và hộ khẩu nhưng hộ khẩu là ở bình thạnh nhưng nhà bình thạnh đã bán hiện em đang ở quận 12 ko biết có tham gia mua đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.892754,
+         "id": "999805",
+         "field_search": "question",
+         "question": "Cho em hỏi. Đợt trước em có mua trả góp 1 cái điện thoại mà em chưa trả tiền hết 4 đợt. Giờ em có thể lấy hộ khẩu cmnd đó trả góp thêm 1 máy lạnh được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.824352,
+         "id": "1004929",
+         "field_search": "question",
+         "question": "em mua oppo a37 bằng phương thức trả góp lãi suất thấp số tiền trả trước là 50% có giấy tờ đầy đủ , nhưng nhân viên  họ bảo chỉ trả trước đc 30% thôi nếu trả trước 50% dưới 2 triệu  gì  đó  thế là s ạ , em không hiểu lắm ad  giải thích dùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.551083,
+         "id": "987992",
+         "field_search": "question",
+         "question": "e có giấy cmnn và hộ khẩu e mún mua 7plus red 128g và trả trước 30 đc ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.427597,
+         "id": "1010581",
+         "field_search": "question",
+         "question": "CHo hỏi neeis em mua sản phảm sony xz dual trả góp 0 trả trước 30 thì cần mang theo những giấy tờ nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.41534,
+         "id": "996305",
+         "field_search": "question",
+         "question": "cho e hỏi hồ sơ trả góp được xét duyệt lần 1 có đổi điều kiện trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.412956,
+         "id": "1000666",
+         "field_search": "question",
+         "question": "cho e hỏi hồi trước e có làm hồ sơ trả góp và đã hoàn thành xong.h e muốn mua máy mới trả góp thì làm lại hồ sơ hay sao ak.hồ sơ em bên FEcredit",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.31517,
+         "id": "775922",
+         "field_search": "question",
+         "question": " Cho em hỏi mua laptop trả góp có GCM với giấy tờ xe không cần hộ khẩu được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.281677,
+         "id": "1009983",
+         "field_search": "question",
+         "question": "E muốn mua đt trả góp mà 1 bộ hồ sơ mua đk 2 máy k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.275135,
+         "id": "991120",
+         "field_search": "question",
+         "question": "em muốn mua oppo f1s có giấy cmnd và sổ hộ khẩu thì em phải trả trước bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.984676,
+         "id": "1160773",
+         "field_search": "question",
+         "question": "Em có mua 1 chiếc điện thoại ở thế giới di động bằng hình thức trả góp bên công ti Fe nhưng em lỡ lảm mất thẻ + hóa đơn (em trã góp dc 2 tháng rồi ạ) giờ có cách nào khắc phục ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.85292,
+         "id": "1024114",
+         "field_search": "question",
+         "question": "em muốn hỏi, em đang trả góp bên fe creat được 4 tháng rồi giờ em muốn mua thêm trả góp bên ngân hàng khác có được không ạ, và giấy tờ em có bây giờ sổ hộ khẩu photo công chứng với chứng minh thư",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.733215,
+         "id": "1008401",
+         "field_search": "question",
+         "question": "Em có mua cục sạc dự phòng xmobile tại thế giới di độg gần đc 2 thág hiện đã bị mất hóa đơn rồi. Dạo đây em phát hiện có 1 vết xước mờ ở thân cục sạc. Cho em hỏi có đổi trả đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.590256,
+         "id": "997086",
+         "field_search": "question",
+         "question": "Xin chào các anh chị ! Tôi tên Tùng. là giáo viên. Nhà ở huyện Châu Thành, tỉnh Sóc Trăng. Tôi muốn mua trả góp smart phone Galaxy C9 pro. Nếu có đủ CMND, hộ khẩu, hóa đơn tiền điện hàng tháng thì phải trả trước bao nhiêu tiền và trả thêm bao nhiêu tháng nữa, mỗi tháng sau đó gởi bao nhiêu?Cám ơn trước.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.55549,
+         "id": "1134703",
+         "field_search": "question",
+         "question": " Mua trả góp thì Cửa hàng có giữ lại giấy tờ gì ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.502617,
+         "id": "1014215",
+         "field_search": "question",
+         "question": "Cho mình hỏi Mình mua trả góp giay cmnd vs hộ khẩu ,,vay 2 thứ đó mình photo ra r côg chứg hay s ạ ?có cần đem bản gốc kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.37653,
+         "id": "765969",
+         "field_search": "question",
+         "question": " Sao mình có đặt mua iphone 5s trả góp sao đợi xét duyệt hồ sơ không thấy trả lời? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.366375,
+         "id": "1018601",
+         "field_search": "question",
+         "question": "cho em hỏi muốn mua trả trước 0 thì phải làm ntn ạ ? đi đến cửa hàng chờ xét hồ sơ bao lâu ạ . liệu hồ sơ có dc xét k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.326042,
+         "id": "1148289",
+         "field_search": "question",
+         "question": "chào ad,mình muốn mua trả góp sam sung a7 2018 bên home credit,trả trước 30%,trả trong 4 tháng.mình có căn cước + bằng lái.nhờ admin chuyển giúp hồ sơ sang bên hom credit xem có duyệt cho mình mua trả góp ko?sdt 0986814688.thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.23191,
+         "id": "870926",
+         "field_search": "question",
+         "question": "Em đã mua trả góp 1 Laptop. Em mới đóng được 2 tháng. Giờ em muốn mua trả góp nữa đc k? Hộ khẩu đứng tên ba của em thì có đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.00312,
+         "id": "1004969",
+         "field_search": "question",
+         "question": "Chào Admin !Mình muốn hỏi thủ tục mua trả góp. Ví dụ mình mua góp điện thoại. Bên ngân hàng cho vay cần các giấy tờ như là : CMND + Bằng lái xe/ Hộ khẩu + Hoá đơn điện. Vậy mình lấy những giấy tờ đó đi thay bố mình được không. Do bố mình không rành về mấy loại giấy tờ này. Với mình không phải là người đứng tên trong Hoá đơn điện nên không làm thủ tục mua góp được.Mong tư vấn từ Admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.957363,
+         "id": "1007870",
+         "field_search": "question",
+         "question": "Chao ad! E muốn mua dt trả gop nhung bị mất hết giấy tờ hiện tại chỉ còn sổ hộ khẩu và cmnd photo công chứng thỳ có trả góp dc k ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.917618,
+         "id": "1139728",
+         "field_search": "question",
+         "question": " E làm hồ sơ trả góp ngân hàng HD saigon mà kh duyệt . Vậy khi nào e mới được trả góp lại vậy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.833294,
+         "id": "1165133",
+         "field_search": "question",
+         "question": "Em muốn mua  trả góp galaxy note 8 thủ tục mua trả góp cần hộ khẩu chứng minh nhân dân bằng lái xe không hóa đơn điện được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.72069,
+         "id": "1166142",
+         "field_search": "question",
+         "question": "Tôi sài realme 2 pro lúc trước sài 1h tụt khoảng 10% bây giờ tụt nhiều hơn khoảng 15%. Tôi có nên đem ra cửa hàng tgdd ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.705807,
+         "id": "1139405",
+         "field_search": "question",
+         "question": "Cho em hỏi là trước em vừa trả góp xong 1 con samsung note fe bây giờ em muốn mua trả góp tiếp samsung note 9 thì có cần phải xác nhận lại giấy tờ không ạ. giấy tờ trả góp cũ em vẫn còn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.542824,
+         "id": "995020",
+         "field_search": "question",
+         "question": "Em lấy CMND của anh em và hộ khẩu có mua trả góp được không.Anh em 19t còn 3 tháng nữa 20t",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.452904,
+         "id": "1019034",
+         "field_search": "question",
+         "question": "EM HIỆN ĐANG THAM GIA TRẢ GÓP CỦA NGÂN HÀNG FE.CÒN 2 THÁNG NỮA LÀ E HẾT KỲ THANH TOÁN, NHƯNG GIỜ EM MUỐN THANH LÝ NHANH HỢP ĐỒNG ĐỂ TIẾP TỤC THAM GIA MUA,NHƯNG VẤN ĐỀ LÀ MỌI GIẤY TỜ CỦA EM ĐANG TRONG THỜI GIAN LÀM LẠI,VẬY CHO EM HỎI SẴN HỒ SƠ ĐÓ E CÓ THỂ TIẾP TỤC MUA DC KHÔNG Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.381165,
+         "id": "1016331",
+         "field_search": "question",
+         "question": "cho em hỏi? nếu e muốn mua hàng trả góp với lãi suất thấp nhưng hiện đang ở trọ vì vậy găọ khó khăn ở chỗ hóa đơn tiền điện, giờ em phải làm như thế nào và có cách nào giải quyết hay giấy tờ nào thay thế được không ạ...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.346973,
+         "id": "1023779",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp máy 0% nhưng em chưa đủ tuổi em có thể mang Cmnd của mẹ và sổ hộ khẩu lên trả góp được không ? Ai sẽ là người ký ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.08978,
+         "id": "1139956",
+         "field_search": "question",
+         "question": "Dạ em chào anh (chị) ạ!Hiện tại em đang dự tính mua trả góp điện thoại realme 2.Em có các loại giấy tờ sau:Hộ khẩu đã photo công chứng từ 31/7 tức k quá 6 tháng.Chứng minh nhân dân bản gốc. (Năm sinh 1997)Thì không biết bên mình có hổ trợ được cho em hông ạ. Nếu được. Em muốn tới trực tiếp cửa hàng để làm thủ tục không cần xét duyệt online thì bao lâu mới được \"cầm máy\" ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.9432,
+         "id": "1160750",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao cái realme C1 của em để qua đêm sáng mai không lên nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.894745,
+         "id": "1145701",
+         "field_search": "question",
+         "question": "QTV !! E Xin hỏi, e sinh 1999 e muốn trả góp ĐT OPPO F9 của Ngân hàng FE 0đ thời gian 9 tháng. E có CMND+Hộ chiếu+hóa đơn WIFI Viettel e đứng tên+Hộ Khẩu. Vậy thì e đã đủ điều kiên làm hợp đồng vay trả chưa ạ. Thân !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.8849,
+         "id": "1154391",
+         "field_search": "question",
+         "question": "nếu làm xong thủ tục cọc điện thoại samsung a50 thì được ưu đãi tặng quà + trả góp 0% vậy muốn làm hồ sơ trả góp 0% có cần đóng thêm cho đủ 30% để đủ điều kiện làm hồ sơ trả góp 0% bên Home không vậy? hay là chỉ cần cọc 500 là được trả góp 0% mà không cần trả trước nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.73617,
+         "id": "1015497",
+         "field_search": "question",
+         "question": "Hồ sơ mình shk poto quá 3 tháng k biết có duyệt trả góp 0đ  5tr k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.61706,
+         "id": "992573",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao mua trả góp điện thoại cũ cần hóa đơn điện aj",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.474293,
+         "id": "1165910",
+         "field_search": "question",
+         "question": "Mình có đặt 1 điện thoại đơn hàng 27400433 tên Mai Phương. Mình muốn nhờ kỹ thuật viên giao để hỗ trợ cài đặt cho điện thoại luôn hộ mình. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.4338,
+         "id": "1016516",
+         "field_search": "question",
+         "question": "em mới mua samsung j7 pro đc 1 tháng mà điện thoại hình như đi mưa bị nước vô làm màn hình không cảm ứng được dù màn hình vẫn sáng bth . mai em đem lên bảo hành được không ạ . em mua ở dưới chi nhánh thanh khê đà nẵng nhưng em lên bảo hành ở chi nhánh liên chiểu đà nẵng được kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.314796,
+         "id": "1145632",
+         "field_search": "question",
+         "question": "ad cho em hỏi đợt tháng em có mua 1 cái đt trả gớp 0% 4 tháng oppo a3s dùng tầm 2 tháng thì bị cướp mất bây giờ còn hộp sạc đầy đủ chỉ thiếu đt thôi mà em gớp xong hết rồi , giờ em đang dùng hộ khẩu tách với cmnd có thể lên mua trả gớp được không vậy anh/chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.285275,
+         "id": "1010885",
+         "field_search": "question",
+         "question": "e muốn hỏi .hộ khẩu chứng minh giấy tờ ng hải phòng .muốn sang bên quảng yên mua trả góp điện thoại có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.224182,
+         "id": "993378",
+         "field_search": "question",
+         "question": "Cho mình hỏi trước mình đã mua trả góp 1 điện thoại rồi, giờ mình mua trả góp 1 cái nữa nhưng có cần phải làm lại thử tục hồ sơ mới không? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.22387,
+         "id": "1149875",
+         "field_search": "question",
+         "question": "check hàng cho mình xem bao giờ thì con realme 2 pro 8gb?128Gb chuyển về  Đường Quang Trung, TT. Khánh Yên, H. Văn Bàn, T. Lào Cai    SĐT đặt hàng 0888679309 với , mình không có mã đơn hàng cụ thể để check",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.22154,
+         "id": "993914",
+         "field_search": "question",
+         "question": "Em có mua 1 cái tai phone ở cửa hàng tgdd 2 ngày trước bây giờ có trả lại đuợc không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.206112,
+         "id": "1007406",
+         "field_search": "question",
+         "question": "Tôi muốn góp Samsung s8 đưa trước 20 góp 12 tháng có giấy điện và hộ khẩu giấy cmnd được không .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.20109,
+         "id": "1168792",
+         "field_search": "question",
+         "question": "Oppo F11 pro trả trước 1 triệu hoặc 2 triệu được không cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.18954,
+         "id": "1167102",
+         "field_search": "question",
+         "question": "em muốn mua trả góp 0% giấy tớ có chứng minh thư nhân dân và hộ khẩu bản sao công chứng thì có mua được không ạ, em chỉ mua sản phẩm dưới 10 triệu và trả góp trong 8 tháng liệu có được duyệt không và thời gian cần duyệt có nhanh không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.184017,
+         "id": "1014249",
+         "field_search": "question",
+         "question": "ad cho e hỏi tối hum nay e có qua quán mua điện thoại nhưng em không cầm đủ tiền nên mua trả góp nhưng ngân hàng đóng cửa rồi nên em chưa lấy được máy nên cho em hỏi ngày mai nếu em không mua trả góp nữa mà trả hết tiền thì có được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.13252,
+         "id": "1011605",
+         "field_search": "question",
+         "question": "Cho mình hỏi đơn hàng  online chuột máy tính của mình ngày mai là ra cửa hàng nhận được rồi phải không ạ?số điện thoại đặt hàng 0967971192",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.9819,
+         "id": "1155520",
+         "field_search": "question",
+         "question": "Đặt trước trả góp asus m1 max pro như thế nào . Lãi suât bao nhiêu trả trong mấy tháng. Cần giấy tờ gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.93955,
+         "id": "757523",
+         "field_search": "question",
+         "question": "  Cho em hỏi muốn mua trả góp iPhone 6S 16gb có đầy đủ giấy tờ thì trả trước bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.918163,
+         "id": "998548",
+         "field_search": "question",
+         "question": "em muốn mua trả góp 0Đ hiện e đang có các giấy tờ cmt và sổ hộ khẩu phô tô công chứng bằng lái xe oto gốc có dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.872448,
+         "id": "996191",
+         "field_search": "question",
+         "question": "Tại sao khi mua trả góp phải cần có hoá đơn tiền điện? Mua trả trước 0% hồ sơ phải thế nào mới gọi là đạt. Làm ơn giải thích cặn kẻ hơn cách thức mua hàng trả trước 0% giúp tôi với. Cám ơn admin rất nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.867523,
+         "id": "1147534",
+         "field_search": "question",
+         "question": " Mua trả góp 2 sản phẩm được không vậy thế giới di động có hồ sơ góp r có cần làm nữa ko vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.831097,
+         "id": "1148565",
+         "field_search": "question",
+         "question": "Chị ơi. Cho em hỏi em muốn mua Oppo A7 trả góp ạ . Vậy khi nào TGDD mới duyệt hồ sơ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.829277,
+         "id": "1138553",
+         "field_search": "question",
+         "question": "em muốn mua đt Vsmart Active 1 bang cách trả góp trực tiếp tại cửa hang nhưng chi nhánh ở Kon Tum không có máy. Cho em hỏi em ở Kon Tum nhưng muốn mua đt trên bang cách trả góp trực tiếp thì có thể không ạ. Em không thể trả góp bang 2 phương thức kia.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.73123,
+         "id": "1021885",
+         "field_search": "question",
+         "question": "khi hồ sơ duyệt thì đến tgdd có thẳm định hỏi lại không hay khi hồ sơ duyệt thì chỉ cần màng giấy tờ đến đối chiếu chụp ảnh xòng về",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.715122,
+         "id": "1013265",
+         "field_search": "question",
+         "question": "Chào shop, cho mình hỏi, nếu mình mua trả góp thì dùng nằng lái và cmnd bản gốc để làm hồ sơ rồi bên shop có giữ bản gốc đến hết hạn hợp đồng hay trả lại khách sau khi làm hồ sơ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.67739,
+         "id": "1164983",
+         "field_search": "question",
+         "question": "Cho em hỏi CMND + Bằng Lái xe otô của em đã đăng ký góp 2 máy đt , 1 cái của bạn và 1 cái của em, nhưng máy em mất nên em muốn góp 1 máy a50 nữa có đc không ạ... Hàng tháng em vẫn trả góp đầy đủ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.47628,
+         "id": "1159660",
+         "field_search": "question",
+         "question": "nếu chỉ có chứng minh nhân dân photo công chứng và sổ hộ khẩu gốc có thể làm hồ sơ trả góp điện thoại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.313755,
+         "id": "834464",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ !Em tên Đặng ngọc tuấn em có mua một điện thoại iphone 4s 8gb trả góp trong vòng một năm với số tiền đóng hàng tháng là 337.000vnd . Nhưng đến hôm nay điện thoại của em bị lỗi không sạc pin được em muốn hỏi TGDĐ là em muốn đem điện thoại đến để kiểm tra sữa chữa cho em nhưng em làm mất giấy bảo hành thì đem biên lau đóng tiền trả góp hàng tháng ra để kiểm chứng được không ạ ? Em vẫm còn chương trình dán màn hình 12 tháng mà ko cần giấy vẫn dán bình thường nhưng bảo hành thì sao ạ mong TGDĐ trả lời em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.29638,
+         "id": "997061",
+         "field_search": "question",
+         "question": "Chào siêu thị, hôm bữa em có người anh mua cục sạc dự phòng ở thế giới di động, nhưng hôm nay cục sạc ko sạc cho đt đc nữa, em muốn đem đi sửa nhưng bị mất hóa đơn mua hàng rồi....vậy có thể bải hành cho em nếu còn thời gian bảo hành đc ko ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.242676,
+         "id": "1147847",
+         "field_search": "question",
+         "question": "Cho mình hỏi lúc trước mình đã có trả góp 1 chiếc xe và đã trả xong. Thì mình bây giờ muốn 1 điện thoại trả góp có cần sổ hộ khẩu khi mua hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.09905,
+         "id": "989610",
+         "field_search": "question",
+         "question": "Tôi cần mua điện thoại trả góp, tôi có hộ khẩu, cmnd, giấy phép lái xe nhưng là bản photo có công chứng, tôi có thể mua trả góp được không. cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.07885,
+         "id": "1136781",
+         "field_search": "question",
+         "question": " E có mua 1 cái điện thoại trả góp được 2 tháng giờ e muốn đổi lại điện thoại khác ở cửa hàng đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.906273,
+         "id": "996500",
+         "field_search": "question",
+         "question": "Cho em hỏi là nếu mình mua máy cũ đỗi trả Nhưng em ở tỉnh Cần Thơ mà máy đó hiện như đang ở Thành Phố Hồ Chí Minh thì có thể đem máy về nhận tại các cửa hàng ở Cần Thơ được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.879673,
+         "id": "1145962",
+         "field_search": "question",
+         "question": " Chào anhchị. Cho em hỏi em có thể mua trả góp 2 đt cùng 1 lúc ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.87364,
+         "id": "999513",
+         "field_search": "question",
+         "question": "Đt asus zenfone 2 em mua ở tgdđ giờ đem ra tgdđ sửa đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.837788,
+         "id": "1020939",
+         "field_search": "question",
+         "question": " em đang làm hồ sơ, nhưng ở phần 2 sổ hộ khẩu chỉ được up 4 hình mà e lại up nhầm hình thì giờ phải làm sao để sửa ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.74809,
+         "id": "999445",
+         "field_search": "question",
+         "question": "Cho e hỏi là e bị mất tờ giấy trả góp ạ. Thì bây giờ e ra đóng tiền trả góp ở ngoài tgdd thì k cần giấy tờ có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.72633,
+         "id": "1137148",
+         "field_search": "question",
+         "question": "Em muốn mua laptop đã qua dữ dụng  Asus X507UA i3 7020U/4GB/1TB/Win10 (EJ727T) giá 10tr590 em định mua trả góp với ngân hàng HDsaison em 20 tuổi có cmnd và hộ khẩu em cần trả trước bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

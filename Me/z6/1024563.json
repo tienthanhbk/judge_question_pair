@@ -1,0 +1,809 @@
+{
+   "id_query": "1024563",
+   "total": 31771,
+   "total_current": 100,
+   "max_score": 68.86546,
+   "origin_question": "Cho tôi hỏi khi mà tải game về rồi mà vào game nó cứ hiện là game đã dừng lại là bị sao ạ.",
+   "hits": [
+      {
+         "score": 68.86546,
+         "id": "1024563",
+         "field_search": "question",
+         "question": "Cho tôi hỏi khi mà tải game về rồi mà vào game nó cứ hiện là game đã dừng lại là bị sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.828857,
+         "id": "790901",
+         "field_search": "question",
+         "question": " Vì sao em tải game tập kích về máy android tải trên chplay mà khi ghi chữ tập kích rồi tìm kiếm sao ko xuất hiện game? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.70019,
+         "id": "835992",
+         "field_search": "question",
+         "question": " Sao em tải game gta trên HiP4U về được mà khi cài đặt thì nó hiện len là không thể cài đặt vào lúc này như hình  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.82642,
+         "id": "1160751",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang sài iphone 6 32g khi chơi game hay vào app thì hay bị văng ra ngoài, bực nhất là đang chơi game bị văng ra mà vào lại thì 99% nó lại văng. Mình đã làm nhiều cách như xoá ứng dụng khôi phục lại máy xong tải về lại và vẫn bị văng game như thường, cho mình hỏi là điện thoại mình nó bị gì và có cách nào khắc phục không ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.390083,
+         "id": "1009811",
+         "field_search": "question",
+         "question": "Tại sao facebook tải về rồi mà vào thì cứ nói là \"rất tiếc, facebook đã dừng lại\" mà chuyển từ thé SD sang bộ nhớ trong thì ko dc vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.355476,
+         "id": "1150678",
+         "field_search": "question",
+         "question": "em dùng asus 5 , em tải b612 về mà cứ bị thông báo là \" rất tiếc , b612 đã dừng lại \" em xoá hết dữ liệu trên điện thoạii rồi cài lại mà vẫn kh được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.921165,
+         "id": "1148238",
+         "field_search": "question",
+         "question": "Tôi cứ ấn vào úng dụng cuộc gọi là bị dừng lại nó báo điện thoại đã dừng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.891321,
+         "id": "907366",
+         "field_search": "question",
+         "question": "Xin chào cho em hỏi em có con lap Vaio i5 tại sao em tải game không được cứ bấm vào phần download là cụ bị trạng thái chờ nhận dạng file mà không hiện lên phần tải về cho máy' a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.878326,
+         "id": "924407",
+         "field_search": "question",
+         "question": " sao em xó id apple của nhật rồi nhưng em lại không tải được game này về ạ  nó lại hỏi cái này là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.549425,
+         "id": "830836",
+         "field_search": "question",
+         "question": "ad cho em hỏi em tải game trên máy tính asus . vì em mới mua máy . máy của nhật . em tải game đột kích về rồi nhưng khi tải xong thì vào k đc . xóa đi tải lại 2 lần mà vẫn vậy ạ . ad cho em hỏi có cách gì khắc phục k ạ , hay là máy k thể tải đc game ram4G bộ nhớ 500G win10 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.472986,
+         "id": "1160425",
+         "field_search": "question",
+         "question": "Cho hỏi là máy redmi note 6 pro sao không vô game được ạ chỉ hiện mỗi thông báo đã dừng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.41762,
+         "id": "1138931",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e bị gì mà khi nạp tiền vào game để mua là nó bị v ạ sài oppo a83  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.290543,
+         "id": "838732",
+         "field_search": "question",
+         "question": " Tại sao game tải về máy tính rồi mà không choi được vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.953543,
+         "id": "1160662",
+         "field_search": "question",
+         "question": "Cho mình hỏi đt oppoA7 . Khi đang chơi game thoát ứng dụng ra  cái vào lại nó khởi động game lại là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.884022,
+         "id": "904575",
+         "field_search": "question",
+         "question": " ad cho hỏi sao tải game về laptop mà bị lỗi ko hiển thị được vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.678694,
+         "id": "794126",
+         "field_search": "question",
+         "question": " Sao ipad của em tải game free mà nó bắt phải trả tiền là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.200129,
+         "id": "1017657",
+         "field_search": "question",
+         "question": " Cho mình hỏi khi mình tải game mà nó hiện lên như này thì phải làm thế nào  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.133305,
+         "id": "802848",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa tạo id apple iphone 4s mà sao cứ tải trò chơi về là nó báo xem xét lại, em làm rồi mà vẫn tải trò chơi về không được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.071602,
+         "id": "1166950",
+         "field_search": "question",
+         "question": "admin cho e hỏi ip 6s plus của e tải game về sao wf thì vào dc mà 4g lại kg vào dc vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.998165,
+         "id": "1133971",
+         "field_search": "question",
+         "question": "Em muốn hỏi sao máy J3 pro khi chơi game nó cứ sập nguồn khởi động lại quài vậy ạ ! Game nào cũng bị !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.677198,
+         "id": "768974",
+         "field_search": "question",
+         "question": " Anh ơi tại sao em tải game về xong rồi nhưng cứ tới 70 là Thất bại  Đang xài Iphone 38GB ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.604954,
+         "id": "1157924",
+         "field_search": "question",
+         "question": "game boom mobile e vào đăng kí tài khoản mà sao nó cứ hiện ĐANG KẾT NỐI MẠNG..trong khi mạng vẫn bình thường. E đã thử dùng tới 2 điện thoại, máy tính mà vẫn cứ hiện chữ đó lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.588661,
+         "id": "1160523",
+         "field_search": "question",
+         "question": "Shop cho e hỏi sao e mua con samsung A30 mà chơi game nó cứ đứng đứng là do lí do máy bị sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.273308,
+         "id": "870622",
+         "field_search": "question",
+         "question": "ad cho mình hỏi tại sao iphone 4s của minh ios 8.1.3 tải pokemon về chơi đăng nhập được rồi nhưng khi load vào game lại bị đẩy ra",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.193838,
+         "id": "997325",
+         "field_search": "question",
+         "question": "Sao máy oppo f1 của em khi lắp thẻ nhớ 32GB vào và tải game thì nó báo là dung lượng đã đầy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.672672,
+         "id": "832283",
+         "field_search": "question",
+         "question": "mấy a cho e hỏi e sài iphone 3 mà tải game trên app store nó cứ ghi là app này không tương thích với iphone này là sao zậy júp e zới.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.67051,
+         "id": "1164159",
+         "field_search": "question",
+         "question": "Điện thoại em tải game pubg mobile về mà chơi được lần đầu còn lần sau vào lại không được là bị gì vậy..em đang dùng oppo f11",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.612091,
+         "id": "850940",
+         "field_search": "question",
+         "question": "À, máy VAio Win8 em mua đc 1 năm, hồi trc anh của em có chạy lại chương trình của máy, sau khi chạy lại xong, em tải game hay trình duyệt cốc cốc đều không đc, ý em là tải về được nhưng sau khi Turn off máy thì dữ liệu App hay Game em đã tải bị mất sạch. Có khi em xài xong, tắt máy, thì nó Hiện lên cái dòng chữ gì mà Confiring Feature Window được 15% rồi có dòng chữ don't turn off your computer. Rồi sau khi em mở máy lên thì game em tải mất sạch",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.413172,
+         "id": "835022",
+         "field_search": "question",
+         "question": " Ad cho em hỏi em dùng iphone 5 khi mở mạng lên đôi khi có game tự tải về máy là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.321188,
+         "id": "760381",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao gửi mà nó cứ hiện vậy , em đã hỏi lại bạn rồi là có chặn gì không bạn em nói không có , kiểm tra lại hết rồi . Như vậy là bị gì vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.035849,
+         "id": "1164503",
+         "field_search": "question",
+         "question": "Con realme 3 chơi game thì mượt nhưng mà khi thoát game ra dể nhs tin thì vô lai game thì game bị load lai mac dù thoát ra là vô lại liền????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.022655,
+         "id": "994015",
+         "field_search": "question",
+         "question": "Cho hỏi mình đang xài iphone 6 plus sao khi chơi game dream language soccer 2017.mới tải về chơi rất mượt nhưng khi chơi được 3,4 game là bắt đầu giật lag là sao cho hỏi máy mình đang bị gì và cách khắc phục lag khi chơi game này.trong khi đó máy mình cấu hình rất mạnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.995077,
+         "id": "1158484",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao khi e tải ứng dụng quay video khác từ CH play , thì ko quay đc màn hình khi chơi game, cứ nhấn quay và vào game là ứng dụng tự đóng 😶. Giải quyết giúp e với ạ !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.969242,
+         "id": "799555",
+         "field_search": "question",
+         "question": "tôi chơi game khí phách anh hùng trên laptop mà treo lâu là bị off.màn hình máy tính tắt 1 thời gian là game cũng off.vì sao vậy anh chị?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.947973,
+         "id": "1144647",
+         "field_search": "question",
+         "question": "em có tải asphalt 8 về chơi nhưng hiện tại muốn root lại máy tính. em hỏi là tài khoản microsoft em có đăng nhập vào game và cả Xbox ứng dụng tương tự như CH play trò chơi thì khi root xong em tải lại và đăng nhập lài thì dữ liệu game những vật phẩm trong game còn không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.941725,
+         "id": "1002339",
+         "field_search": "question",
+         "question": " Cái này là sao ạ,một số game cũng bị như vậy. Em cũng thử tải google play về rồi nhé vẫn ko đc  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.882383,
+         "id": "1156085",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo neo5 mà nó ko hỗ trợ game Pubg, có cách nào giúp mình tải game đó về chơi được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.76314,
+         "id": "1145088",
+         "field_search": "question",
+         "question": " Máy Oppo chơi dream league soccer có lag k ạ sao mấy game kia chơi bình thường mà cứ cho dream là bị ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.67879,
+         "id": "946326",
+         "field_search": "question",
+         "question": "Cho em hỏi khi ở win 8.1 lap em chơi asphalt 8 vẫn bình thường lên win 10 tự nhiên cứ vào tới cái logo game là nó văng ra . Em thử xóa game cài lại, đổi ngôn ngữ, cập nhật driver rồi mà vẫn không được còn cách nào khác không vậy giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.665009,
+         "id": "771463",
+         "field_search": "question",
+         "question": "Cho hỏi tôi đang sử dụng laptop asus F454LA i3, tôi muốn tải game knight age online, nhưng khi tải về xong thì không chạy được game, tải PC hay windows thì nó điều hiện lên nhũng hình ảnh này. vây nhờ QTV hướng dẫn chi tiết để tôi được sử dụng hiệu quả.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.628717,
+         "id": "836746",
+         "field_search": "question",
+         "question": "4s tải game : monster squad về máy vào được game nhưng khi chơi lại pị out ra ngoài?? Ad cho e hỏi cách sữa chữa... Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.620132,
+         "id": "1133927",
+         "field_search": "question",
+         "question": "Anh chị tôi hỏi máy của em samsung j3 pro vào game chơi 1 lúc nó tự tắt nguồn bật lại là sao ạ? Nếu dùng để lướt web xem phim cả ngày ko sao. Nhưng chơi game là bị game này gần 1 GB rất mong anh chị trả lời ạ. Cảm ơn anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.56897,
+         "id": "1005985",
+         "field_search": "question",
+         "question": "mình muốn tải game về nhưng cứ bị lỗi 419 hoài ad có thể làm cách nao mà cho nó đừng bị nữa không mình đang s ài wiko lenny 1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.52685,
+         "id": "777546",
+         "field_search": "question",
+         "question": "Em xài iPhone 5 phien bản quốc tế khi e tải appcola và tải game piano tiles 2 nhưng tải xong vào thì nó nổi lên ID hiện có mà e quên mật khẩu ID nên e ms tải appcola zia tai game nhu no cung yeu cau iCloud là s ạ a chị giải đáp dùm e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.470375,
+         "id": "763150",
+         "field_search": "question",
+         "question": " Cho mình hỏi khi mình vào phần nhạc mà nó cứ hiện mãi như thế này là bị làm sao vậy?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.449326,
+         "id": "764673",
+         "field_search": "question",
+         "question": "Cho em hỏi là laptop em mới mua về win 10. tại sao không tải được game online và không chơi game online trên zing được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.445646,
+         "id": "1134212",
+         "field_search": "question",
+         "question": "Cho em hỏi là mỗi lần em chơi free fire cứ vào trận là lại sập nguồn là sao ạ? Em dùng đt samsung j3 pro. Đt không bị chai pin, mọi ứng dụng khác khi dùng không bị sập nguồn mà chỉ chơi game là sập nguồn với lag kinh hồn -.-",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.392057,
+         "id": "1010752",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi em dùng oppo R8001 e tải game liên quân mobile bằng 3g máy báo không đủ dung lượng e ra xóa bớt ứng dụng rồi bắt wifi vào cửa hàng play tải được game rồi nhưng giờ máy vẫn báo không đủ dung lượng tải về thất bại mà e tải đk rồi sao máy vẫn báo, làm sao để hết ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.331934,
+         "id": "811494",
+         "field_search": "question",
+         "question": "QTV ơi cho mình hỏi. Mình đã đăng nhập vào appstore rồi, nhưng khi vào tải game thì lại hiện ra một tài khoản khác. Bạn chỉ mình cách khắc phục nha. Mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.280937,
+         "id": "1023808",
+         "field_search": "question",
+         "question": "Cho e hỏi sao e tải youtube rồi có video ngoại tuyến rồi mà khi tắt wifi là ko vào được video ngoại tuyến vậy nó cứ nói là không có kết nối trong khi máy cũ của e vào mà ko có wifi bình thường mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.233772,
+         "id": "1140738",
+         "field_search": "question",
+         "question": "tại sao tải game lại không tải đc mà lại tải rất lâu nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.195215,
+         "id": "1138103",
+         "field_search": "question",
+         "question": "Cho em hỏi e dùng samsung j4 dt e ko bt s mà e chơi liên quân vừa vào dc game thì máy tắt nguồn nhưng e chơi các game khác thì không bị j cứ khi chơi liên quân thì bị tắt nguồn là s z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.08166,
+         "id": "872565",
+         "field_search": "question",
+         "question": " Cho mình hỏi là tại sao khi tải messenger về thì nhấn vào để chữ rất tiet messenger đã tạm dừng là sao chỉ mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.076838,
+         "id": "1016649",
+         "field_search": "question",
+         "question": "Tại sao tải game về chơi sao khi thoát ra máy báo cài đặt chưa hoàn chỉnh là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.9718,
+         "id": "862619",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi, mình xài iphone 4 , appstore của mình có game khi tải về nó để là \" không thể cài đặt vào lúc này\" chỉ e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.716505,
+         "id": "754106",
+         "field_search": "question",
+         "question": "Cho mình hỏi về ứng dụng game trên điện thoại: hiện tại mình có cài game Plant vs Zombie 2 trên cả 2 hệ điều hành ISO và Android, mỗi khi xóa game hay cài lại hệ điều hành thì dữ liệu game đều bị mất mặc dù mình đã kết nói game với facebook và dùng địa chỉ ID apple và google play để mua game đó nhưng vào game thì bị mất hết save và phải chơi lại tự đầu cho mình hỏi có cách nào có thể giữ lại save khi phải cài lại điện thoại được không, hoặc mình muốn chuyễn game từ hệ máy ISO sang Androi mà muốn giữ lại save thì phải làm thế nào...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.568521,
+         "id": "1004207",
+         "field_search": "question",
+         "question": " Sao mấy ngày nay em tải game vào thẻ SD ko đc vậy ad, nó cứ kêu là lỗi xem chi tiết, mong ad chỉ em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.481798,
+         "id": "1138567",
+         "field_search": "question",
+         "question": "cho em hỏi là làm sao để sử dụng tính năng không gian trò chơi trên colorS 5.1 ạ em đang dùng oppo a3s mà không biết làm sao để sử dụng cái tính năng đó hiệu quá nhất  mỗi khi vào game là em phải vào đó trước rồi chọn chế độ làm việc thì chế độ đó mới có tác dụng phải không ạ ?hay là em chọn chế độ làm việc xong rồi để đó, out ra tắt máy rồi vào lại game thì chế độ làm việc đó còn tác dụng không ạ ?hay là em phải vào lại không gian trò chơi chọn lại chế độ đó rồi vào game mới có tác dụng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.475819,
+         "id": "1148162",
+         "field_search": "question",
+         "question": "Tại sao vừa tải Liên quân về thì chơi được,nhưng sau đó 2-3 tiếng vào lại game thì chỉ hiện thị một màu đen thui là sao?? Máy em là samsubg a7 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.447973,
+         "id": "1165886",
+         "field_search": "question",
+         "question": "hiện tại mình đang sài samsunga6  ko biết bị gì mà mình tải game  với mấy ứng dụng về máy ko được vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.231707,
+         "id": "751971",
+         "field_search": "question",
+         "question": "    Cho em hỏi. sao em dùng ram 8gb mà chơi mấy game nhẹ nhẹ này nó vẫn báo thiếu ram là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.193584,
+         "id": "1146210",
+         "field_search": "question",
+         "question": "Đang chơi game mà máy hiện  you progress has been updated from the cloud là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.13742,
+         "id": "789549",
+         "field_search": "question",
+         "question": " Tại sao em đăng ký apple id rồi xác minh rồi luôn mà sao em tải game không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.11762,
+         "id": "854744",
+         "field_search": "question",
+         "question": "Em xài iPhone 4s và em có tải game 3q mà vào thì game có chạy một chút thì bị văng ra thì cái này do máy hay do game ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.049517,
+         "id": "761752",
+         "field_search": "question",
+         "question": "Cho mình hỏi là con iPhone 5S của mình nâng lên 9.2, lần đầu vào chơi FIFA 16 thì bình thường nhưng mấy lần sau mình vào lại thì bị đá ra (mình có thói quen tắt ứd chạy nền khi thoát game), mình đã xoá và tải lại nhiều lần nhưng vẫn bị (trước khi nâng lên iOS 9.2 thì ko bị zay). Vậy lỗi là do game hay iOS?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.022278,
+         "id": "843507",
+         "field_search": "question",
+         "question": " Tại sao em tạo được tài khoản id apple mà khi đăng nhập vào để tải game thì không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.926033,
+         "id": "1135440",
+         "field_search": "question",
+         "question": " cho em hỏi như này là bị sao ạ? em tải file apk về rồi cài nhưng nó cứ báo lỗi. mấy lần rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.90863,
+         "id": "938039",
+         "field_search": "question",
+         "question": "máy iphone của em mới reset lại mà bây giờ em tải zalo về mà nó để là không thể tải vào lúc này là bị sao vậy xin ad cho em biết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.779598,
+         "id": "782401",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi tình hình là em đã vài Appcola rồi nhưng khi em tải game thì nó ghi là đang chờ nhưng chờ hoài vẫn không thấy tải mọi người giúp em với em dùng hệ điều hành iOS nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.64602,
+         "id": "1149380",
+         "field_search": "question",
+         "question": "Cho tôi hỏi là máy tôi chạy giả lập NoxPlayer nhưng chơi game (Free Fire) nó cứ chơi 1 hồi là đơ màn hình của game ( Không đơ giả lập ) nhưng giả lập vẫn chạy bình thường, và tôi tắt và bật lại WIFi là nó hết đơ nhưng hồi nữa nó vẫn bị,khó chịu lắm. MONG MẤY ÔNG GIÚP ( Cấu hình máy :  https://www.upsieutoc.com/image/GbMs8U",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.620497,
+         "id": "1162649",
+         "field_search": "question",
+         "question": "Mình đang xài Samsung Galaxy Note 3 Neo. Mình mới mua 1 thẻ nhớ 32GB lắp vào máy. Mình có chuyển Game vào thẻ nhớ nhưng khi cập nhập Game nó lại hiện không đủ dung lượng và mình không thể cập nhập game tiếp được? Vậy là do sao ạ?*Mình còn chuyển thêm Mess và Face vào thẻ nhớ*",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.57461,
+         "id": "1142413",
+         "field_search": "question",
+         "question": "Tại sao khi cài ứng dụng xong rồi thì nó nói là CH play đã dừng  lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.499216,
+         "id": "910689",
+         "field_search": "question",
+         "question": "Cho e hỏi. Em đang dùng iphone 4. Nhưng cài đặt game ko được. Em đã có ID rồi. Vẫn mua ứng dụng và game được. Nhưng nó không chịu tải.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.454851,
+         "id": "997995",
+         "field_search": "question",
+         "question": "Cho e hỏi là tại sao e k vào đc file của bạn trên ss j2 vì nó cứ bảo là file của bạn đã dừng là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.353592,
+         "id": "781379",
+         "field_search": "question",
+         "question": "Mình đang dùng máy IPHONE 3GS hồi đầu mình dung không bị làm sao nhưng về sau đầu tiên là game clash of clans mình đang chơi là bị thoát ra ngoài rồi đến các phần mềm trong máy mình ko hiểu nó bị làm sao! Bây giờ game clash of clans mình vào rồi bị văng ngay lập tức! Vậy mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.3492,
+         "id": "997783",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tại sao minh đã sao lưu và đặt lai rồi mà vẫn không đc nó cứ hiện đi hiện lai thao tác sao lưu và đặt lai là sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.347305,
+         "id": "823620",
+         "field_search": "question",
+         "question": "Sao em kiếm game blades of fury trên cả 3 hệ điều hành và cả appvn mà không có vậy có cách nào tải game  đó về được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.31344,
+         "id": "1139792",
+         "field_search": "question",
+         "question": "Cho em hỏi sao đt Samsung J4 của em chuyển game qua thẻ nhớ mà game vẫn còn tồn tại trên bộ nhớ di động là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.17256,
+         "id": "748072",
+         "field_search": "question",
+         "question": " Cho hỏi mình nới mua laptop về chơi game lmht mà không biết đăng ký gói cước nào chơi game này mới được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.146475,
+         "id": "756577",
+         "field_search": "question",
+         "question": " Em mới reset lại máy laptop thì tải game về nó không cần nhận ra tệp game nữa anh chị nào giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.070274,
+         "id": "846313",
+         "field_search": "question",
+         "question": " Cho em hỏi tgdd có thể tải đc game OverWatch trên pc ko ạ?? game có dung lượng là 7GB! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.061295,
+         "id": "945829",
+         "field_search": "question",
+         "question": "Ad cho e hỏi... tại sao e vào app tải game hay ứng dụng thì k sao nhưng vào cập nhật ứng dụng thì lại hiện lên chữ \" id apple bị vô hiệu hoá\" ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.985813,
+         "id": "765763",
+         "field_search": "question",
+         "question": "Ad cho em hỏi cách sao chép game  từ máy tính sang điện thoại iphone như thế nào ak. Em đã tải game từ store của apple về máy tính",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.916573,
+         "id": "1160716",
+         "field_search": "question",
+         "question": "ad cho e hỏi e dùng samsung galaxy j5 prime vào ch play tải game pubg mobile, e dùng wifi và mạng khỏe. nhưng không hiểu sao tải đợi load, giải nén xong hết lại không thấy game đâu, bấm vào game pubg trên ch play lại hiện nút cài đặt. Mong dc giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.907352,
+         "id": "1024058",
+         "field_search": "question",
+         "question": "Ad ơi samsung j5 2016 sau khi root nó cứ lỗi lên lỗi xuống. Đôi lúc nó tắt màn hình rồi lại mở, cứ lặp đi lặp lại... rồi khi mở còn hiện lên \"TouchWiz đã dừng\". Trường hợp này phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.899956,
+         "id": "1148199",
+         "field_search": "question",
+         "question": "Điện thoại e là ip 6 plus mới dùng được hơn 3 tháng mà cứ bị nóng máy suốt. Mà e là con gái nên k chơi game. Chỉ cần dùng 5p là nóng ran cả tay rồi ạ. Vậy cho e hỏi lỗi này có được đổi trả k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.870644,
+         "id": "808093",
+         "field_search": "question",
+         "question": "tại sao tải game cf về laptop không được, và tại game từ google play và cài đặt cần pass ; email or phone , nhưng tôi không có.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.75936,
+         "id": "798673",
+         "field_search": "question",
+         "question": "Cho hỏi ạ! Tại sao em ko thể tải thêm ứng dụng từ app store trên iphone 5s ạ, em bấm vào nút tải mà nó chỉ cứ quay quay ko dừng , và rất lâu nữa, còn khi ra màn hình chính thì nó hiện ra hình vuông trống và chữ đang chờ thôi. Đợi qua bao nhieu ngày rồi mà vẫn thế , gíup đỡ với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.69115,
+         "id": "1016160",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e sao khôi phục cài đặt gốc nó cứ bảo rất tiếc cài đặt đã dừng lại là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.659668,
+         "id": "814263",
+         "field_search": "question",
+         "question": "Cho em hỏi khi em vào Photoshop thì nó hiện như vậy! Khi em Open 1 ảnh thì nó cứ quay quay con trỏ chuột rồi đứng vậy hoài là sao ạ! em vừa delete và Tải lại vẫn hiện như vậy! Giúp em với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.615929,
+         "id": "957870",
+         "field_search": "question",
+         "question": "cho em hỏi laptop của em khi tải ứng dụng như game về thị khi tắt máy bật lên lại  thì ko thấy nửa,phải tải lại,mổi lần sử dụng phỉa tải lại..... QTV cho em hỏi em phỉa sửa sao ạ !!!!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.584276,
+         "id": "1016515",
+         "field_search": "question",
+         "question": "Máy em nó cứ báo là dịch vụ google play đã dừng mà em đã làm đủ các cách mà k đc thì phải làm sao ạa huhu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.572302,
+         "id": "1160729",
+         "field_search": "question",
+         "question": "Tôi tải ứng dụng trong đó có cả youtube từ ftOS về iphone thì nó thường hiện là 'ko thể tải ứng dụng vào lúc này'. Lúc tải được rồi bấm vào thì nó đòi nhập ID Apple, nhập đúng rồi thì nó lại tự động thoát ra. Thế là thế nào vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.566057,
+         "id": "1022601",
+         "field_search": "question",
+         "question": "Cho e hoi instagram của em tự nhiên ko hiện phần story là sao ạ,e out đăng nhập lại rồi xoá inst tải về lại rồi mà ko đk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.556522,
+         "id": "1009132",
+         "field_search": "question",
+         "question": "Cho e hỏi mún tải mod về máy sony m5 thì phải làm sao tải về r mà vô là nó cứ để phần cứng k hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.55113,
+         "id": "1020854",
+         "field_search": "question",
+         "question": "Cho mình hỏi, sao nhấn vào messenger thì điện thoại lại báo messenger đã dừng lại. Mình gỡ cài đặt và tải lại, khỏi động máy lại mà vẫn bị. Phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.433563,
+         "id": "761294",
+         "field_search": "question",
+         "question": "Em tải ios9.2 về máy rồi nhưng chưa cài đặt thỉnh thoảng nó cứ nhắc cài đặt em sợ người khác cầm máy sẽ cài đặt. cho em hỏi làm sao mà xoá bản đã tải về ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.415304,
+         "id": "1164275",
+         "field_search": "question",
+         "question": "MOD cho em hỏi messenger của em đã cập nhật phiên bản mới nhất mà sao không thể tải nhãn dán về được? Mỗi lần vào tải là nó báo \"đã xảy ra lỗi,vui lòng thử lại\". Em đã thử gỡ tải lại messenger mà vẫn không được. Mong MOD hồi âm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.406544,
+         "id": "877773",
+         "field_search": "question",
+         "question": "Máy mình là iphone 5 ios 10 cho mình hỏi mỗi lúc mình tải game trên appvn về là nó để không thể cài đặt ứng dụng vào lúc nàyMong admin chỉ mình cách sửa lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.37515,
+         "id": "921158",
+         "field_search": "question",
+         "question": "Tớ dùng Iphone 4 thường đời đầu tẢi UC browser về máy rồi nhưng cứ mở ra là nó lại quay về màn hình chính , thế là bị làm sao vậy ạ ??????",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

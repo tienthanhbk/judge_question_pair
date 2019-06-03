@@ -1,0 +1,809 @@
+{
+   "id_query": "895763",
+   "total": 32141,
+   "total_current": 100,
+   "max_score": 85.00501,
+   "origin_question": "em xài iphone mà lâu lâu nó cứ báo là phải sao lưu iphone gì đó,em không biết cái đó là gì hết,mọi người có thể giúp em không",
+   "hits": [
+      {
+         "score": 85.00501,
+         "id": "895763",
+         "field_search": "question",
+         "question": "em xài iphone mà lâu lâu nó cứ báo là phải sao lưu iphone gì đó,em không biết cái đó là gì hết,mọi người có thể giúp em không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.484154,
+         "id": "926002",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là máy của em cứ dùng lâu lâu là lại bị màn hình biến thành màu xanh dương xong rồi có chữ trắng chạy trên màn hình nó báo là recovery gì đó không biết có phải bị nhiễm virus hay bị sao không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.75678,
+         "id": "1143899",
+         "field_search": "question",
+         "question": "em chào mọi người ạ, điện thoại em không hiểu sao sạc vô lâu ( có khi không vô) mà hết pin lẹ lắm ạ, em xài iph6s ạ, mọi người giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.48138,
+         "id": "831477",
+         "field_search": "question",
+         "question": "em xài iPhone 4 lâu lâu có hiện tượng bị sập nguồn, mở lên lại thì không bắt được wifi nữa phải khởi động lại mới bình thường được, cho em hỏi hiện tượng đó là gì và làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.283493,
+         "id": "989249",
+         "field_search": "question",
+         "question": "em sử dụng messenger cho pc, nhưng hôm trước em xóa history của google chorme, trong đó có password. Xong em vô lại messenger mà nó không hiển thị khung đăng nhập mà thay vào đó là cái vòng hiển thị là nó đang load cứ load mãi không ngừng, lâu thiệt lâu cũng không hiện khung đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.11312,
+         "id": "1023092",
+         "field_search": "question",
+         "question": "cho em hỏi oppo R830k lâu lâu không chụp được ảnh không lưu được ảnh là lỗi gì ạ. giúp em khắc phục được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.491314,
+         "id": "873806",
+         "field_search": "question",
+         "question": "AD coi giúp em cái USB dùm sao em đinh dạng USB mà nó cứ báo là Đĩa đã được bảo vệ cấm ghi. Em sao chép hoặc copy hay làm gì cũng không đc hết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.154285,
+         "id": "767543",
+         "field_search": "question",
+         "question": "Anh ơi . Em đang xài ip3gs . Máy chạy cũng tốt ạ mà lâu lâu vào appstore nó tìm mà chả hiện gì hết ạ đợi lâu cũng z ạChụp ảnh lại thì nó không như màn hình nó hiện cái này trong kho ảnh Nên em không gửi kềm được ạ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.911465,
+         "id": "1010928",
+         "field_search": "question",
+         "question": "e dùng oppo neo7.  lâu lâu màn hình nó cứ hiện lên cái gì mà vui lòng xóa bộ nhớ.  e muốn tắt cái đó đi thì làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.730755,
+         "id": "968329",
+         "field_search": "question",
+         "question": "Cho em hỏi sao mà em dùng iphone 5 thì từ khi em bị bể cường lực cái màn hình em lâu lâu bấm chữ hay lướt trên màn hình bị cà dựt còn khi mà soạn tin nhắn thì nó cứ nhảy chữ loạn xạ. vậy nó bị gì ạ? làm sao để sửa cho nó hết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.440495,
+         "id": "896878",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy của em bình thường vẫn hiện lên hình ảnh được chụp trong máy mà giờ lại xuất hiện lên hình của bạn em , em và bạn đó không hề xài chung iCloud hay là gì hết mà tại sao lại xảy ra như vậy! Mong mọi người giải thích sớm nhất có thể cho em!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.19997,
+         "id": "758245",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi là, trước em dùng máy Lumia 520 sau e chuyển qua dùng iPhone 5 thì không còn thấy tên ai trong danh bạ nữa, dù rằng trước đó e đã lưu vào sim mà không phải điện thoại mọi ng cho e biết lý do được không, em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.03637,
+         "id": "1003296",
+         "field_search": "question",
+         "question": "em dùng htc mà nó cứ đến 80 là bị sập nguồn ... cho em hỏi sua ở đó mất bao lâu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.016476,
+         "id": "864077",
+         "field_search": "question",
+         "question": "Mình có kb trên zalo những người đó không đồng ý mà cũng không xóa bây h mình không thể kb thêm vì zalo báo đã quá số người gì đấy, mình phải làm sao đây... Mà zalo sau bao lâu mới tự hủy kb vậy??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.751534,
+         "id": "890177",
+         "field_search": "question",
+         "question": "Help. Mọi người cùng giúp đỡ nhé.Zalo của mình cứ báo \"đang chờ\" không biết nó chờ cái gì mấy tiếng liền ^^.Không truy cập được. không xóa được.Cảm ơn m.n!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.446352,
+         "id": "1002998",
+         "field_search": "question",
+         "question": "cho em hỏi máy laptop inspiron của em khi bật máy lên nghe nhạc là lâu lâu bị ù è cỡ 2s, tắt máy bật lên nghe lại thì bị như vậy tiếp và khi bị rè em thử tắt loa thì nó không kêu, em nghĩ là do bị loa và em hay bật loa ngoài không biết máy em bị gì. admin có thể giúp em là nó bị gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.33255,
+         "id": "891099",
+         "field_search": "question",
+         "question": "Em đang xài asus X555U . Gần đây em có tải 1 ứng dụng diệt virus cho USB và sau đó vào Firefox thì nó không hiện giao diện firefox nữa mà cứ hiện trang \"Linkzb\" , không tắt được . Cái đó là gì và tắt như thế nào ? Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.214745,
+         "id": "767852",
+         "field_search": "question",
+         "question": "Sao iPhone 6 lâu lâu cứ bị đứng màn hình là sao vậy anh, trả lời sớm cho em biết, lâu lâu chơi game hay vào web, facebook thì có tình trạng bị đứng màn hình, lát mới hết?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.12346,
+         "id": "1162039",
+         "field_search": "question",
+         "question": "Chào anh chị ạ, điện thoại em là samsung j7 prime. Cách đây k lâu e có gửi tin nhắn. Nó báo là có thể sẽ mất phí rồi em lỡ nhấn từ chối. Và kể từ đó mỗi lần gửi tin nhắn nào mà mất phí thì nó tự động k gửi giúp em. Mà em k biết sửa sao. Anh chị giúp em với ạ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.981157,
+         "id": "867978",
+         "field_search": "question",
+         "question": " Tại sao laptop em tải cái gì cũng không được hết vậy? Nó cứ quay quay hoài là sao vậy?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.595825,
+         "id": "996670",
+         "field_search": "question",
+         "question": "em đang xài 1 máy Sony Xperia mà em muốn biết nó là C3, Z3, XA,... đồ để in ốp thì phải làm sao ạ. Mua lâu rồi không nhớ T_T",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.582228,
+         "id": "986596",
+         "field_search": "question",
+         "question": "Em chào các anh chị , các bạn . Em đang xài điện thoại iiphone 7plus khi mới mua em đã chụp hình bằng camera trước thì nó không bị đảo ngược . Nhưng một lần em bấm cái gì đó thì chụp nó lại bị ngược :( Em cố chỉnh nhưng không được ai .Mong mọi người giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.527727,
+         "id": "817676",
+         "field_search": "question",
+         "question": " Em muốn mua phim nhưg nó cứ hỏi mã thư tín quài à, em không biết phải nhập cái gì nữa? Ad giúp em với....  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.411007,
+         "id": "1158596",
+         "field_search": "question",
+         "question": "Thẻ nhớ em bị làm sao ák. Bộ nhớ thiết bị hết dung lượng nên em chuyển qua thẻ nhớ mọi lần chuyển ảnh,ứng dụng đều được. Không hiểu sao gặp vấn đề gì mà bây giờ chuyển ứng dụng thì để là \"không đủ lưu trữ\" gì đó nhưng thẻ nhớ 8GB nhưng mới xài 2,3GB mà. Chuyển ảnh thì nó để \"có lỗi khi chuyển\". Máy em Samsung J2 Prime mong được hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.062983,
+         "id": "781344",
+         "field_search": "question",
+         "question": "Ad giúp em với. Em biết cách tạo tài khoản ID apple rồi nhưng mà cứ đến phần chọn tên thẻ visa hay gì đó do em không có thẻ và chưa đủ 18 tuổi nên chưa làm được mà cứ để không có thẻ thì nó không chịu đi tiếp em sài iphone 3 Ad có cách nào giúp em không cần thẻ visa mà vẫn đăng kí được ID apple không hay tạo giúp em 1 cái củng được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.952147,
+         "id": "760381",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao gửi mà nó cứ hiện vậy , em đã hỏi lại bạn rồi là có chặn gì không bạn em nói không có , kiểm tra lại hết rồi . Như vậy là bị gì vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.831678,
+         "id": "998666",
+         "field_search": "question",
+         "question": "USB 3G xài như thế nào? Có phải là chỉ cần mua cái USB đó rồi cắm vô LAPTOP là xài được luôn hay sao? Hay là cần đóng phí gì không? nếu có thì nó như thế nào? Mình tính mua USB 3G Viettel mà không biết hoạt động thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.639557,
+         "id": "765544",
+         "field_search": "question",
+         "question": " Tại sao mình cập nhật phần mềm mà máy cứ trắng màn hình ý. Đợi bao nhiu lâu cũng không hiện cái gì hết?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.578718,
+         "id": "1022638",
+         "field_search": "question",
+         "question": "cho em hỏi là em dùng app mp3 cũ vì cái mới em không xài được nhưng đăng nhập nó kêu không kết nối máy chủ gì đó trong khi đó thì wifi full lun cực mạnh mà hk được em đã xóa đi cài đặt lại kiểm tra wifi mà cũng không được mong add giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.41331,
+         "id": "803962",
+         "field_search": "question",
+         "question": " Cho em hỏi mua iphone 4s tặng PMH và Tablet làm cái gì vậy mà cái đó để làm gì vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.39625,
+         "id": "1146617",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại em là Iphone X . Xem youtube hoặc facebook lâu lâu nó cứ bị đơ ko nhấn được phải tắt màn hình xong mới nhấn được. Ko biết cái này do lỗi ứng dụng phải ko. Lại lúc trước em xem Youtube cứ nhấn chạy nhanh 10s trên youtube nhanh. Ko bit là do lỗi ứng dụng ko mong BQT hỗ trợ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.312428,
+         "id": "856988",
+         "field_search": "question",
+         "question": " mọi người cho em hỏi là iphone mà chỉ có 11,8GB là sao ạ, có phải hàng Tàu ko ạ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.232471,
+         "id": "804668",
+         "field_search": "question",
+         "question": " iPhone 6 của em nó không nhận sim cho em hỏi đó có phải là nhà mạng không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.14043,
+         "id": "762921",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi tại sao nhằm lúc cái iPhone 6 nó nói chuyện quá trời mà không biết ở đâu làm gì khác cũng không vào được. Đợi nó hết cái tự tắt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.124905,
+         "id": "774851",
+         "field_search": "question",
+         "question": "Mọi người giúp với ạ. Máy em là iPhone 4 không hiểu sao cứ vào ứng dụng camera 360 là bị out ra ngoài. Mặc dù em đã xoá rồi tải lại nhưng vẫn không được. Có ai biết lỗi ở đâu không ạ. Chỉ em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.114384,
+         "id": "1139498",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi là làm sao để sửa lỗi không gửi được tin nhắn SMS trên Samsung J4+ vậy ạ ? Lúc đầu em gửi được mà giờ không được nữa. Trước đó em có bấm vào một cái bảng thông báo không cho phép gì đó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.019703,
+         "id": "797986",
+         "field_search": "question",
+         "question": " Anh chị gì đó ơi cho em hỏi là iPhoen không quét được WiFi mình phải làm sao không? Anh chị giúp em với em cám ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.005413,
+         "id": "1140597",
+         "field_search": "question",
+         "question": "cho em hỏi là em dùng nokia lau lâu thì nó đứng và thông báo \"giao diện người dùng là sao ạ'' em phải làm thế nào để khác phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.96179,
+         "id": "754157",
+         "field_search": "question",
+         "question": "em đang dùng iphone 5điện thoại cuả em khi cắm sạc thì có  dấu hiệu đang xạc nhưng không lên % pin em đã thử dùng tất cả những xạc khác nhưng vẫn bị hiện tượng như vậy. mọi người có thể cho em biết vậy là do pin hay do máy được không ạ ? nếu là do pin thì khi mua dấu hiệu gì để biết đó là pin tốt hay không tốt ạ,và giá cả ra sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.87647,
+         "id": "778991",
+         "field_search": "question",
+         "question": " Em mới tạo ID cho iPad mà vào App nó không hiện ra cái gì hết, em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.783113,
+         "id": "1020304",
+         "field_search": "question",
+         "question": "Máy j7 pro của mình sao nó cứ bị ra màn hình 7 sắc cầu vồng ấn thì nó hết nhưng cứ đang dùng cái gì nó cũng bị thế liên tục rất khó chịu. Minh muốn biết đó là tại sao ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.681246,
+         "id": "882275",
+         "field_search": "question",
+         "question": "Cho e hỏi tại s điện thoại em cập nhật facebook nó chạy khá lâu và sau đó nó không hiện thông báo mà vô ch play thì nó nói đã cập nhật mà vô facebook vẫn k thấy cái j mới,em xài oppo neo 7 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.563791,
+         "id": "1140602",
+         "field_search": "question",
+         "question": "em dùng Nokia 5 lâu lâu nó bị đứng rồi thông báo \"  giao diện người dùng đóng\" là sao ạ có cách nào khắc phục không?? mong nhận được phản hồi sớm ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.525116,
+         "id": "1018692",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏiEm xài a7 2016 sao lâu lâu nó cứ bảo không có thẻ sim vậy? Em dùng cây lấy sim lấy ra rồi để lại như cũ thì xài được...nhưng nó bị quài à phải làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.507488,
+         "id": "802734",
+         "field_search": "question",
+         "question": "Em có 1 cái iPhone 5 nếu em biết được mã iCLoud của iPhone khác em có thể xem những ứng dụng của iPhone đó được không anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.44784,
+         "id": "1013477",
+         "field_search": "question",
+         "question": "Mọi người ơi. Tại sao hồi đó khi 2 người nhắn tin với nhau. Thì masenger biểu tượng camera nó hiện vòng sóng. Để biết là đang đọc tin. Còn bây giờ. Nhắn tin mà masenger nó không có hiện ở biểu tượng vòng tròn ở camera. Xin mọi người chỉ giúp ạ. Thanhk mọi người ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.398771,
+         "id": "1000200",
+         "field_search": "question",
+         "question": "Em có mua cái máy hàng đổi trả xài lâu lâu nó bị đứng và đơ hỏi em có thể đổi sản phẩm khác đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.139025,
+         "id": "801680",
+         "field_search": "question",
+         "question": " cho em hỏi iPhone 5 iOS 9.1 có thể hạ cấp về 9.0.2 hay gì đó không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.052557,
+         "id": "790627",
+         "field_search": "question",
+         "question": " em mua 5s của shop dc khoảng 1 tháng , có người gọi tới thì lâu lâu máy nó không hiển thị lên là sao shop ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.039484,
+         "id": "753813",
+         "field_search": "question",
+         "question": " Chị ơi giờ đó là không phải là iCloud mà nó cứ hiện lên phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.003042,
+         "id": "765127",
+         "field_search": "question",
+         "question": "Em xài iPhone 4S, điện thoại em báo có virus, pin xài rất nhanh hết từ 100% mà còn 20% thôi ạ với lại cứ khoảng 5 phút thì điện thoại tự tắt nguồn, cho em hỏi điện thoại em có bị nhiễm virus thật không ạ và em phải làm gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.939495,
+         "id": "1139706",
+         "field_search": "question",
+         "question": "Em mới mua chiếc Vsmart Joy 1, vào liên quân màn hình nó cứ giật giật, em không biết bị gì, có phải là lỗi của máy không,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.924883,
+         "id": "906814",
+         "field_search": "question",
+         "question": "Không sao lưu được Icloud...help helpvì icloud k đủ dung lượng để sao lưu nên e đã xoá hết bản sao lưu cũ và cả bản sao lưu hiện tại ( mới nhất, và khi kiểm tra lại thì bản sao lưu là 0kb).em mua plan mới 50Gb với giá $1,5/ tháng để sao lưu..nhưng vẫn không được vì k có dữ liệu của bản sao lưu cũ ( em xoá icloud sao lưu trước đó )..mọi người ơi giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.885542,
+         "id": "1164812",
+         "field_search": "question",
+         "question": "Cho hỏi điện thoại em là Iphone X. Lâu lâu chơi bị nhạy cảm ứng thử nhiều cách fix mà vẫn như vậy. Không bit bên TGDD mình có cách nào fix không giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.811893,
+         "id": "1158741",
+         "field_search": "question",
+         "question": "Anh/Chị ơi máy iphone 8 của em hồi trước muốn mở nguồn chỉ cần nhấn 1 lần là được, nay muốn mở phải giữ hơi lâu. Đó có phải bị hư không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.756865,
+         "id": "871543",
+         "field_search": "question",
+         "question": "cho em hỏi: khi em cập nhật phần mềm thì messenger nó không hoạt động nữa...click vào nó thì hiện lên cái màn hình trắng và lâu lâu thì nháy 1 cái nhưng sau đó ại trở lại như ban đầu thì e phải làm sao đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.742666,
+         "id": "876983",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao máy em không vào được facebook nó cứ báo là phiên bản hết hạn. Máy em là iphone 5. Xin chỉ em cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.718805,
+         "id": "1154554",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại em cứ lúc nào sạc là bị nhoè theo kiểu màu bị mờ hơi hơi trắng.Có phải gần thiết bị gì đó nên màn hình bị như vậy không ạt.Em đang dùng IPhone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.699638,
+         "id": "779392",
+         "field_search": "question",
+         "question": "help meTình hình là mình dùng win 8 bản quyền dạo này máy mình cứ update gì đó rất lâu Biểu tượng cảm xúc cryhnay mở lên lúc nhập mật khẩu rất lâu xong mất hết các dữ liệu của mìnhPhải làm sao đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.697466,
+         "id": "783702",
+         "field_search": "question",
+         "question": " Cho em hỏi thay mic iPhone 6 hết bao nhiêu tiền va có ảnh hương gì đến máy không,thời gian thay có lâu không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.686794,
+         "id": "806309",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em bị vô hiệu hóa do ấn sai mk nhiều lần, kích hoạt itune thì nó báo: không thể sử dụng tài khoản đó để mở iphone này, bgio em phải làm gì ạ? em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.653088,
+         "id": "803444",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi em muốn kết nối lại với Facebook giống như hình của bạn Kiet Nguyen mà biểu nhập loại xác nhận gì đó là sao em không biết ad giúp với ạ?a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.579956,
+         "id": "780794",
+         "field_search": "question",
+         "question": "Giờ em muốn nâng cấp iPhone 4 của em lên ios 7.1.2 nhưng cần tới 1,1gb và yêu cầu 3.8gb mới nâng cấp được , trong khi đó em đã xóa hết các app nặng nhưng vẫn không đủ , không hiểu phần gb còn lại được dùng để lưu cái gì , ad giúp em với ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.49783,
+         "id": "1143489",
+         "field_search": "question",
+         "question": "Mọi người có thể giúp mik lỗi này đc không? Hnay, mih mới vào setting để update điện thoại nhưng nó lại bị lỗi gì đó... Mong ae giúp.Điện thoại mình:Samsung Grand PrimeAndroid 4.4.4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.482464,
+         "id": "889767",
+         "field_search": "question",
+         "question": "Em chào mọi người ạ .dạ có thể cho Em hỏi Em đã đổi tên facebook nhưng sau đó mesenger vẫn giũe nguyên tên cũ là sao ạ .ai biết trả lời giùm Em với .em cảm ơn nhiều .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.474424,
+         "id": "998488",
+         "field_search": "question",
+         "question": "Mọi người giúp em với. Máy tính của em tự nhiên cứ tự động mở trình duyệt và mở các trang web linh tinh là bị gì ạ ?khắc phục như thế nào mong mọi người giúp đỡ.em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.452454,
+         "id": "867545",
+         "field_search": "question",
+         "question": "iPad của em bị gì mà nó cứ tự hiển thị mấy cái thông báo quảng cáo\"Andoird của bạn bị nhiễm virus\", \" Quay số trúng iPhone\" hoặc nó tự vào ch play. Em chơi chưa được 1p là quảng cáo cứ hiện lên. Em đã tải phần mềm quét virus với cả tắt nguồn iPad mà nó vẫn vậy. Giúp em với!!!!!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.39295,
+         "id": "922937",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao mình gọi viber ,bên kia bắt máy nhưng mà mình bật video lên thì nó báo hiện tại số đien thoại này ko thể gọi video ,nhưng người bên kia không biết gì về thông báo đó ,rồi một lát sau lại gọi được vậy là bị gì vậy ,giup mình vơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.383005,
+         "id": "1168600",
+         "field_search": "question",
+         "question": "cho em hỏi: em xóa tên đã lưu vào danh bạ. khi bấm số đó thì vẫn hiện tên trước đó đã lưu (như hình bên dưới), hoặc nhắn tin vẫn hiện tên \" có thể: tên người đã lưu\". mặc dù em đã xóa ra khỏi danh bạ. làm sao để xóa hết không còn hiện như vậy nữa ạ.em dùng iphone 7 ios12.2 em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.374802,
+         "id": "777208",
+         "field_search": "question",
+         "question": "Tại sao em lập được tài khoản iCloud rùi mà muốn tải cái gì nó lại có bước này và em không hiểu cái mã mí cái thư tín là gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.373133,
+         "id": "945291",
+         "field_search": "question",
+         "question": " Ad oi cho em hỏi cái này là bị gì thế làm mọi cách mà không được .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.304176,
+         "id": "804800",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ em xài ip5s á. Mà em tải trò chơi hay gì đó thì nhập id khác. Rồi cập nhật thì một id khác là sao ạ. Trả lời giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.29936,
+         "id": "863797",
+         "field_search": "question",
+         "question": "Em có cái máy iPhone 6 64gb, máy em bị rớt không hiểu sao nó bị mất hay hư gì đó, em khởi động nguồn lại thi máy nó mất cái mạng sóng điện thoại, nó hiện không có dịch vụ...mấy anh cho em sửa lại được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.153027,
+         "id": "1142515",
+         "field_search": "question",
+         "question": "Ad coi giúp em, em lo làm việc để máy cho bé xài mà hồi không biết nó bấm gì mà bị thế này nè. Ad giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.08155,
+         "id": "795218",
+         "field_search": "question",
+         "question": "cho e hỏi e xài iPhone 6s .. e bấm vô phần cài đặt rồi không biết sao bấm vô cái gì mà giờ nó ra ntn .. giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.95168,
+         "id": "742959",
+         "field_search": "question",
+         "question": "Em mua iPhone 4s ở TGDĐ 6 tháng rồi. Mà bây giờ em mới thấy cái mật khẩu giới hạn. Em thử mà kiểu gì cũng không được. Ad cho em biết là làm sao đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.919699,
+         "id": "854694",
+         "field_search": "question",
+         "question": "tại sao facebook của mình không like được ảnh không like được ảnh khiong chia sẻ được bài viết không đăng được gì lên hết không nhắn tin được nói chung là không làm được một cái gì mà chỉ vào xem được thôi mọi người giúp miifnh với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.877686,
+         "id": "1023095",
+         "field_search": "question",
+         "question": "Mà cho em hỏi là em xài samsung galaxy j2 prime mà đt cứ hay chớp nhá phia trên màn hình và nó bị đứng nên minh không thể nt or dt hay sử dụng được gì hết khoảng một lúc sau thì nó mới hết, e đã thử tắt nguồn mở lại, cập nhật phần mềm nhưng nó vẫn cứ bị như vậy là sao ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.847849,
+         "id": "847085",
+         "field_search": "question",
+         "question": "Hiện giờ mình đang xài iphone 6 hôm trước mình có restore iphone sau khi restore thì mình thấy iphone cứ báo lỗi không đủ dung lượng mới khi tải ứng dụng lỗi đó là bị gì vậy adFix lỗi làm sao???Đem ra thegioididong có sửa được không vậyCảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.831112,
+         "id": "770982",
+         "field_search": "question",
+         "question": "Hi mọi người ! Cho mình hỏi một chút. Mình dùng iPhone 4S. Trước vẫn dùng bình thường. Dạo gần đây, camera 360 của mình có vấn đề. Vào selfie camera trước lúc giơ lên chụp thì bình thường, nhưng nhấn chụp và lưu hình thì bị ám đỏ. Camera sau thì màu bình thường nhưng lưu hình rất lâu, có khi không lưu được và đang chụp thì bị đẩy ra. Lỗi vậy là sao hả mọi người? Ai biết thì chỉ cho em cách khắc phục với ạ! Thanks mọi người!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.819727,
+         "id": "800994",
+         "field_search": "question",
+         "question": "Ad ơi em dùng iphone 4.Em không hiểu sao em không gọi mà máy nó cứ tự động gọi cho người khác.bây giờ em không biết làm sao.ad tư vấn giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.801613,
+         "id": "1011041",
+         "field_search": "question",
+         "question": "Máy em đang xài là Oppo A39 mà mấy hôm nay điện thoại em nó cứ có  thông báo trên  mạng về miết nó hiển thị cả mang hình bực lắm em không biết làm sao để tắt nó Đi cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.778555,
+         "id": "936731",
+         "field_search": "question",
+         "question": "Cho em hỏi: cái iPad 4Có phải khi đặt lại-->> xóa nội dung và đặt lại cài đặt gốc thì iPad e sẽ trở về như là mới k? Có phải giống như iPad em bị người khác cài k cho vào wifi của người đó, nếu e cài lại là có nghĩa e đã xóa thông tin mọi thứ của iPad và em có thể vào dc wifi người đó đúng k? Em muốn tìm cách thay đổi giống như là IT hay ID j đó của máy..Em cảm ơn :))",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.774012,
+         "id": "1155739",
+         "field_search": "question",
+         "question": "QTV giải đáp giúp em với ạ. Em đang lấy lại fb mà nó cứ tới bước đó là ko được nữa ạ,  em phải làm thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.754808,
+         "id": "1016470",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j2 prime sao nó cứ báo dung lượng bộ nhớ sắp hết ròi cái gì mà 1 số hệ thốg ngừng hoạt động; mà đã gắn thêm thẻ nhớ rồi mà vẫn vậy. Chơi face hay nghe nhạc cũnng báo là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.689426,
+         "id": "1003318",
+         "field_search": "question",
+         "question": "Oppo neo của em nó bị hư cái micro ( khi gọi người ta nói mình nghe mà mình nói người ta không nghe) thì em phải làm gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.66011,
+         "id": "1011390",
+         "field_search": "question",
+         "question": "Em dùng HTC dual sim 802w. Nhưng ví dụ máy đang load cái gì đó thì em không thể tắt điện thoại bằng nút nguồn mà phải đợi 15s sau cho máy tự tắt. Có cách nào khắc phục không ạ? Thêm nữa là nút tăng âm lượng gần như phản ứng chậm, em tăng âm thì một lúc sau mới được mà nó lên max luôn. Không phải do liệt vì nó vẫn bấm được. Em phải làm gì ạ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.65839,
+         "id": "810759",
+         "field_search": "question",
+         "question": " Máy galaxy a8 của em cứ báo lỗi  đã kết nối đế cắm mà trong khi em chưa có cắm cái gì vào hết ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.624609,
+         "id": "1158242",
+         "field_search": "question",
+         "question": "Chị ơi cho em hỏi là em đang dùng Nokia 107 ,em nhập đúng mã bảo mật em hay nhập mà nó báo sai mk. Mà không có ai thay đổi mật khẩu cả. Mong mọi người giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.60975,
+         "id": "918983",
+         "field_search": "question",
+         "question": "cho em hỏi em mới mua iphone SE , đó giờ xài bên windowphone nên e ko biết bên ios có tính năng chạm để mở màn hình ko ạ, nếu cứ bấm nút home vậy mau hư lắm ạ, với lại e thây nó có bản cập nhật ios 10 gì đó có nên cập nhật ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.599382,
+         "id": "806689",
+         "field_search": "question",
+         "question": "Em bị người ta chặn zalo cũng hơn 1 tháng. 10 ngày em không lên lại zalo. Hôm nay em lại tự nhiên báo là người đó đag sử dụng zalo hãu gửi tin nhắn là sao ạ. Là người ta bỏ chặn em phải không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.583515,
+         "id": "763008",
+         "field_search": "question",
+         "question": "Laptop của em mua ở tgdđ, lâu rồi em không sử dụng, mà trước đây em có cái pass, nay em quên mất, không biết tgdđ có giúp em gỡ pass được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.572866,
+         "id": "769259",
+         "field_search": "question",
+         "question": " Anh ơi sao em tạo tài khoản trên iPhone 3gs không được anh nó kêu câu mình cần visa gì đó chứ không có chữ không.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.548424,
+         "id": "837695",
+         "field_search": "question",
+         "question": "Mọi người cho em hỏi là bây facebook của em nó thông báo là không thể kết nối tới máy chỉ còn messenger của em thông báo là \"đã hết thời gian. Không thể kết nối tới facebook. Vui lòng kiểm tra kết nối tới máy chủ\". Trong trường hợp này em p làm tn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.519464,
+         "id": "759879",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua cái iPhone 4S z/p của Hồng Kong em thấy máy vẫn tốt không có bất cứ trục trật gì. Cho em hỏi liệu hàng hồng kong có phải là hàng chính hãng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.493689,
+         "id": "1142694",
+         "field_search": "question",
+         "question": "cho em hỏi là tại sao điện thoại samsung galaxy j7 prime của em khi gọi đến người khác thì người đó nghe khá nhỏ và đôi khi không nghe gì luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.465511,
+         "id": "754754",
+         "field_search": "question",
+         "question": "Ad cho hỏi em đang dùng con iPhone 5s quốc tế a1533 . em đang bên china bên đó có 4g sao em lắp sim 4g vào mà chỉ hiện E không có 4g 3g cũng không thấy là sao em thắc mắc lâu rồi bực mình nữa của em nâng cấp lên ios 9.1 hay là nâng cấp lên bị như vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.41838,
+         "id": "994031",
+         "field_search": "question",
+         "question": "Xin cho em hỏi về virus trên MacBook pro.Chị em có 1 cái MacBook pro nhưng ko biết nhiều về máy tính nên tải+cài cái này, cái kia về, nên giờ máy xuất hiện nhiều file lạ trên màn hình.Chị em đã để máy như vậy rất lâu rồi (khoảng hơn 6 tháng rồi, vì thấy tùm lum trên máy tính hết nên mới hỏi em, từ đó em mới biết)Xin cho em hỏi - nếu em reset về cài đặt gốc liệu có hết virus hay không ạ?- liệu để virus lâu trên máy tính như vậy, đã có hư hỏng phần mềm/ phần cứng gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.353518,
+         "id": "796720",
+         "field_search": "question",
+         "question": "Em làm mất tài khoản App trên iPhone rồi mà tạo lại phải co thẻ atm gì đó nhưng em chưa sử dụng thẻ anh chị tạo giúp em 1 tai khoan mới được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.343092,
+         "id": "766029",
+         "field_search": "question",
+         "question": "Chào ad , hôm nay em muốn hỏi về vấn đề jailbreak máy, em đã download cái chương trình để jailbreak ios 8.3 nhưng em không hiểu tại sao nó không thành công . nó bảo rằng ; please download lasted verision gì đó, bây giờ em phải làm gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

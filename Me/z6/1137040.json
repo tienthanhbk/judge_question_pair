@@ -1,0 +1,809 @@
+{
+   "id_query": "1137040",
+   "total": 29773,
+   "total_current": 100,
+   "max_score": 78.10586,
+   "origin_question": "cho mình hỏi sao mình ấn ... thì nó bảo mã ussd đang chạy nhưng chạy xong chẳng hiển thị j",
+   "hits": [
+      {
+         "score": 78.10586,
+         "id": "1137040",
+         "field_search": "question",
+         "question": "cho mình hỏi sao mình ấn ... thì nó bảo mã ussd đang chạy nhưng chạy xong chẳng hiển thị j",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.951368,
+         "id": "1022137",
+         "field_search": "question",
+         "question": "A5 bị lỗi hay sao ý...giời của nó có cứ hiển thị sai..có lúc thì nó tự chạy đúng..có lúc chạy sai cả chục giờ...ad giải thíc dùm em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.809153,
+         "id": "1002328",
+         "field_search": "question",
+         "question": "Cho hỏi máy mình là win xp, mình bỏ đĩa CD vào thì mở bình thường nhưng bỏ đĩa DVD vào lại không hiển thị, cũng không nghe tiếng đĩa chạy rồ rồ. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.790773,
+         "id": "1013404",
+         "field_search": "question",
+         "question": "Mình mua thẻ cào rồi, chuyển khoản completed rồi nhưng mình vẫn chưa có mã thẻ. Lúc chuyển khoản xong hệ thống bảo đang error nên process bán hàng vẫn chạy còn thẻ thì vẫn chưa cấp được. Nhờ tgdd hỗ trợ giúp. 01654376354",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.203102,
+         "id": "1159819",
+         "field_search": "question",
+         "question": "Mình đang dùng máy nokia 7 plus chạy android one. Làm thế nào để hiển thị danh bạ đã lưu ở trên sim?!.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.113493,
+         "id": "1154268",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6 plus hiện tại đang chạy phiên bản 12.1.4 mà mình muốn cài đặt lại như ban đầu thì nó sẽ chạy ios bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.789827,
+         "id": "1023738",
+         "field_search": "question",
+         "question": "ad cho e hỏi :'sao khi cập nhật ios 11 thì tải ứng dụng nó sao sao ý??Bấm tải rồi, nó hiển thị là đang chờ, để mãi cũng đang chờ dù có một cái, bấm vào icon của ứng dụng đó thì chuyển thành đang tải chạy qua được xíu. Mà để cả buổi cũng như vậy là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.612259,
+         "id": "756627",
+         "field_search": "question",
+         "question": " Tại sao khi mình sạc pin vẫn hiển thị đang sạc, nhưng phần trăm ko lên mình đang dùng iPhone 4.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.558903,
+         "id": "915073",
+         "field_search": "question",
+         "question": "E mua laptop được 20 ngày, máy chạy win 10, lúc mới trình duyệt cốc cốc bấm vào thì nó hiển thị ngay, còn bây giờ thì bấm vào phải 5-7 phút nó mới hiển thị. Google chrom cũng vậy. E không biết nguyên nhân tại sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.49903,
+         "id": "797211",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ. Em vừa khôi phục cài đặt và xóa iphone. Nhưng iphone em cứ chạy hoài, không hiển thị màn hình, cũng không biết làm sao cho nó hết. Có cách nào chỉ em không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.400341,
+         "id": "808954",
+         "field_search": "question",
+         "question": "Chào bạn, cho mình hỏi, mình vừa sửa lại password của icloud trên email rồi nhưng khi quay trở lại icloud nhập mật mã thì máy hiển thị thông báo nhập mã sai, lúc này máy cử hiện thị thông báo icloud báo phải nhập mật mã hoài, mà mình đã sửa mật mã ok rùi và đăng nhập lại vẫn không được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.025658,
+         "id": "1001927",
+         "field_search": "question",
+         "question": "Ad cho em hỏi sao YouTube em đang xem bình thường xong em thoát ra vào lại thì YouTube  vấn chạy bình thường  nhưng lại không có tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.83629,
+         "id": "1140026",
+         "field_search": "question",
+         "question": ".Anh cho em hỏi là fb cuả e đăng nhập bằng email .sau 1 khoảng thoi gian em đăng xuất ra rồi em ..đăng nhập lại em nhập mk emal cuả em nó báo là sai mk rồi em ấn vào quên mk nó bảo gửi mã về email e .xong e vô email em xem mã chẳng thấy mã đâu..mà cái email nó gửi bị che nên cx ko bt phải email cuả mk ko .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.767355,
+         "id": "1166709",
+         "field_search": "question",
+         "question": "Điện thoại em bị không hiển thị sóng là sao vậy ạ Với lại yêu cầu nhập mã ME là sao ạ Em nhập xong nó nói là khe cắm sim đã bị khóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.751818,
+         "id": "1147652",
+         "field_search": "question",
+         "question": "Cho mình hỏi mã Pin của samsung j3 6 là j vậy?  Mình đang cần gấp!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.446093,
+         "id": "834503",
+         "field_search": "question",
+         "question": "Mình vừa cập nhật ip5s 16g len ios 9.3 xong thì hiện lên bảng cập nhật nhà cung cấp nhưng khi mình ấn vào cập nhật thì không thấy j xảy ra nên mình tắt mạng vậy cho mình hỏi dt mình có bị j không và cập nhật nhà cung cấp là như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.425842,
+         "id": "1145612",
+         "field_search": "question",
+         "question": "cứ gải nén xong ấn cái đặt là nó hiện ra như vậy thì giải quyết kiểu j vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.425724,
+         "id": "801391",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Sau khi đã cài zalo trên laptop và quét QR xong và cũng đã đăng nhập thành công, nhưng sao mình ko thấy hiển thị các tin nhắn zalo trên laptop vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.37204,
+         "id": "1141430",
+         "field_search": "question",
+         "question": "Cho hỏi mình đang xài oppo f1s mình muốn bỏ lệnh hiển thị hình màu sắc nhấp nháy khi có cuộc gọi đến thì làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.256636,
+         "id": "756656",
+         "field_search": "question",
+         "question": "Máy mình đang dùng là Dell Xps 13 2015, hiện mình đang khởi động lại máy nhưng không được và máy cứ chạy hiện chữ đang khởi động lại nhưng đã chạy 30' rồi, chỉ giúp mình cách tắt nguồn máy tính với máy chạy win 10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.203358,
+         "id": "996526",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tại sao máy mình không thể hiển thị toàn...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.152271,
+         "id": "1017862",
+         "field_search": "question",
+         "question": "Cho e hỏi đt e oppo s1 e tải cái j nó cx kêu đang tải xuống mà để gần 15p nó vẫn chưa chạy % là sao ạ, mà mạng nhà e vẫn bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.125679,
+         "id": "1155771",
+         "field_search": "question",
+         "question": "Cho e hỏi nếu mình ko mua lap của siêu thị thì mình có thể đem tới chạy lại chương trình được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.107368,
+         "id": "1022598",
+         "field_search": "question",
+         "question": "Điện thoại của mình vừa chạy lại chương trình ngoài tiệm điện thoại. Họ nói chạy không được. Nhưng mình thấy sau khi làm xong mở nguồn  thì vào được tới mục chọn ngôn ngữ máy thì đứng. Không biết có phải do màn hình cảm ứng không nhạy hay không. Nhưng lúc chưa chạy chương trình thì vẫn nhạy. Bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.972706,
+         "id": "1167951",
+         "field_search": "question",
+         "question": "Em dùng Vsmart Joy 1 plus, em sạc pin vẫn hiển thị là đang sạc mà sao pin chẳng nhích lên được chút nào vậy nhỉ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.822388,
+         "id": "932379",
+         "field_search": "question",
+         "question": " QTV cho mình hỏi tại sao khi mình cài đặt itunes đến bước này thì nó không chạy nữa. Đứng lại ở đó luôn.   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.749084,
+         "id": "760869",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 6S khi sạc pin vẫn hiển thị đang sạc, nhưng % không lên, nhưng tắt nguồn khởi động lại pin hiển thị gần sạc đầy nếu sạc tiếp % vẫn tăng bình thường vậy là sao. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.724327,
+         "id": "1004615",
+         "field_search": "question",
+         "question": "  Mình muốn gỡ cài đặt fb nhưng khi ấn vào gỡ cài đặt n hiển thị như này. Bây giờ nhấn ok hay hủy ạ. Thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.606508,
+         "id": "863281",
+         "field_search": "question",
+         "question": "Em dùng Laptop Asus X555U, Window 10. Khi tắt máy nó bảo còn 2 chương trình đang chạy. Thế là em nhấn cancel xong màn hình đen thui luôn. Vậy phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.546787,
+         "id": "763868",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 6s cua mình đang chạy ios 9.1 khi ấn nút khóa màn hinh có lúc bị chớp màn hình 2 lần. bình thường chỉ cần ấn 1 cái là màn hình tắt luôn. giờ ấn khóa nó lại hiện thêm 1 lần nữa mới tắt màn hình. kiểu dạng như chụp ảnh màn hình vậy. cho e hoie là như thế là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.54662,
+         "id": "859008",
+         "field_search": "question",
+         "question": "Tgdd cho mình hỏi. Hôm qua mình có vào fb thì nó báo là ip đã nhiễm vius nhấn ok để diệt viuss. Thì mình ấn ok có sao ko vậy? Sau khi ấn xong mình kiểm tra pin dùng được 10p thì hết 4% pin từ 100% xuống 96%. Thì dt mình có lm sao ko vậy.Tks tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.511992,
+         "id": "1012761",
+         "field_search": "question",
+         "question": "Tại sao mình không tải được theme, khi tải nó hiển thị là: \" không thể tải hình về trong hiển thị hình dạng bàn phím\" giúp mình với. Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.417093,
+         "id": "1146865",
+         "field_search": "question",
+         "question": "Tại sao e nhấn vào nút chạy video để chơi confetti trên fb thì lại xuất hiện lỗi nội dung này ko hiển thị là sao ạ, e đang sử dụng 4g để xem ạ. Ai giúp em vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.399319,
+         "id": "956426",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop em mới mua sao nó kêu rè rè khi đang chạy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.370499,
+         "id": "834610",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Trước đây mình đăng xuất tài khoản facebook xong thường hiển thị hình đại diện của mình. Nếu muốn đăng nhập lại chỉ cần nhấn vào hình đó mà ko cần đánh mật khẩu thì bây giờ mình không làm được vậy là sao? Mình đang dùng iPhone 6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.322367,
+         "id": "989249",
+         "field_search": "question",
+         "question": "em sử dụng messenger cho pc, nhưng hôm trước em xóa history của google chorme, trong đó có password. Xong em vô lại messenger mà nó không hiển thị khung đăng nhập mà thay vào đó là cái vòng hiển thị là nó đang load cứ load mãi không ngừng, lâu thiệt lâu cũng không hiện khung đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.294102,
+         "id": "1157933",
+         "field_search": "question",
+         "question": "add ơi cho e hỏi : e quên mk fb, giờ e muốn lấy lại bằng sđt nhưng nó ko hiện lên phần gửi mã mà nó chỉ hiển thị phần email nhưng e ko đăng kí email thì làm thế nào ạ.  E cảm ơn !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.292053,
+         "id": "802900",
+         "field_search": "question",
+         "question": "Em đang dùng ip5, đang chạy ứng dụng ấn nút home để thoát ra thì không thoát được, khi ấn khoá màn hình thì không bật lên được nữa. Điện thoại của em như thế là bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.284788,
+         "id": "993851",
+         "field_search": "question",
+         "question": "Mình chơi game trên ipad nhưng màn hình không hiển thị được hết. Phải làm sao để hiển thị hết màn hình game vậy. Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.224533,
+         "id": "1017028",
+         "field_search": "question",
+         "question": "Mình đang dùng sam sung note 3 . khi mình mua gậy tự sướng cắm tai nghe thì dùng được. Nhưng một thời gian mình ko dùng sau đó đem ra dùng lại thì ko được. Nhưng khi kết nối thì vẫn được mà chụp hình lại ko được. Mà khi chụp ko được nhưng trên máy chẳng hiển thị gì cả. Giờ mình phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.167236,
+         "id": "992757",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ipad . Khi người khác gọi massage cho mình thì 2 cái nút xanh ( đồng ý ) và nút đỏ  ( từ chối ) nó không hiển thị vậy . Ad giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.077707,
+         "id": "1005315",
+         "field_search": "question",
+         "question": "điện thoại của mình oppo neo 3 k831k bị lỗi low battery the battery is too low. charge for a while before power on . khi sạc pin thì màng hình hiển thị máy sạc không vào , hard reset thì failed chạy lại room cx vậy . mở máy thì k lên cứ chạy logo .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.07696,
+         "id": "988725",
+         "field_search": "question",
+         "question": "máy tính mình mới mua được 5 tháng ở TGDĐ hôm qua đi chạy lại máy giờ nó còn đơ hơn trước di chuột còn không chạy. cho mình hỏi giờ phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.063753,
+         "id": "1003906",
+         "field_search": "question",
+         "question": "Cho mình hỏi honor6 sao ko có mạng 3gmaf chỉ hiển thị mạng 2g",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.054996,
+         "id": "793375",
+         "field_search": "question",
+         "question": " Cho mình hỏi với.mình đang dùng iPhone 5 mà khi tải ứng dụng nó chỉ quay tròn mà không chạy,ai biết chỉ mình với? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.047937,
+         "id": "747056",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi, app store đang sử dụng bình thường nhưng sau đó vào lại thì hiển thị  kết nối được. Mình sử dụng wifi bình thường, ngày giờ không sai lệch gì hết. Trường hợp này phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.008175,
+         "id": "1007938",
+         "field_search": "question",
+         "question": "máy tính e có mấy cái file rác mà e không xóa được nó bảo là đang chạy nhưng e tìm k có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.984703,
+         "id": "937281",
+         "field_search": "question",
+         "question": "Mình đang sài iphone 5 và ipad cùng chung 1 accounds , mỗi lần mình nhắn tin hay gọi điện thoại trên iphone nó đều hiển thị trên ipad . Mình muốn chặn tin nhắn hay cuộc gọi hiển thị trên ipad thì làm thế nào ad giúp mình với . Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.946037,
+         "id": "1014424",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi, số đt mình lưu trên sim nhưng khi lắp vào máy nokia 3 thì không hiển thị số đt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.940401,
+         "id": "990695",
+         "field_search": "question",
+         "question": "Mình có mua 1 chiếc laptop khoảng 3 tháng trước. Giờ mình muốn đem nó đến bảo hành vi cảm thấy nó chạy ko mượt lắm. Những giấy bảo hành thì mình đã làm mất rồi. Xin hỏi là mình có thể đem nó đi bảo hành thì có được không và cần phải làm gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.85418,
+         "id": "801080",
+         "field_search": "question",
+         "question": "Mình mua laptop acer của TGDĐ chẳng may bị hư màn hình, hỏi báo giá thay MH bao nhiều? Gửi máy kiểm tra 1 tuần sau phán 1.680.000đ mình không đồng ý . Chạy qua bảo hành của hảng Acer báo 1.600.000đ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.840258,
+         "id": "1010955",
+         "field_search": "question",
+         "question": "Cập nhật hay tải app j nó ko chạy như lúc trước, lâu lâu...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.766644,
+         "id": "840926",
+         "field_search": "question",
+         "question": "khi ol facebook trên phần mềm fb ở điện thoại lumia 635 mà bạn bè của mình không thấy có mình đang ol là sao ạ?mặc dù mình đang hoạt động mà nó không hiển thị cho bạn bè mình biết.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.748957,
+         "id": "963822",
+         "field_search": "question",
+         "question": " Cho mình hỏi về vấn đề card rời và onboard, như hình thì mình đang dùng card nào hay là cả 2 đang chạy song song  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.721083,
+         "id": "859439",
+         "field_search": "question",
+         "question": " Zalo trên điện thoại không hiển thị nhóm nhưng trên pc của mình vẫn hiển thị giúp mình với minh cảm ơn nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.709682,
+         "id": "825559",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi mình muốn tắt hiển thị cập nhật phần mềm trên cài đặt trên IOS 9.1.1 thì phải làm sao đây??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.679024,
+         "id": "786940",
+         "field_search": "question",
+         "question": "cho hỏi. sao mk cài id apple mới r,. dến bc xác nhận gửi mã vè gmail. mà chẳng thấy đk j. nhấn vào chỗ khung điền cũng k đk. liệu có lỗi j rồi. ad trả lời ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.665941,
+         "id": "1157397",
+         "field_search": "question",
+         "question": "Em không biết do lỗi gìVào youtube xem được,nhưng nó không  hiển thị video mới bên dưới video đang xem.Chỉ hiển thị các bình luận dưới video đang xem thôi!Như hình bên dưới!Mong anh chị giúp em cho nó lại bình thường! Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.585812,
+         "id": "1020555",
+         "field_search": "question",
+         "question": "mình dùng j5 2016m khi mình tải ảnh trên drive về có 1 số ảnh vào bộ nhớ thì thấy mà vào bộ sưu tập thì lại k hiển thị. ai chỉ giúp mình cách cho nó hiển thị vào bộ sưu tập với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.553865,
+         "id": "806917",
+         "field_search": "question",
+         "question": "Cho mình hỏi laptop của mình không lên được màn hình, bàn phím không sáng nhưng trong máy vẫn chạy. Vậy có được bảo hành không ạ và bảo hành hết bao lâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.468348,
+         "id": "1161984",
+         "field_search": "question",
+         "question": "cho em hỏi là em muốn chạy lại máy tính win 10 để xóa sạch dữ liệu nhưng nó báo là không thể khôi phục vì đang chạy battery power ? giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.403742,
+         "id": "898425",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình cập nhật IOS xong nó đòi mật mã khởi động lại trong khi trước đó mình không cài gì cả, giờ thì mình nhập cái gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.386938,
+         "id": "1143473",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao Facebook của mình thì nó hiển thì đầy đủ thông tin như nt, còn người khác vào fb mình thì nó k hiện thông tin gì cả v ạ,  mình đang dùng Huawei gr5 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.374165,
+         "id": "906264",
+         "field_search": "question",
+         "question": "mình nhập sai mật khẩu nhiều lần cái id apple nên bị khóa xong rồi thì bảo phải chọn 1 trong 2 bước nên mình chọn email thì nó không gửi tới mã xác mình còn mình bấm nhiều lần cái câu hỏi bảo mật xong giờ nó mất luôn rồi !!! có phải là em bị mất luôn tài khoản này rồi không ạ sẽ không mở khóa được nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.313581,
+         "id": "765824",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi máy mình dùng giờ thấy không ổn. Máy khá nóng khi dùng 3g pin tụt khá nhanh. Mình muốn chạy lại phần mềm liệu khi chạy xong có ổn định hơn không. Máy mình hiện đag ở iOS 9.2 iPhone 5S?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.311296,
+         "id": "822465",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy ip của mình ấn vào chỗ thanh đỏ nhưng mà nó không hiện ra gì vậynên giờ mình phải làm sao  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.281221,
+         "id": "775315",
+         "field_search": "question",
+         "question": "Em đang dùng Samsung Galaxy S6. Gần đây khi đang nghe nhạc và xem video máy rất hay bị tự dừng, lúc ấn play lại chạy tiếp, cứ như mình vừa lỡ tay ấn vào nút pause thôi. Có khi chỉ vài phút sau lại ngừng tiếp. Cho em hỏi bị như vậy là làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.164463,
+         "id": "1135094",
+         "field_search": "question",
+         "question": "QTV cho e hỏi với ạ: \"Sao máy J4 của e hiển thị như trong hình ấy ạ. Khi ấn vào nó nghe mấy tiếng nước ngoài. QTV cho e hỏi cách tắt với. E cảm ơn ạ!\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.145973,
+         "id": "773076",
+         "field_search": "question",
+         "question": "Cho mình hỏi mimh đang sử dụng iPhone 6 plus đang sử dụng thì bị đơ không chạy được nữa làm sao để khắc phục ạ xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.123962,
+         "id": "1159095",
+         "field_search": "question",
+         "question": "Tại sao Zalo lại hiển thị đối phương đang vừa mới truy trập trong khi họ đang hoạt động mà cứ hiển thị hoạt động 3 hoặc 4 giờ trước trong khi họ đang hoạt động và nhắn tin với mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.113873,
+         "id": "1142760",
+         "field_search": "question",
+         "question": "Ipad của e khi đăng nhập vào face time, thì nó cứ hiển thị lỗi đang kích hoạt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.102644,
+         "id": "998201",
+         "field_search": "question",
+         "question": "Mình update đt zenphone 3 max 5.5 file chỉ có 91mb nhưng đang chạy thì thông báo lỗi là bị gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.075563,
+         "id": "1146585",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là nokia 3 update lên android 8.1 nhưng sử dụng facebook xong không tắt đc ứng dụng đang chạy. Kiểm tra giống hình dưới đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.053988,
+         "id": "1153824",
+         "field_search": "question",
+         "question": "Cho mình hỏi là laptop mình mua asus vivobook flip 14 TP410U cách đây 1 năm và mình rất ít khi sử dụng nhưng mỗi lần mở máy hoặc mở ứng dụng hay lên cốc cốc thì máy chạy rất chậm, có khi chờ khoảng 5 phút mà máy vẫn chưa chạy xong. Có cách nào khắc phục ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.02375,
+         "id": "1010918",
+         "field_search": "question",
+         "question": "Mình muốn phát Wifi từ máy tính dùng win 7 cho đt dùng. mình đã share và Wifi đã hiển thị dòng Internet acess.. tuy nhiên trên điện thoại vẫn báo chưa có internet.. Trước đây mình đã thử và thành công.. nhưng dạo này không hiểu sao lại không share đc! trên máy oppo A11W thì nó hiển thị dòng đang lấy địa chỉ IP và chờ rất lâu vẫn không cấp đc!! mong TGD Đ tư vấn giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.022606,
+         "id": "824922",
+         "field_search": "question",
+         "question": "Mn cho e hỏi .máy tính của e khi ấn nút nguồn thì đèn vẫn sáng nhưng màn hình không lên , quạt không chạy .tại sao lại có hiện tượng này và cách sửa chữa ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.983194,
+         "id": "1165118",
+         "field_search": "question",
+         "question": "ad cho em hỏi em muốn lấy lại pass facebook nhưng sau khi đổi pass xong thì nó yêu cầu xác mình,xong tói bước 2 xác nhận email thì cứ đứng mãi trang này dù em nhập email mới mấy lần luôn,nó có gửi mã tới email nhưng quay sang face thì cứ đứng mãi trang ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.943045,
+         "id": "1007787",
+         "field_search": "question",
+         "question": "- điện thoại em không hiển thị tin nhắn gửi tới. k biết máy em bị sao ạ. - gửi đi vẫn được nhưng người khác gửi đến máy em thì không hiển thị. hiện em đang xài lenovo a6020a40.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.875656,
+         "id": "1135814",
+         "field_search": "question",
+         "question": "Cho mình hỏi A7 2018 vào Bảo trì thiết bị. Dọn dẹp không hết được ứng dụng chạy ngầm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.832172,
+         "id": "996534",
+         "field_search": "question",
+         "question": "Mình đang dùng HTC One Me, vừa vào instagram thì màn hình tắt ngúm. Nếu có ai đó nt bằng Messeger hay Viber thì máy có báo rung, nhưng ko hiển thị trên màn hình gì cả. Mình còn hạn bảo hành đến tháng 7/2017.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.816166,
+         "id": "1148449",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi: Mình có con máy sony z3 nhưng hôm nay mình đang dùng thì nó bị sập nguồn. Xong nó lại tự động hiện lên chữ Sony trong khoảng 1s rồi nó lại tắt. xong nó lại hiện với quy trình lặp đi lặp lại như trên. cho mình hỏi lỗi và cách khắc phục. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.78963,
+         "id": "992659",
+         "field_search": "question",
+         "question": " Khi sạc pin iPhone 6 pin hiển thị 100 mà vẫn hiển thị ký hiệu đang sạc pin là sao vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.770166,
+         "id": "781338",
+         "field_search": "question",
+         "question": "Em đang dùng Asus f454l chạy win 10 nhưng máy bị lỗi phải reset lại reset xong máy bị mất phần mềm asus smart gesture giờ em tải nó ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.728056,
+         "id": "869643",
+         "field_search": "question",
+         "question": "Xin chào Anh/Chị!Anh/Chị vui lòng cho hỏi: Mình đang sử dụng điện thoại iphone 4, sử dụng phần mềm Tango trên điện thoại này bình thường, tuy nhiên, hôm nay vào Tango thì nó chạy một lúc hiển thị ra các tin nhắn nhưng sau đó tự quay lại giao diên ban đầu của Tango, phía bên dưới có chữ download. Như vậy là bị lỗi gì, xin Anh/Chị chỉ giúp. Trân trọng cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.70647,
+         "id": "773078",
+         "field_search": "question",
+         "question": "Chuột cảm ứng laptop của e đang dùng thì không đi được, nó hiển thị đèn báo vàng ở chuột cảm ứng, cho em hỏi nó hỏng hay thế nào ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.679165,
+         "id": "1160834",
+         "field_search": "question",
+         "question": "Cho mik hỏi hiên tượng vẫn còn ảnh trong thư viện nhưng khi bấm vào lại hiện là anh không hiển thị là bị j vậy ad (đt oppo A71)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.668182,
+         "id": "881894",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5s khi trả lời tin nhắn thì bật bàn phím ảo không hiển thị mình phải làm sao? Mình đã khởi động lại máy nhiều lần vẫn không đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.657356,
+         "id": "1137971",
+         "field_search": "question",
+         "question": "Cho em hỏi làm thế nào để máy em nó hiển thị Mạng 4G thế ạ ... sim em đã cài 4G nhưng nó vẫn ko hiển thị ạ .. HĐH em là IOS ko bk có cách nào sửa ko ạ ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.60661,
+         "id": "776771",
+         "field_search": "question",
+         "question": "Máy mình laptop ACER win 10 bản quyềnMình reset win lại chạy 100%Sang phần chạy driver dc 10% cúp điện laptop hết pin tắt nguồn @@ xui quáRùi mình mở máy nó hiện lên báo lỗiThe computer restarted unexpectedly or encountered an unexpected error. Windows installation cannot proceed.to install windows, click{OK} to restart the computer,and then restert the installationLỗi này,ấn Shift +F10Ấn regedit làm rùiBây giờ nó reset máy liên tụcMình nhấn nút nguồn + F8 cũng ko lên gìCâu hỏi: mình muốn chạy lại máy mình có tốn kém hay tốn thời gian lâu ko,mình mua ở tgdd dc 3 tháng vẫn còn bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.604986,
+         "id": "1143691",
+         "field_search": "question",
+         "question": "Laptop Lenovo IdeaPad 130 14IKB i3 7020U/4GB/1TB/Win10/(81H60017VNCho mình hỏi là cấu hình do dòng máy chạy hay sao mà mình thấy lướt web & ứng dụng office chạy rất chạy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.582499,
+         "id": "767480",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi tí. Mình mới mua iPhone 6s Plus nhưng mình thấy lạ là phần hiển thị phần trăm pin khác thường quá. Cụ thể là khi mình dùng còn dưới 20% pin thì lúc nó màu đỏ lúc thì màu vàng. Còn nhiều thì lúc màu trắng lúc thì màu đen. Vậy là tại sao. Mong ad sớm cho mình câu trả lời.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.573637,
+         "id": "816253",
+         "field_search": "question",
+         "question": "Sao máy tính của e nó đang chạy bình thường mà tự nhiên nó lại chạy ra cái màn hình ngang là sao???với lại em khởi động máy lại nó cũng ko dk. màn hình nó tối thui à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.573067,
+         "id": "1161585",
+         "field_search": "question",
+         "question": "cho mình hỏi với ạ, mình mất tài khoản line cũ giờ mình muốn lấy lại line nhưng khi yêu cầu gửi mã xác nhận mình không nhận được , còn khi ấn vào đăng nhập vào fb thì yêu cầu chuyển tài khoản? mình phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.5651,
+         "id": "1138275",
+         "field_search": "question",
+         "question": "Cho hỏi tôi dùng samsung j7 prim mà sao mở khóa vân tay nó hiển thị như hình là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.555115,
+         "id": "1023319",
+         "field_search": "question",
+         "question": "Khi e reset laptops dell thì đang reset nó dừng lại, cái vòng tròn quay khi đang reset nó không chạy nữa là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.466238,
+         "id": "749588",
+         "field_search": "question",
+         "question": " Mình đang xài iOS 7.1.2, nhưng máy chạy chậm quá, giờ muốn hạ xuống iOS 6.1 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.454464,
+         "id": "996824",
+         "field_search": "question",
+         "question": "Mình đang xài ZenFone 3 được nữa năm nhưng 3 tuần nay pin máy k hỉu sao để qua đêm pin tụt khoảng 30% mình tắt ứng dụng chạy ngầm hết r . Cho hỏi vậy pin máy nó có bị gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.453405,
+         "id": "826713",
+         "field_search": "question",
+         "question": "Chào các bạn! Mình đang dùng iphone4, khi sạc pin % báo đầy rồi máy tự tắt nguồn. Mình bấm nút khởi động thì màn hình hiển thị rắc cắm và pin đã hết. Cắm nạp vào lại hiển thị pin hết, rất lâu máy không lên là bị sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.44445,
+         "id": "875193",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi là sao ipad mình lên ios 10 beta 5 sao thanh dock nó cứ chóp chóp rồi biến mất có khi biến thành màu đen chạy loạn xạ..(đã reboot máy và restore máy nhưng ko dc)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.418587,
+         "id": "831854",
+         "field_search": "question",
+         "question": " Cho mình hỏi tại sao mình không thể tìm thấy Airplay trên iPad mini 4. máy mình chạy 9.3.2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

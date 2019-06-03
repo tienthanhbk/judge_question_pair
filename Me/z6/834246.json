@@ -1,0 +1,809 @@
+{
+   "id_query": "834246",
+   "total": 32707,
+   "total_current": 100,
+   "max_score": 99.03735,
+   "origin_question": " Em mua lại máy cũ hiệu iphone. mk icloud trước e k biết. h e lm thế nào đẻ thay thế mã icloud là của e. e xin câu tl ạ ",
+   "hits": [
+      {
+         "score": 99.03735,
+         "id": "834246",
+         "field_search": "question",
+         "question": " Em mua lại máy cũ hiệu iphone. mk icloud trước e k biết. h e lm thế nào đẻ thay thế mã icloud là của e. e xin câu tl ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.709362,
+         "id": "870014",
+         "field_search": "question",
+         "question": " Ad oi e ?.e quen mk iCloud dag nhập sai nhieu nen bị mã hoá..jo e phai lm sao ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.00977,
+         "id": "1002132",
+         "field_search": "question",
+         "question": "Tài khoản icloud của e bị vô hiệu hóa..e lm theo hướng d...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.60809,
+         "id": "922148",
+         "field_search": "question",
+         "question": "ad cứu em với ạ. e có nghịch dại tạo tk icloud mà h e k nhớ mk, h e phải làm tn ạ? h máy bảo e nhập apple ID vs pass mà e k làm đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.5981,
+         "id": "923228",
+         "field_search": "question",
+         "question": " A ơi em lo có mk iCloud còn Apple và gmail của e bh đt đòi iCloud mà lo ko tìm đi bh e phải lm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.41408,
+         "id": "909360",
+         "field_search": "question",
+         "question": "id apple của em bị khóa do e nhạp sai mật khẩu icloud quá nhiều . e quên email va câu hỏi bảo mật em có cách nào khác đẻ mở id apple k ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.921986,
+         "id": "896139",
+         "field_search": "question",
+         "question": "em bị khóa màn hình. còn icloud ko nhớ mk. bjo e muốn dùng emei để check lại tên email icloud. sau e sẽ liên lạc icloud ý xin lại mk sau thì làm cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.735004,
+         "id": "897478",
+         "field_search": "question",
+         "question": "Ngày trước e đã từng đăng ký sđt vào nick icloud cũ. Bh đổi máy k nhớ icloud cũ phải đăng kí icloud mới. E muốn đăng ký = sđt của mình nhưng k được bây phải em phải làm sao.                ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.718864,
+         "id": "1149702",
+         "field_search": "question",
+         "question": "cho e hỏi tại sao máy iphone của e đã xoá ID aple này vi quen mk và thay thế ID khác nhưng khi vào app để tải ứng dụng thì lại bắt nhập ID cũ . lm cách nào để khắc phục vậy ạ. mong ad trả lời cho e sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.974964,
+         "id": "1159214",
+         "field_search": "question",
+         "question": "làm thế nào để đăng nhập icloud mới vào máy khi quên mật khẩu icloud cũ , không thoát được icloud cũ ra ạ. ip6 plus ạ. e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.059546,
+         "id": "1146144",
+         "field_search": "question",
+         "question": "ad cho e hỏi cái này ?? e quên mk icloud mà h nó bị khoá . làm sao lấy lại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.056965,
+         "id": "796026",
+         "field_search": "question",
+         "question": " E dùng 4s ạ  nhưng e quên mất mật khẩu của icloud  cũng quên luôn mấy câu hỏi bảo mật  bây h e phải làm s ạ ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.946695,
+         "id": "1008838",
+         "field_search": "question",
+         "question": "Em có 1 lần dùng tài khoan icloud của người khác đăng nhập máy để lấy sđt như mà e hợp nhất itunes & app store và e nhập lại icloud cũ của e vào thì bị sđt của người lưu trong máy. Em đăng xuất cải 2 ra và đăng nhập icloud vào thì lại không có sđt lúc nào em đăng nhập itunes & app store là xuất hiện sđt kia h e phải llm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.87833,
+         "id": "1167022",
+         "field_search": "question",
+         "question": "e với bạn trai xài chung icloud nhưng hiện giờ đt của e bị mất, e đã khóa icloud e muốn đăng xuất icloud của e trên đt bạn trai thì làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.780653,
+         "id": "1152925",
+         "field_search": "question",
+         "question": "xin hởi mk ms mua con ss m20 nh pin mk tụt nhanh quá đẻ qua đêm mà tụt hẳn 14xin hởi phải lm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.727823,
+         "id": "896018",
+         "field_search": "question",
+         "question": "E mua 1 iphone cũ đt đó dính icloud và e đã xoá và nhập icloud của e nhưng trong cuộc gọi e không gọi nhưng hiển thị những số đt lạ là sau ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.722668,
+         "id": "957509",
+         "field_search": "question",
+         "question": " e vừa bị mất iphone, làm thế nào để xóa đc icloud vs id apple trong đt cũ ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.640938,
+         "id": "847610",
+         "field_search": "question",
+         "question": "anh ơi cho e hõi tý em mua 1 chiếc iphone 6s ỡ bên viettel . icloud cũa e bấm pass sai vài lần bị khóa mail nhưng dt vẫn xài bình thường giờ e không biết câu hõi bão mật chĩ nhớ dc mật khẫu cũ có cách nào dễ lấy lại k anh ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.620012,
+         "id": "1153731",
+         "field_search": "question",
+         "question": "máy em bị dính icloud do quên mk bên mình có thể mở icloud cho e dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.027409,
+         "id": "1144894",
+         "field_search": "question",
+         "question": "cho e hỏi máy iphone cũ đã tháo icloud muốn tạo icloud mới nhưng máy báo k tạo được tài khoản là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.954853,
+         "id": "739516",
+         "field_search": "question",
+         "question": " Anh ơi..!em mua con iPhone 4 mà đã cài sẵn icloud. Giờ cứ bắt nhập mk icloud mà em không biết thì phải làm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.64052,
+         "id": "846634",
+         "field_search": "question",
+         "question": "ad cho e hỏi e bị mất iphone 5 chạy ios 9.2 icloud của e nhưng e không bật tính năng tìm iphone h e muốn khóa iphone thì làm nào ạ...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.564213,
+         "id": "847024",
+         "field_search": "question",
+         "question": " ad cho hỏi máy của e thế này là bị sao ạ làm sao bỏ đc id apple ituns này khi ko có mk icloud ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.249949,
+         "id": "1146135",
+         "field_search": "question",
+         "question": "Cho e hỏi tí ... cái đt iphone của e bị dánh t.k icloud á mà nó bị khoá rùi . H e muốn bỏ cái icloud phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.225557,
+         "id": "831797",
+         "field_search": "question",
+         "question": "E quên mk facebook, đó nhập sai quá nhiều lần lên đăng nhập tạm thời bị chặn. Bây e pải lm thế nào ạ, muốn lấy lại mk thì ntn ạ???? Thak ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.219105,
+         "id": "995344",
+         "field_search": "question",
+         "question": "Cho e hỏi muốn thay đổi mật khẩu icloud thì phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.129526,
+         "id": "1158372",
+         "field_search": "question",
+         "question": "em bị khóa icloud có lấy lại được không ạ e quên câu trả lời bảo mật ơ icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.914938,
+         "id": "898825",
+         "field_search": "question",
+         "question": " add cho e hoi e quen mk ID va mk icloud thi lam sao ạ ?????? giúp e với !! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.78046,
+         "id": "900295",
+         "field_search": "question",
+         "question": " Đổi và lấy lại mật khẩu khi e rì xét lại máy thì lại như thế này e k hỉu là tại lm s  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.595678,
+         "id": "891422",
+         "field_search": "question",
+         "question": "E vừa bị mất iPhone và icloud bị đổi pass và vô hiệu hoá.... giờ muốn khôi phục thì phải xác nhận mã qua đt e đã xác nhận hôm qua sao không nhận được hướng dẫn, thường thì phải mất bao lâu để nhận được hướng dẫn của apple ad có tl giúp e hay có cách nào để e lấy lại icloud không ạ...cám ơn adVào web và làm theo hướng dẫnNhâp sđtLick vào \"bạn có thêm thông tin để giúp xác minh nhận dạng không ?\"TiếpSau khi nhận và nhập mã xác nhận thì hiện ra bản này và không nhậ được hướng dẩn nào về số đtP.s. Không thể xác nhận qua mail....không có chỗ nào để tl câu hỏi bì mật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.543068,
+         "id": "1161548",
+         "field_search": "question",
+         "question": "E đang dùng máy Nokia 3.1 máy e có hiện tượng pin đang ở 60% mà bị sập nguồn khởi động lại thì còn 1%. Bây h phải lm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.25469,
+         "id": "787754",
+         "field_search": "question",
+         "question": "Em dùng chung tài khoản icloud vs 1nguoi bây h e muốn đổi nhung e chua có tài khoản khac muốn lập thì phải lập ở dâu và như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.231789,
+         "id": "833362",
+         "field_search": "question",
+         "question": "Ad ơi cho Em hỏi: Iphone 6 e đang dùng bình thường và có đăng nhập tài khoản icloud của e thành công nhưng khi e đăng xuất ra thì e check icloud trên web Icluod.com thì nó vẫn hiện là On, sau đó e đăng nhập tài khoản icloud của e vào lại ip6 thì lại vẫn bình thường. Ad cho e hỏi có phải máy e đã bị dính icloud ẩn hay không?, e rất thắc mắc vì nếu bị icloud ẩn thì tại sao e lại đăng nhập tài khoản icloud của e đc...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.111513,
+         "id": "995288",
+         "field_search": "question",
+         "question": "Mình mới mua lại iphone 6 cũ TGDĐ, nhưng khi về nhập Icloud thì lại hỏi như thế này, liệu có phải máy vẫn còn dính Icloud của chủ cũ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.042706,
+         "id": "788445",
+         "field_search": "question",
+         "question": " Tại sao iCloud của máy e lại k ấn vào dc , e dùng ipp 5   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.897942,
+         "id": "944178",
+         "field_search": "question",
+         "question": "các bạn cho mình nhờ 1 tý dk k ạ hwa mjh mất 1 cái dt mà đến bh mjh biết là máy đã đăng xuất icloud 2 đã xđ đk mục tiêu nhưng bh e muốn nhờ ng nào xem hộ e để biết cái icoud lúc mấy h ai giúp dk e k ạ e sẽ có cẩm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.880362,
+         "id": "991844",
+         "field_search": "question",
+         "question": "Ad cho hỏi là 2 máy xài chung icloud . Khi restore lại máy . Có cần thoát icloud ra ko . Khi restore máy kia hỏi mã icloud để kích hoạt . Vạy máy e đang bị dính icloud phải ko . Có cách nào khắc phục hoàn toàn k ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.70138,
+         "id": "788305",
+         "field_search": "question",
+         "question": " E mới mua Iphone 5s.. trên máy còn icloud của người dùng trước mà em không có pass.. giờ làm sao để logout ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.671532,
+         "id": "1150546",
+         "field_search": "question",
+         "question": "A ơi giúp e với.Chiếc iPhone của e e lỡ quên mật khẩu khóa màn hình. Có cách nào mở được không ạTai khoản icloud thì e vẫn nhớ đầy đủ ạVà ra thế giới đi động có hỗ trợ e k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.55719,
+         "id": "944538",
+         "field_search": "question",
+         "question": "Em bị mất mk zalo. Sđt e dùng để đăng kí zalo bây giờ e ko còn sử dụng nữa . e muốn hỏi làm thế nào để e lấy lại zalo cũ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.421879,
+         "id": "909878",
+         "field_search": "question",
+         "question": "cá a/c cho em hỏi là làm sao để biết tk icloud của mình đang đăng nhập trên những máy nào ạ . e thấy máy của e báo về là tk của e đang bị dùng để đăng nhập cái gì ấy .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.268484,
+         "id": "923453",
+         "field_search": "question",
+         "question": " E muốn tạo tài khoản iCloud thì làm thế nào vậy tgdd giúp e được ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.143358,
+         "id": "1022209",
+         "field_search": "question",
+         "question": "E đag sd samsung galaxy tab3, có lần e lỡ nhấn vào phần khôi phục cài đặt gốc nên h e ko biết phải lm sao để khôi phục s đt của e vs các bn, e cx ko thể gọi hay nhận đc điện thoại của các bn khác, giống như là máy của e bị xóa mất s đt rồi, lm sao bây h ạ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.045528,
+         "id": "1134742",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi làem quên mk máy iphone 6 ớ ad mà máy e hông có tài khoản icloud thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.007301,
+         "id": "1011430",
+         "field_search": "question",
+         "question": "cho e hỏi là miếng dán màng hình bảo hành 3 tháng.nhưng e lm xước miếng dán thế e đem đi dán lại thì có tính phí k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.932589,
+         "id": "894789",
+         "field_search": "question",
+         "question": "E đag sử dụng nick clash cấp 95, nhưq hòi lúc tự nhiên game nok hiện lên dòng chữ, e k pit nên bấm CONFIRM...r nok tự nhảy vào 1 nick cấp 54...id apple là trước đây e lên tgdd xin...e xin 3 lần, bây giờ e biết tài khoản với mật khẩu lần 1 zs 3, lần 2 a ở thdd k nói cho e nghe..e vào game center đăq nhập 2 nick dok, ở nick 1 khi ở ip thì gamecenter nok báo k vào được, nhưq ở đt khác thì vào dk nhưq hk phải nick của em, ở ních 3 thì nó yêu cầu em phải cos mã xác nhận gưir qa sđt, mà id dok e xin trên tgdd, nên h e k biết làm sao với lấy lại ních như thế nào...ad có thể giúp e k ạ??!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.921686,
+         "id": "883687",
+         "field_search": "question",
+         "question": "tình hình là e đang sử dụng máy iphone 5. E muốn thoát cái id iCloud nhưng lại quên mất mật khẩu, và địa chỉ gmail đăng ký đó e cũng quên mất. Vậy có cách nào để e thoát id iCloud đó hông ạ? Giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.757736,
+         "id": "906814",
+         "field_search": "question",
+         "question": "Không sao lưu được Icloud...help helpvì icloud k đủ dung lượng để sao lưu nên e đã xoá hết bản sao lưu cũ và cả bản sao lưu hiện tại ( mới nhất, và khi kiểm tra lại thì bản sao lưu là 0kb).em mua plan mới 50Gb với giá $1,5/ tháng để sao lưu..nhưng vẫn không được vì k có dữ liệu của bản sao lưu cũ ( em xoá icloud sao lưu trước đó )..mọi người ơi giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.664219,
+         "id": "912808",
+         "field_search": "question",
+         "question": "Em quên mật khẩu icloud nhưng khi lấy lại bằg email thì chính cái icloud đó là email luôn thế là không thể nào đặt lại đc mật khẩu mới. Anh chị ad cho e hỏi là có cách nào để lấy lại không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.639072,
+         "id": "1147864",
+         "field_search": "question",
+         "question": "Cho e hỏi là do e quên mất sdt xac minh của tài khoản icloud thế giờ em không đăng nhập vào tk  được nên ko biêt ad có cách nào đăng nhập vào icloud lại được không ạ hay xác minh cái khác để vào tài khoản",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.524551,
+         "id": "804080",
+         "field_search": "question",
+         "question": "Cho em hỏi, em mới mua lại Iphone 4 cũ nên tài khoản Icloud em không biết pass và hiện tại đang muốn tạo Icloud mới thì có cách nào xóa Icloud cũ không ạ? Em search google nhiều rồi mà không biết cách nào ạ? Em đem máy ra Thegioididong giúp xóa được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.522352,
+         "id": "770777",
+         "field_search": "question",
+         "question": "Ad cho e hỏi cái hồi sáng e có nhờ a kỹ thuật viên tạo giúp e tài khoản iCloud mà điện thoại em bị hư loa nên em đi thay loa nhưng bi người ta đổi ID iCloud mà e ko nhớ ID icloud em nhớ mật khẩu icloud thôi ad cho e hỏi làm sao lấy lại TK icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.513525,
+         "id": "881909",
+         "field_search": "question",
+         "question": "Cho em hỏi là e đang dùng iphone nhưng bây h e múôn chuyển sang dùng lenovo thì lấy lại đầy đủ danh bạ từ iphone sang lenovo thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.51035,
+         "id": "1138434",
+         "field_search": "question",
+         "question": " e bị rơi máy giờ nó đổi  icloud  giờ tìm lại sim có lấy lại đc  icloud  k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.47962,
+         "id": "990399",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e quên mk icloud giờ muốn đăng xuất hay reset  thành máy mới được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.39496,
+         "id": "1143423",
+         "field_search": "question",
+         "question": "Cho e hỏi là đt e đã có icloud rồi mà giờ e muốn sài chung với chị e vậy khi e đăng xuất icloud của e thì có bị mất tất cả dữ liệu trong đt e k ạ hay vẫn bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.364195,
+         "id": "796040",
+         "field_search": "question",
+         "question": "ad cho e hỏi, e mua simghep ở thegioididong, về e cài id apple và icloud,gmail của e la chathaobn96@gmail.com nhưng e lại đăng ký gmail xác nhận icloud là chatthaobn96@gmail.com. máy báo lỗi xác minh tài khoản,h e ko truy cập được mạng do lỗi bảo mât.máy e nó cũng báo bạn đã lập tối đa số tài khoản miễn phí.nếu e đem ra thegioididonng thì phí dịch vụ là bn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.352589,
+         "id": "938635",
+         "field_search": "question",
+         "question": "cho e hỏi h máy e win 8.1 bản quyền bị lỗi e cài lên win 10 cũng nỗi h e muốn cài lại win 8.1 ở thế giới di động đk k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.333685,
+         "id": "1020742",
+         "field_search": "question",
+         "question": "Em đang sử dụng galaxy tab3, e lỡ nhấn vào phần cài đặt lại máy, h e mở lại thì lại mất sđt trong sim, lm sao bây h ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.33041,
+         "id": "893253",
+         "field_search": "question",
+         "question": " dt e su dung icloud cua nguoi khac neu nguoi do dang nhap icloud nguoi do co thay duoc hinh anh video cua e k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.319357,
+         "id": "1020579",
+         "field_search": "question",
+         "question": " Tài khoản icloud bắt nhập mk liên tục sau đó e iforgot lập mk khẩu mới thì lại bị như này là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.151934,
+         "id": "1020748",
+         "field_search": "question",
+         "question": "Em đang sử dụng galaxy tab3, e lỡ nhấn vào phần cài đặt lại máy, h e mở lại thì lại mất sđt trong sim, lm sao bây h ạ?hm, ý e là, khi mở lại máy thì e ko gọi đc, mí bn gọi cho e cx ko nghe đc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.14614,
+         "id": "878033",
+         "field_search": "question",
+         "question": "E dùg iphone 5s bây h e lm video trên app viva video e muốn ghép nhạc bài hát yêu thích của mình vào nhưng em vào album của tôi thì ko có. Muốn tải thì phải mua Mà mỗi lần tải như vậy rất tốn tiền.Vậy em phải sử dụng như thế nào vậy ạ Iphone khác những samsung khác những loại đó điều ko phức tạp như ip . E mong add có thể đọc đc và giúp đỡ e. E xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.04357,
+         "id": "923591",
+         "field_search": "question",
+         "question": " Ad check hộ e với ạ. e muốn mua máy này mà e ko biết check như thế nào   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.016603,
+         "id": "991090",
+         "field_search": "question",
+         "question": "cho em hỏi admind tý với ạ, e mới mua chiếc lap top dell vostro 3568/i5 cũ tại thế giới di động kim mã giờ máy có chút lỗi nhỏ là không giải nén được file rar thanh exe, amind giúp e sửa lỗi này thỳ phải làm thế nào ạ? máy e còn bảo hành ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.972399,
+         "id": "1146876",
+         "field_search": "question",
+         "question": "Máy em là vivo y85, lúc trước khi có người gọi đến máy hiện dao diện 1 kiểu,, bây giờ máy lại hiện 1 kiểu khác là thế nào ạ. E không cài đặt gì cả. Muốn đổi lại như cũ được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.971186,
+         "id": "918468",
+         "field_search": "question",
+         "question": "add ơi, cứu e với, e với con e em dùng chung tài khoảng icloud, tư dưng hình ảnh trong máy e ko còn cái nào,thay vào đó là toàn bộ hình ảnh trong máy nó qua máy e, chỉ e cách lấy lại ảnh trên máy e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.921228,
+         "id": "1014310",
+         "field_search": "question",
+         "question": "Cho e hỏi bên ad ktra giùm e số dt 0937365105 mua dt nokia hiệu gì bên mình thế ạ. Tại e định mua bao da nhưng quên mã nokia . Thanks. Ktra giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.877874,
+         "id": "1156338",
+         "field_search": "question",
+         "question": "e có dùng chung tk icloud với bạn. bây giờ e đăng xuất tk icloud ra iphone của mình rồi thì liệu bạn e có thể xem được ảnh hoặc tin nhăns imess của em không ạ. em nghe nói dùng chung icloud sẽ đọc được tn và xem được ảnh của iphone dùng chung icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.826618,
+         "id": "794434",
+         "field_search": "question",
+         "question": "Tgdd cho e hỏi, e vừa bán cái iphone 5, trước khi bán e chỉ khôi phục lại cài đặt gốc của máy mà chưa xoá tin nhắn, danh ba, hình ảnh, đăng xuất icloud,... Như vậy thông tin các thứ trong đt có bị rò rỉ vào tay người mua k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.807203,
+         "id": "736506",
+         "field_search": "question",
+         "question": " cho e hỏi máy bị treo itunes thì lm thế nào mong anh chỉ e cách sửa gấp đc ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.705202,
+         "id": "830881",
+         "field_search": "question",
+         "question": "Em và người thân đang xài cùng icloud nên h danh bạ của e có vài số điện thoại của người thân e, danh bạ của cho cùng 1 số nhưng lại hiện tên đc lưu trong một máy khác. Làm sao để k bị vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.69965,
+         "id": "1023322",
+         "field_search": "question",
+         "question": "Cho e hỏi là e đang dùng chiếc iphone6 dạo gần đây e k biết máy e bị sao. E tắt hết 3G và cả wifi e chỉ nghe nhạc thôi nghe được gần 1 tiếng thì máy e nóng bất thường cà hao pin rất nhanh là sao thế ạ? Mong được câu trả lời!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.682354,
+         "id": "930845",
+         "field_search": "question",
+         "question": " E dùng máy iphone 4 nhưng e quên mất mật khẩu giờ e ko biết làm thế nào mong ad giúp đỡ e với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.638226,
+         "id": "995406",
+         "field_search": "question",
+         "question": "ip của e dính icloud bây giờ e gắn sim vào xài dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.611935,
+         "id": "652084",
+         "field_search": "question",
+         "question": " Bị vô hiệu hoá tài khoản iCloud là như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.586802,
+         "id": "819207",
+         "field_search": "question",
+         "question": "Ad ơi em bị treo cái nick icloud cũ của em em quên( mật khẩu và câu hỏi Email) rồi bị khóa un giờ em tạo lại cái icloud mới mà em hông cách nào đăng xuất icloud cũ ad chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.582314,
+         "id": "1157933",
+         "field_search": "question",
+         "question": "add ơi cho e hỏi : e quên mk fb, giờ e muốn lấy lại bằng sđt nhưng nó ko hiện lên phần gửi mã mà nó chỉ hiển thị phần email nhưng e ko đăng kí email thì làm thế nào ạ.  E cảm ơn !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.570044,
+         "id": "1149267",
+         "field_search": "question",
+         "question": "E có mua bản quyền win 10 của thế giới di động, giờ e mua 1 máy khác của thế giới di động và lấy lại key trên máy cũ để cài lại vào máy mới được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.53233,
+         "id": "1139426",
+         "field_search": "question",
+         "question": "E mới mua cái j8 nhưng đănh kí tài khoản samsung icloud không bây giờ phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.500755,
+         "id": "1158225",
+         "field_search": "question",
+         "question": "Cho e hỏi giờ e muốn đổi máy khác cùng là a7 do máy e dg sử dụng bị tụt pin nhanh và hay nóng máy và điện thoại của e vẫn còn thời gian 1 đổi 1 ạ và nếu đổi có mất phí k ạ mong đk câu tl sớm nhất ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.49139,
+         "id": "986128",
+         "field_search": "question",
+         "question": "Cho e hỏi là em không làm gì nhưng apple lại gửi mã xác minh về điện thoại thì có phải là đang có người cố vào icloud của em không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.442293,
+         "id": "1018316",
+         "field_search": "question",
+         "question": "E có 2 câu hỏi muốn được giải đáp tường tận  ạ:1 là Máy của e là j3 2016 mua được tầm 2 năm. Hiện tại sử dụng thì thấy hiện tượng giật lag. Không biết làm sao để khắc phục tình trạng này ạ?2 là nếu như lúc trước e mua máy cũ với giá 3.990.000d thì nếu như muốn đổi máy mới với giá 4.990.000d thì e phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.436235,
+         "id": "875614",
+         "field_search": "question",
+         "question": "tại sao tài khoản icloud của em khi đăng nhập vào icloud.com trên máy tính thì đăng nhập được còn ở điện thoại lúc chạy lại phần mềm thì nó lại ghi là không thế kích hoạt bằng email này . admin biết là do cái gì không ạ.Mong addmin cho e câu trả lời sớm nhất.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.435703,
+         "id": "834360",
+         "field_search": "question",
+         "question": " M muốn trở về phiên bản cũ của máy iphone 4s thì phải lm thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.418062,
+         "id": "912789",
+         "field_search": "question",
+         "question": "Anh chị ad cho e hỏi là lúc e lên ios 10.1.1 thì có bị hỏi mật khẩu của icloud không ạ. E quên mất mật khẩu icloud mà lại định nâng lên ios 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.417461,
+         "id": "790139",
+         "field_search": "question",
+         "question": "a/c cho e hỏi, e đang dùng ipad 2 16G, mới mua ng khác, mà e bị Icloud cứ 1 phút hiện lên đăng nhập id, mà e ktra thì icloud tắt giờ e muốn đăng xuất phải lm sao or giảm hiện lên màn hình đăng nhập ID icloud ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.401512,
+         "id": "991885",
+         "field_search": "question",
+         "question": "cho em hỏi,em có mua máy cũ iphone 6 quốc tế, nhưng em ko tạo tài khoản icloud được do icon icloud trong phần cài đặt bị mờ nên ko bấm vô được, vậy làm sao để em có thể xóa tài khoản icloud cũ trước đó để lập tài khoản mới cho em được ạ? hướng dẫn em tạo tài khoản icloud mới đi ạ, e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.387718,
+         "id": "1148940",
+         "field_search": "question",
+         "question": "Máy e là a3s mà bây giờ có thể chỉ cho e các bước làm thế nào để xóa ảnh cửa hàng chủ đề thay bằng ảnh của mình được không . e cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.359768,
+         "id": "1136438",
+         "field_search": "question",
+         "question": "Cho e hỏi: máy điện thoại Nokia 5 của e sau khi tắt nguồn và khởi động lại thì điện thoại yêu cầu mã Pin. Mà e không biết mã Pin. Vậy cho e xin cách khắc phục ạ.E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.345901,
+         "id": "840066",
+         "field_search": "question",
+         "question": "điện thoại iphone 5s e vừa bị mất vài hôm, e có cài đặt tk va mk icloud nhưng e không cài mk màn hình, e vào tim ip bi mất thi báo là ngoại tuyến, e có báo chế độ mất va khoá từ xa, nhưng báo lệnh sẻ đươc thực hiên khi máy co kết nối mạng..máy e giờ đã thuê bao. Vậy cho e hỏi: trường hợp của em thì người ăn cắp đó có thể làm gi với máy e? và e có thể có cơ hội tìm chuộc lại máy k ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.313196,
+         "id": "1135030",
+         "field_search": "question",
+         "question": "Cho e hỏi là e lỡ nghịch cho mấy tệp anhr vào chế độ an toàn bây h tìm lại mãi k thấy đâu e có xem hướng dẫn tìm lại bảo là vài trình quanr lý tệp nhuwg máy oppo a71 này e k tìm thấy trình qly ấy ở đâu bayh e lm nt đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.286188,
+         "id": "1145198",
+         "field_search": "question",
+         "question": " máy tính của e k lm sao mà k báo pin yếu, giúp e vs ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.27377,
+         "id": "891858",
+         "field_search": "question",
+         "question": "Không Thể Backup Icloud..e xai con ip6 ạh.cuối năm 2015 do icloud đã đầy nên e k back up đuọc nữa..e xoá photos vài những apps k cần thiết va xoa hết tất cả sao lưu cũ k giữ lại gì cả..kiểm tra lại thì icloud dư hơn 3GB.sau đó e sao lưu thì lại k dc.vẫn để thông báo icloud k đủ dung luọng..đợi đến bây giờ update lên ios10 sao lưu vẫn k dc luôn ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.255293,
+         "id": "923636",
+         "field_search": "question",
+         "question": "ad cho mình hỏi mình tìm mk icloud bằng câu hỏi bảo mật nhưng mình trả lời ngày sinh sai nhìu lần giờ k còn chỗ tìm mk bằng câu hỏi nữa chỉ còn email. mà tk icloud tạo trực tiếp trên đt nên email icloud mình k bk mk.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.221771,
+         "id": "996320",
+         "field_search": "question",
+         "question": "cho e hỏi, khi e gửi máy ra TGDD bảo hành và e đã nhận được biên nhận bảo hành, hẹn e 10 ngày sau. nhưng phần III giá trị sản phẩm bảo hành ghi ra số tiền và e muốn biết là phần đó e phải trả hay sao. e không hiểu cho lắm phần đó. máy e vẫn còn trong thời gian BH là nửa năm nữa ạ.cho e câu tl, e xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.209568,
+         "id": "935563",
+         "field_search": "question",
+         "question": "Ad ơi. Vì mã apple gửi mã xác nhận cho e nó lâu rồi. Nhưng lại nằm trong thư mục spam. Nên e k biết.. bây giờ e mới thấy thì kích hoạt vào thì đường link đã hết hạn. Bây h em phải làm gì để lấy lại mã xác nhận vậy ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.200766,
+         "id": "917319",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại e là ip 5s nhưng tài khoản icloud của e bị khoá và k nhận đc thư để kích hoạt lại . Vậy e có thể nâng lên ios 10 không ? E sợ đến lúc đăng nhập nỏ hỏi tài khoản icloud và bị khoá lun",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.196148,
+         "id": "1158648",
+         "field_search": "question",
+         "question": "Tgđd cho e hỏi. Máy e mua tgđd là máy oppo a3s bản 32gb. Trước đó phần nhân bản ứng dụng nhân bản dc zalo. Nhưng h tự dưng lại k dc. E hỏi tại sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.190016,
+         "id": "951373",
+         "field_search": "question",
+         "question": "E hơi dốt về ip các bác cho e hỏi bị thế này là bị thế nào ạVân tay của e không nhậy mấy hôm qa e có xoá bỏ vân tay cũ đi đặt lại vân tay mới nhưng mà k được đặt gần xong ùi thì nó cứ chạy lại từ đầu nên giờ e gí vào vân tay nó k chạy nữa là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

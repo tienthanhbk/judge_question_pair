@@ -1,0 +1,809 @@
+{
+   "id_query": "998849",
+   "total": 29435,
+   "total_current": 100,
+   "max_score": 74.635826,
+   "origin_question": "Đt e là samsung j5prime để từ tối đến sáng hụt 16 pin v có bt k ạ",
+   "hits": [
+      {
+         "score": 74.635826,
+         "id": "998849",
+         "field_search": "question",
+         "question": "Đt e là samsung j5prime để từ tối đến sáng hụt 16 pin v có bt k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.817625,
+         "id": "1004798",
+         "field_search": "question",
+         "question": "Arbutus AR3 Plus  để chế độ sáng max đèn luôn sáng 1h hết 17 pin là bt k hả a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.844107,
+         "id": "1023587",
+         "field_search": "question",
+         "question": "E mua đt iphone 6 chưa đc 1 tháng nhưng mà đt để qua đêm lại bị hao hụt pin mặt dù đã tắt tất cả các ứng dụng cho e hỏi tai sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.523691,
+         "id": "996601",
+         "field_search": "question",
+         "question": "Iphone 6s để qua đêm mất bị tụt pin có sao ko ạ Cái iphone của e tối còn 11h tối còn 62% sáng sáng ra 7h30 sáng còn 57% thế có sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.408466,
+         "id": "1007306",
+         "field_search": "question",
+         "question": "mình mua ip7 tại tgdd cũng được 1 tháng.mấy ngày hôm nay, cứ để đt từ tối tới sáng là bị tụt mất 10-12% pin.vậy có phải pin đt mình bị lỗi rồi ko? mình đã tắt hết các app và để chế độ tiết kiệm pin rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.918879,
+         "id": "1156849",
+         "field_search": "question",
+         "question": "Làm sao để tăng độ sáng đèn pin trên Samsung A7 2018 vậy? Đèn Pin của mình tối quá.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.771336,
+         "id": "1007821",
+         "field_search": "question",
+         "question": "E đang dùng đt samsung j5(6). Từ trước nay e cắm tai nghe vào máy vẫn nghe nhạc bt mà từ hôm qua tới giờ mỗi lần cắm tai nghe ấy vào là đt tự sập nguồn hoặc bị đơ. Rút tai nghe ra máy lại bt. Thế là thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.68063,
+         "id": "1014428",
+         "field_search": "question",
+         "question": "  Ad ui. Cho e hỏi. Đt e bị v. K sửa để v sài lun có s k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.53529,
+         "id": "852818",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao máy mobiistar kool lite khi để vậy không dùng thì lại xả pin nhanh, từ 9h tối đến 6h sáng nó mất gần 20% pin(máy mới mua), cho em hỏi là pin có bình thường không hay do tác động gì đó không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.176495,
+         "id": "1005430",
+         "field_search": "question",
+         "question": "Mình mới mua điện thoại j5 prime được 15 ngày. Mà sao điện thoại mình để qua đêm từ 11 giờ tới 6h sáng k bật wifi 3g mà xuống tới 16% pin lận vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.1125,
+         "id": "1149955",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng con Samsung J7 Prime, thời gian gần đây điện thoại nó hay tụt pin, ví dụ như tối 80% sáng dậy chỉ còn 57%, v điện thoại e có bị gì không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.9997,
+         "id": "998084",
+         "field_search": "question",
+         "question": "Chào anh chị samsung j5 qrime để từ 22h đến 6h sáng tụt 25 % pin đã tắt hết ứng dụng chạy ngầm và kết nối dữ liệu vậy có ổn ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.909962,
+         "id": "1158490",
+         "field_search": "question",
+         "question": "Sao realme c1 có hiện tượng là để sạc từ tối khi tới sáng lại mở nguồn không lên vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.578186,
+         "id": "837830",
+         "field_search": "question",
+         "question": "Tình hình là e xài mạng mobi sáng nay vào facebook vẫn bt nhưng từ trưa thì không vào được nữa mặc dù vẫn có 3g hay lên mạng vẫn bt a chị giúp e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.396753,
+         "id": "1157767",
+         "field_search": "question",
+         "question": "Cho em hỏi đt Realme C1 tối e dùng bình thường đt hết pin sạc qua đêm sáng mở không lên. Em có lấy đt khác gọi qua vẫn nghe đổ chuông nhưng đt em vẫn không hiển thị là bị sao vậy ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.331966,
+         "id": "1158969",
+         "field_search": "question",
+         "question": "Chào Ac ạ , e có mua samsung A7 được 3 tháng đến nay nâng cấp lên androi 9.0 thì pin tụt rất nhanh ạ , E sạc 100% pin tắt hết ứng dụng chạy ngầm , giảm độ sáng tắt wifi , không sử dụng để sau khoảng 4 tiếng thì mất 40% pin máy thì nóng . Thì phải làm sao ạ , mọi khi em sạc đầy tắt đi  ( 7h đến 16h30 )sáng đến chiều k dùng tiêu tầm 6% pin thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.013222,
+         "id": "1161645",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là xiaomi redmi 6 , dạo gần đây sạc pin vô rất lâu , từ tối tới sáng chỉ được 50 là bị gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.992863,
+         "id": "1013412",
+         "field_search": "question",
+         "question": "Máy mình dùng là samsung j7 prime. Bị rơi vào nước. Mình sấy xong. Mở lên vẫn hoạt động bt. Nhưng vệt nước đọng trong màn hình. Và mình điều chỉnh độ sáng k đc. Pin tiêu hao rất nhanh. Như thế thì bị làm sao v ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.957554,
+         "id": "996402",
+         "field_search": "question",
+         "question": "Pin đt ss j7 2015 hụt pin nhanh. Tới mức 15  là tự cúp nguồn lí do s vậy ạ. Mong được hỗ trợ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.835232,
+         "id": "1002645",
+         "field_search": "question",
+         "question": "cho em hỏi samsung j7 k hỗ trợ 4G ,nhưng mà sim e là sim 4G vậy nên ,e sử dụng mạng có bt k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.707424,
+         "id": "1018661",
+         "field_search": "question",
+         "question": "Samsung galaxy a9pro của mình màn hình tự động sáng tự động tối mà trong khi đó mình k để chế độ tự động là làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.592264,
+         "id": "824799",
+         "field_search": "question",
+         "question": "Ad cho e hỏi với ạ. Máy e sạc pin hơn 2 tiếng có sao khong. Lúc sạc thì cục sạc hơi nóng. Dt thi ngủ qua đêm bị hụt pin VD như 15% sáng dậy còn 7% nz có s k a? Máy e còn bảo hành e có thế mang ra sửa dc k a? Máy e ip 5s. E cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.474627,
+         "id": "1013331",
+         "field_search": "question",
+         "question": "E đi học 6 tháng k đc sử dụng đt, như vậy đt e có bị chai pin k ạ, có cách nào để khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.41726,
+         "id": "854890",
+         "field_search": "question",
+         "question": " Cho em hỏi em xạc iPad Air 2 từ 7h tối đến 6h sáng thì máy có bị sao koNgày nào em cũng thế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.349733,
+         "id": "1017310",
+         "field_search": "question",
+         "question": "E dùng ip 5s,vao buổi sáng thì tải úng dụng từ appstore bình thường. Đến chiều thì tốc độ tải chậm hỏn và đến tối thì hoàn toàn không tải được nữa. Giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.335957,
+         "id": "797163",
+         "field_search": "question",
+         "question": "e muốn hỏi e đang dùng ip , tối trc khi đi ngủ e đã sạc đầy 100% pin nhưng sáng ngủ dậy thì chỉ còn có 43% trng khi e đã tắt hết các ứng dụng, k 3g, k wifi. Lý do là vì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.333754,
+         "id": "1142050",
+         "field_search": "question",
+         "question": "Bạn ơi ss a6 sạc bao lâu thì đầy vậy bạn mình sạc từ 9h30 tối đến 6h30 sáng thì dầy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.237795,
+         "id": "1157880",
+         "field_search": "question",
+         "question": "e đag dùng rea, mà qua dùng bthg lme c1 đk hs 3 tháng mà qua dùng vẫn bthg tối đi ngủ e sạc pin đến sáng nay dạy ko thể nào khởi động nguồn lên được là sao thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.055016,
+         "id": "965162",
+         "field_search": "question",
+         "question": "Em mới mua con ASUS core i5-62000U,tên nó là DESKTOP-SD3LBC8 đang chạy win10.. hôm qua em có cắm sạc để sạc pin từ chiều đến tối rồi quên rút sạc để đến sáng nay... lúc nãy rút sạc ra thì bật máy không lên,khi em cắm sạc vô thì máy lên và hoạt động bình thường,cho em hỏi vậy là máy bị lỗi pin hay bị gì ạ...Vì mới mua đầu tháng 3 nên em có thể đem ra TGDĐ để trực tiếp chỉnh máy hay không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.042686,
+         "id": "1023637",
+         "field_search": "question",
+         "question": "Cho e hỏi cách nào chép danh bạ từ đt ip4 sang đt samsung bật nắp dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.019766,
+         "id": "1157628",
+         "field_search": "question",
+         "question": "em mới mua máy ssa50 em ko để tự động chỉnh sáng tối màn hình mua về được hôm thì nó cứ nháy sáng tối liên tục hôm thứ 2 thì nó bị giảm hết độ sáng và em kéo sáng hết cỡ nó vẫn tối om kể cả nếu em có để auto sáng màn hình thì lúc đó em đứng ngoài trời nó cũng ko thể kéo tối hết cỡ thế được ( thanh kéo sáng tối thì vẫn max độ sáng mà màn hình vẫn tối om ) và em cảm thấy cam trước có vấn đề nó cứ chậm châm dealey kiểu gì ý. cho em hỏi là có ai bị giống em ko và thi thoảng mới bị thì mang ra chỗ bảo hành ngta test có ra luôn ko vì bt chẳng sao cả cứ thi thoảng mới bị mua máy từ hôm bắt đầu cho bán mà thấy buồn quá vì máy mới hầy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.835676,
+         "id": "996234",
+         "field_search": "question",
+         "question": "Bữa tối pin iPhone 89 bữa sáng còn 85 thì có sao không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.793974,
+         "id": "1131793",
+         "field_search": "question",
+         "question": "Cho e hỏi đt cũ của e bị bể e thay đt mới cũng hãng samsung luôn. Em nhớ tk samsung account của máy cũ thì e vào có thấy hình ảnh máy bên kia còn trong samsung cloud nhưng k sao lưu đc. Vậy làm sao để lưu hình về lại v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.774345,
+         "id": "1024322",
+         "field_search": "question",
+         "question": "Em dùng samsung galaxy j5. Khi chiều em có bị đổ nước gần đt. Nhưng k bị dính đt nhiều. Hiện tại thì nếu em khóa màn hình thì không khóa được màn hình vẫn sáng ngay màn hình khóa. Hoặc tắt ròi thì lát lại sáng lên. Có khi đang xài thì lại tắt tối và lại sáng trở lại. Cho em hỏi là đt em đang gặp vấn đề thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.700146,
+         "id": "1164048",
+         "field_search": "question",
+         "question": "Gần đây đt e sạc pin hơi lâu đầy ạ. E sài đt oppo f1s có phải là do sài lâu r nên tuổi thọ pin giảm nên là sạc lâu vô k ạ. Nếu thay pin thì có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.594631,
+         "id": "995220",
+         "field_search": "question",
+         "question": "cho e hỏi , e đang dùng đt samsung j7 prime mới mua 6 tháng nhưng xuống pin rất nhanh! sáng 19% ko sử dụng gì cả và đóng hết ứng dụng cũng như độ sáng ở mức thấp nhất, nhưng đến trưa xuống còn 2%.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.506783,
+         "id": "1157994",
+         "field_search": "question",
+         "question": "ad ơi e đang sài samsung a6+.có cập nhật phiên bản mà điện thoại nó thông báo.chạy từ 2h chiều đến 8h tối logo nó vẫn đứng.khác phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.48698,
+         "id": "876004",
+         "field_search": "question",
+         "question": "cho e hỏi. Em dùng ip 5s, thường thì lúc sạc từ 2h-2h30 là pin đầy nhưng dạo gần đây sạc khoảng 1h30 là pin lại dừng đến 68%, e rút ra rồi sạc lại pin mới chạy bth. Cho em hỏi như v là bị sao ạ??? Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.410559,
+         "id": "995762",
+         "field_search": "question",
+         "question": "Các anh cho e hỏi e dùng iphone 4 mà ngày nào e cũng dùng kiệt pin r ms sạc k bt như thế có hại pin k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.395647,
+         "id": "997764",
+         "field_search": "question",
+         "question": "Xin chào ạ. E xài j5prime ạ. Bình thường khi e xạc pin sẽ đt sẽ hiện đèn led màu đỏ . Vậy mà tự nhiên bây giờ em xạc lại không có nữa ạ. Cho e hỏi nó như vậy là tại sao vậy ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.32852,
+         "id": "1165865",
+         "field_search": "question",
+         "question": "Điện thoại từ 3tr đến 4tr có loại nào pin tốt sạc nhạnh k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.259892,
+         "id": "876027",
+         "field_search": "question",
+         "question": "cho e hỏi. Em dùng ip 5s, thường thì lúc sạc từ 2h-2h30 là pin đầy nhưng dạo gần đây sạc khoảng 1h30 là pin lại dừng đến 68%, e rút ra rồi sạc lại pin mới chạy bth. Cho em hỏi như v là bị sao ạ??? Em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.102903,
+         "id": "1015737",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, mình đang dùng đt samsung J5 prime. Vừa qua con mình có nghịch đt cài mã khóa nhưng sau đó không nhớ pass, mình đã ra thế giới di động hỗ trợ và đã mở đc khóa. Nhưng từ hôm đó đến nay đt mình hao hụt pin một cách nhanh chóng kể cả khi không sd bất cứ chức năng gì. Mong ad giải đáp thắc mắc này giúp. Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.099068,
+         "id": "1021620",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi chút ạ.Đt e đang dùng là ip6. Bt e nghe gọi vẫn bt nhưng gọi video qua mesenger(gọi bt vẫn nghe đc nhưng gọi video lại k nge) thì người bên kia k nghe e nói gì. E đã kiểm tra trong cài đặt micro e đã mở rồi nhưng vẫn k được. Cho hỏi đt e bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.065918,
+         "id": "996856",
+         "field_search": "question",
+         "question": "Add ơi điện thoại e là sámung j2 prime tối nay e gọi đt qua messenger mà bỗng dưng camera tối sầm E sang chế độ chụp ảnh xwm sao thì sáng bình thường vậy máy e bị j ạ E gỡ mesenger rồi e cài lại vẫn thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.033537,
+         "id": "1022655",
+         "field_search": "question",
+         "question": " em mua sạc này thì sạc khoảng bao nhiêu là đầy ạ? e sạc từ 3h chiều đến 10h tối mà chỉ hiện đèn nhấp nháy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.992796,
+         "id": "1007557",
+         "field_search": "question",
+         "question": "Điện thoại của mình hãng Asus, gần đây app này hay báo rằng Bộ nhớ Phương tiện đang làm tốn pin điện thoại. Mình mới nạp đầy từ sáng, không động vào điện thoại mà đến tối nó đã báo hết pin. Có cách nào khắc phục không ạ? Mình cảm ơn trước.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.984158,
+         "id": "1022866",
+         "field_search": "question",
+         "question": "J7 prime của em để qua đêm thường bị tụt từ 3 đến 5 còn ban ngày kh bị tụt vậy đt em có bị chai pin kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9468155,
+         "id": "908223",
+         "field_search": "question",
+         "question": "Ad cho e hỏi.e dùng đt ip 6. Nhìu khi có cuộc gọi đến đt vẫn đổ chuông nhưng màm hình tối đen. K hiện người gọi .cuộc gọi zalo cũng tương tự",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.934434,
+         "id": "742238",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPhone 5s 16GB, bình thường sử dụng nghe gọi lướt web thì từ sáng đến khoảng 10h đêm là hết pin. Hôm qua mình sử dụng để gọi điện trên Line bằng 3G thì chỉ được 2 tiếng là pin giảm từ 99% xuống còn 18%, như vậy có phải là pin của mình bị hư rồi không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.925597,
+         "id": "1144273",
+         "field_search": "question",
+         "question": "Cho mình hỏi là oppo f9 có cảm biến tiệm cận không v, mỗi lần mình gọi là đt cứ sáng mãi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.838436,
+         "id": "779235",
+         "field_search": "question",
+         "question": "AD ơi! cho em hỏi ở đây có bán pin iPhone 5 không ạ! pin em đang dùng từ 50% hụt xuống nhanh lắm ạ! pin ảo hay sao ý ! mong admin giả thích hộ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.802775,
+         "id": "1134905",
+         "field_search": "question",
+         "question": "CHO EM HỎI LÀ DT MUA ĐC 16 NGÀY R E MUỐN ĐỔI TỪ SS J6+ SANG OPPO S3S CÙNG GIÁ THÌ CÓ ĐC K Ạ HAY PHẢI BÙ TIỀN NHƯ THẾ NÀO Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.764433,
+         "id": "1134522",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi e đang dùng con sony xperia x bản chính hãng hình pin trai hay mà mau hết pin quá v cho e hỏi v sony này có pin độ k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.731979,
+         "id": "1022428",
+         "field_search": "question",
+         "question": "Thông số cục sạc của oppo mirror 5 là bao nhiêu. Từ bao nhiêu V đến bao nhiêu V",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.702882,
+         "id": "1153045",
+         "field_search": "question",
+         "question": "Ad cho e hỏi sao máy samsung j4 thông báo hay tin nhắn tới màn hình không sáng v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.668039,
+         "id": "1165527",
+         "field_search": "question",
+         "question": "E đax có cmnd và blx. E 19t.đã có công việc ổn định. V có mua trả góp đt dc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.535776,
+         "id": "789782",
+         "field_search": "question",
+         "question": "Em xài iPhone 5s. Hum qa e bị tắt màn hình, gọi vẫn đổ chuông mà màn hình vẫn đen thui, e thử gọi mấy lần vẫn như z? Lúc đó e vẫn bật wifi, đang onl fb và zalo, màn hình đen ko lên nhưng vẫn có chuông nhận thông báo. Sáng nay e ms biết cách mở sáng màn hình lại. Vậy tối hqa đến giờ đt e vẫn bật mạng đến lúc mở lên, z đt e có thể bị sao ko ạ??? QTV tư vấn giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.475746,
+         "id": "1133680",
+         "field_search": "question",
+         "question": "Mik đang xài iphone 8 plus sau khi cập nhật lên ios 12 thì thấy hao pin hơn nhiều Pin mik buổi tối là 85% tới sáng chỉ còn có 76% mặc dù mik ko sử dụng đến Mong ad phản hồi thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.462082,
+         "id": "1006510",
+         "field_search": "question",
+         "question": "em muốn mua pin cho galaxy V, chỉ một mình pin thôi. có pin nào dành cho galaxy V k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.448658,
+         "id": "1153697",
+         "field_search": "question",
+         "question": "cho em hỏi em vừa mới mua đt samsung a7 tại tgdd mà không biết máy có bị lỗi hay kh mà em để đt qua đêm trong tình trạng máy còn  20 mấy phần trăm mà đến sáng nó lại bị tắt nguồn 0 phananf trăm là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.414673,
+         "id": "1134416",
+         "field_search": "question",
+         "question": "Cho e hỏi đt e dùng là ss j2 prime hết pin sập nguồn e cắm sạc vào nó lên màn hình khóa nhưng vuốt để mở lại bị đứng màn hình. E tắt đi khởi động lại nhưng k ăn thua. Nó cứ sáng màn hình suốt e ấn nút tắt màn hình k đc. Sạc lâu nóng máy mà k đầy pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.270186,
+         "id": "1142454",
+         "field_search": "question",
+         "question": "iphone 6s của em mua của một người bạn. đt có đầy đủ chức năng như đt bt nhưng em kiểm tra imei thì lại hiện lên 1 dòng chữ màu đỏ. v đt e bị làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.264637,
+         "id": "931421",
+         "field_search": "question",
+         "question": "AD cho em hõi em bị như hình dưới là bị gì ạ hồi tối còn xài bình thường vừa đến sáng mỡ lên thì bị như vậy và giá sữa chữa là bao nhiêu ạ , laptop cũa e là Asus G75vw",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.262656,
+         "id": "999063",
+         "field_search": "question",
+         "question": "E mua trả góp vào ngày 16 tháng trc, vậy tháng này e trả tiền theo tháng vào ngày 16 có dc k.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.245267,
+         "id": "576009",
+         "field_search": "question",
+         "question": "cho e hỏi asus zefon 5 e mua về thì e xài có cảm giác pin bị trôi đi rất nhanh...trong vòng 1 buổi sáng e nhắn tin đúng 1 lần và để đến trưa thì đã mất 5%...còn chơi game thì trong vòng 5 đến 10p thì mất tới 30% pin......cho e xin hỏi đấy là do pin của máy hay pin e bắt đầu bị chai pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.134779,
+         "id": "1160398",
+         "field_search": "question",
+         "question": "Em dùng đt oppo a3s . Đt của em bỏng dưng màn hìn tối đen hk mở sáng lên được. Nhưng sim găn trong máy lại gọi được. Là lỗi dì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.115112,
+         "id": "997715",
+         "field_search": "question",
+         "question": "cho e hỏi pin của đt samsung g530 có giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.054158,
+         "id": "1158723",
+         "field_search": "question",
+         "question": "Cho e hỏi ạ. Đt e là hãng SamJ4+, vì e mới mua nên lúc sạc pin màn hình đt vẫn ở chế độ sáng với giao diện. Giờ e muốn tắt chế độ giao diện đó lúc sạc pin thì phải làm s???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.047057,
+         "id": "1008478",
+         "field_search": "question",
+         "question": "Điện thoại của mink là samsung j5 prime khi ko dùng tắt wifi rồi để siêu tiết kiệm pin mà tối 50% sáng còn dưới 10% Điện thoại như vậy là bị làm sao akCó cách nào khắc phục koMink còn đặt lại cài đặt gốc rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.036854,
+         "id": "1158727",
+         "field_search": "question",
+         "question": "Máy e samsung J5Prime lúc trước chỉ cần gắn dây cáp sạc vào máy tíh là có thể chia sẻ dữ liệu với máy như USB nhưg nay khi gắn vào chỉ còn tác dụng như dây sạc k thể chia sẻ dữ liệu, có cách nào khắc phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.958945,
+         "id": "1011385",
+         "field_search": "question",
+         "question": "1 giờ 20phut  hao hụt 10 pin khi sử dụng facebook vậy thì pin ổn không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.940392,
+         "id": "858277",
+         "field_search": "question",
+         "question": " Cho mình hỏi là iphone 4s của mình mới sạc đầy pin lúc tối nhưng tới sáng chưa sử dụng mà nóng máy với hết pin là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.927299,
+         "id": "1145080",
+         "field_search": "question",
+         "question": " Ac cho e hỏi là mây Samsung j4 giảm 800k từ ngày 101 đến bao giờ thì hết khuyến mại ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.901046,
+         "id": "1162939",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại của mình là samsung A3 2016, mặc dù đt không làm gì, để yên thì lâu lâu ại tự động sáng màn hình mặc dù không có thông báo hay gì cả. Giúp mình cách khắc phục lỗi này nhé vì nó làm ảnh hưởng đến lượng pin quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.823589,
+         "id": "828826",
+         "field_search": "question",
+         "question": "Ip 5s e mua ở tgdd đc hơn 1 tuần. Lúc đầu chơi game bt k sao. Gio e chơi game n cứ bị thoát ra ạ? Ip của e vẫn để iOS 9.2.1 như từ lúc mua chứ k nang cấp gì cả?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.820143,
+         "id": "1152392",
+         "field_search": "question",
+         "question": "ac cho e hỏi pin BL4U Pisen có sử dụng đc cho đt nokia 301 k. e thấy cục pin zin của nó cũng để BL4U",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.809022,
+         "id": "1158841",
+         "field_search": "question",
+         "question": "6s plus của mình phát wifi 30’ sụt pin từ 72% xuống còn 21 . sau khi tắt nguồn đi bật lại thì lại tuột tiếp từ 21% xuống 8% khi mình đi bộ về đến nhà trong quá trình đó mình cũng bật wifi liên tục , pin của mình bị chai 17% với lại máy mình là máy chính hãng mua được 4 năm rồi liệu sụt pin nhanh có phải chỉ là do pin hay là cả do main đã hao hụt ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.781433,
+         "id": "1150155",
+         "field_search": "question",
+         "question": "Sao samsung j8 của e không có bokel v add làm sao để có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.697918,
+         "id": "1004604",
+         "field_search": "question",
+         "question": "Ad em có con SS Smg360h 4.4.4 em up lên android 6.0 thì nó rất ổn và oke nhưng tắt màn hình nó chưa có hoàn toàn tắt mà chỉ sáng mờ mờ để qua đêm thì từ 100% sáng dậy thấy còn có 5x % rất là hao pin Nó sáng mờ mờ lúc d đầu e cx ko thấy khi tắt đèn đi ngủ thì em thấy cái gì sáng sáng mà cx ko để ý là cái dt nó sáng Cứ sáng thế này thì ai chịu nổi để qua đêm mất số lượng lớn % pin thế thì chịuAd giúp em vớiP/s nó chỉ sáng mờ mờ đen đen xám xám thôi chứ ko có sáng lắm để qua đêm mất nhiều % lắm ad Mog ad duyệt bài cx như đưa ra cái kết quả giùm e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.685452,
+         "id": "1161619",
+         "field_search": "question",
+         "question": "Cho em hỏi em có chiếc samsung s8 xài cũng hơn 1 năm rồi ạ đến nay em nó bị lỗi độ sáng ( em kéo giảm độ sáng gần cuối hoặc cuối nó k bị và kéo đến thanh cao nhất nó cung k bị ) nhưng khi em kéo ở mức giữa hoặc gần giữa độ sáng thì nó bị nhoè màn hình màu xanh lá ạ rất khó chịu . Cho em cách để fix nó lại được k ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.682202,
+         "id": "1011895",
+         "field_search": "question",
+         "question": "Mình xài samsung j5 prime, cho mình hỏi, sạc điện thoại qua đêm có sao k ạ, hay khi pin đầy đt sẽ tự động ngắt? Và mỗi tháng nên xả pin, để hết sạch rồi sạc đầy, có đúng k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.621065,
+         "id": "823370",
+         "field_search": "question",
+         "question": "Ip4s mình cứ sạc đầy ko làm gì để im vậy mà từ sáng tới chiều là nó tụt hết 100% pin . cho mình hỏi nó bị pin hay nguồn ạ . nên thay gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.594951,
+         "id": "1166898",
+         "field_search": "question",
+         "question": "buổi tối mình sạc pin đt (SS A50 mới mua chưa đc 1 tháng) vẫn thấy hiện sạc nhanh 22%, xong để kệ đi ngủ, sáng 5h cầm điện thoại lên thì ko thấy sáng, ấn bật nguồn cũng ko đc. mình mang ra đổi lấy máy mới đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.526939,
+         "id": "1005435",
+         "field_search": "question",
+         "question": "Máy mình Sony Xperia M5 mới xài 2 tháng, tắt wifi, không chạy bất kì ứng dụng gì, từ 12h đêm đến 6h sáng tụt 23%pin. Cầm máy lên lướt mạng sơ sơ 15p tiếp theo, giảm sáng màn hình tối đa tụt tiếp 10%. Muốn đem đi bảo hành mà ngại rã máy quá. Rồi cũng không biết có đảm bảo là sẽ cải thiện hơn không...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.481573,
+         "id": "1006228",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoạii em khôi phục cài đặc gốc xong em để qua đêm hụt pin kinh khủng em kiểm tra dùng pin thì 90% dùng cho hệ điều hành android là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.481573,
+         "id": "1006219",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoạii em khôi phục cài đặc gốc xong em để qua đêm hụt pin kinh khủng em kiểm tra dùng pin thì 90% dùng cho hệ điều hành android là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.479631,
+         "id": "876900",
+         "field_search": "question",
+         "question": "cho e hỏi là khi e bật voiceover của iphone 5 lên mà màn hình bị tối đen không hiện lên thì phải làm sao ạ. chụp ảnh màn hình vẫn kêu. người gọi đến nhạc chuông vẫn có nhưng tại sao màn hình lại không sáng. mà từ khi e bật voiceover lên thì màn hình mới thế ạ. xin cho e  biết là tại sao lại như vậy và cách khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.445552,
+         "id": "1010049",
+         "field_search": "question",
+         "question": "Em mún mua pin obi v em có thể nhờ tgdd đặt giúp e dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.444999,
+         "id": "1023137",
+         "field_search": "question",
+         "question": "Add cho mình hỏi. Mình mua cái máy samsung tab A6 từ ngày 2/9/17, máy đổi trả, sau về mở máy lên hay có hiện tượng máy bị tối màn hình, lúc sáng lúc tối là bị ji vậy, tắt rồi mở lại thì màn hình cứ như zay hoài.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.342812,
+         "id": "852194",
+         "field_search": "question",
+         "question": "E mới mua lap acer aspire z1402 30ba i3 5005u/4gb/500gb dùng siêu nhanh hết pin, chỉ lướt web bt mà khoảng 50' là hết pin, e muốn hỏi nhanh hết pin như vậy là do pin chỉ là 3cell hay là có lý do khác ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.328885,
+         "id": "1014477",
+         "field_search": "question",
+         "question": "Ad cho e hoi bên mình có bán pin cho đt lenovo A7000 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.297969,
+         "id": "1000755",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi máy mình ip6s plus. Mình để máy nơi bàn chẳng dùng đến nhìn lại thấy màn hình sáng,lúc đó phải bấm nút nguồn mới tắt. Mà mình cũng k bật chế độ đưa iphone lên là sáng. Thế mà bị từ lúc mua đến giờ bị vài lần rồi đấy. K biết máy mình có bị làm sao ko nữa. Đang lo lắng. Mong ad phản hồi. Thank's!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.2777605,
+         "id": "1152918",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại ip7 plus em mua tính tới hôm nay là được 1 tháng mà pin còn 99 mà sao từ tối qua là sạc thấy pin vô rất chậm nhưng khi đầy rút ra thì điện thoại hơi ấm ấm mà pin bị tuột trong khi đó e kiểm tra tắt mạng tắt ứng dụng mà vẫn còn bị admin cho e hỏi v có thể đem rA tgdd gửi về hãng nếu bị hư bin mà còn bảo hành thì em có tốn ji k ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.26296,
+         "id": "833508",
+         "field_search": "question",
+         "question": "ĐT e vừa mua ở tgdd hàng đổi trả E dùng vấn bt nc ks nhưng e gọi video call messigger thấy mặt nhau nhưng lúc e nói đầu dây bên kia lại k nghe thấy e đang thắc mắc ĐT e có bị hỏng gì k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.227933,
+         "id": "815293",
+         "field_search": "question",
+         "question": " Em dùng đt Wing V50 mà mỗi khi Zalo có tin nhắn thoại đến thì e lại k thể nào nghe được. Làm sao để khắc phục đây ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.11514,
+         "id": "1006650",
+         "field_search": "question",
+         "question": "Thay pin iphone 6 plus nhiêu tiền v ạ ? Có lấy luôn dc k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.11201,
+         "id": "1000043",
+         "field_search": "question",
+         "question": "Cho em hỏi tầm 14 ngày trước đt của em bị hư và e có mang đến cửa hàng gần nhà để sửa , em vừa lấy về cách đây vài phút và người sửa lại bảo \" tại cục sạc hư về đổi cái mới đi \" . sạc hư gì mà sửa tới 10 mấy ngày bh nói nv mà từ lúc lấy đt về pin nc tuột rất nhanh e sạc ntn cũng k vào pin , sạc bằng mọi loại sạc đều k vào pin thì bh e phải ntn . e đang rất giận vì cách làm việc của nhân viên cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.091472,
+         "id": "996228",
+         "field_search": "question",
+         "question": "ảnh, chị cho e hỏi... ngày 15/06 e có đem đt samsung galaxy j2prime G532 Gold đến bảo hành.. tối nai e vẫn chưa nhận được thông tin gì về tình trạng bảo hành của máy e... cho e hỏi máy e bảo hành s r ak...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.0675535,
+         "id": "1005432",
+         "field_search": "question",
+         "question": "Cho tôi hỏi sam sung s8 thời lượng sử dụng pin liên tục trong bao nhiêu jo vậy, tôi thấy ss s8 dùng nhanh xuống pin, sạc đầy 100% pin tu 11h đêm đến sang k dung j sáng còn lại 86%, như thế pin có bình thường không. Mong có câu trả lời từ các bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,809 @@
+{
+   "id_query": "1142443",
+   "total": 20012,
+   "total_current": 100,
+   "max_score": 100.12707,
+   "origin_question": "Làm sao để chỉnh góc trái iPad thành chữ ipad, wifi về trái, giờ về chính giữa như bình thường dược ? ",
+   "hits": [
+      {
+         "score": 100.12707,
+         "id": "1142443",
+         "field_search": "question",
+         "question": "Làm sao để chỉnh góc trái iPad thành chữ ipad, wifi về trái, giờ về chính giữa như bình thường dược ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.435287,
+         "id": "1142440",
+         "field_search": "question",
+         "question": "Cho hỏi làm sao để chỉnh lại góc trái ipad như bình thường?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.87089,
+         "id": "801686",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tôi vừa mới mua iPad mini 2 được 20 ngày, Khi tôi vào một ứng dụng nào đó, xong tôi dùng 5 ngón tay vuốt lên để cho iPad về màn hình chính thì man fhình lại bị trắng toàn màn hình chỉ có mỗi trái táo khuyết ở giữa, như vậy iPad của tôi có hư sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.798534,
+         "id": "855064",
+         "field_search": "question",
+         "question": "Tại sao ảnh facebook lại để avt của mình ở góc chứ lại không để ở giữa. Trước kia của mình ở giữa. Nhưng sau khi cập nhật lại ở góc trái. Đăng nhập nick khác thì nick đó lại avt ở giữa. Còn của mình thì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.426931,
+         "id": "870020",
+         "field_search": "question",
+         "question": " Ipad khi chơi game bị nóng bên trái có sao k ạ admim ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.60179,
+         "id": "1023462",
+         "field_search": "question",
+         "question": "  cho mình hỏi zenphone 5 bị 3 dòng chữ đỏ bên góc trên bên trái màn hình làm sao tắt được zậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.076288,
+         "id": "863665",
+         "field_search": "question",
+         "question": "Laptop của mình, mỗi lần mình click chuột trái vào file nó hiện ra bảng propeties, bàn phím đánh chữ cũng ko được luôn, chuột phải vẫn hoạt động bình thường, làm sao bây giờ, giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.450457,
+         "id": "1142183",
+         "field_search": "question",
+         "question": "E dùng huawei y5 II, e bật 3G lên bình thường hiện chữ H+ nhưng bây giờ nó chỉ hiện chữ E, cho hỏi muốn chuyển về chữ H+ thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.14648,
+         "id": "1022718",
+         "field_search": "question",
+         "question": "điện thoại j1 2016 của e hiển thị chế độ an toàn dưới góc trái của màn hình, e không thể mở được các ứng dụng tải về như zalo, messenger và nhiều ứng dụng khác nữa, như vậy là máy e bị làm sao ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.095427,
+         "id": "754698",
+         "field_search": "question",
+         "question": "iPad của em bị rơi xuống nước và khi bật lên thì không sử dụng nút home được, qua hôm sau thì bật lên chỉ thấy trái táo cứ lên rồi tắt rồi thấy chữ, em không biết phải làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.831783,
+         "id": "883595",
+         "field_search": "question",
+         "question": "Cho em hỏi là: cách đổi phông chữ để đọc word tren ipad pro 9.7. Vì e nhận tài liệu từ email về ipad thì khi mở văn bản đó lên chữ không đọc dc. Vậy e phải làm cách nào ạ. Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.726732,
+         "id": "1017106",
+         "field_search": "question",
+         "question": "Em đanq định mua iPad nhưng ko biết nên mua giữa iPad wifi 2017 hay iPad air 2 ạ. Cho em ý kiến với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.280834,
+         "id": "764829",
+         "field_search": "question",
+         "question": "Em muốn hỏi là sao chuột bên trái Touchpad Laptop của em lại bị thụp xuống vậy ạ ! em cũng nhấn bình thường như các loại laptop khác thôi !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.27539,
+         "id": "997034",
+         "field_search": "question",
+         "question": "ad cho mình hỏi , mình đnag sử dụng ip 6s plus khi mình tắt nút bật tắt ở góc trái . máy có tiếng kêu 2 lần tạch tạch không bình thường êm như dòng iphone khác vậy liệu do máy có vấn đề không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.196184,
+         "id": "781833",
+         "field_search": "question",
+         "question": "laptop của mình lúc mới mua về bắt wifi bình thường . nhưng bây giờ bắt wifi rất kem. các bạn cho mình hỏi phải làm thế nào để khắc phục tình trạng này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.021921,
+         "id": "996964",
+         "field_search": "question",
+         "question": "Em mới mua cái Galaxy A5 2017 ngày 21/6. Do ko cẩn thận làm rớt bị trầy chớt góc trên bên trái màn hình và góc dưới bên trái bị nứt. Nếu được đổi lại em phải bù bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.013552,
+         "id": "753777",
+         "field_search": "question",
+         "question": " Iphone 5S  đang xài bình thường màn hình tự nhiên đen thui . Cắm sạc trái táo cứ nhái nhái là sao vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.61567,
+         "id": "880650",
+         "field_search": "question",
+         "question": " ipad có nghe gọi như điện thoại bình thường được hay không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.601423,
+         "id": "750273",
+         "field_search": "question",
+         "question": " Làm sao để phát wifi trên ipad air 2 ios 9.1 . Ipad của em không có  điểm truy cập cá nhân .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.98763,
+         "id": "768117",
+         "field_search": "question",
+         "question": "ipad em mỗi lần nhấn vào facebook là màn hình tối đi , rồi hiện lên biểu tượng trái táo như khởi động lại máy , em xóa đi tải lại nó vẫn như vậy, máy em bị như vậy là sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.912086,
+         "id": "795436",
+         "field_search": "question",
+         "question": " Cho em hỏi sao laptop của em bấm vào nút start ở góc trái màn hình sao không được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.87839,
+         "id": "1149871",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em làm sao k về đc màn hình chính giữ nút nguồn vẫn hiện lên bình thường xiaomi redmi 4x",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.511328,
+         "id": "995411",
+         "field_search": "question",
+         "question": "Cái tai nghe mình có được bảo hành miễn phí k? Bên loa phải k nghe thấy mà bên trái nghe bình thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.448627,
+         "id": "1133673",
+         "field_search": "question",
+         "question": " cho em hỏi cách tắt cái cung tròn trên góc trái màn hình này trên xiaomi redmi note 4 đi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.320906,
+         "id": "889728",
+         "field_search": "question",
+         "question": "Cho hỏi tại sao trên Ipad đang chạy iOS mới nhất lại bị lỗi gạch chân như thế này ạ? Có chữ bị gạch chân, có chữ không? Chỉ riêng trong Messenger Facebook thôi à, Zalo và Viber, SMS thì bình thường, em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.309029,
+         "id": "806433",
+         "field_search": "question",
+         "question": "mình đang dùng ios 9.0.2 trên iPhone 5. Trước mình chụp ảnh bằng camera trước vẫn bình thường nhưng nay mình dùng chụp ảnh xong lưu thì ảnh bị đảo chiều trái phải. Làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.110434,
+         "id": "815870",
+         "field_search": "question",
+         "question": " Ipad loại wifi không nhét được sim có thể tải ứng dụng Instagram về, up ảnh không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.096209,
+         "id": "1165520",
+         "field_search": "question",
+         "question": "Làm thế nào để chỉnh sửa thanh điều hướng của Samsung J6 trở về như lúc ban đầu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.029182,
+         "id": "766105",
+         "field_search": "question",
+         "question": "Cho em hỏi em tải camera 360 về iPad nhưng trên màn hình iPad nó không hiện cái biểu tượng của app camera 360 phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.022617,
+         "id": "916444",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn tắt âm camera trên iPhone 7 plus làm sao? Mình đã gạt thử nút bên trái cho nó về chế độ im lặng rồi ma chụp vẫn nghe kêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.886984,
+         "id": "1165576",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi mình dùng 6s, hiện tại máy mình cứ dùng được 1 chút là góc trái dưới bị đơ không bấm được (các điểm khác dùng vẫn bình thường). Tuy nhiên tắt màn hình đi rồi bật lại luôn thì mọi thứ lại bình thường. Một lúc sau lỗi lại xảy ra như cũ. Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.865631,
+         "id": "808754",
+         "field_search": "question",
+         "question": " iPad của mình bị vô hiệu hóa, trên màn hình xuất hiện chữ kết nối với iTunes giờ phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.806585,
+         "id": "1162903",
+         "field_search": "question",
+         "question": "Em sử dụng samsung s6 thường. Tự dưng màn hình có màu sác lạ (như trong hình) ở góc bên trái. Để khoảng chục phút thì màu lan dần ra cả màn hình. Và giờ là điện thoại em bật lên đen xì rồi. Nhưng cảm ứng vẫn không làm sao. Cho em hỏi là điện thoại của em bị gì và phải sửa như thế nào vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.704548,
+         "id": "1148791",
+         "field_search": "question",
+         "question": "ad máy tính sài win 10 bị như hình làm sao để đưa về giao diện chính của win 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.645332,
+         "id": "770275",
+         "field_search": "question",
+         "question": " máy Samsung N5  chuyển từ viết số sang viết chữ như bình thường trong Viber phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.612104,
+         "id": "792278",
+         "field_search": "question",
+         "question": "Em đang xài iphone nhưng mà hình em bị bong mặt kính lên một xíu khỏi viền nhựa bên trái. Bây giờ phải làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.552336,
+         "id": "831371",
+         "field_search": "question",
+         "question": " cho hỏi iPad mini WiFi model A1455 là iPad mini CDMA , iPad mini GSM hay iPad mini WIFI ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.46946,
+         "id": "763320",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính của em bây giờ xem phim trên mạng hay tải về máy đều xem không đươc vậy phải làm sao để máy bình thường lại được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.40839,
+         "id": "1161347",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi làm sao thay đổi vị trí đồng hồ từ góc trái sang phải ( nằm cùng vị trí % pin, cột mạng) trên điện thoại ss note 9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.40242,
+         "id": "896406",
+         "field_search": "question",
+         "question": "Ipad e sử dụng bình thường khi tải bản cập nhập ios10 về thì máy có tình trạng bắt sóng wifu yếu cho e hỏi lí do và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.361862,
+         "id": "761732",
+         "field_search": "question",
+         "question": "Mình có mua 1 iPad mini ở TGDĐ tự nhiên loa ngoài của mình không nghe đc nhưng khi cấm tai nghe vào thù nghe bình thường. Cho hỏi máy mình bị gì vậy? Làm sao để trở lại bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.353817,
+         "id": "928827",
+         "field_search": "question",
+         "question": "  Cho em hỏi iphone 4 hiện giao diện tớ làm cách nào để cho về bình thường ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.303074,
+         "id": "1158249",
+         "field_search": "question",
+         "question": "xin chào bạnmình có mua máy nokia 6.1 plus của bên hãng nhưng bị treo máy  hiện  chữ download mode ở bên trái màn hình. vậy bây giờ mình cần làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.91741,
+         "id": "902271",
+         "field_search": "question",
+         "question": "file word gửi trên messenger bình thường vẫn tải về điện thoại được giờ sao nó ko cho tải hiện lên thế này giờ phải làm sao? Mình dùng J5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.862516,
+         "id": "1015670",
+         "field_search": "question",
+         "question": " Ad cho hỏi làm sao để chỉnh Đồng hồ về dạng 0956 được ạ? Hiện tại giờ và phút đang ở 2 dòng xấu quá  Thanks Ad  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.856812,
+         "id": "811923",
+         "field_search": "question",
+         "question": "Em mới được chị tặng cái iPad air 2, mà lỡ mua bản 4G, em thì không có nhu cầu sử dụng, có thể tắt dòng 'Không có SIM' mà thành iPad như bản Wifi được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.782402,
+         "id": "777025",
+         "field_search": "question",
+         "question": "Tôi có cái iPad mini 2 wifi, bị vỡ kính màn hình, cảm ứng vẫn còn bình thường. Không biết thế giới di động có nhận sữa chửa không? iPad này của người bạn nước ngoài cho tôi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.719885,
+         "id": "828037",
+         "field_search": "question",
+         "question": "Bình thường em xạc iPad Air 2 xong là 92%......em coi phim gần 20 phút mà ko hết 1% là sao.....Vậy iPad em có bị j hong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.678919,
+         "id": "1007697",
+         "field_search": "question",
+         "question": "Ipad air2 của mình không nhận wifi gia đình .phải làm sao đây add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.614706,
+         "id": "780587",
+         "field_search": "question",
+         "question": "Mình đang cập nhật ios 9.2.1 về máy ipad của mình nhưng đang tải thì bị cúp wifi và mình còn tắt bớt máy ứng dụng cho đỡ nặng máy và xoá luôn cài đặt khi đang tải về, thế có bị sao không ?Khi đó cài đặt không thành công vì không đủ pin mà số pin đó mình dùng để chơi game, làm thế có bị hỏng hóc gì không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.596981,
+         "id": "863988",
+         "field_search": "question",
+         "question": " Tôi muôn hỏi,1 khi video được tại về ipad air thi nó nằm ở đâu,tôi tìm hoài không thấy. Hay la ipad k cho phép tải về ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.490147,
+         "id": "1149788",
+         "field_search": "question",
+         "question": "vì sau khi chụp ảnh trên Nokia 6.1 Plus có dòng chữ NOKIA ở dưới trái của ảnh chụp, cách tắt chức năng này và cài vào ngày+ giờ chụp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.468672,
+         "id": "884174",
+         "field_search": "question",
+         "question": "Tôi muốn tải phần mềm gọi về ipad của tôi nhưng không tìm thấy được ipad của tôi là 4.2.2 giúp tôi lf sao tải được phần mềm nghe và gọi trong ipad 4.2.2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.449669,
+         "id": "936731",
+         "field_search": "question",
+         "question": "Cho em hỏi: cái iPad 4Có phải khi đặt lại-->> xóa nội dung và đặt lại cài đặt gốc thì iPad e sẽ trở về như là mới k? Có phải giống như iPad em bị người khác cài k cho vào wifi của người đó, nếu e cài lại là có nghĩa e đã xóa thông tin mọi thứ của iPad và em có thể vào dc wifi người đó đúng k? Em muốn tìm cách thay đổi giống như là IT hay ID j đó của máy..Em cảm ơn :))",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.36589,
+         "id": "896984",
+         "field_search": "question",
+         "question": " vì sao lại có cái bảng màu tím phía dưới góc hiên lên ạ ??? lúc trở về màn hình chính cũng có luôn!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.352077,
+         "id": "1021466",
+         "field_search": "question",
+         "question": "Ipad new 2017 wifi làm sao kiểm tra mua ở TGDĐ vì ko có imei ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.34754,
+         "id": "1160302",
+         "field_search": "question",
+         "question": "Cho e hỏi ký hiệu kế bên wifi là gì v...làm s để tắt nó...e xài ipad wifi 2018 nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.316504,
+         "id": "926164",
+         "field_search": "question",
+         "question": "cho em hỏi. zalo của em vẫn dùng được bình thường như ở trang cá nhân hiện lên dòng chữ : tài khoản bị khóa . bây giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.268082,
+         "id": "1149790",
+         "field_search": "question",
+         "question": "vì sau khi chụp ảnh trên Nokia 6.1 Plus có dòng chữ NOKIA ở dưới trái của ảnh chụp, cách tắt chức năng này và cài vào ngày+ giờ chụp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.235945,
+         "id": "884622",
+         "field_search": "question",
+         "question": " Ko lưu dược hình ảnh trên phaybok về máy. Ko tải dược hình ảnh trên tin nhắn về máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.203293,
+         "id": "759888",
+         "field_search": "question",
+         "question": " Vậy sau khi cài đặt xong icloud thì thoát khỏi cài đặt, về màn hình chính bình thường hả bạn. Cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.13405,
+         "id": "1163495",
+         "field_search": "question",
+         "question": "Ace ktv ơi cho mình hỏi là tắt tính năng này của ssj7prime ntn với ạ! Cứ vuốt góc dưới đt bên trái hay phải là nó hiện lên như v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.133863,
+         "id": "994992",
+         "field_search": "question",
+         "question": "Mình mua ipad ở dmx nhưng về kt hàng thì phát hiện hàng ko phải la hàng phân phối chính thức ở Việt Nam!? Tại sao lại bán hàng xách tay?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.122633,
+         "id": "841896",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 5s của e nhấn vào 2 góc màng hình trên thì bên trái nhịp hơi nhẹ còn bên phải phát ra tiếng kêu luôn thì có sao kg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.048927,
+         "id": "806195",
+         "field_search": "question",
+         "question": " Khi nào thì TGDĐ điều chỉnh giá Iphone Ipad mới lại vây? Mình đang chờ điều chỉnh để mua sản phẩm Apple.. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.034353,
+         "id": "1013409",
+         "field_search": "question",
+         "question": "cho hỏi tại sao khi tôi rê chuột cảm ứng thì lại tăng zoom giảm zoom vậy? còn chuột trái bấm không ăn mà đổi chức năng khác, chuột phải bình thường. Là chuột cảm ứng Laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.011202,
+         "id": "1151928",
+         "field_search": "question",
+         "question": "Tại sao mình xài samsung J6+ mà mình chụp được chế độ lấy nét động nhưng không chỉnh sửa được các hiệu ứng trái tim hay ngôi sao ở hậu cảnh vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.99877,
+         "id": "582054",
+         "field_search": "question",
+         "question": " Làm sao để kiểm tra xuất xứ của Iphone  Ipad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.901806,
+         "id": "1145939",
+         "field_search": "question",
+         "question": "Sao trên ipad của mình hiện 3 đốm trắng vậy shop. Xài vẫn bình thường, không biết xuất hiện khi nao. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.817837,
+         "id": "758771",
+         "field_search": "question",
+         "question": " Facebook em bị gì thế ạ  , đăng nhập trên máy tính vẫn bình thường mà sao trong iPad lại không được?     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.81398,
+         "id": "836925",
+         "field_search": "question",
+         "question": "máy ipad mình down trên wed về thành công nhưng tới khi bấm vào thì nó để cần phải xác mình ứng dụng khi mình vào xác minh ứng dụng thì nó bảo cần kết nối mạng để xác minh , trong khi đó là wifi nhà mình vẫn bth có thể lên Safari :( . mong ad giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.789278,
+         "id": "1008449",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏiĐiện thoại samsung galaxy j3 của e bị rơi, rồi ở bên dưới góc trái màn hình hiện chế độ an toàn. Thì bây giờ e phải làm sao để nó không hiện nữa ạ ? E khôi phục cài đặt gốc vs tắt nguồn và khởi động lại vẫn không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.71114,
+         "id": "916295",
+         "field_search": "question",
+         "question": "E mua ip 7 plus màu hồng về dùng bình thường nhưng sao cái 3d touch nó không ổn ạ. Ví dụ như chat bong bóng e không mở được. Hay điều chỉnh độ sáng của đèn pin chỗ control cũng không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.68854,
+         "id": "921158",
+         "field_search": "question",
+         "question": "Tớ dùng Iphone 4 thường đời đầu tẢi UC browser về máy rồi nhưng cứ mở ra là nó lại quay về màn hình chính , thế là bị làm sao vậy ạ ??????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.634829,
+         "id": "777879",
+         "field_search": "question",
+         "question": " iPad tôi mới mua mà mở ứg dụg thấy cái đốm đỏ ở giữa màn hình là sao?????? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.562155,
+         "id": "1018592",
+         "field_search": "question",
+         "question": "cho mình hỏi nếu macbook được xách tay từ mỹ về thì có cần mở khóa như iphone, ipad ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.495699,
+         "id": "811722",
+         "field_search": "question",
+         "question": "Màn hình ipad 2 của tôi không vuốt nơi trượt để mở khóa được nhưng vẩn sử dụng phím home ảo bình thường và duy chuyển khắp màn hình. Như vậy ipad của tôi có bị liệt màn hình không? Hay do lỗi cài đặt. Mong sự giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.471203,
+         "id": "800754",
+         "field_search": "question",
+         "question": "Máy mình là iPad 2 , hôm trước mọi thứ vẫn bình thường, hôm nay vào youtube, zing mp3, ko phát được , những cái có sẵn thì vẫn xem được, đến wifi khác thì vào OK. Máy mình bị gì vậy, mình phải làm sao để máy sử dụng được wifi nhà đây?? Rất mong nhận được giải đáp thắc mắc, cám ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.459774,
+         "id": "752215",
+         "field_search": "question",
+         "question": "Cho hỏi tại sao mình tải ứng dụng về bình thường nhưng k...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.454062,
+         "id": "1021199",
+         "field_search": "question",
+         "question": "tôi sử dụng điện thoại oppo f3, lúc trước tải nhạc mp3 về vẫn lưu trên máy bình thường, nhưng bây giờ không lưu được, vậy làm sao khắc phục được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.416594,
+         "id": "856760",
+         "field_search": "question",
+         "question": " iPad iPad 3rd generation WiFi  Cellular A1430, có dùng 3G được ko bạn ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.339111,
+         "id": "833199",
+         "field_search": "question",
+         "question": "e mới mua ipad mini. Về thì kết nối wifi lướt web xem video bình thuờng nhưng khi tải app từ appstore thì rất chậm có vài chục mb mà cả tiếng k xong. Kết nối wifi nhà khác thì tải bình thuờng. Con samsung e kết nối wifi nhà e thì tải bình thuờng. Vậy cho e hỏi đây là lỗi gì ạ và cách khắc phục đc k???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.331274,
+         "id": "770565",
+         "field_search": "question",
+         "question": " Làm sao để update ipad 3 lên phần mềm ios của Apple? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.286839,
+         "id": "1144769",
+         "field_search": "question",
+         "question": " Iphone mở nguồn hiện trái táo rồi tắt. khắc phục sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.207504,
+         "id": "1158480",
+         "field_search": "question",
+         "question": "Mình mới mua một chiếc ipad gen 6 bên cửa hàng. Về xem mã máy là za/a thì máy có phải máy chính hãng không ạ. Hay cứ phải vn/a mới chính hãng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.16333,
+         "id": "803397",
+         "field_search": "question",
+         "question": " Hỏi về iPad mini 1 iOS 9 có xuống được iOS 7 không add ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.143335,
+         "id": "883365",
+         "field_search": "question",
+         "question": "mình mới sắm con asus X555UJ tại nguyễn thị minh khai ngày 2/9 , mình tải unikey thì dùng bình thường trên web , mình sử dụng trên app facebook trên win 10 thi nó bị lỗi là sao ? VD : mình đánh chữ : \" cầm\" thì nó thành chữ \" cmầ\" như vậy là nó bị làm sao vậy ad??????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.062523,
+         "id": "896571",
+         "field_search": "question",
+         "question": "Máy mình không có iCloud, và mình đã tải iTunes về máy tính, đăng nhập vào Itunes. Nhưng khi mình cắm máy vào thì máy hiện lên dòng chữ \"To allow access, please respond on your iPad\" và load mãi. Cho hỏi phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.044727,
+         "id": "1010616",
+         "field_search": "question",
+         "question": "Hôm qua mình có đặt cọc 500.000 để mua điện thoại Oppo F3 đỏ. Nhưng nay mình muốn đổi thành mua chiếc Ipad mini 4 thì có được hoàn cọc để mua ipad không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.999994,
+         "id": "818192",
+         "field_search": "question",
+         "question": "Cho mình hỏi Ipad Mini 2 Wifi (loại không nhét được sim) có thể tải ứng dụng Instagram, Facebook về đăng nhập và up ảnh, viết bài không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.973558,
+         "id": "781876",
+         "field_search": "question",
+         "question": "Cái ipad air 2 em mua hồi năm ngoái sài vẫn bình thường nhung hôm qua em để sạc qua đêm đến sáng em dậy thì thấy ipad không sạc được 1% em chơi còn 19% rồi sạc mà sáng dậy nó vẫn còn 19% là sao anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.970646,
+         "id": "763776",
+         "field_search": "question",
+         "question": " Làm sao để xoá hoàn toàn một ứng dụng trên iPad mini ios? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.96383,
+         "id": "876911",
+         "field_search": "question",
+         "question": "máy mình mấy hôm gần đây xuất hiện hiện tượng góc trái màn hình bị đen lại. khoảng 4 lần. 3 làn đầu bị đen như thế, mình tắt nguồn khởi động lại thì lại sáng bình thường. tôi hôm qua mình vẫn dùng bình thường,sạc đủ 100% pin rút xạc để đến sáng hôm nay vẫn không bị tụt pin. tuy nhiên sáng nay mình phát hienj máy lại bị đen góc trái màn hình, mình lại tắt nguồn rồi khở động lại nhưng không mất phần đen màn hinh, đồng thời pin của máy hiamr nhanh, không dùng cũng tụt pin xuống còn 0% và sập nguồn, mình xạc vào thì lên pin rất lâu. màn hình vẫn bị đen và máy rất nong. điện thoại của mình iphone 6 plus nên bình thường pin dùng đc lâu và k bị nóng . Các bạn tư vấn giúp mình xem ntn ạ. Trời mưa bão nên chưa thể qua thế giwois di động trục tiếp được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.9093,
+         "id": "802226",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi laptop của em á hôm bữa bạn em mượn lở bấm làm sao mà hôm nay em kết nối wifi lại không như bình thường được giờ em phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.901087,
+         "id": "771240",
+         "field_search": "question",
+         "question": " Bên Thegioididong.com có thu mua lại iPad không vậy, iPad Mini 1 WiFi 16GB? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.771713,
+         "id": "1016994",
+         "field_search": "question",
+         "question": "Tại sao samsung galaxy j5 prime tải về bản cập nhật chậm dù mạng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.738445,
+         "id": "992707",
+         "field_search": "question",
+         "question": "Ipad của em không có tính hiệu thẻ sim bây giờ phải làm sao  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.694113,
+         "id": "1008332",
+         "field_search": "question",
+         "question": "Chào các ad. Máy em iphone 5s. Em dùng messenger facebook sao em vuốt sang trái để xoá tin nhắn hết được rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.668406,
+         "id": "1021607",
+         "field_search": "question",
+         "question": "Em bị quên mật khẩu ipad thì làm sao để lấy lại được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.665297,
+         "id": "1003571",
+         "field_search": "question",
+         "question": "máy mình bị vỡ mặt kính góc trái màn hình cho mình hỏi ở thế giới di động có hỗ trợ thay mặt kính ip6 ko và giá thay là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

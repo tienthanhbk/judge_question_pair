@@ -1,0 +1,809 @@
+{
+   "id_query": "1000918",
+   "total": 22617,
+   "total_current": 100,
+   "max_score": 94.144196,
+   "origin_question": "Cửa hàng thegioididong ở thị xã quảng yên, quảng ninh có iphone 6 32gb màu vàng k ah ?",
+   "hits": [
+      {
+         "score": 94.144196,
+         "id": "1000918",
+         "field_search": "question",
+         "question": "Cửa hàng thegioididong ở thị xã quảng yên, quảng ninh có iphone 6 32gb màu vàng k ah ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.719643,
+         "id": "808721",
+         "field_search": "question",
+         "question": " ở quảng ninh có cơ sở nào còniPhone 5s trắng 64 hoặc 128gb hàng dùng rồi không ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.15292,
+         "id": "1007307",
+         "field_search": "question",
+         "question": "Iphone 5s có màu đen ở cửa hàng thegioididong 108 lạc long quân k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.778276,
+         "id": "1136388",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn máy cũ ip7plus32g mau vang trả góp ,mà em ở quảng bình ko có màu vàng mà ở tỉnh khác vậy.. vậy bên tgdd có chuyển đơn hàng đó về bên tgdd ở quảng bình để em mua trả góp đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.977345,
+         "id": "1142026",
+         "field_search": "question",
+         "question": " vậy ở cửa hàng của đức phổ quảng ngãi có vsmart joy1 chưa ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.52701,
+         "id": "1022089",
+         "field_search": "question",
+         "question": "Mình ở Hà Nội, đang muốn mua máy theo diện đổi trả ở một cửa hàng thuộc hệ thống Thế giới di động ở Quảng Ninh. Vậy mình phải làm sao khi mà không thể đến cửa hàng đó để trực tiếp mua máy được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.427584,
+         "id": "1141636",
+         "field_search": "question",
+         "question": "cho mik hoit mua  sạc Mobell Tab 8ở đâu ạ có ở quảng ninh ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.349754,
+         "id": "1153512",
+         "field_search": "question",
+         "question": "Max pro m2 có sẩn phẩm ở Quảng Ngãi không ạ em tính ra cửa hàng mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.931103,
+         "id": "1166465",
+         "field_search": "question",
+         "question": "redmi note 7 và redmi 7 có bán ở chi nhánh thành phố uông bí, quảng ninh ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.761776,
+         "id": "835831",
+         "field_search": "question",
+         "question": " Cho em hỏi TGDĐ ở Quảng Ninh  Hạ Long có máy ip 5 hoặc 5s bản quốc tế cũ bán lại k hông ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.283358,
+         "id": "1136722",
+         "field_search": "question",
+         "question": "redmi 6 còn ở thị trấn tân sơn huyện ninh sơn tỉnh ninh thuận k v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.253952,
+         "id": "1144285",
+         "field_search": "question",
+         "question": "Nokia 3310 màu vàng, cửa hàng nào có vậy?????????????????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.986963,
+         "id": "1010963",
+         "field_search": "question",
+         "question": "Chào em hỏi ở khu vực Mộ Đức  Quảng Ngãi, cửa hàng có bán sản phẩm Sony Xperia XA ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.800745,
+         "id": "1149836",
+         "field_search": "question",
+         "question": "Tôi có việc cần trợ giúp.tôi mua máy mobell s61 tại chi nhanh tgdd thị xã quảng trị, Nhưng camara của máy rất yếu, ban đêm k thấy gì cả mặc dù điện sáng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.643625,
+         "id": "1151767",
+         "field_search": "question",
+         "question": "Chào AdminMình cần mua 1 chiếc iPhone 7 plus mà mình hiện nay đang ở tại thị xã Giá Rai, Bạc Liêu vậy cửa hàng thế giới di động tại thị xã Giá Rai có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.211979,
+         "id": "759256",
+         "field_search": "question",
+         "question": " iPhone 6 Plus vàng còn không bạn? và đang có ở cửa hàng nào. Có trả góp bằng HSBC không ?Mình ở Hà Nội ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.030708,
+         "id": "1140988",
+         "field_search": "question",
+         "question": "cho mình hỏi Samsung galaxy J8 màu vàng còn ở cửa hàng Long Thành ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.833055,
+         "id": "1163805",
+         "field_search": "question",
+         "question": "tôi hỏi khu vực TGDD ở mạo khê Quảng ninh có sản phẩm đồng hồ điện tử Mi band 3 không a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.772423,
+         "id": "749496",
+         "field_search": "question",
+         "question": " Cửa hàng thế giới di dộng ở Thái Hà đã có bản 6s plus 128gb màu vàng hông chưa ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.642975,
+         "id": "1141547",
+         "field_search": "question",
+         "question": "em muốn mua mi band 3 em ở Cẩm Trung , Cẩm Phả , Quảng Ninh. trong bao lâu em sẽ nhận đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.561502,
+         "id": "1154741",
+         "field_search": "question",
+         "question": "Sao k thay bán s10 màu xanh và mau trang nhu wed ss quảng cáo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.200262,
+         "id": "1142546",
+         "field_search": "question",
+         "question": "README C1  máy hiện tại đã có sẵng ở siêu thị chưa ạ khu vực tam kỳ quảng nam",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.087189,
+         "id": "1010885",
+         "field_search": "question",
+         "question": "e muốn hỏi .hộ khẩu chứng minh giấy tờ ng hải phòng .muốn sang bên quảng yên mua trả góp điện thoại có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.618788,
+         "id": "1138667",
+         "field_search": "question",
+         "question": " Cho Mình hỏi Điện thoại iPhone 8 64GB có màu vàng đồng ko ah ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.53016,
+         "id": "1159843",
+         "field_search": "question",
+         "question": "thegioididong cho mình hỏi, bên mình có bán iphone x màu vàng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.402222,
+         "id": "1141680",
+         "field_search": "question",
+         "question": "cho mình hỏi ở Tp. BẮc Ninh có cửa hàng nào còn iphone 8 ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.01436,
+         "id": "1143792",
+         "field_search": "question",
+         "question": "Minh ở -cao thượng -tân yên bắc giang. minh muon mua ipad wifi 32GB(2018) thì đến cửa hàng thế giới di động  nào gần nhất có thể mua dươc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.75973,
+         "id": "1143325",
+         "field_search": "question",
+         "question": "Miếng dán màng hình vsmart joy 1 có hàng ở đức phổ quảng ngãi không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.599854,
+         "id": "893714",
+         "field_search": "question",
+         "question": " Cho em hỏi trên địa bàn hưng yên siêu htij nào còn iPhone 6s bản 16gb màu vàng hồng ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.596996,
+         "id": "1141736",
+         "field_search": "question",
+         "question": "cho em hỏi là oppo f9 xanh phỉ thúy ở đại lộc quảng nam có hàng chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.56782,
+         "id": "1144630",
+         "field_search": "question",
+         "question": " Sao điênh thoại e ưa bị quảng cáo này quá v. Ở màng hình chính vẫn quảng cáo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.5529,
+         "id": "1144283",
+         "field_search": "question",
+         "question": "Tôi muốn mua đt nokia 3310 màu vàng, cho tôi địa chỉ cửa hàng có đt đó nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.535252,
+         "id": "818510",
+         "field_search": "question",
+         "question": " cho mjh hỏi mình mua iphone 6 dổi trả ở tgdd ở Ninh Bình,nhưng mình ở Bắc Ninh,có đc ko vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.252506,
+         "id": "1141257",
+         "field_search": "question",
+         "question": "Sản phẩm xiaomi redmi note 6 pro bản 32gb đã có ở chi nhanh xã quốc thái, an phú, an giang chưa ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.134361,
+         "id": "1148453",
+         "field_search": "question",
+         "question": "Cửa hàng bên mình ở huyện trực ninh nam định có máy xiaomi note 6 pro ko nhỉ. Mua dịp này có ưu đãi j ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.096928,
+         "id": "1144201",
+         "field_search": "question",
+         "question": "hệ thống cửa hàng còn iphone 6s 64gb full box k ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.642324,
+         "id": "1023669",
+         "field_search": "question",
+         "question": "j5 prime còn màu đen ở chi nhaanhs cửa hàng nào ở gò vấp k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.593195,
+         "id": "832865",
+         "field_search": "question",
+         "question": "Mình ở cẩm phả quảng ninh. Vừa qua mình có đem 1 máy iphone 6s đi bảo hành và đầu số 18001064 điện cho mình và bảo máy mình bị lỗi phần cứng và được đổi máy mới nhưng mà là vào cuối tháng 6. Mình hỏi sao thời gian đổi máy lâu vậy ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.409435,
+         "id": "746567",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy Iphone 5S hiện tại ở cửa hàng có những màu nào vậy ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.269587,
+         "id": "998503",
+         "field_search": "question",
+         "question": "Anh muốn hỏi iphone 6 32gb đến cuối tháng 8 có còn hàng ở tp hcm hay giảm giá ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.152813,
+         "id": "1140549",
+         "field_search": "question",
+         "question": "Cửa hàng tgdd bùi thị xuân có còn đt sam sung j4 màu tím không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.045952,
+         "id": "1147351",
+         "field_search": "question",
+         "question": "e mới mua huawei y6 prime đc 1 tuần nhưng máy bị giật e muốn đổi sang nova 3e thì thủ tục tnao ạ? E ở Hạ Long, Quảng Ninh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.01056,
+         "id": "793236",
+         "field_search": "question",
+         "question": " Anh ơi ở Quảng Bình có thay màn hình ipad mini2 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.004753,
+         "id": "1146388",
+         "field_search": "question",
+         "question": " máy e bật chế độ an toàn mà vẫn hiển thị quảng cáo. Chặn ntn z ad  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.970358,
+         "id": "887871",
+         "field_search": "question",
+         "question": " ủa ở đây không bán 5s màu vàng hả anh. Em đang có dự định mua 5s màu vàng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.891302,
+         "id": "778880",
+         "field_search": "question",
+         "question": " Shop cho em hỏi tý ah, Ipad Air 2 16GB màu gold còn hàng ở TP Vinh  Nghệ An k ạh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.76448,
+         "id": "770271",
+         "field_search": "question",
+         "question": "A check hộ E imel 35 207006 298146 6 là của qt hay lock ạ,máy E màu vàng,nó bảo thay vỏ rồi nhưng E ko yên tâm lắm,có phải máy dựng ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.76046,
+         "id": "1147340",
+         "field_search": "question",
+         "question": "cho e hỏi ip 7 plus màu vàng đồng còn hàng bên của hàng lê văn viêt k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.567808,
+         "id": "1001485",
+         "field_search": "question",
+         "question": "Cửa hàng mình có bán thẻ mua dung lượng cho ios k ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.50813,
+         "id": "1165592",
+         "field_search": "question",
+         "question": "J7 pro tắt quảng cáo làm sao  quảng cáo miết bực mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.413984,
+         "id": "1144878",
+         "field_search": "question",
+         "question": " Cửa hàng ở Hà Nội còn Iphone 8 màu đen không? Cho mình giá luôn nhé. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.366478,
+         "id": "995244",
+         "field_search": "question",
+         "question": "cho mình hỏi cửa hàng còn iphon 5s màu vàng không.? và giá sản phẩm bây giờ là bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.28627,
+         "id": "874200",
+         "field_search": "question",
+         "question": " Máy dell 3538 ở huyện Đức Phổ Quảng Ngãi còn không bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.25233,
+         "id": "1140195",
+         "field_search": "question",
+         "question": " có máy vsmart active 1 hàng có sẵn ko phải đặt kobản màu vàng hoặc trắng ở khu vực hà nội ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.151958,
+         "id": "1142383",
+         "field_search": "question",
+         "question": "Cửa hàng có căn chỉnh màu sắc màn hình laptop k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.077433,
+         "id": "765770",
+         "field_search": "question",
+         "question": " Cho em hỏi cửa hàng mình trong tháng 1 này có iPhone 5s Vàng không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.864124,
+         "id": "988462",
+         "field_search": "question",
+         "question": "có hàng đổi trả. bán trả góp không ạ. ip6s 32g. màu vàng nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.812338,
+         "id": "1006504",
+         "field_search": "question",
+         "question": "Bên mình có bán ĐT  Oukitel K10000 Max chưa vậy? Mình ở Tam Kỳ, Quảng Nam",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.731478,
+         "id": "1167107",
+         "field_search": "question",
+         "question": "Thay pin samsung galaxy tab A6 SMT285 ở đâu tại quảng bình ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.594242,
+         "id": "995078",
+         "field_search": "question",
+         "question": "Tôi cần mua 01 Điện thoại Lenovo K6 Power màu vàng đồng. Nhận máy tại cửa hàng Gia Bình - Bắc Ninh.LH: Nguyễn Kim ĐiềuĐT: 0933.184.368",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.586597,
+         "id": "1143865",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao đặt hàng trước mà viết tỉnh quảng bình không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.393053,
+         "id": "919758",
+         "field_search": "question",
+         "question": " Tại sao iphone SE không có màu xám vậy? chỉ thấy màu vàng đồng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.373993,
+         "id": "1003586",
+         "field_search": "question",
+         "question": "Cho e hỏi bên cửa hàng mình có sửa điện thoại không ạ. Em mua ở cửa hàng thegioididong ạ nhưng hết bảo hành rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.273136,
+         "id": "1017448",
+         "field_search": "question",
+         "question": "Chào mấy ad. Mình có 1 cái điện thoại do anh mình cho, đt mua trả góp ở thế giới di động trong quảng nam, hiện giờ mình ở thái bình và đt thì k lên màn hình, nghi hỏng màn gì đó vì bật vẫn rung. Máy còn bảo hành, mình muốn bảo hành tại thái bình có đc k hay phải gửi vào quảng nam",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.232119,
+         "id": "1153922",
+         "field_search": "question",
+         "question": "mình muốn tìm 1 chiếc điện thoại để chơi game chụp ảnh mượt giá tầm 10tr đến 12tr ở huyện gia lâm xã yên thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.208885,
+         "id": "794553",
+         "field_search": "question",
+         "question": " Cho e hỏi , ở cửa hàng mình có Jailbreak 6  9.2.1  không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.084732,
+         "id": "1138859",
+         "field_search": "question",
+         "question": "Bên cửa hàng tại địa chỉ n5 d10 mỹ phước 1 bến cát Bình Dương có xiaomi not 6 ko ah ac ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.036535,
+         "id": "1159684",
+         "field_search": "question",
+         "question": "AD cho mình hỏi về mục quảng cáo của điện thoại SamSung Galaxy M20.Mình mua cũng được hơn 1 tháng nay, xài vẫn thấy bình thường. Nhưng kể từ ngày hôm qua 8/4/2019 mình thấy trên màn hình tự động hiển thị QUẢNG CÁO.Cho mình hỏi lý do tại sao có Quảng cáo đó và có thể tắt hẳn quảng cáo đi không.? Nó rất là phiền cho mình khi sử dụng.Mong có câu trả lời sớm nhất từ AD. Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.028393,
+         "id": "798938",
+         "field_search": "question",
+         "question": " Tôi muốn thay bàn phím latop acer 4560 ở quảng bình được không.giá bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.997345,
+         "id": "1023079",
+         "field_search": "question",
+         "question": "Cho hỏi ở quảng ngãi có còn dt nokia6 ko ạ. Mới củ gì cũng được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.911837,
+         "id": "1160106",
+         "field_search": "question",
+         "question": "xin chào!Mình mới mua máy samsung A50, được 1 tuần. Máy chạy ok, mà bị chạy cái quảng cáo dưới màn hình của google quảng cáo...Kỳ lạ là ko có ứng dụng nào quảng cáo kiểu đó, cho dù tắt màn hình tối thui thì khoảng 1 -2 phút nó lại chạy quảng cáo full màn hình. Hỏi kỹ thuật bên Lê Văn Quới thì trả lời:\" do cài android 8.0 nên bị lỗi quảng cáo\"Vậy là chịu thấy quảng cáo mỗi ngày, mỗi ngày tầm 100 lần..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.901842,
+         "id": "998178",
+         "field_search": "question",
+         "question": "Cho hỏi iphone 6 32gb tới tháng 9 còn hàng ơ tp hcm ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.822115,
+         "id": "1014152",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi ngày mai em sẽ đi mua iphone 6 (32GB).nhưng em ko bít o tp hcm quận Tân Bình còn cửa hàng nào có so ko anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.760933,
+         "id": "1159517",
+         "field_search": "question",
+         "question": "bên cửa hàng mình có hổ trợ mở khóa màn hình không ạ. em sài iphone 6 plus . và em mua máy ở cửa hàng khác. em không đăng nhập icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.733274,
+         "id": "1004947",
+         "field_search": "question",
+         "question": "nokia 230 màu vàng con k Thế giới di động......................................................................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.54927,
+         "id": "782489",
+         "field_search": "question",
+         "question": " Cho em hỏi bên cửa hàng có bán hàng like new iPhone 6 16gb không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.536201,
+         "id": "1135087",
+         "field_search": "question",
+         "question": "cửa hàng còn nokia x6 bản 32GB không ạ ????????????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.530087,
+         "id": "1023716",
+         "field_search": "question",
+         "question": "Xin chào ad, cách đây khoảng 2 tháng e có đến cửa hàng mua ipad 9,7\" ver 2017, dung lượng 32gb với giá 8,9tr. Giờ cho e hỏi bên cửa hàng có thu vô k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.500568,
+         "id": "845873",
+         "field_search": "question",
+         "question": " Chào TGDđ , mình mua ip 5s tại cửa hàng cách đây 6 tháng , mình muốn bán lại cho cửa hàng có đc k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.435184,
+         "id": "1013488",
+         "field_search": "question",
+         "question": "thế giới di động ở  , Phạm Văn Đồng, Núi Thành, Quảng Nam có Bphone để trải nghiệm không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.306559,
+         "id": "1161848",
+         "field_search": "question",
+         "question": "Add cho mình hỏi là mình vừa mua máy Nokia 6.1 plus ở hệ thống của mình. Giờ máy cứ chạy quảng cáo rất bất tiện và tốn pin. Làm cách nào để có thể tắt quảng cáo đó.Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.201403,
+         "id": "1143082",
+         "field_search": "question",
+         "question": "Bên cửa hàng có mua iphone 6s plus 16gb không ạ và nếu mua thì tầm khoảng bao nhiêu ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.137802,
+         "id": "1136126",
+         "field_search": "question",
+         "question": "cho e hỏi điện thoại ip 6plus 32gb có màu xám k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.107855,
+         "id": "1013670",
+         "field_search": "question",
+         "question": "làm thế nào để tắt giới hạn quảng cáo khi bật mạng nó ẩn đi không vào được đặt lại giới hạn quảng cáo vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.09713,
+         "id": "1143782",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6, 6s bên cửa hàng còn có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.943379,
+         "id": "1137437",
+         "field_search": "question",
+         "question": "Cho mình hỏi  Samsung Galaxy S6 32GB hiện có còn ở thế giới di động trên địa bàn Vĩnh Yên/ Vĩnh Tường (tỉnh Vĩnh Phúc) không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.935575,
+         "id": "800944",
+         "field_search": "question",
+         "question": " Em muốn đặt mua iphone 5s 32g màu vàng đồng có đựợc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.932431,
+         "id": "1167258",
+         "field_search": "question",
+         "question": "Cho em hỏi chừng nào xiaomi mi 9 về thế giới di động ở khu vực quảng bình vậy shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.931435,
+         "id": "1156126",
+         "field_search": "question",
+         "question": "mik muốn mua máy realme c1 cũ giá rẻ và mik muốn ship về Khe Sanh, Quảng Trị có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.922478,
+         "id": "873496",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi cái. Các shop thegioididong ở thành phố thanh hóa còn kinh doanh sản sẩm 5s 32gb không vậy. Và ad cho em giá của các màu với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.916437,
+         "id": "862186",
+         "field_search": "question",
+         "question": " thegioididong cho em các cửa hàng của thegioididong có dịch vụ sửa chửa laptop ko ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.862633,
+         "id": "841223",
+         "field_search": "question",
+         "question": " cho em hỏi, chỗ mình có dán ngoài cho laptop ko ạ, và hết bao nhiêu, e ở quảng trị , e cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.794353,
+         "id": "1009289",
+         "field_search": "question",
+         "question": "ad cho e hỏi cửa hàng mình còn iphone 6 plus cũ bán k và giá bán bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.783995,
+         "id": "1003704",
+         "field_search": "question",
+         "question": "Cho em mua 5s màu vàng hàng tồn kho đi ạ ! Em ỡ Bến Tre nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.73266,
+         "id": "1015371",
+         "field_search": "question",
+         "question": "iphone 7 plus 128gb màu vàng giá bao nhiêu vậy shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.704327,
+         "id": "838629",
+         "field_search": "question",
+         "question": " E muốn mua con 5s 99 ở Ninh Bình có còn hàng ko? Vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.6962185,
+         "id": "1002471",
+         "field_search": "question",
+         "question": "Ac cho e hỏi iphone 5s ở cửa hàng mình có trả góp k ạ? E cảm ơn rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.683001,
+         "id": "807706",
+         "field_search": "question",
+         "question": "laptop của e mấy cái trình duyệt hay có quảng cáo. microolf edge thì tự động mở mấy trag liền toàn quảng cáo. mn có thể chỉ e cách khắc phục được ko ạ? e cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.658077,
+         "id": "781703",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua iPhone 4s ở tgdd Sao Đỏ dc khoảng 3,4 tháng về Bắc Ninh ăn tết k mang giấy tờ lúc mua theo ra tgdd ở Bắc Ninh sưả lỗi treo táo có mất phí k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.634443,
+         "id": "801973",
+         "field_search": "question",
+         "question": " e mua lap của thegioididong nhưng giờ lap của e bị hỏng sạc e có thể mua sạc ở cửa hàng không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

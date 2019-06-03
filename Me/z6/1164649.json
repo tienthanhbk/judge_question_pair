@@ -1,0 +1,809 @@
+{
+   "id_query": "1164649",
+   "total": 28921,
+   "total_current": 100,
+   "max_score": 50.19538,
+   "origin_question": "Camera của Oppo f7 bị lỗi ko kết nối đc thì phải làm cách nào ạ",
+   "hits": [
+      {
+         "score": 50.19538,
+         "id": "1164649",
+         "field_search": "question",
+         "question": "Camera của Oppo f7 bị lỗi ko kết nối đc thì phải làm cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.04393,
+         "id": "1147931",
+         "field_search": "question",
+         "question": "oppo f7 của em bị rơi xuống nước phải làm sao ạ...............",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.405039,
+         "id": "1024321",
+         "field_search": "question",
+         "question": "bên thế giới di động hiện có sửa chữa đc galaxy s3 bị lỗi ko kết nối đc wifi ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.293995,
+         "id": "831992",
+         "field_search": "question",
+         "question": " Tại sao oppo neo 7 của em hiện là bị lỗi kết nối với máy ảnh vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.229445,
+         "id": "750542",
+         "field_search": "question",
+         "question": "Em đang sử dụng máy Dell Inspiron 5547 i5 và em muốn kết nối với điện thoại qua bluetooth nó vẫn hiện lên thiết bị để kết nối nhưng vào kết nối thì không được ạ. Có cách nào khắc phục lỗi đó không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.205692,
+         "id": "785912",
+         "field_search": "question",
+         "question": " máy ARBUTUS AR5 của e bị lỗi ko kết nối được vs máy ảnh làm sao để khắc phục. phần mềm chụp ảnh nào cũng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.335299,
+         "id": "998763",
+         "field_search": "question",
+         "question": "Điện thoại ip6 của em có bị rơi. Rơi mạnh ạ. Sau đó thì ko thể kết nối được với mạng wifi . Làm ơn chỉ cho em cách khắc phục. Trạng thái máy vẫn bìh thường ạ. Chỉ k kết nối dc wf thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.275293,
+         "id": "798408",
+         "field_search": "question",
+         "question": " mình đang xài iphone nhưng khi đăng nhập vào facebook thì bị lỗi 1202 và không kết nối được giờ phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.060959,
+         "id": "1161342",
+         "field_search": "question",
+         "question": "Tôi mua đt oppo f7 cũng được vài tháng. Nay máy có hiện tương là: khi tôi sử dụng galaxy tap A6 để phát wifi cho f7 sử dụng thì máy f7 thường xuyên k có mạng (máy f7 còn biểu tượng wifi, máy tap A6 vẫn còn kết nối thiết bị; máy f7 tự out mạng wifi). Nhờ ad chỉ giúp. Thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.86791,
+         "id": "1161701",
+         "field_search": "question",
+         "question": "Mình có chiếc máy tính HP CORE 5 mang đi sửa nhưng khi về thì mình kết nối mạng nhưng ko kết nối đc chỉ có cạnh cục phát mạng thì nó mới có mạng cho mình hỏi có cách nào sửa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.851933,
+         "id": "993163",
+         "field_search": "question",
+         "question": "Hiện tại máy tính của e chạy dòng windown 8 khi kết nối vs wifj thì bị lỗi limited chỉ e cách sửa vs cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.823042,
+         "id": "828811",
+         "field_search": "question",
+         "question": "Máy mình báo là iphone bị vô hiệu hóa kết nối vs iTunes nhưng mik kết nối trên máy tính thì báo về là k tìm thấy thiết bị thì phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.769756,
+         "id": "774297",
+         "field_search": "question",
+         "question": "Máy của mình (Samsung S3) bị lỗi xác thực khi kết nối WiFi, hầu như tất cả WiFi đều xảy ra lỗi xác thực,hoặc có khi hiện chữ đang kết nối và đang tìm rồi cứ lặp lại mà không kết nối được.cho mình hỏi có cách nào giải quyết vấn đề trên không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.725698,
+         "id": "1168758",
+         "field_search": "question",
+         "question": "Mình xài samsun a50 bị lỗi lâu lâu cảm ứng không nhạy với bị lâu lâu mất kết nối wifi và blutooth cùng 1 lúc mình phải tự kết nối lại . Vậy phải làm sao đây tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.678665,
+         "id": "1160013",
+         "field_search": "question",
+         "question": "Em đang dùng Oppo f7 youth ,muốn tắt khả năng truy cập  thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.58297,
+         "id": "1155323",
+         "field_search": "question",
+         "question": "Máy asus zenfone 4 max cz520kl bị lỗi camera không vào được máy ảnh thì phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.408085,
+         "id": "1144057",
+         "field_search": "question",
+         "question": "Giờ iphone em quên mk giờ bị vô hiệu hóa kết nối itunes thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.364443,
+         "id": "844720",
+         "field_search": "question",
+         "question": " Laptop của tôi không kết nối được với chuột cổng USB thì phải làm sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.247532,
+         "id": "1146650",
+         "field_search": "question",
+         "question": "mình mới mua 1 iPhone 6s plus tại TGDĐ chưa được 1 tháng. Hôm kia đang lướt Facebook ngon lành thì Wifi tự nhiên ngắt kết nối, mình cố kết nối lại nhưng không được và bị báo sai mật khẩu (nhưng mình khẳng định 100% là không sai). Sau đó mình có thử kết nối Wifi của mấy nhà xung quanh nhưng đều không được (vẫn chắc chắn mật khẩu đúng). đến khi ra của hàng TGDĐ thì nhân viên hỗ trợ lại kết nối được Wifi ở shop và nói là Wifi nhà mình bị lỗi. Lỗi thế nào được khi mình đã thử kết nối Wifi của nhiều nhà, vậy là máy mình lỗi chứ phải không? Giờ làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.092209,
+         "id": "1160164",
+         "field_search": "question",
+         "question": "Chuột mays tinh nhà em bị hư mua chuột không dây mới nhưng chuột này chỉ kết nối với máy tính bằng máy tính đc thôi Cho em hỏi  còn cách kết nối nào khác không ạ? ( nó không có thiết bị cắm vào máy tính để kết nối )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.091927,
+         "id": "797883",
+         "field_search": "question",
+         "question": " Laptop của mình bị mất kết nối wifi. Mình phải làm sao? Xin QTV cho hướng Dẫn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.054035,
+         "id": "756172",
+         "field_search": "question",
+         "question": "  Galaxy J2 có kết nối MHL được không làm cách nào để kết nối và mua ở đâu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.000195,
+         "id": "1145210",
+         "field_search": "question",
+         "question": "cho mình hỏi. Cách khắc phục lỗi kết nối wifi cho laptop dùng win10.máy cứ dùng được 3-5p là hiện dấu chấm than hoặc tự ngắt kết nối, phải kích lại mới kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.960129,
+         "id": "1007813",
+         "field_search": "question",
+         "question": "a chị cho e hỏi. samsung galaxy j7 bị lỗi kết nối wifi đc khoảng 30s thì bị lỗi internet không sẵn dùng là sao ạ. trong khi những đt khác vẫn kết nối và vào mạng bình thường ạ. e thử resest lại modem, hkởi động lại đt, khôi phục cài đặt gốc vẫn không được. ac có thể giúp e khác phục đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.85154,
+         "id": "1161462",
+         "field_search": "question",
+         "question": "Em sử dụng vivo y91c . Cho em tại sao camera  kh sử dụng đc và nó báo là kh thể kết nối camera là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.793474,
+         "id": "1134967",
+         "field_search": "question",
+         "question": "Samsung A6 plus của mình zalo bị lỗi đang kết nối 4 ngày rồi cần khắc phục như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.721048,
+         "id": "1004935",
+         "field_search": "question",
+         "question": "Mình mới mua nova p2 đc tuần thì camera máy tự nhiên  bị đảo ngược,  k phải do cài đặt. Vậy có phải máy bị lỗi k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.688498,
+         "id": "786826",
+         "field_search": "question",
+         "question": "iPhone 5 ios 9.2.1 kết nối wifi kém quá khoảng 10m là không kết nối được chỉ nhận được tín hiệu thôi. lỗi này có phải do máy không ạ ? Và phải khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.647345,
+         "id": "940107",
+         "field_search": "question",
+         "question": "  IP 6 kết nối wifi nhập MK đúng mà bị thế này là làm sao ạ? có cách khắc phục ko ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.645954,
+         "id": "772034",
+         "field_search": "question",
+         "question": " Oppo R7 Lite không kết nối wifi được, nó bị ẩn nút kết nối ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.490402,
+         "id": "828702",
+         "field_search": "question",
+         "question": "QTV chỉ em cách khắc phục lỗi kết nối facebook cho Windows với...dù em sử dụng bất kì wifi hay 3G vẫn ko kết nối được...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.45079,
+         "id": "1001630",
+         "field_search": "question",
+         "question": "tại sao mình gọi messenger  lúc kết nối thì không kết nối được vậy ạ. như vậy là bị lỗi gì và tự sửa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.429192,
+         "id": "1158643",
+         "field_search": "question",
+         "question": "cho em hỏi ss j7 pro bị lỗi không kết nối vào mạng nên làm gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.419573,
+         "id": "938625",
+         "field_search": "question",
+         "question": "Iphone của mình mỗi khi cắm sạc thì wifi bị ngắt kết nối rồi kết nối lại luôn, cứ cách vài phút nó lại bị như thế. Trước ko chỉ khi sạc mới bị bây giờ thỉnh thoảng ko sạc nó cũng bị nhưng tần suất bị ít hơn. Vậy cho mình hỏi như thế là nó bị làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.391006,
+         "id": "888844",
+         "field_search": "question",
+         "question": "Muốn kết nối màn hình máy tính \"Samsung SyncMasterB2030\" với laptop \"Dell inspiron 3558i5 5200u\" thì phải làm thế nào ạ?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.374567,
+         "id": "1142511",
+         "field_search": "question",
+         "question": "Sony xperia z3 verizon có hỗ trợ OTG không ạNếu có thì làm cách nào để kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.369593,
+         "id": "801424",
+         "field_search": "question",
+         "question": " iPhone 5S của mình có kết nối với laptop không biết có bị nhiễm virus không? Nếu muốn biết thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.332027,
+         "id": "828392",
+         "field_search": "question",
+         "question": " sao máy mình vẫn kết nối mạng n ko vào đc messenger.lúc nào cũng báo ko có mạng,mình mới bị lúc trưa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.320398,
+         "id": "883720",
+         "field_search": "question",
+         "question": " Ad ơi! Mỗi lần mình vào Messenger là bị mất kết nối hoài ,dù wifi rất mạnh. Ad có cách nào ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.272575,
+         "id": "1001778",
+         "field_search": "question",
+         "question": "Mình có mua 1 điện thoại Samsung J7 ở cửa hang Thegioididong. Hiện giờ nó đang bị lỗi khi vào mạng wifi của văn phòng minh. Mạng wifi ở nhà thì ok nhung mạng ở văn phòng thì nó cứ kết nối rồi ngắt kết nối rồi lại kết nối. Cứ liên tục như vậy. Bạn có thể chỉ cho minh cách chỉnh được ko?Cảm ơn rất nhieuLinh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.270155,
+         "id": "888061",
+         "field_search": "question",
+         "question": "  kết nối được mà nó không hiển thị kên màn hình chị e hỏi làm cách nào để nó lại đc bình thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.211899,
+         "id": "1019284",
+         "field_search": "question",
+         "question": "ad cho em hỏiem dùng laptop dell ín n3567 vẫn có cameranhưng khi live strem nó không kết nối với camera đượcnó bị như vậy em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.197836,
+         "id": "1146766",
+         "field_search": "question",
+         "question": "Oppo f9 bị mất có cách nào lấy lại dữ liệu trên máy đc ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.191132,
+         "id": "882818",
+         "field_search": "question",
+         "question": "điện thoại của mình quên mk nên bị vô hiệu hóa,và yeu câu kết nối vs itunes. mình tải itunes về roi nhưng vẫn không được. có phải do mình tải phần mềm về máy tính sau lúc máy bị lỗi nên ko đc ko hả bạn Phạm Khải Hoàn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.098745,
+         "id": "840991",
+         "field_search": "question",
+         "question": "Em lên zalo hay các ứng dụng khác bằng 3g thì không sao cả. Nhưng khi kết nối bằng wifi thì máy lại không cho kết nối. Em sử dụg 3g thì lại kết nối được. Phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.089293,
+         "id": "997059",
+         "field_search": "question",
+         "question": "Ipad của em vừa mới nâng cấp ios, sau đó em đăng nhập vào icloud của em thì không được, máy thông báo : \"Ko thể xác minh, Đã có lỗi kết nối với máy chủ id apple\"    Có cách nào khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.070631,
+         "id": "1157954",
+         "field_search": "question",
+         "question": "cho mình hỏi cách fix lỗi wifi lúc kết nối được lúc không được cho con samsung galaxy s3 của mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.966904,
+         "id": "1144564",
+         "field_search": "question",
+         "question": " đt e tự dưng k kết nối được với Instagram thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.909851,
+         "id": "1144606",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại Samsung galaxy J5 prime, theo bên hỗ trợ thì dth sẽ kết nối được với samsung galaxy watch nhưng khi sáng nay ra tgdd thì ko thể nào kết nối được vậy do tư vấn sai hay do nhân viên ở chỗ đó không biết cách kết nối vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.869766,
+         "id": "1010687",
+         "field_search": "question",
+         "question": "Máy oppo f1s của e bị hơi nước vô camera có sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.783438,
+         "id": "1153529",
+         "field_search": "question",
+         "question": "Cho em hỏi xiaomi redmi note 7 với oppo f7 thì nào hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.728313,
+         "id": "1165383",
+         "field_search": "question",
+         "question": "cho e hỏi, e có mua tai nge bluetooth sony wi-c300, sao e không kết nối được với IP7 vậy, loa bluetooth thì e lại kết nối được, shop có cách nào kết nối không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.726215,
+         "id": "935197",
+         "field_search": "question",
+         "question": " Sao k kết nối đc app  vào cứ báo lỗi k thể vào đc k tải đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.711632,
+         "id": "1159577",
+         "field_search": "question",
+         "question": "bao giờ oppo f7 đc cập nhật android 9 ạ ffffffffff",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.697353,
+         "id": "998135",
+         "field_search": "question",
+         "question": "- cho em hỏi cái icon biểu tượng liên minh ngoài desktop nó hiện cái bảo vệ là sao ạ. nhiều lúc vào trận thì bị lỗi kết nối phải thoát rồi kết nối lại mà ra ngoài thì mạng vẫn chạy bình thường. em dùng win10 Home ạ :))",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.681707,
+         "id": "818630",
+         "field_search": "question",
+         "question": "wifi nhà em mới đặt lại mật khẩu. nhưng khi máy tính nhà em kết nối thì ko hiện ô để nhập mật khẩu. bắt wifi nhà hàng xóm vẫn bình thường. cho e hỏi đây là lỗi của mt hay lỗi cả wifi ạ? và em cần phải làm gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.657492,
+         "id": "913633",
+         "field_search": "question",
+         "question": "Làm sao đế kết nối bluetoth vs thiết bị khák. Mở bluetooth rui màk cứ để tìm kiếm hoài àk. Tìm ko ra. Dùng đt ssamsum kết nối vs iphone thì ko đk lun.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.62621,
+         "id": "809604",
+         "field_search": "question",
+         "question": "cho em hỏi là iphone của em kết nối wifi vào FB IG bth mà vào zalo lại hiện không kết nối trong khi 3G thì vẫn vào đc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.585117,
+         "id": "1153465",
+         "field_search": "question",
+         "question": "Tôi xài laptop acerTôi đã kết nối lap của mình với wifi ròi nhưng lại báo là k kết nối đc với internetVậy làm sao để sửa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.562237,
+         "id": "743734",
+         "field_search": "question",
+         "question": "Cho e hỏi với ạ. Máy e ip4s khi chụp camera sau của camerA 360 thì cứ bị đảy ra ngoài mà camera trước thì k sao. Bây giờ e phải làm sao ạ 😢😢😢😢",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.553022,
+         "id": "1021958",
+         "field_search": "question",
+         "question": "Qtv ơi cho e hỏi. Máy e đang sử dụng ios11. Nhưng tự nhiên bây h ko kết nối đc với appstore nữa. Restart, thoát icloud ko đc. Mà bây h e ko cập nhật đc bản ios mới nữa. Nó cứ bảo là up to date mà ip của e cập nhật đều đều. Có phải là lỗi của ios11 hay ko ạ. Giúp e với ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.543745,
+         "id": "993606",
+         "field_search": "question",
+         "question": "Chào tgdd,Mình đang sử dụng máy DELL mua ở TGDDHôm qua máy mình vẫn hoạt động bình thường, tuy nhiên, hôm nay bỗng nhiên wifi kết nối nhưng không hoạt động.Cụ thể là mình đã kết nối (connected), tuy nhiên vẫn bị No internet.Biểu tượng wifi phía dưới thì không bắt đc cột sóng nào (trong khi phía trên là full)Không phải vấn đề với router vì dt vẫn kết nối bình thường, mình cũng đã test trên nhiều wifi và đều bị.Xin cho mình hỏi là máy mình bị lỗi gì và cách khắc phục đc không ạ? (những cách đơn giản trên mạng mình đã thử qua nhưng không khả quan)Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.527008,
+         "id": "1134989",
+         "field_search": "question",
+         "question": "Muốn phân biệt cuộc gọi đến,đi,nhỡ trong nhât ký cuộc gọi của oppo f7 zhif làm thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.496513,
+         "id": "808754",
+         "field_search": "question",
+         "question": " iPad của mình bị vô hiệu hóa, trên màn hình xuất hiện chữ kết nối với iTunes giờ phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.48626,
+         "id": "1009293",
+         "field_search": "question",
+         "question": "mình kết nối huawei đến máy tính nhưng chỉ hiện bộ nhớ trong, không hiện thẻ nhớ thì phải làm thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.474949,
+         "id": "1159814",
+         "field_search": "question",
+         "question": "A,chị cho e hỏi e kêt nối bluetooth với một thiêt bị mà e lỡ bấm vào quên thiêt bị đó làm sao để kết nối lại thiết bị đó đc ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.474344,
+         "id": "957577",
+         "field_search": "question",
+         "question": " Mình sài dell 3558 i5 , nhưng hiện tại mình không kết nối với store dược thì phải làm như thế nào ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.453465,
+         "id": "1149095",
+         "field_search": "question",
+         "question": "Iphone8 của mình bị vô hiệu hoá kết nối itunes do quên mật khẩu. Không biết làm cách nào để delete pass hoặc ra tgdd có nhận khắc phục dùm không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.421825,
+         "id": "1151044",
+         "field_search": "question",
+         "question": "Vsmart Joy 1 của mk tắt nguồn là ko sạc đc có phải bị lỗi ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.407848,
+         "id": "1158324",
+         "field_search": "question",
+         "question": "Cho em hỏi cách chuyển dung lượng của ứng dụng hoặc game sang thẻ nhớ trên oppo a3s thì phải làm thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.40084,
+         "id": "793205",
+         "field_search": "question",
+         "question": "Minh sử dụng iphone 6, đang bình thường tự nhiên không kết nối wifi được nhưng vẫn kết nối 3G bình thường, khôi phục cài đặt gốc, nhập mật khẩu ID Apple thì máy báo là: đã có lỗi khi kết nối với ID Apple, giờ phải làm sao, add giúp mình với, cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.390186,
+         "id": "1155142",
+         "field_search": "question",
+         "question": "Em đang dùng máy mi note 4 thì gặp lỗiWifi bị ngắt kết nối mặc dù cục wifi để khá gầnVô cài đặt wifi thì nó hiện wifi đã lưu phải kết nối lạiCho em xin nguyên nhân và cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.37531,
+         "id": "1166419",
+         "field_search": "question",
+         "question": "Tại sao tài khoản itunes của máy mình bị lỗi không kết nối với máy chủ?? Có cách khắc phục không ạ. Nó khiến mình không tải được các ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.360922,
+         "id": "1162683",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi vs. Mình đang xử dụng tai nge bluetooth kết nối vs ip7 plusMình lỡ ấn vào quên “quên thiết bị này”Sau mình kết nối lại thỳ máy dò ko ra thiết bị bluetooth Mình dùng 1 số máy khác dò cũng ko thấy. Khởi động lại máy cũng lo đc. Mà kết nối với thiết bị bluetooth khác thỳ lại đc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.357075,
+         "id": "831907",
+         "field_search": "question",
+         "question": " Cho em hỏi giờ máy tính em camera bị lỗi giờ có cách nào sửa được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.356052,
+         "id": "1157514",
+         "field_search": "question",
+         "question": "Mình mới mua Samsung A50 từ tgdd nhưng khi mình dùng bị lỗi như sau.Cảm biến vân tay rất khó nhận. Mở 10 lần may ra đc 1 lần và rất lấu.Thứ 2 là điện thoại không kết nối được wiffi từ cục phát wiffi. ( cái j7 pro kết nối bt, cái a50 này ko thế kết nối)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.346378,
+         "id": "794932",
+         "field_search": "question",
+         "question": "messenger không kết nối đc trong khi wifi vẫn ổn định.mình xóa đi tải lại rồi vẫn lỗi khác phục thế nào ạ mình dùng ip 6+",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.327526,
+         "id": "1164867",
+         "field_search": "question",
+         "question": "Cho em hỏi cách root máy oppo 1201 kiểu gì vậy. E dùng mọi app và cả kết nối pc mà vân ko đc :(( .Ai biết cách root vui lòng chỉ rõ hộ em vs.. Please!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.305103,
+         "id": "1008206",
+         "field_search": "question",
+         "question": "Thật ko hiểu nổi đang sử dụng camera trước sau bình thường oppof1s plus.  Vậy mà bản cập nhập này làm  cho camera bị lộn ngược còn ko dùng được camera sau nữa phát tởm với hãng oppo. Xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.30047,
+         "id": "793254",
+         "field_search": "question",
+         "question": "Ko biết ip 3GS em bị gì mà wifi bị :- Bắt được wifi kết nối được wifi đó nhưng ko kết nối Internet được mặc dù máy khác là được- Hoặc là kết nối wifi không được ( thỉnh thoảng ) máy khác làm được- Kết nối wifi lâu=> Em đã reset mạng và cài đặt rồi nhưng ko được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.292168,
+         "id": "1150365",
+         "field_search": "question",
+         "question": "Chào anh chịLaptop của e đang dùng win10,hôm qua e đang kết nối wifi và xem youtube bình thường thì đột nhiên bị ngắt kết nối, em kiểm tra lại thì thấy không còn biểu tượng wifi nữaĐây là lỗi gì và khắc phục như thế nào ạ Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.2839,
+         "id": "833199",
+         "field_search": "question",
+         "question": "e mới mua ipad mini. Về thì kết nối wifi lướt web xem video bình thuờng nhưng khi tải app từ appstore thì rất chậm có vài chục mb mà cả tiếng k xong. Kết nối wifi nhà khác thì tải bình thuờng. Con samsung e kết nối wifi nhà e thì tải bình thuờng. Vậy cho e hỏi đây là lỗi gì ạ và cách khắc phục đc k???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.23266,
+         "id": "1143151",
+         "field_search": "question",
+         "question": "Em dùng máy zumbo s2017 sao ko vào được camera với tải camera về thì ko quay đc sáng camera sau và cảm trc nó bị ngược ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.190296,
+         "id": "1023903",
+         "field_search": "question",
+         "question": "Iphone 4s của mình nhập sai nhiều lần bây giờ bị vô hiệu hóa itunes.mình tải itunes về máy tính nhưng khi cắm cáp kết nối iphone và máy tính thì itunes lại ko thể tìm được iphone để kết nối.bây giờ phải làm sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.15782,
+         "id": "1000064",
+         "field_search": "question",
+         "question": "e đang dùng galaxy note 3 LTE. sáng nay máy bị lỗi nên e phải up lại ROM nhưng sau khi up xong thì máy k kết nối đc 4G nữa. bộ phận kĩ thuật có thể hỗ trợ e fix lỗi này được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.145767,
+         "id": "1020884",
+         "field_search": "question",
+         "question": "Camera máy e bị lỗi ạ . E không biết có cách nào sửa lại nó không ạ samsung a3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.144644,
+         "id": "757935",
+         "field_search": "question",
+         "question": "Em dùng ipad 2. Em vào setting em kết nối wifi thì ok. Nhưng nó không hiện cột sóng wifi và bị lỗi kết nối các anh chị giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.130392,
+         "id": "1020693",
+         "field_search": "question",
+         "question": "Sao ko tra lời vậy .Điện thoại oppo f1 có kết nối với ti vi bằng cổng AV hay ko vậy. Tivi đời củ đó. Nêú được thì kết nối ntn chỉ giúp với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.09722,
+         "id": "903973",
+         "field_search": "question",
+         "question": " E dùng laptop DELL 5559 khi kết nối dcom 3g báo lỗi giao thức 734 bị chặn thì sửa như thế nào QTV ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.06424,
+         "id": "814818",
+         "field_search": "question",
+         "question": " em có 1 iphone 5s nhưng quyên mật khẩu, mà iphone chưa được kết nối với itunes thì phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.048319,
+         "id": "1158732",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi. Đt e mua đc 1 tháng 10 ngày, Giờ bị lỗi camera và lỗi vân tay thì e có được 1 đổi 1 ko ạ iphone 6s plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.030983,
+         "id": "916259",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi sử dụng ứng dụng messenger của fb chụp bằng camera sau thì chụp đc nhưng khi chuyển sang chụp selfie bằng camera trước lại ko chuyển sang đc. Vậy là do lỗi máy hay do lỗi phần mềm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9803,
+         "id": "1149825",
+         "field_search": "question",
+         "question": "e muốn mua điện thoại oppo f7 youth trả góp 70 thì làm như thế nào. e ở nghệ an",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.926314,
+         "id": "1133464",
+         "field_search": "question",
+         "question": "iphone 6 plus bị lỗi camera sau trên main thì thay camera mới hay làm gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.902386,
+         "id": "1004271",
+         "field_search": "question",
+         "question": "Máy em là samsung galaxy j5 prime, em vô ý làm rơi vào nước. Hiện tại thì máy bị nước vào camera trước và đèn flash. Camera trước thì bị lỗi. Loa thì bị rè. Phím back và phím kế bên bị liệt. Một phần nhỏ trên màn hình bị trắng. Cho em hỏi bên hãng có sửa giúp em đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.86854,
+         "id": "1142177",
+         "field_search": "question",
+         "question": "mình muốn kết nối nokia2 với laptop qua dây usb để lấy ảnh ra. nhưng khi kết nối thì điện thoại chỉ có xạc không thể kết nối với máy được? xin hỏi phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.859543,
+         "id": "791819",
+         "field_search": "question",
+         "question": " iPhone 5s của em bị vô hiệu hoá kết nối itunes vì nhập sai mật khẩu nhiều lần, bây giờ làm thế nào để mở được máy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.738815,
+         "id": "915489",
+         "field_search": "question",
+         "question": " ad ơi máy mình bị không thể kết nối với iTunes Store làm thế nào để khắc phục ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.729502,
+         "id": "1021659",
+         "field_search": "question",
+         "question": "Cho e hỏi là sao điện thoại huawei y5 2017 e mới mua được gần 1tháng kết nối wifi bình thường nhưng cách đây hai ngày thì kết nối được nhưng khồng dùng được wifi ạ, kết nối wifi rồi nhưng lại ghi là không kết nối wifi nào hết và bên cạnh hiện lên dấu \"!\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.710999,
+         "id": "870830",
+         "field_search": "question",
+         "question": "Adm ơi. Cho mình hỏi có cách nào hạ đc and từ 6.0 xuống 5.1 ko. Từ hôm up lên fb nó không cập nhật trạng thái. Msg thì kết nối wf chập cheng.... mình dùng ss a8",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

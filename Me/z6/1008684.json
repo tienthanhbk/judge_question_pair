@@ -1,0 +1,809 @@
+{
+   "id_query": "1008684",
+   "total": 32959,
+   "total_current": 100,
+   "max_score": 95.209694,
+   "origin_question": "Anh/chị cho em hỏi là em đang sử dụng điện thoại Sony XA Ultra. Mọi người vẫn bình thường nhưng hôm nay gọi điện và đưa điện thoại lên tai thì màn hình không tắt.",
+   "hits": [
+      {
+         "score": 95.209694,
+         "id": "1008684",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi là em đang sử dụng điện thoại Sony XA Ultra. Mọi người vẫn bình thường nhưng hôm nay gọi điện và đưa điện thoại lên tai thì màn hình không tắt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.537365,
+         "id": "1162286",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi. Em đang xài Asus zenfone max. Mấy tháng nay em chỉ dùng điện thoại để lên mạng này nọ thôi chứ ko gọi điện. Hôm nay em có gọi thử cho 1 người bạn, đang gọi thì điện thoại tắt màn hình đen thui, sau khi gọi xong màn hình vẫn đen, em mở tất cả mọi cách vẫn ko lên nguồn :( Em nhờ bạn e gọi qua số điện thoại em thì nó lại lên nguồn bấm vẫn bình thường. Nhưng khi mình bấm nghe nói chuyện thì màn hình lại tắt đen. Cho em hỏi là nó bị bệnh gì vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.90977,
+         "id": "995284",
+         "field_search": "question",
+         "question": "Hiện em đang sử dụng điện thoại Sony XA Ultra vẫn đang còn trong thời gian bảo hành. Trong thời gian gần đây điện thoại thường hay bị giật màn hình hai bên viền mép điện thoại đặc biệt sau mỗi lần gọi điện thoại hoặc gọi messenger thì màn hình càng giật mạnh và bị nhiễu. Vậy điện thoại đang bị gì ạ cách khắc phục như thế nào em có thể đem đến TGDĐ để sửa theo chính sách bảo hành ko?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.289505,
+         "id": "1019609",
+         "field_search": "question",
+         "question": "Ad cho hỏi là. Hiện minh đang sử dụng sony xa ultra. Giờ muốn nâng cấp lên androi 7.0 có thể mang điện thoại ra tgdd nâng cấp được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.73595,
+         "id": "997553",
+         "field_search": "question",
+         "question": "Ad cho em hỏi. Điện thoại là Samsung J3 2016, hôm qua em chơi tự nhiên màn hình xanh xanh rồi giật, hôm nay màn hình đen luôn nhưng người ta gọi thì máy vẫn rung. Bây giờ phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.631157,
+         "id": "747857",
+         "field_search": "question",
+         "question": "Qtv ơi em đang dùng điện thoại iPhone 5 . Anh chị cho em hỏi hôm nay em đang lướt web thì máy báo như này  vậy điện thoại của em có bị làm sao không anh chị tư vẫn giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.236683,
+         "id": "799974",
+         "field_search": "question",
+         "question": "Các anh chị cho em hỏi, em đang xài dell inspiron 3442,win 8.1, tuần trước vẫn sử dụng được wifi nhưng hôm nay mở wifi lên thì cái nút bật tắt wifi nó bị mờ đi không thể bật lên được, driver vẫn đầy đủ ạ, sử dụng mạng dây vẫn bình thường. Em đã cài lại win nhưng vẫn vậy. Vậy anh chị cho hỏi máy em bị gì và khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.10613,
+         "id": "1141487",
+         "field_search": "question",
+         "question": "Các anh chị giúp em với ạ. Điện thoại j6 plus của e khi đang nghe cuộc gọi bình thường, thì người khác gọi điện qua messenger không báo gì hết ạ? Với khi đang nói chuyện messenger thì có cuộc gọi bình thường đến, mình nghe hay không thì cuộc gọi messenger lại không nghe được bên kia nói gì? Mong anh chị giúp em ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.7157,
+         "id": "1136212",
+         "field_search": "question",
+         "question": "Em có dùng điện  F5 cả tháng nay điện thoại em không nhận được cuộc gọi hay tin nhắn nào.  Em nghĩ do sim nên tháo ra thì gọi bình thường nhưng khoảng 1 2 tiếng sau, người khác gọi thì báo không liên lạc được. Mà điện thoại vẫn mở nguồng và có hiện sóng sim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.12383,
+         "id": "1165110",
+         "field_search": "question",
+         "question": "Chào anh chịĐiện thoại em đang sử dụng là samsung j2 proNhưng nay điện thoại em có tình trạng, khi nhấn nút home, điện thoại không thoát ra màn hình chính mà hiển thị: google giúp đỡ. Em vô cùng khó chịu cho hiện trạng này. Mong anh chị giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.849083,
+         "id": "869643",
+         "field_search": "question",
+         "question": "Xin chào Anh/Chị!Anh/Chị vui lòng cho hỏi: Mình đang sử dụng điện thoại iphone 4, sử dụng phần mềm Tango trên điện thoại này bình thường, tuy nhiên, hôm nay vào Tango thì nó chạy một lúc hiển thị ra các tin nhắn nhưng sau đó tự quay lại giao diên ban đầu của Tango, phía bên dưới có chữ download. Như vậy là bị lỗi gì, xin Anh/Chị chỉ giúp. Trân trọng cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.76187,
+         "id": "1016330",
+         "field_search": "question",
+         "question": "điện thoại em đang sử dụng là sony xperia XA, bây giờ có hiện tượng đang sử dụng thì bị \"tự động quay lại\". Em vào cài đặt-->ứng dụng thì hiện ra trang \"ứng dụng\" xong tự động thoát ra lại trang \"cài đặt\".Lướt facebook thì kéo xuống rồi điện thoại tự động lên lại đầu trang.... và nhiều hiện tượng khác tương tự việc điện thoại tự động back lại,tự động trượt.Bây giờ thì màn hình không thể mở khóa do  không trượt hết được. Quét virus thì không thấy,màn hình vẫn còn mới không bị trầy xướt. Tắt nguồn,khởi động lại vẫn có hiện tượng đó.Không biết điện thoại đang có vấn đề gì ạ,em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.72791,
+         "id": "1157571",
+         "field_search": "question",
+         "question": "Điện thoại mình sony xperia Z1 bị rơi nhưng màn hình thì không bị bể vẫn sáng lên bình thường nhưng thao tác màn hình thì không được thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.40256,
+         "id": "1023570",
+         "field_search": "question",
+         "question": "ad cho e hỏi.e đùng s3. nó bị hỏng màn hình. Bật nguồn thì vẫn có chuông bình thường. có người gọi điến vẫn có chuông.nhưng màn hình nó k lên.chắc là bị cháy màn hình. giờ e muốn lấy danh bạ trong điện thoại có được k? Điện thoại vẫn kết nối với máy tính bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.37708,
+         "id": "766786",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi chút ạ. em dùng ip4s, trước đây, khi em tắt 3g và wifi thì điện thoại vẫn nhận được tin nhắn zalo và messager bình thường, chỉ có ảnh thì không load được hoặc load chậm, nhưng khoảng 1 tuần nay, khi em tắt 3g và wifi thì không nhận được tin nhắn zalo nữa anh chị cho em hỏi là có phải do cài đặt gì không mà điện thoại em bị như vậy ạ? Giờ có cách nào để nó như cũ được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.330517,
+         "id": "1007691",
+         "field_search": "question",
+         "question": "điện thoại A5 đang sử dụng thì bị tắt màn hình và ko mở lại được, gọi vẵn có tín hiệu nhưng màn hình vấn đen thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.29193,
+         "id": "1157467",
+         "field_search": "question",
+         "question": "Người ta điện thoại cho em thì xuất hiện dòng chữ \" chuyển hướng cuộc có điều kiện \" tức là điện thoại cho em không được mà em điện thoại cho người  khác thì được hiện tại em đang sai điện thoại oppo f1s và chỉ sử dụng 1 sim vina hoạt động 4g của sim bình thường ạ cho em biết cách khắc phục tình trạng này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.0498,
+         "id": "1158949",
+         "field_search": "question",
+         "question": "Xin hỏi tgdd điện thoại huawei y7 pro của tôi trước đây tôi lưu số điện thoại và gọi bình thường nhưng được một thời gian thì số điện thoại đã lưu ko gọi bình thường được mà phải gọi bằng zalo. Hình ảnh số ĐT gọi bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.685173,
+         "id": "1158958",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi là em đang chơi Angry Birds 2 trên Huawei Y3 2017. Em đang chơi thì điện thoại bị treo không thoát ra cũng không tắt máy được. Mong mọi người cho em biết nó bị làm sao và cách khắc phục như thế nào. Xin cảm ơn mọi người.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.644253,
+         "id": "997181",
+         "field_search": "question",
+         "question": "Điện thoại sony xperia xa em đang sài tự nhiên hay tắt nguồn là sao vậy a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.499855,
+         "id": "1137264",
+         "field_search": "question",
+         "question": "các anh chị cho em hỏi, em có sử dụng một cái điện thoại coolpad R106 nó cứ khởi động hoài nhưng nó không lên màn hinh được. mong sự chỉ dẩn của anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.492558,
+         "id": "1020782",
+         "field_search": "question",
+         "question": "Cho mình  hỏi  điện thoại sony xa ultra có  trả góp  o ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.42072,
+         "id": "1152745",
+         "field_search": "question",
+         "question": "Chào anh/ chị. Em muốn hỏi là điện thoại em đang sử dụng là Samsung A8 Star mà muốn tải Instagram thì bị hiển thị \" điện thoại bạn không sử dụng được phiên bản này\". Em muốn sửa được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.28984,
+         "id": "1141617",
+         "field_search": "question",
+         "question": "dạ em có mua điện thoại Nokia 213hiện tại em vẫn đang còn lưu lượng GB nhưng tại sao em không thể lên mạng được?em đã bật dữ liệu di động lên rồi. Hồi trước vẫn bình thường nhưng 2 hôm nay không vào được??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.01674,
+         "id": "1011524",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi. Điện thoại em là oppo a37. Mấy hôm nay em có quay video và em vô album để mở xem lại. Khi em nhấn vào xem video thì không lên video mà lại lên hình. Anh chị cho em hỏi máy em bị gì vậy ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.9918,
+         "id": "1150288",
+         "field_search": "question",
+         "question": "Điện thoại ss j6 của em dán miếng cường lực full màn hình thì hay bị đơ màn hình, cụ thể là thỉnh thoảng sau khi gọi điện cho người khác xong thì jieenj tượng này xuất hiện và phải tắt màn hình đi mở lại thì máy lại bình thường. Cho em hỏi đây là do miếng dán hay do máy bị lỗi cảm ứng ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.952595,
+         "id": "1007299",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi, em dùng điện thoại Samsung Galaxy J5 Prime được 2 tháng. Dạo trước vẫn bình thường như 2 đêm nay, điện thoại đã bật máy bay, tắt các ứng dụng chạy ngầm, Wifi,.. trước khi ngủ, nhưng sáng hôm sau thấy lượng pin mất đi 10-13%. Như vậy, pin hay điện thoại em có phải đang có vấn đề gì không ạ? Em muốn xin ý kiến trước khi mang đến cửa hàng kiểm tra. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.841614,
+         "id": "761444",
+         "field_search": "question",
+         "question": "Dạ em đang dùng iPhone 4S, cách đây khoảng 1 tháng, điện thoại của em có bị thấm nước và em đã đem đi sửa, khi về em dùng đt bình thường, nhưng đt của em không biết sao, màn hình cứ tối đen không lên mấy lần, em có gọi thử thì vẫn gọi được nhưng màn hình đt vẫn tối đen, không lên được. Em phải đợi khi đt hết pin, cắm sạc thì mới có thể sử dụng lại được. Cho em hỏi là đt của em bị gì và sửa chữa như thế nào ạ? Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.806625,
+         "id": "1016356",
+         "field_search": "question",
+         "question": "Bật tính năng chống ồn trên điện thoại sony XA ultra",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.71516,
+         "id": "996581",
+         "field_search": "question",
+         "question": "Em dùng điện thoại samsung galaxy tab 4. đang nghe tai nghe bình thường tự nhiên nó nhỏ đi? em có đổi tai nghe khác mà vẫn không nghe lớn như bình thường được? em có gắn cái tai nghe đó sang điện thoại khác tai nghe đó vẫn nghe bình thường? em muốn hỏi cách khác phục ạ. cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.698833,
+         "id": "997308",
+         "field_search": "question",
+         "question": "Tôi đang xài oppo neo7.. Cho hỏi tại sao chỉ mỗi điện thoại của tôi là không tìm thấy wifi đó. Hôm qua vẫn còn dò được và sử dụng wifi đó bình thường..nhưng hôm nay chẳng những không xài được mà còn không tìm thấy mạng wifi đó nữa??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.65079,
+         "id": "1162903",
+         "field_search": "question",
+         "question": "Em sử dụng samsung s6 thường. Tự dưng màn hình có màu sác lạ (như trong hình) ở góc bên trái. Để khoảng chục phút thì màu lan dần ra cả màn hình. Và giờ là điện thoại em bật lên đen xì rồi. Nhưng cảm ứng vẫn không làm sao. Cho em hỏi là điện thoại của em bị gì và phải sửa như thế nào vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.557526,
+         "id": "1146287",
+         "field_search": "question",
+         "question": "Em dùng j7prime. Loa ngoài vẫn nghe bình thường . Hôm nay tự nhiên rè , là bị gì ạ ? Điện thoại em vẫn còn bảo hành ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.528,
+         "id": "1004172",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là bây giờ em muốn thay loa cho điện thoại sony Xperia Xa thì mất khoảng bao nhiêu tiền ạ...em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.260822,
+         "id": "1152157",
+         "field_search": "question",
+         "question": "Em sử dụng nokia 7 plus dạo gần đây e sử dụng tai nghe là điện thoại tự giảm âm lượng.E cắm vào máy khác thì bình thường còn máy mình vẫn bị điện thoại e mới mua hàng qua sử dụng chưa được 1 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.21234,
+         "id": "1154826",
+         "field_search": "question",
+         "question": "xin cho em hỏi em đang xài điện thoại redmi6 đang sử dụng wifi hôm qua được, sao tự nhiên hôm nay lại không bắt được sóng wifi luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.16142,
+         "id": "1148368",
+         "field_search": "question",
+         "question": "Tại sao điện thoại của em sạc qua đêm thì khi sáng em bật điện thoại lên chẳng được, như kiểu tắt nguồn mà lại mở nguồn lên không được :| nhưng trên điện thoại vẫn hiện đèn thông báo màu xám trắng cách mỗi 7 giây hiện 1 lần là sao ạEm dùng Sony Xperia XA",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.98245,
+         "id": "1015202",
+         "field_search": "question",
+         "question": "xin chào! tôi đang dùng điện thoại sony XA, khi tôi thực hiện các cuộc gọi, màn hình thường bị nhảy loạn, tự động mở các chương trình.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.86831,
+         "id": "759088",
+         "field_search": "question",
+         "question": "Chào anh (chị)! Cho em hỏi làm thế nào để lấy lại tài khoản line. Mọi ngày em gọi vẫn bình thường nhưng hôm nay mình cũng gọi được nhưng lại không thấy tiếng gì cả. Em liền gỡ và tải lại phần mềm line (tài khoản của mình chưa đăng kí email)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.857224,
+         "id": "1141790",
+         "field_search": "question",
+         "question": "điện thoại của em là samsung galaxy j2 prime, tự nhiên bữa nay mọi hình ảnh(chụp bình thường) trước đó mà em chụp đều bị chuyển sang hiển thị dạng ảnh kèm âm thanh. Cho em hỏi là điện thoại em bị gì và cách khắc phục. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.747013,
+         "id": "1017612",
+         "field_search": "question",
+         "question": "mình đang dùng con j5 prime đang onl fb thì điện thoại bị đứng sau đó tắt màng hình mở không lên. nhưng dùng điện thoại khác gọi vào thì vẫn đổ chuông, mình có cắm sạc nhưng vẫn không lên. mong ad giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.70486,
+         "id": "1008688",
+         "field_search": "question",
+         "question": "Anh chị ơi cho em hỏi là. Bảo hành dán màn hình điện thoại là bảo hành cái j thế anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.593765,
+         "id": "819814",
+         "field_search": "question",
+         "question": "Em có cái điện thoại IPhone 4S bị lỗi nguồn. Trước giờ sử dụng bình thường nhưng hôm nay em thay pin mới (pin cũ bị hư) nhưng sau khi thay vào em sạc thì máy báo cục pin màu đỏ (một xíu đỏ, còn lại trống), lưu ý là không có hình dấu sét. Em sạc lâu rồi (trên 4 tiếng) mà vẫn y như cũ. Nếu tháo pin ra và sạc thì máy hiện thị trái táo, sau 20s thì vào màn hình chính và thao tác bình thường. Không biết máy bị gì luôn, mong các anh chị giúp đỡ. (Em đã ghim vào latop nhưng cũng không lên). Em cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.565704,
+         "id": "1001437",
+         "field_search": "question",
+         "question": "Em không gửi được tin nhắn trên điện thoại zte blade v7 lite, bình thường vẫn gửi được, mong mọi người chỉ em cách gửi tin nhắn lại như bình thường ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.52711,
+         "id": "998156",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đang dùng điện thoại Samsung Galaxy J5 Prime, mà sao khi người khác gọi điện, máy vẫn hoạt động bình thường nó lại báo thuê bao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.52706,
+         "id": "1138921",
+         "field_search": "question",
+         "question": "Mk đg sử dụng Huawei y6 prime, hôm qua vẫn sử dụng wifi bình thường, nhưng hôm nay kết nối wifi thì vạch wifi vẫn hiện lên nhưng lại có dấu chấm than và ghi là không có kết nối Internet.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.442604,
+         "id": "1003383",
+         "field_search": "question",
+         "question": "điện thoại HTC desire 816g Duel Sim khi nghe và gọi, màn hình điện thoại áp vào tai nhưng vẫn sáng. như vậy cho mình bây giờ phải làm cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.241882,
+         "id": "1159410",
+         "field_search": "question",
+         "question": "chào ad cho em hỏi tí . samsung j7 + đang sử dụng bỗng đen màn hình nhưng vẫn còn hoạt động và cuộc gọi tới đt vẫn không sáng lên  không đổ chuông nhưng người gọi vẫn gọi cho em được ad có cách khắc phục chỉ em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.191242,
+         "id": "1163735",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại coolpad n5 lại nóng lên ở phần màn hình tai thỏ khi sử dụng và sạc pin mặc dù mới mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.18586,
+         "id": "998475",
+         "field_search": "question",
+         "question": "mình đang sài điện HTC one M8 EYe,đang vừa lên mạng vừa nghe nhạc và sạc pin thì điện thoại bị tắt và hiện lên màn trắng có logo HTC one và ko tắt nguồn được,như vậy thì làm cách nào khắc phục và sử dụng bình thường lại được vậy bạn.Mong giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.965656,
+         "id": "789784",
+         "field_search": "question",
+         "question": "Em xài iPhone 5s. Hum qua em bị tắt màn hình, em lấy điện thoại khác gọi thì vẫn đổ chuông mà màn hình vẫn đen thui, e thử gọi mấy lần vẫn như vậy? Lúc đó e vẫn bật wifi, đang onl fb và zalo, màn hình đen ko lên nhưng vẫn có chuông nhận thông báo. Sáng nay e mới biết cách mở sáng màn hình lại. Vậy tối hqa đến giờ đt e vẫn bật mạng đến lúc mở lên, vậy điện thoại e có thể bị sao ko ạ??? QTV tư vấn giúp e với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.874233,
+         "id": "1016114",
+         "field_search": "question",
+         "question": "cho em hỏi chiếc điện thoại sony xa1 ultra có chống nuoc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.848589,
+         "id": "1156135",
+         "field_search": "question",
+         "question": "anh, chị cho em hỏi cách chụp màn hình điện thoại samsung A72018 được không ạ !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.640856,
+         "id": "1020499",
+         "field_search": "question",
+         "question": "Khi người khác gọi đến thì vẫn nghe đc nhạc chờ. Nhưng điện thoại em lại hiện thị \" Rất tiếc, Điện thoại đã dừng lại\" và em ko thể nhận đc cuộc gọi. Ko biết đang bị tình trạng gì ạ. Điện thoại wIKO rainbow lite.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.583815,
+         "id": "903014",
+         "field_search": "question",
+         "question": " Cho em hỏi. Em sử dụng zalo nhưng không thế chục hình, ghi âm gọi điện thoại đươc. Vì sao vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.446396,
+         "id": "1006699",
+         "field_search": "question",
+         "question": "Điện thoại sony XA của mình k phát đc loa ngoài. Chuông cuộc gọi tới và chuông báo thức k kêu. Mình khởi động lại thì bình thường 1 ngày lại bị lại. Hình như cứ sạc điện thoại là bị như thế. Giờ phải làm ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.33051,
+         "id": "1139199",
+         "field_search": "question",
+         "question": "Chạo anh chị ạ... hiện tại em đang sử dụng samsung galaxy a7... em mới mua khoảng 1 tháng ạ... trong thời gian sử dụng gần đây máy có hiện tượng giật lag đứng máy và tự động khởi động lại điện thoại, và có trường hợp màn hình vẫn sáng nhưng vào các ứng dụng rất lâu ạ...từ bắt đầu sữ dụng sản phẩm đến nay đã có 2 bản cập nhập hệ thống. Sau mỗi lần cập nhật xong thì máy bị lag và khởi động lại điện thoại...anh chị có thể giải thích giúp em hiện tượng nàu với ạ... có ảnh hưởng dì đến điện thoại không ạ. Em xin cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.258417,
+         "id": "1156380",
+         "field_search": "question",
+         "question": "bình thường điện thoại cài vân tay sẽ xài song song với mẫu hình nhưng em cài vân tay với mẫu hình thì mẫu hình khi mở máy lên lại không có chỉ cần vuốt là máy mở cho em hỏi cách khắc phục ạ điện thoại em là s7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.231356,
+         "id": "813673",
+         "field_search": "question",
+         "question": "Mình mất điện thoại ip 5s . máy vẫn bật 3g và định vị. mình đã bật chế độ mất trên máy tính. giờ người lấy điện thoại đó có thể sử dụng bình thường được không |",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.215874,
+         "id": "1015260",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại sony xa sao bi lỗi loạn màn hình hoài vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.21138,
+         "id": "1154584",
+         "field_search": "question",
+         "question": "Cho em cách khắc phục laptop em không tìm thấy thiết bị tai nghe bluetooth awei a930bs. Em có thử laptop của bạn em vẫn không tìm ra được nhưng điện thoại thì vẫn tìm thấy và kết nối bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.190502,
+         "id": "1005296",
+         "field_search": "question",
+         "question": "em đang sài điện thoại lenovo a2010, điện thoại em đang sạc thì pin tự động tụt và tắt nguồn. Em thử đổi cục sạc nhưng vẫn không được. Mong ad giúp giùm em với!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.186533,
+         "id": "1147392",
+         "field_search": "question",
+         "question": "Tôi đang dù điện thoại samsung j7 prime bị vỡ màn hình đã lâu Đến bây giờ thì có hiện tượng sọc màn hình tôi nghĩ không sau Nhưng hôm nay tôi đang coi một video trên youtube thì màn hình điện thoại chớp đen 2 ,3 cái rồi đột nhiên đen luôn  tiếng thì vẫn nghe mà màn hình thì đen thuiCho tôi hỏi là điện thoại tôi bị vấn đề gì ạ?Tôi cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.141174,
+         "id": "823231",
+         "field_search": "question",
+         "question": " Điện thoại của e là ss j5 mọi thứ vào mạng vẫn bình thường nhưng ko vào dc fb là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.124588,
+         "id": "858372",
+         "field_search": "question",
+         "question": "Xin chào mọi người. Hôm trước tớ mới đi thay pin của iPhone 4 IOS 7.1.2 mà bây giơ tớ cũng không biết điện thoại bị làm sao. Tình hình là: Hồi đầu vừa thay khoảng 2 ngày, điện thoại dùng rất bình thường, nhưng bỗng nhiên sau 2 ngày thay, nó tắt ngúm, tớ bật mãi không lên. Nhưng mà khi tớ cắm sạc vào thì lại lên như bình thường, lúc đó mới rút sạc ra nhưng tự nhiên nó lại tắt. Sau khi cắm sạc vào và để điện thoại hiện ra màn hình nền, pin của tớ là 92%, sau đấy tớ cắm hơn 3 tiếng đồng hồ, bật lên nhìn thì pin vẫn 92%, không nhúc nhích và thậm chí là nó còn hiện lên dòng chữ:\" Cần để nguội iPhone trước khi sử dụng\" Sau đó tớ không dùng iPhone trong 1 ngày, cũng rút sạc ra để nó tắt nguồn. Ngày hôm sau, tớ vẫn phải cắm sạc nó mới lên nguồn, nhưng nó vẫn hiện lên dòng chữ đó. Thật sự rất khó hiểu. Có phải tớ thay phải pin dởm không ạ? :((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.118893,
+         "id": "1011000",
+         "field_search": "question",
+         "question": "Tại sao khi gọi video điện thoại lại tự tắt màn hình và bấm nút nguồn lại ko lên hình máy của em là asus max",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.102379,
+         "id": "778275",
+         "field_search": "question",
+         "question": "Em xài sim ghép cho iPhone 5s nhưng người ta không biết cách cài đặt cho em kiểm tra tài khoản hay nạp thẻ vào điện thoại như bình thường được. Mong anh chị giúp đỡ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.083036,
+         "id": "766787",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là iphone 5s , đang dùng thì màn hình bị đơ kiểu lướt fb không được, sau đó em có khoá màn hình, mở lại thì màn hình không lên, nhưng gọi vào thì điện vẫn rung , nhưng màn hình vẫn tối thui em phải làm sao đây ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.013432,
+         "id": "1005236",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại LG G2 Docomo cắm sạc vào điện thoại để sạc pin thì màn hình điện thoại hiện lên pin chứ ko hiện lên màn hình chính thì phải làm sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.010248,
+         "id": "1144377",
+         "field_search": "question",
+         "question": " Cho em hỏi là điện thoại sony xperia xa untra xài chip gì vậy ạ ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.947758,
+         "id": "1009400",
+         "field_search": "question",
+         "question": "Mình xài điện thoại Sony XA. Mình muốn hỏi khi có cuộc gọi quốc tế gọi đến mà mình muốn điện thoại hiển thị quốc gia nào đang gọi tới thì phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.94306,
+         "id": "1143465",
+         "field_search": "question",
+         "question": "Chào anh chị.Anh chị cho em hỏi là: Chị em có máy sam sung j7. Hôm qua  nhà em bị mất điện, khi bật đèn pin trên điện thoại lên, nhưng được mấy giây rồi tự tắt.Anh chị xem giúp em là bị lỗi đèn hay do cài đặt điện thoại.Em cảm ơn. Em mong nhận được trả lời sớm từ anh chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.901634,
+         "id": "1001001",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi em đang sử dụng asus memo pad 8 mua đc khoảng 1 năm hôm nay em đang sử dụng 2 ứng dụng là messenger và chơi game xong nó tự động chay màn hình sạc không lên tắt nguồn không dc rồi em để nos hết pin cũng không dc nó vẫn chay màn hình ad ơi giúp em với :(((((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.868835,
+         "id": "1144083",
+         "field_search": "question",
+         "question": "Điện thoại oppo a3s e mới mua hôm 29.12.2018 mà hổm rài gọi điện thoại nói chuyện với người khác lúc nghe lúc không em có thử gắn sim vào máy khác lại nói chuyện được bình thường.  Vậy điện thoại em có bị lỗi không dạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.868599,
+         "id": "1024328",
+         "field_search": "question",
+         "question": "em đang sử dụng điện thoại dòng samsung A5 2017. Thông thường các dòng khác em thấy khi cắm tai nghe có thể nói hoặc ghi âm được nhưng với điện thoại này em không thể ghi âm qua tai nghe. Cho em hỏi lý do tại sao và làm như nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.86177,
+         "id": "990725",
+         "field_search": "question",
+         "question": "E đang sử dụng Ip5s, e mới cập nhật lên IOS 10.3.2 được gần 1 tháng. Lúc mới cập nhật thì điện thoại e sử dụng bình thường, có phần mượt hơn IOS 9 nhưng thời gian gần đây e thấy điện thoại ko còn mượt nữa, nhiều lúc rất lag và hay bị treo màn hình phải tắt màn hình đi xong bật lại mới được. Cho e hỏi là điện thoại e bị như vậy có phải do HĐH hay ko, và nếu là do HĐH thì có nên hạ HĐH xuống hay ko. Mong nhận được câu trả lời sớm nhất ạ, e xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.837069,
+         "id": "1020621",
+         "field_search": "question",
+         "question": "Anh ơi em xài điện thoại sony xperia xa dual (f3116)Mà tại sao smart lock khong sử dụng được em đã cập nhật phiên bản 7.0 rôiThanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.831995,
+         "id": "760790",
+         "field_search": "question",
+         "question": "Admin cho em hỏi 2 cái cảm biến của Galaxy J7 có tác dụng gì vậy, có phải kích hoạt nó lên không sao khi mình gọi điện thoại áp vào tai đèn màn hình không tự tắt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.691267,
+         "id": "811701",
+         "field_search": "question",
+         "question": "Mn ơi cho e hỏi iPhone 6 của e hôm qua vẫn dùng bình thường nhưng hôm nay xem phim màn hình cứ tự nhiên tối dần đi và tự động tắt màn hình là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.669954,
+         "id": "762621",
+         "field_search": "question",
+         "question": "Điện thoại IP6 chinh hãng còn bào hành hàng FPTtự dưng đang sử dụng thì không lên màn hình nữa, mặc dù gọi đến vẫn đổ chuông, vẫn có âm báo. Cho hỏi cách xử lý như thế nào? Và như thế có được bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.651628,
+         "id": "1022608",
+         "field_search": "question",
+         "question": "anh/chị cho em hỏi điện thoại cảm ứng mà mình tải ứng dụng quét rát trên CH play mà mình sử dụng lâu ngày có làm hai điện thoại mình hay không,em đang dùng galaxy j7 pro ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.613874,
+         "id": "824007",
+         "field_search": "question",
+         "question": "Em sài điện thoại samsung bình thường vẫn dùng facebook nhưng cách đây 2 hôm thì không đăng nhập vào được nữa, cho e hỏi là có phải bị lỗi không ạ và tải ứng dụng fb khác thì làm như thế nào ạ ??? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.493454,
+         "id": "1142709",
+         "field_search": "question",
+         "question": "Điện thoại Sony xa1 plus khi tắt màn hình thì không sạc pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.49258,
+         "id": "770982",
+         "field_search": "question",
+         "question": "Hi mọi người ! Cho mình hỏi một chút. Mình dùng iPhone 4S. Trước vẫn dùng bình thường. Dạo gần đây, camera 360 của mình có vấn đề. Vào selfie camera trước lúc giơ lên chụp thì bình thường, nhưng nhấn chụp và lưu hình thì bị ám đỏ. Camera sau thì màu bình thường nhưng lưu hình rất lâu, có khi không lưu được và đang chụp thì bị đẩy ra. Lỗi vậy là sao hả mọi người? Ai biết thì chỉ cho em cách khắc phục với ạ! Thanks mọi người!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.373747,
+         "id": "1001677",
+         "field_search": "question",
+         "question": "máy em bị rơi xuống biển và khi lên thì e tắt nguồn máy và rẩy nước làm khô rồi 1 tiếng sau em thử bật nguồn lên kiểm tra nhưng máy không lên màn hình, khi gọi điện thì vẫn có chuông, vậy cho e hỏi máy có bị sao không ? (vì cửa hàng xa nên em chờ tới hôm sau mới đem máy tới tiệm được khoảng 16 tiếng )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.220493,
+         "id": "1166672",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại của em ( samsung j3 pro) bị vào nước trong màn hình và camera nhưng vẫn sài bth thì sữa lại tầm bao nhiêu ạ hoặc em có thể đổi điện thoại không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.195282,
+         "id": "996842",
+         "field_search": "question",
+         "question": "chào ad, hiện tại mình đang sử dụng máy sony m5 daul và máy gặp trình trạng như sau: đột nhiên mình đang sử dụng thì màn hình điện thoại chuyển sang màu đen và không khôi phục lại, tất cả các tính năng như nhận cuộc gọi, báo thức đều hoạt động bình thường khi mình không thấy được gì trên màn hình. vậy máy mình bị hư màn hình đúng không? và nếu đúng như vậy thì tại thegioididong có màn hình để thay cho mình không? cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.180782,
+         "id": "1137336",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi: em dùng 5s, bây giờ bị loạn cảm cứng + màn hình 2 màu. Nhưng vẫn sử dụng bình thường, lâu lâu bấm cảm ứng nó không ăn thôi. Cho em hỏi là có cách nào khắc phục không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.158905,
+         "id": "1010897",
+         "field_search": "question",
+         "question": "Tại sao máy mk lúc gọi điện cho người khác thì màn hình luôn bị tắt và ko bật lên được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.102718,
+         "id": "1024148",
+         "field_search": "question",
+         "question": "Mình sử dụng samsung galaxy grand prime sm-g530h androi 5.0.2 . Tối hôm trước rất bình thường. Sáng hôm sau khi mở máy thì máy tự tắt, khi mở lại thì sáng đèn nhưng màn hình lại đen. Điện thoại mình bị gì vậy? Mong được giúp đỡ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.095787,
+         "id": "1150990",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi điện thoại sony xperia x performance sao lúc em xem phim trên google lúc bật toàn màn hình thì vẫn còn phím điều hướng ảo và có thể tắt nó được không admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.07907,
+         "id": "999037",
+         "field_search": "question",
+         "question": "Điện thoại em ip5s hôm nay nó bị treo máy , nhưng chỉ khi nhập mật khẩu nó mới treo còn k nhập mật khẩu để màn hình khóa thì bình thường vẫn dùng chụp hình nhận tn thông báo được , lỗi này là lỗi gì xin ad chỉ cách fix",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.956057,
+         "id": "1144856",
+         "field_search": "question",
+         "question": "chào anh chị ở tgdd và mọi người, em có một câu hỏi ạ.em đang xài laptop và phát wifi bằng điện thoại để dùng. em muốn hỏi là liệu thiết bị phát wifi (dùng sim) có tốt hơn phát bằng điện thoại không ạ, hay là như nhau. cụ thể là thiết bị phát tốt hơn điện thoại ở chỗ nàosóng có mạnh hơn không, đường truyền có bị chập chờn không. và có nên dùng thiết bị phát wifi thay cho điện thoại không vì em tìm trên mạng chưa thấy so sánh về 2 loại này và cũng có một số ý kiến là như nhau. em cảm ơn mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.935238,
+         "id": "942987",
+         "field_search": "question",
+         "question": "Anh (chị) ơi em muốn thay màn hình điện thoại ip4 thường cả mặt trước với sau thì khoảng bao nhiêu tiền ạ. Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.919193,
+         "id": "1138977",
+         "field_search": "question",
+         "question": "Em dùng điện thoại Lenovo Fhab. Hôm nay em vẫn dùng bình thường, đến lúc cắm cổng OTG để dùng chuột thì bật không lên nguồn nữa, pin vẫn còn 50%. Em thử reset máy mà vẫn không được. Pin liền nên em không tháo pin ra được. Cho em hỏi máy em bị gì và em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.909756,
+         "id": "999671",
+         "field_search": "question",
+         "question": "Lenovo vipe p1 bị bể màn hình, cảm ứng vẫn dùng bình thường. Cho hỏi thay màn hình thay bao nhiêu tiền? Và màn hình có như gôca của điện thoại không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.810488,
+         "id": "1141787",
+         "field_search": "question",
+         "question": "Em vừa mua tai nghe bên tdgd mình. Em đã thử device manager, sound, restart nhưng vẫn ko dùng đc trên laptop. Tai nghe vẫn nghe được trên điện thoại bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.792925,
+         "id": "1136193",
+         "field_search": "question",
+         "question": "cho hỏi mình muốn thay màn hình điện thoại Sony Xa dual bị nứt mình có được báo giá trước không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.714756,
+         "id": "1143983",
+         "field_search": "question",
+         "question": "Điện thoại em là zte t620 không bật dc wifi Bluetooth mọi người bảo là hư ic vậy nếu thay là khoảng bao nhiêu tiền vậy anh/chị trả lời giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.6629,
+         "id": "809135",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi sử dụng gọi facetime thì phải làm sao? Vì em đang xài iPhone 4 và e của em cũng vậy mà sao em gọi không được. Báo lên là không khả dụng giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,809 @@
+{
+   "id_query": "1151911",
+   "total": 29738,
+   "total_current": 100,
+   "max_score": 53.582832,
+   "origin_question": "Cho mình hỏi Nokia 6.1 với vivo y85 thì loại nào hơn ạ",
+   "hits": [
+      {
+         "score": 53.582832,
+         "id": "1151911",
+         "field_search": "question",
+         "question": "Cho mình hỏi Nokia 6.1 với vivo y85 thì loại nào hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.192226,
+         "id": "1166815",
+         "field_search": "question",
+         "question": "giữa nokia 5.1 plus và 6.1 máy nào sử dụng tốt hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.09812,
+         "id": "1165140",
+         "field_search": "question",
+         "question": "em muốn đổi realme 2 qua vivo y85 thì bù nhiêu ạ. nhắn tin giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.300337,
+         "id": "1159799",
+         "field_search": "question",
+         "question": "Nên mua samsung  m10 hay vivo y91c hơn vậy..m10 hơn y91c điểm nào... Y91c hơn m10 điểm nào.. Nên mua loại nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.000427,
+         "id": "1134440",
+         "field_search": "question",
+         "question": "Cho em hỏi nokia 6.1 và nokia 6.1 plus có dùng chung ốp lưng được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.898592,
+         "id": "882782",
+         "field_search": "question",
+         "question": " ad cho em hỏi laptop acer và asus thì loại nào bền hơn ạ, và loại nào tốt hơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.421907,
+         "id": "1161782",
+         "field_search": "question",
+         "question": "cho hỏi thế gioi di dong vivo y85 con hàng không .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.207657,
+         "id": "1144338",
+         "field_search": "question",
+         "question": "vivo y71 với ss j4 2018 thì máy nào ổn định lâu dài hơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.065025,
+         "id": "1153051",
+         "field_search": "question",
+         "question": "nokia 6.1 hiện cửa hàng có không bạn ? nếu có thì bán bao nhiêu ? loại trên 60 gb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.986053,
+         "id": "1159316",
+         "field_search": "question",
+         "question": "Vivo v15 so với galaxy a50 thì máy nào tốt hơn vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.956865,
+         "id": "1157612",
+         "field_search": "question",
+         "question": "Cho hỏi giữa Xiaomi Rem 7 với Vivo Y91C cái nào chạy êm hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.577105,
+         "id": "1151062",
+         "field_search": "question",
+         "question": "Cách chuyển ứng dụng sang máy nokia 6.1 thì làm cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.129753,
+         "id": "1133296",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách kết nối otg trên Nokia 6.1 plus nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.77425,
+         "id": "1147704",
+         "field_search": "question",
+         "question": "nokia 6.1 plus màu trắng chi nhánh nào còn hàng vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.753021,
+         "id": "1154273",
+         "field_search": "question",
+         "question": "em bị bể màn hình ở mặt sau thì sữa khoảng bao nhiêu anh  vivo y85",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.751066,
+         "id": "1146833",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại vivo y85 còn hàng ở tân kì tân quý không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.257828,
+         "id": "1140022",
+         "field_search": "question",
+         "question": "Tôi có mua vivo y85 15 ngay giờ muốn đổi sang vivo y91 phải bù tiền bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.20735,
+         "id": "1144662",
+         "field_search": "question",
+         "question": "vivo y85 cũ còn ko anh. Em ở Bắc Giang thì có thể mua đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.064428,
+         "id": "1140627",
+         "field_search": "question",
+         "question": "Anh chi cho em hỏi con Nokia 6.1 bao nhieu tiền ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.756666,
+         "id": "1140445",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại nokia 6.1 bản 4gb64gb có bán trả góp không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.690638,
+         "id": "992872",
+         "field_search": "question",
+         "question": "Mình muốn mua cục sạc dự phòng, cho mình hỏi lõi pin lion và polyme loại nào tốt hơn ah? Loại nào sạc duy trì tuổi thọ pin điện thoại  hơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.587305,
+         "id": "1159357",
+         "field_search": "question",
+         "question": "Cho mình hỏi giữa Huawei p30 lite và vivo v15, may nào chụp hình đẹp và cấu hình OK hơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.58437,
+         "id": "1165482",
+         "field_search": "question",
+         "question": "Vivo v15 với vivo với vivo v11i hoặc oppo f9 đt nào ngon ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.457376,
+         "id": "1151313",
+         "field_search": "question",
+         "question": "Sao sạc pin điện thoại vivo y85 lại ko vào điện. Vào rất chậm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.391323,
+         "id": "1159319",
+         "field_search": "question",
+         "question": "Vivo v15 so với galaxy a50 so với s7 edge dùng snapdragon 820 thì máy nào tốt nhất vậy và giữa a50 và v15 thì máy nào tốt hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.322344,
+         "id": "1161791",
+         "field_search": "question",
+         "question": "Mình mua nokia 6.12018 ngày mua 522019 giá 4.990.000 nay muốn đổi sang nokia 6.1 plus thì phải thêm bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.170292,
+         "id": "821060",
+         "field_search": "question",
+         "question": " TGDĐ cho em hỏi em lenovo b460 model 20047 và dell n3451a thì nên dùng loại nào hơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.148336,
+         "id": "1156116",
+         "field_search": "question",
+         "question": "Anh Ơi Snapdragon Tất Cả Các dòng Với Mediatek Tất cả Các dòng Thì loại nào tương thích với game hơn ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.037342,
+         "id": "988595",
+         "field_search": "question",
+         "question": "Cho em hỏi Oppo F3 vs Vivo V5s thì máy nào dùng tốt hơn ạ. So sánh chi tiết giùm em ạ. Xin cảm mơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.990792,
+         "id": "1155265",
+         "field_search": "question",
+         "question": "Quản trị viên cho minh hỏi Tắt thanh điều hướng nokia 6.1 plus có đưỡc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.990792,
+         "id": "1138385",
+         "field_search": "question",
+         "question": "Cho e hỏi nokia 6.1 plus có chế độ kết nối tivi khi vào youtube không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.941182,
+         "id": "1140913",
+         "field_search": "question",
+         "question": "Ban ơi mình muốn mua nokia 6.1 plus, nhưng sàn phẩm có giá 5990000 đ kia mua online, nếu mình mua trực tiếp tại siêu thị thì giá thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.874365,
+         "id": "1166607",
+         "field_search": "question",
+         "question": "Tại sao máy Vivo y85 không bắt được WiFi 4 râu trở lên WiFi để chơi game",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.779065,
+         "id": "1163650",
+         "field_search": "question",
+         "question": "nokia 6.1 plus 4gb64gb bên mình còn bản màu xanh ko v.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.767518,
+         "id": "1134135",
+         "field_search": "question",
+         "question": "cho em hỏi là dòng máy xiaomi redmi note 6 pro vs loại máy xiaomi redmi note 5 thì nên chọn máy nào để chơi game với tầm giá hơn 5 triệu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.524599,
+         "id": "1164366",
+         "field_search": "question",
+         "question": "Mình muốn mua nokia 6.1 plus. Tư vấn giúp. ĐT 0933.599.115",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.512759,
+         "id": "778650",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPad mini 2 với iPad air loại nào đọc truyện Tranh tốt hơn? iPad mini 2 đọc truyện tranh có khó nhìn bé không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.29344,
+         "id": "1158412",
+         "field_search": "question",
+         "question": "Điện thoại Vivo V11i với điện thoại huawai nova 3i cùng là 4gb ram128gb rom con nào chơi game nặng mượt hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.259224,
+         "id": "1153529",
+         "field_search": "question",
+         "question": "Cho em hỏi xiaomi redmi note 7 với oppo f7 thì nào hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.2294445,
+         "id": "1154599",
+         "field_search": "question",
+         "question": "Cho em hỏi là một sao để tắt dau X trên cột sống điện thoại Nokia 6.1 vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.1873455,
+         "id": "757250",
+         "field_search": "question",
+         "question": " Máy tính nào tầm 1011 triệu đáng mua vậy?  Cho em hỏi với  Chọn loại tốt tốt dùm em  Ram phải 4 gb hoặc hơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.154416,
+         "id": "761504",
+         "field_search": "question",
+         "question": "iphone 4s giá bao nhiêu ạ iphone 4s và iphone 4 máy nào mạnh hơn vậy loại nào camera xắc suất hơn loại nào dùng gậy chụp được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.130205,
+         "id": "1169425",
+         "field_search": "question",
+         "question": "Cho mình hỏi samsung S8 với vsmart active 1 thì máy nào dùng tốt hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.089376,
+         "id": "811709",
+         "field_search": "question",
+         "question": " pin laptop liền tốt hơn hay pin laptop rời tốt hơn? pin laptop liền hay rời thì thì loại nào mới hơn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.890588,
+         "id": "1150825",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy bị như thế này là do lỗi của điện thoại hay tại e cài gì nên nó bị ạ.em đang dùng điện thoại vivo y85 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.88068,
+         "id": "1143170",
+         "field_search": "question",
+         "question": "cho mình hỏi, điện thoại nokia 6.1 plus mình ko sử dụng đc dữ liệu di đông, mình đã bật rồi, nhưng ko có mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.770009,
+         "id": "1155626",
+         "field_search": "question",
+         "question": "anh ơi con vivo y91 với realme2 thì nen chọn con nào anh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.766389,
+         "id": "1136411",
+         "field_search": "question",
+         "question": "mặt kinh nokia 6.1 plus bị vỡ , chô em hỏi chi phí ép kính lại bao nhiêu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.664506,
+         "id": "1141344",
+         "field_search": "question",
+         "question": "cho mình hỏi máy redmi 6 với huawei y7 pro chiếc nào vượt trội hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.583855,
+         "id": "979780",
+         "field_search": "question",
+         "question": "Chip 625 của redmi note 4x ram 3gb và 650 của redmi note 3 pro ram 3gb thì chip nào ngon hơn với loại bào tiết kiệm pin hơn vậy MOD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.549779,
+         "id": "1168774",
+         "field_search": "question",
+         "question": "Cho mình hỏi giữa redmi note 7, samsung note 8 và nokia 8.1 thì máy nào được hơn về lướt web, chơi game và pin trâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.487838,
+         "id": "1022275",
+         "field_search": "question",
+         "question": "cho mình hỏi có loại pin nào vừa với máy wiko rainbow lite k? tại mình tìm mãi không mua được pin loại máy này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.422875,
+         "id": "1143112",
+         "field_search": "question",
+         "question": "Máy Nokia 6.1 plus mình mới mua bị âm lạ tiếng rè rè khi gọi video",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.408373,
+         "id": "1139029",
+         "field_search": "question",
+         "question": " cho e hỏi dây sạc nokia của e bị đứt e muốn mua dây sạc mới thì lên mua loại nào và giá bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3731365,
+         "id": "993705",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi bên mình có cường lực với ốp của máy vivo y53 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3638115,
+         "id": "1167665",
+         "field_search": "question",
+         "question": "Ad tgdd cho em hỏi là điện thoại oppo A3s32gb với xiaomi redmi 732gb thì loại nào chiến pubg với game tốt vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.33257,
+         "id": "1139668",
+         "field_search": "question",
+         "question": "chao AD..cho minh hoi sao nokia 6.1 plus tra gop lai xuat cao den vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.325545,
+         "id": "1014454",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi với! Sao máy nokia 5 của mình k có thư viện ảnh? Máy nào của nokia đùng thế hay chỉ máy mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.320887,
+         "id": "1146240",
+         "field_search": "question",
+         "question": "Cho anh hỏi vivo v11 còn hàng không nhỉ với giá cả thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.172733,
+         "id": "1158153",
+         "field_search": "question",
+         "question": "Cho minh hỏi giữa samsung a50 và vivo v15 máy nào có cấu hình ổn và chụp ảnh tốt hơn a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.155156,
+         "id": "1161848",
+         "field_search": "question",
+         "question": "Add cho mình hỏi là mình vừa mua máy Nokia 6.1 plus ở hệ thống của mình. Giờ máy cứ chạy quảng cáo rất bất tiện và tốn pin. Làm cách nào để có thể tắt quảng cáo đó.Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.122467,
+         "id": "1136588",
+         "field_search": "question",
+         "question": " cửa hàng có dán màn hình và lưng cho nokia 6.1 plus ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.11117,
+         "id": "1157338",
+         "field_search": "question",
+         "question": "Mình có máy Nokia 6.1 plus mới mua bên bạn được 2 tháng bị treo như hình thì có được bảo hành ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.08632,
+         "id": "1164367",
+         "field_search": "question",
+         "question": "chao anh chi    cho em hoi gia sp dt nokia 6.1 lup hom nay bao nhieu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.080154,
+         "id": "1149183",
+         "field_search": "question",
+         "question": "nokia 6.1 plus không hiển thị camera trước.Lý do tại sao?Thanhk!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.004843,
+         "id": "1139437",
+         "field_search": "question",
+         "question": " cho em hỏi giữa máy vsmart joy 1 và realmi c1 thì loại nào tốt hơn để tải các ứng dụng hỗ trợ học tập và chụp hình ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.973087,
+         "id": "1023085",
+         "field_search": "question",
+         "question": "Xin ad tư vấn giúp mk nha!Hiện tại mk đang xài ip6 16g nhưng do dung lượng ít với mk cũg mún trải nghiệm cấu hình android nên mình hỏi với 6trieu thì giữa OPPO, SAMSUNG, SONY, NOKIA thì mk nên chọn loại nào?Mong nhận đc câu tl",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.889809,
+         "id": "1159694",
+         "field_search": "question",
+         "question": "Chào bạn cho mình hỏi iphone 8 plus với sam sung A50 128gb thì cpu vs cấu hình nào sẽ mạnh hơn ạ ? Cám ơn nhìu !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.853055,
+         "id": "1153508",
+         "field_search": "question",
+         "question": "Cho hỏi máy vivo y71  còn bảo hành khoảng 3th thì mua lại với giá bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.825744,
+         "id": "1166388",
+         "field_search": "question",
+         "question": "Ad cho em hỏi điện thoại xiaomi A2 lite64gb  và oppo A3s32gb thì loại nào chiến liên quân với pubg tốt vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.818543,
+         "id": "991079",
+         "field_search": "question",
+         "question": "Cho hỏi Xiaomi redmi note 4 với Oppo A39 thì máy nào dùng tốt hơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.803151,
+         "id": "778951",
+         "field_search": "question",
+         "question": " Cho hỏi iPad Mini với iPad Air loại nào đọc truyện tranh tốt? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.731407,
+         "id": "1158177",
+         "field_search": "question",
+         "question": "Alo giữa vivo 15 và samsung a50 máy nào chụp ảnh đẹp hơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.670283,
+         "id": "1144263",
+         "field_search": "question",
+         "question": "Cho hỏi con nokia6.1 với oppo a83 thì con nào chơi game và cấu hình cao hơn, mạnh hơn? Và nokia6.1 được bán khi nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.578881,
+         "id": "930902",
+         "field_search": "question",
+         "question": " cho mình hỏi 1 laptop cấu hình core i7 1.6ghz với 1 laptop core i5 2,6ghz thì máy nào chạy nhanh hơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.537773,
+         "id": "1008408",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính asus ViVo book S15 S510 và máy asus A540 UP i5. Ad xem so sánh hai máy này giúp em cái nào hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.5335245,
+         "id": "1146876",
+         "field_search": "question",
+         "question": "Máy em là vivo y85, lúc trước khi có người gọi đến máy hiện dao diện 1 kiểu,, bây giờ máy lại hiện 1 kiểu khác là thế nào ạ. E không cài đặt gì cả. Muốn đổi lại như cũ được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.515448,
+         "id": "997552",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi, laptop mình sạc đầy rồi cắm điện chơi trực tiếp với sạc đầy xong rút sạc ra rồi chơi thì cái nào tốt hơn ạ.cái nào lâu chai pin hơn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.490205,
+         "id": "1003958",
+         "field_search": "question",
+         "question": "máy vivo y53 hay máy oppo neo9 máy nào đánh liên quân mạnh hơn anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.487551,
+         "id": "1157988",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung galaxy note 8 với A50  cái nào đc hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.469015,
+         "id": "772407",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone 3s mà lên 6.1 thì có tải được các ứng dụng và game không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.4250765,
+         "id": "1144308",
+         "field_search": "question",
+         "question": "Cho mình hỏi ViVo Y71 có thùng rác hk?  Nếu có thì sao ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.350001,
+         "id": "1166477",
+         "field_search": "question",
+         "question": "Phiền ad cho em hỏi là realme 3 với xiaomi A2 lite thì dt nào chiến pubg mượt hơn vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.345013,
+         "id": "1153007",
+         "field_search": "question",
+         "question": "Lam sao doc duoc gmail duoi xls tren Nokia 6.1,giup dum toi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.327217,
+         "id": "970359",
+         "field_search": "question",
+         "question": "Cho mình hỏi iphone se giờ còn bao nhiêu ạ, như cỡ giá với iphone se thì về cấu hình cũng như về chơi game thì có máy nào tầm giá với se mà mạnh hơn hog",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.300728,
+         "id": "1161700",
+         "field_search": "question",
+         "question": "Cho e hỏi oppof11vs A50 cái nào chơi game liên quân tốt hơn ạ với lại bin hai máy bin máy nào tốt hơn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.2551,
+         "id": "1003893",
+         "field_search": "question",
+         "question": "Cho mình hỏi với ạ, mình sử dụng vivo v3, mình muốn đổi font chữ cho điện thoại, nhưng mình không thêm font vào được, mọi ng ai biết cách chỉ mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.217106,
+         "id": "813621",
+         "field_search": "question",
+         "question": " Cho em hỏi Iphone 4s chạy IOS 7.1.1 với iphone 4s chayh IOS 9.2 cái nào ngon hơn và cái nào nên dùng hơn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.192034,
+         "id": "1154306",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung a50 có hỗ trợ hdr10+ không ạ? So với màn hình a8 star thì như nào ạ? Với pin li-ion và li-po thì pin nào sài tốt hơn ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.182957,
+         "id": "991637",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mún mua một chiếc điện thoại khoảng 6tr trở xuống để chơi game thì nên mua loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.179979,
+         "id": "1162540",
+         "field_search": "question",
+         "question": "Lúc trước mình có mua Nokia 6.1 Plus bên mình ở cn Q12, màn bị ố vàng, bên mình BH tại cn hay ở đâu vậy bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.179168,
+         "id": "1136584",
+         "field_search": "question",
+         "question": "Tôi mua đt Nokia 6.1 plus đc 3 tuần này bán lại TGDD được không ạ nếu bán được giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.1724205,
+         "id": "1158249",
+         "field_search": "question",
+         "question": "xin chào bạnmình có mua máy nokia 6.1 plus của bên hãng nhưng bị treo máy  hiện  chữ download mode ở bên trái màn hình. vậy bây giờ mình cần làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.125476,
+         "id": "969596",
+         "field_search": "question",
+         "question": " Ad cho e hỏi, laptop dell core i3 mua loại nào thì tốt ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.102517,
+         "id": "1013529",
+         "field_search": "question",
+         "question": "Lenovo k6 power với Mobiistar zumbo j2 thì cái nào được hơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.095293,
+         "id": "1157587",
+         "field_search": "question",
+         "question": "Cho em hỏi em muốn mua điện thoại tầm 77.5 triệu chơi game ổn định pin cao với chụp ảnh tốt thì có những loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.039781,
+         "id": "1142255",
+         "field_search": "question",
+         "question": "Tôi thử đặt hàng nokia 6.1 bản 64gb nhưng không ấn chọn được tên huyện là sao, khuyến mại này chỉ áp dụng cho nơi nào có hàng thôi à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.008742,
+         "id": "827017",
+         "field_search": "question",
+         "question": " Cho mình card Radeon R5 M230 với card AMD radeon HD 8500M thì cái nào mạnh hơn và dung lượng nó nhiêu GB vậy ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.882947,
+         "id": "1144447",
+         "field_search": "question",
+         "question": " cho mình hỏi con đt Xiaomi redmi 6a sử dụng loại pin nào???Sạc như thế nào thì đúng cách??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.853416,
+         "id": "1161479",
+         "field_search": "question",
+         "question": "Làm sao để chơi game full màn hình tai thỏ trên chiếc máy nokia 6.1 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

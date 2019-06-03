@@ -1,0 +1,809 @@
+{
+   "id_query": "1164822",
+   "total": 20963,
+   "total_current": 100,
+   "max_score": 82.75034,
+   "origin_question": "Dear adminMình đang bị đơ máyMàn hình hiện lên samsung galaxy50không tắt đc khi dùng phím nguồn ",
+   "hits": [
+      {
+         "score": 82.75034,
+         "id": "1164822",
+         "field_search": "question",
+         "question": "Dear adminMình đang bị đơ máyMàn hình hiện lên samsung galaxy50không tắt đc khi dùng phím nguồn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.702354,
+         "id": "1022988",
+         "field_search": "question",
+         "question": "Samsung Tab A6 đang sử dụng bị tắt nguồn và không mở lên được. PIN đang còn 80 khi tắt nguồn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.771345,
+         "id": "1019986",
+         "field_search": "question",
+         "question": "e đang dùng ip 5s nhưng đang sài bình thường thì màn hình bị đơ, xong tối màn hình, tắt nguồn cũng không được là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.589415,
+         "id": "994337",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.589415,
+         "id": "994324",
+         "field_search": "question",
+         "question": "giúp em vs máy iphone đang dùng thì bị đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.190794,
+         "id": "1158536",
+         "field_search": "question",
+         "question": "samsung galaxy của em hết pin bị tắt nguồn nhiều lần sau đó bật nguồn không lên nữa khi cắm sạc chỉ hiện thông báo đang sạc chứ k vào màn hình chính nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.348782,
+         "id": "816275",
+         "field_search": "question",
+         "question": "Xin chào ! Mình đang dùng chiếc ip4s . Hôm qua mình có sử dụng ip hết pin và sập nguồn  Sau đó mình sạc pin , nhưng cứ khi mà rút sạc ra là máy bị tắt nguồn trong khi đó pin đầy và khi vẫn đang sạc mình bật máy lên chỉ hiện màn hình đc tầm 5s và sau đó lại bị tăt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.103245,
+         "id": "938774",
+         "field_search": "question",
+         "question": "Máy a7 của mình đang dùng thì bị đơ màn hình, không tắt nguồn được, cũng không khởi động lại được thì phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.32717,
+         "id": "999286",
+         "field_search": "question",
+         "question": "Tôi không chụp được màn hình đt samsung j5 prime. Khi bấm tổ hợp phím nguồn + home thì màn hình hiện lên trang tìm kiếm của google. Mong thegioididong giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.182978,
+         "id": "1001324",
+         "field_search": "question",
+         "question": "Mình dùng samsung nhưng khi ấn cả phím nguồn và phím home thì màn hình không lên phải ấn nhiều lần mới lên , cũng có lúc ấn 1 lần lên luôn. Ai biết chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.045704,
+         "id": "1165050",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung j7 prime. Mình quên mật khẩu màn hình. Ấn nút nguồn + giảm âm+ home để tắt như chỉ dẫn. Thấy ra màn hình xanh hiện downloading... lad bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.00771,
+         "id": "1017650",
+         "field_search": "question",
+         "question": "mình đang dùng samsung Tab 10.1 nhưng máy bị treo không tắt nguồn được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.764263,
+         "id": "864701",
+         "field_search": "question",
+         "question": "cho tôi hỏi tôi đang dùng iphone 4s đang sạc pin thì bị tắt nguồn, lúc cắm sạc vào ổ điện thì nó không lên màn hình được mà đang sạc lúc thì lại nhấp nháy hiện lên apple cho tôi hỏi hiện tượng đó là sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.734884,
+         "id": "1148401",
+         "field_search": "question",
+         "question": "mình đang dùng máy oppo R7S khi tắt nguồn để sạc pin rồi bật nguồn trở lại thì ko hiện lên được màn hình chính, mà chỉ hiện chữ oppo để 30 phút vẫn như vậy. hỏi máy của tôi bị làm sao, có cách nào để xử lý hiện tượng này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.53684,
+         "id": "994335",
+         "field_search": "question",
+         "question": "giup em vs may iphone đang dung thì bi đơ e tắt lên bật lại thì màn hình ko sáng cắm sạc vẫn có tiếng sạc đc 1 lúc bật vẫn ko lên bật tắt nút âm lượng ko có tiếng bật nút nguồn thì v ko lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.443916,
+         "id": "1134901",
+         "field_search": "question",
+         "question": "Đt của tôi là đt oppo a3s mới mua từ hôm 14 mua được 2 hôm thì tự nhiên đang dùng thì bị tắt nguồn xong còn bị đơ nữa thỉnh thoảng lại bị đơ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.416166,
+         "id": "1018138",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em dung Samsung A5 2016 đc gần 1năm rồi ạ, bh đt hay đơ rồi tự động tắt nguồn, bật lên thì xuất hiện \"quá trình system ko phản hồi\" rồi tự động tắt ạ. Trong một ngày thì ít nhất 5 lần bị thế ạ. Bh sạc nhanh thì máy vào pin chậm, mặc dù em ko dùng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.326502,
+         "id": "1143513",
+         "field_search": "question",
+         "question": "dạ cho e hỏi, hiện e đang sử dụng ss j5 2015 đt bị đơ và hiện bàn phím samsung đã dừng. Ad cho e hỏi cách khắc phục với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.321726,
+         "id": "1003260",
+         "field_search": "question",
+         "question": "Mình có điện thoại oppo R827 bị treo màn hình oppo , đã thử tắt đồng thời phím nguồn và phím giảm âm lượng nhưng ko đc , xin tư vấn giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.297087,
+         "id": "946203",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j5 prime đang dùng lại bị treo máy k tắt nguồn được, máy đơ có phải lỗi phần mềm lớn k ạ. Cho e hỏi cách khắc phục với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.210012,
+         "id": "796341",
+         "field_search": "question",
+         "question": " Màn hình SamSung Galaxy Tab S của mình bị đơ. Dù có giữ lâu nút nguồn máy vẫn không tắt và khởi động lại được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.112427,
+         "id": "836707",
+         "field_search": "question",
+         "question": "Laptop của mình bị lỗi mở màn hình không lên, đèn nguồn vẫn sáng nhưng ko màn hình ko lên. Lúc đè phím nguồn tắt màn hình thì có nghe tiếng bíp, mở lại vẫn vậy. Cho hỏi bị lỗi gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.995562,
+         "id": "999163",
+         "field_search": "question",
+         "question": "Ad ơi e đang dùng máy Sony Xperia XA Ultral, e đang chơi game thì máy bị đơ kh nhấn chỗ nào đc chỉ xài đc mỗi nút nguồn là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.971645,
+         "id": "918241",
+         "field_search": "question",
+         "question": " cho e hỏi iphone bị tắt nguồn mà màn hình hiện lên màu xanh là bị gì v ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.928558,
+         "id": "1152848",
+         "field_search": "question",
+         "question": "samsung của e khi bật nguồn thì chỉ hiện lên logo samsung mà kh lên hình ảnh. Như v là tại sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.9048,
+         "id": "1000171",
+         "field_search": "question",
+         "question": "Em đang dùng Samsung Galaxy Tab A6. Nó bị chạy chế độ ngủ đông do ứng dụng CM Lite tự khởi động. Giờ máy em bị đơ luôn, tắt nguồn cũng không được. Em nên làm gì đây ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.874365,
+         "id": "1008774",
+         "field_search": "question",
+         "question": "Cho em hỏi em đag xài samsung galaxy gt-i9000 máy em bị hỏng nút nguồn. Nhìu lúc máy tắt nguồn em cắm sạc vào máy hiển thị đang sạc pin, đc 100% em rút ra cắm lại nhưng máy không lên nguồn mà vẫn hiện logo đang sạc pin là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.740017,
+         "id": "1153188",
+         "field_search": "question",
+         "question": "Cho e hỏi cách khóa màn hình samsung note 9 mà không cần dùng phím nguồn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.707975,
+         "id": "809307",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao máy ip4 của em bị rớt sau đó em đã restore và nâng cấp lên ios 7.dùng cỡ mấy tiếng thì điện thoại tắt nguồn mà không bật lên đc,cắm sạc thì chỉ có lên hình trái táo rồi nó tắt rồi nó hiện hình trái tạo lại, mà rút sạc ra thì tắt nguồn mà không lên được cho em cách khắc phục với???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.698328,
+         "id": "835096",
+         "field_search": "question",
+         "question": "Iphone 3GS, đang cập nhật phiên bản IOS mới , nó tự tắt nguồn, sau đó tự động lên nguồn dĩ nhiên là phải xuất hiện hình trái táo. nhưng nó không lên, cứ lên trái táo rồi tắt đen thui hồi sau lại cứ lên tắt , lên tắt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.664917,
+         "id": "1023366",
+         "field_search": "question",
+         "question": "cho em hỏi em đang dùng ss A3, mà khi sạc thì bị sụt pin. Nhưng tắt nguồn mở lên sạc vẫn bị như vậy. Chỉ có khi tắt nguồn luôn cắm sạc mới vô pin nhưng vô rất chậm. Vậy máy e bị gì ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.664904,
+         "id": "1162826",
+         "field_search": "question",
+         "question": "mình đang xài con dell e7240. đang dùng bình thường tự dưng touchpad bị đơ, khi di chuyển thì màn hình kéo lên kéo xuống được, nhưng vị trí con chuột bị đơ không thay đổi. mong các anh/ chị giúp đỡ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.524546,
+         "id": "814038",
+         "field_search": "question",
+         "question": "iPad em đang dùng bỗng dưng tắt nguồn,sau đó em đè thử nút Home với Lock,máy hiện logo apple rồi tắt rồi lại hiện rồi tắt,chừng 10' thì máy tắt nguồn hẳn,không mở lên được,em phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.483482,
+         "id": "814409",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng iPhone 5 dạo gần đây nó hay tắt nguồn có cuộc gọi đến cũng bị tắt nguồn, khi mở lên thì màn hình nhấp nháy rồi tự động tắt, vậy điện thoại mình gặp vấn đề gì và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.44804,
+         "id": "1147396",
+         "field_search": "question",
+         "question": "em dùng oppo joy 1 , nút nguồn bị hư nên không thể dùng nút nguồn , ấn không được nút nguồi Vậy làm cách nào để bật nguồn khi máy đang bị tắt nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.37967,
+         "id": "756409",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 quốc tế iOS 8.3, khi dùng wifi thì không sao, nhưng khi bật 3G lên thì máy có hiện tượng bị đơ và loạn cảm ứng. Giờ em phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.35887,
+         "id": "1019697",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j5 prime đang dùng thì bị tắt. Em thử bật nguồn, sạc nhưng máy vẫn không lên. Cho em hỏi cách khắc phục với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.199947,
+         "id": "1008210",
+         "field_search": "question",
+         "question": "Xin chào, hiện nay mình đang dùng dòng samsung j7 pro, hiện tại mình phải đi xa nhà khoảng 18-19 ngày, mình ko muốn mang theo điện thoại, nên muốn tắt nguồn thiết bị trên. Vậy việc tắt nguồn có ảnh hưởng đến máy không? xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.126083,
+         "id": "878059",
+         "field_search": "question",
+         "question": "Em mới mua máy 6plus ở cửa hàng về nhà dùng thỉnh thoảng máy đơ. tắt nút nguồn thì nó nháy màn hình cái rồi mấy tắt thế là máy bị lỗi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.123098,
+         "id": "761492",
+         "field_search": "question",
+         "question": "Mình đang dùng laptop dell inspiron n4050. Mình mới cài phần mềm magic deskop, khi vào thì bị đơ máy,mình tắt và khởi động lại máy thì lại hiện lên hình màu đen và chỉ xuất hiện con trỏ chuột còn lại không thấy gì cả, mình muốn hết hiên tượng này thì phải làm sao ạ.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.016909,
+         "id": "995686",
+         "field_search": "question",
+         "question": "mình dùng ip5 hị hỏng nút nguồn h tắt nguồn sạc vẫn vào điện nhưng không lên màn hình thì bị gì hả add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.001099,
+         "id": "1005327",
+         "field_search": "question",
+         "question": "em dùng 5s đang tải facebbok thì nó đơ 1 lúc r tắt đui r e mở nguồn lên thì cứ có quả táo và như vậy cả ngày r giúp em vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.947382,
+         "id": "1024322",
+         "field_search": "question",
+         "question": "Em dùng samsung galaxy j5. Khi chiều em có bị đổ nước gần đt. Nhưng k bị dính đt nhiều. Hiện tại thì nếu em khóa màn hình thì không khóa được màn hình vẫn sáng ngay màn hình khóa. Hoặc tắt ròi thì lát lại sáng lên. Có khi đang xài thì lại tắt tối và lại sáng trở lại. Cho em hỏi là đt em đang gặp vấn đề thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.777754,
+         "id": "1004880",
+         "field_search": "question",
+         "question": "Samsung galaxy j2 của em sao đang sài mà bị  tắt nguồn rồi mở không lên dù pin điện thoại em đang đầy nó bị gì vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.77013,
+         "id": "1009431",
+         "field_search": "question",
+         "question": "em đang sử dung obi worldphone s507, em mới tắt nguồn và mở nguồn lại thì màn hình hiện lên biểu tượng obi rồi tắt đen, xin giúp đỡ em cách giải quyết, xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.743439,
+         "id": "1008824",
+         "field_search": "question",
+         "question": " Máy bị tắt nguồn khởi động lại thì bị lên mạng hình android đang nâng cấp cụ chạy khởi động ứng dụng hoài. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.739998,
+         "id": "944541",
+         "field_search": "question",
+         "question": " Ad cho e hỏi máy samsung j5 prime của e bị đơ k tắt nguồn hay làm gì được thì làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.73722,
+         "id": "1003954",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ! Tôi đang dùng điện thoại Samsung galaxy j320g, khi ấn giữ trên màn hình thì điện thoại rung lên (vd khi muốn xóa tin nhắn trên Messenger hay Zalo thì phải ấn giữ vào tin nhắn để chọn chức năng xóa.. khi đó thao tác ấn giữ phím máy tôi cứ bị rung lên), tôi muốn tắt thì làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.65768,
+         "id": "1167967",
+         "field_search": "question",
+         "question": "cho em hỏi là: em dùng samsung j1 sài đến dưới 50% là nó tự sập nguồn nếu không cắm sạc thì nó cứ tắt rồi hiện lên chữ \"samsung\" xong nó tắt và liên tục hiện rồi tắt như vậy nhưng khi cắm sạc vào rồi thì nó mới vào giao diện chính là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.621851,
+         "id": "1147993",
+         "field_search": "question",
+         "question": "Anh có galaxy note II đang dùng nó bị mất nguồn bấm không lên  nó chỉ hiện như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.61729,
+         "id": "1147233",
+         "field_search": "question",
+         "question": "mình đang dùng asus zenfone go, mày mình bị tự động tắt nguồn, và hiện lên logo asus inseach of incredible, lần đầu mình tháo pin, lắp lại mở nguồn thì hiện lên adroid đang tối ưu hóa ứng dụng mình để tối ưu xong thì máy vào dc bình thường. minh đã cài đặt máy về khôi phục gốc, mày bị nhiều lần như vậy. Tuy nhiên mới đây nhất, máy tự tắt nguồn khi khởi động lại thì treo logo asus inseach of incredible không thể lên dc màn hình, ko biết máy mình bị làm sao ạ, mình cảm ơn ad nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.590433,
+         "id": "1003297",
+         "field_search": "question",
+         "question": "Khi ip đã bị sập nguồn, e giữ nút nguồn thì hiện lên hình cục pin với tia sét (e đang cắm sạc). Vậy pin đã vô chưa ạ? Hay không có hình tia sét mới vô?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.58524,
+         "id": "842435",
+         "field_search": "question",
+         "question": "Chào các anh cho em hỏi đt của em bị đơ như hình ảnh dưới khi màn hình khóa lại thì không làm sao mở đc và ko tắt đc tiện ích đi nó nằm lưng chừng màn hình ko thể thoát và tắt đi đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.565287,
+         "id": "1145713",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 10 và muốn hỏi là có phím tắt giúp ẩn hiện nhanh task bar không ạ và nếu không có thì có cách nào cài đặt phím tắt để ẩn hiện task bar nhanh không vì nếu chọn cái tự động ẩn task bar thì khi dùng các phần mềm khác task bar bị ẩn đi không thấy được ngày giờ phải rê chuột đến chỗ task bar mới hiện lên.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.528133,
+         "id": "995636",
+         "field_search": "question",
+         "question": "hiện tại e đang dùng laptop dell inspiron15 máy tính của e khi khởi động nó thường bị như thế này hoặc nếu để tối màn hình thì cũng bị,nhưng khi giữ nút nguồn một lúc thì lại lên và dùng bt.Có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.472061,
+         "id": "1023819",
+         "field_search": "question",
+         "question": "Mình đang dùng iPad Air 2. Sau khi mình cập nhật IOS 11 thì máy hiện lên màn hình khóa bình thường và yêu cầu nhập mậ khẩu. Nhưg sau đó máy hiện lên 1 màn hình trắng yêu cầu nhấn home để mở khóa nhưg khi nhấn home thì lại bảo nhập mật mã trog khi ko có bàn phím hiện lên. Giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.466963,
+         "id": "1141750",
+         "field_search": "question",
+         "question": "Ad ơi e đang dùng sony z1 .. Lúc chơi cf mobie . cái phím điều hướng nó cứ hiện lên k ẩn đc . ad giúp e ẩn với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.436678,
+         "id": "804266",
+         "field_search": "question",
+         "question": "Iphone của mình hiện đang gặp vấn đề. Khi mình muốn tải ứng dụng thì hiện ra phần đăng nhập tà khoản, mình không ấn hủy mà ấn luôn về màn hình chính và máy bắt đầu bị đơ tắt nguồn rồi khởi động lại cũng không được. Bạn có thể cho mình cách giải quyết không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.282131,
+         "id": "1149601",
+         "field_search": "question",
+         "question": "Mình đang dùng ip 6s máy bị sao đấy lại không tắt được nhạc đag phát trên máy, nút tắt k hiện lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.262161,
+         "id": "763717",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang dùng iPhone 5 mấy ngày hôm nay tự dưng máy bị đơ lúc người khác gọi tới không gạt ngang để nghe được hoặc có lúc màn hình cảm ứng bấm vào không ăn bấm cứ như không bấm,lâu lâu bấm lại thì được nhưng khi dùng lại bị giật và cứ nhảy những app không dùng lên và một số phím ở bàn phím không dùng được như phím t, f, c.....em thử nâng cấp iOS mới và tắt nguồn khỏi dộng lại, tháo khe sim lắp lại nhưng không được ạ máy em lock Nhật sài sim ghép. mong mọi người chỉ cách sửa giúp em ạ. em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.246529,
+         "id": "1154079",
+         "field_search": "question",
+         "question": "alocho hỏi khi màn hình s10 đang khóa thì hiện lên quảng cáo làm thế nào để tắt đi đươc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.214014,
+         "id": "1142803",
+         "field_search": "question",
+         "question": "Cho mình hỏi, lúc mình bật lap r nó hiện lên màn hình màu xanh sau đó hk hiện lên khung đăng nhập vào laptop, cứ bị đơ v hoài di chuyển đc mỗi con chuột",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.150595,
+         "id": "1009680",
+         "field_search": "question",
+         "question": "cho em hỏi tý. Em đang dùng máy sony m4, nhưng tự nhiên nó cứ bị tắt nguồn khởi động lại liên tục. Khi thì nó lên khi thì nó ra màn hình trắng xong lại tắt khởi động lại. Ad giúp em xem nó lỗi gì và cách khắc phục ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.149796,
+         "id": "1010086",
+         "field_search": "question",
+         "question": "cho e hỏi , máy e samsung galaxy note 3 mới mua (hàng xách tay ạ) e đang dùng thì máy sập nguồn rồi lại tự lên nguồn liên tục được lúc thì tắt hẳn , e bật lên lại thì lúc hiện 0% , lúc hiện 50%...mà e nhớ lúc sập nguồn là pin 37% cứ lên nguồn được lúc rồi lại tự tắt ạ . E sạc đầy lúc sau dùng lại vậy mà pin hết cực nhanh 1h mất cỡ 50% pin . Có phải tại pin hỏng rồi k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.099802,
+         "id": "1163848",
+         "field_search": "question",
+         "question": "Mình đang dùng ss A5 2016 máy có hiện tượng đang sạc máy nóng ran và bị tắt nguồn ko thể mở nguồn lên được nữa. Cắm sạc thì nó không nhận sạc. Ad cho m hỏi nên xử lý ntn và hiện tượng này là bị làm sao??( máy ko rơi, ko làm sao hết)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.064959,
+         "id": "1011089",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi máy mình lenovo a7000 dùng đc 1 thời gian rồi, giờ maya nút bàn phím ảo nó bị đơ như kiểu liệt bàn phím, lúc ấn đc lúc ko thì  làm sao đc vậy, xin tư vấn , cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.059217,
+         "id": "1006202",
+         "field_search": "question",
+         "question": "cho em hỏi hiện tại em đang dùng đt sam sung A7(2017), sau khi bấm cập nhật phần mềm máy e tắt và bắt đầu khởi động lại, nhưng khi màn hình hiển thị chữ samsung là nó bị đứng máy luôn, em thử tắt bằng cách bấm đồng thời nút nguồn và nút giảm âm lượng thì máy có tắt nhưng lại khởi động lại ngay lập tức và trở về trạng thái chữ samsung tiếp, cho em hỏi máy em đang bị lỗi gì và cách khắc phục, em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.056107,
+         "id": "1015262",
+         "field_search": "question",
+         "question": "Samsung j7 2016 hay tự reset lại khi nhấn phím home hoặc phím tắt màn hình,  ngày 2  3 lần. Mong được hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.915901,
+         "id": "1145061",
+         "field_search": "question",
+         "question": "Đt samsung s7 edge của em đang sài tự nhiên nó cứ hiện lên hình cái ổ khóa màu trắng xung quanh màu đen. Em cố thử tắt nguồn hay làm bất cứ cái gì nó cung chỉ như v thôi là bị sao v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.852966,
+         "id": "998179",
+         "field_search": "question",
+         "question": "Đt samsung j2 prime e ms mua đc 2 tuần mà tự nhiên nhìu lúc đâng chơi nó đưnga đơ 1 hồi rùi tắt nguồn luôn bh phải lm sao ạ😔",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.849253,
+         "id": "996121",
+         "field_search": "question",
+         "question": "dòng máy oppo r7 lik mình dùng đc 1 năm giờ thi thoảng tắt nguồn đi lại hiện toàn tiếng anh , tiếng chung , chọn tắt ko tắt đc là sao thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.830509,
+         "id": "823988",
+         "field_search": "question",
+         "question": "Cho em hỏi chút ạ. em xài ip6 plus. Thời gian gần đây máy em bị đơ, phát tắt máy đi bật lại mấy lần mới được. Còn từ hôm qua đến giờ, máy bị đơ liên tục hơn, sau khi tắt nguồn, mở lại, trên màn hình còn bị đơ, giật các sọc dọc trắng nữa ạ. Cho hỏi em phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.826439,
+         "id": "1000603",
+         "field_search": "question",
+         "question": "A cho em hỏi em dùng máy Sony Zultra.  Sao khi người ta gọi đến hay em gọi đi màn   hình bị tắt không hiện lên nữa ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.812004,
+         "id": "758170",
+         "field_search": "question",
+         "question": " Oppo neo7 bị đơ không tắt được nguồn thì làm sao hả ad ơi 3 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.7881,
+         "id": "1008819",
+         "field_search": "question",
+         "question": "Máy e tắt nguồn mở lên thì bị android đang nâng cấp cho khởi động ứng dụng mà nó ko lên mạng hình cũ chạy khởi động hoài",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.756141,
+         "id": "744357",
+         "field_search": "question",
+         "question": "Em dùng oppo R1K R8001. Máy thi thoảng bị đơ và thi thiarng bàn phím labankey không hiện ra thi muốn nhập thông tin. Vậy là bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.721216,
+         "id": "1142009",
+         "field_search": "question",
+         "question": "cho e hỏi máy samsung j7 prime bị treo hk tắt nguồn đc e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.7191105,
+         "id": "1017390",
+         "field_search": "question",
+         "question": "Điện thoại mình con 60%pin nhung lại bị tắt nguồn mở lên thi no hiện thì Android đang cập nhật hệ thống thật lâu mới lên  cho mình hỏi tai sao lại như vậy mỗi khi lên mang lại nhanh hết pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.716272,
+         "id": "1169178",
+         "field_search": "question",
+         "question": "Em mua Samsung galaxy A50 gần 1 tháng, máy có hiện tượng giật và đơ, đôi khi nhắn tin bấm phím này thì nó lại nhảy sang phím khác. Cho em hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.64076,
+         "id": "1140422",
+         "field_search": "question",
+         "question": "Có reset thử. Sau khi hiện lên chấm than thì bấm tăng âm lượng thì bị tắt màn hình.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.637446,
+         "id": "1009184",
+         "field_search": "question",
+         "question": "MÌnh hiện đang dùng máy asus zenphone 2 bản 5.5 bị hư phần nguồn bên trong máy và bể màn hình nên mình không khởi động lên được  cho hỏi bên TGDĐ có thay màn hình và sửa phần nguồn không vậy giá thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.636511,
+         "id": "1138550",
+         "field_search": "question",
+         "question": "sau khi mình nhấn khởi động lại máy asus zenfone 2 thì bị báo lỗi màn hình có hình sợi dây sạc và không thể lên nguồn được nữa. mình đã thử khởi động mấy lần nhưng vẫn không lên. sử dụng tổ hợp phím nguồn cộng volum up củng k xuất hiện chế độ recovery. mong ad chỉ cách xử lý với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.628766,
+         "id": "1016189",
+         "field_search": "question",
+         "question": "máy mình là samsung galaxy j2 , tự dưng bị đơ và không mở được pass , cũng ko tắt màn hình được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.621192,
+         "id": "1134799",
+         "field_search": "question",
+         "question": "điện thoại android cứ tắt nguồn mở lên lại hiện đang khỏi động android. làm sao để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.570098,
+         "id": "771216",
+         "field_search": "question",
+         "question": " Điện thoại Oppo R1001 sao tự tắt nguồn và mở lên thì nó hiện lên chữ Oppo rồi nó tắt lại ạ, sao bị hoài vậy ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.546682,
+         "id": "1142678",
+         "field_search": "question",
+         "question": "máy em là samsung j7, máy xài pin rất thất thường khi đang xài máy còn khoảng 35-40% thì tự động tắt nguồn và sạc gắn sạc thì nó hiện 1%. cho em hỏi máy bị sao ạ khắc phục đc ko ạ? (em có đem máy lên hãng kiểm tra và ngta bảo thông số kỹ thuật bình thường)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.53986,
+         "id": "1156902",
+         "field_search": "question",
+         "question": "Em đang dùng samsung galaxy a50 .cứ mỗi lần nhất lên là màn hình dt lại sáng.cho e hỏi làm sao để tắt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.526648,
+         "id": "1009159",
+         "field_search": "question",
+         "question": "Q Edgy của em hay bị lỗi WIFi nhiều khi bật wifi thì không hiện phải khởi động lại hoặc tắt nguồn mới đc ? có thể khác phục đc không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.522011,
+         "id": "1136028",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi tí. Mình đang dùng đt Samsung A7 2018. Khi mình dùng instagram, nếu vào bình luận hay gửi tn thì hoặc chỉ hiện khung bàn phím mà không hiện khung chữ đang gõ hoặc mình thoát khung bàn phím ra thì mới thấy khung chữ. Có cách nào khắc phục được ko vậy Ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.484489,
+         "id": "1000234",
+         "field_search": "question",
+         "question": "Tôi mua samsung j5 prime hồi T1/2017, nhưng hay bị lỗi.1. đang thực hiện cuộc gọi ỏ nghe thì tắt nguồn2. máy bị đơ màng hình 3. Tất cả tin nhắn viber đến điều nhận, gửi đi ko được.Vậy máy bị lỗi gì, cách khắc phuc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.473076,
+         "id": "1134992",
+         "field_search": "question",
+         "question": "Điện thoại của em bị vấn đề là nhấn mở nguồn vẫn lên logo samsung nhưng đc 3 giây rồi tắt ngúm. Vậy cần khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.462588,
+         "id": "1022101",
+         "field_search": "question",
+         "question": "anh chị cho tôi hỏi, iphone 4 sạc bị chớp tắt màn hình mà nó không mở máy lên là sao ak? đợi tầm 15-50 phút vẫn không lên. bấm nguồn + phím home 10s cũng không được T^T",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.454301,
+         "id": "996692",
+         "field_search": "question",
+         "question": "Samsung A5 2017 của tôi khi sạc tự nhiên màn hình sáng lên 7 màu không hiện lên bất cứ cái gì ? Tôi phải tắt đi thì mới hết nhưng có lúc no lại tự sáng lên như thế 1 hoặc 2 lần nữa, vậy cho tôi hỏi Samsung A5 2017 của tôi đang bị gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.454034,
+         "id": "923957",
+         "field_search": "question",
+         "question": "Hiện tại mình đang xài cây 5s mà sao nó cứ tắt nguồn hoài, lúc dùng thì không sao lúc mà mình không dùng thì máy tự tắt nguồn. mình đã thay pin rồi mà vẫn bị. vậy cho hỏi máy mình bị gì vậy? xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.453175,
+         "id": "1010059",
+         "field_search": "question",
+         "question": "ad ơi hiện tại em đang dùng máy philips w6610,tình trạng của nó hiện đang dùng bình thường khi vừa tắt máy bật lại điện thoại đen xì màn hình và cắm sac không hiện đèn báo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.449676,
+         "id": "789212",
+         "field_search": "question",
+         "question": "Hiện máy iphone 6 của mình bị đơ, mình đã đặt lại cài đặt nhưng giờ nó chỉ hiện lên màn hình trắng khởi động với trái táo suốt. Vậy máy mình đang bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.439674,
+         "id": "1016970",
+         "field_search": "question",
+         "question": "ad tư vấn giúp e với lap e mới mua đc gần 2 tháng ... e ko biết n bị j mà đang dùng tab cốc cốc thì bỗng dưng ntab đó bị đơ tắt ko đc tắt thì báo lỗi ... mà nhạc trong tab đó vẫn chạy bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.42994,
+         "id": "1146816",
+         "field_search": "question",
+         "question": "Nokia 8.1 khi gắn tai phone thì máy bị tắt nguồn  không tắt ngay mà tắt sau khi màn hình ở ché độ nghỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.4115095,
+         "id": "997383",
+         "field_search": "question",
+         "question": "Máy sony M2 của em đang chơi game thì bị tắt màn hình. Khi bật lên thì màn hình đen. Gọi đi thì cũng không lên màn hình khóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.403757,
+         "id": "840182",
+         "field_search": "question",
+         "question": " Tắt thÔng báo hiện lên như ở zalo như nào shop minh dùng Samsung s7 e ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

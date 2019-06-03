@@ -1,0 +1,809 @@
+{
+   "id_query": "1164336",
+   "total": 28675,
+   "total_current": 100,
+   "max_score": 85.18475,
+   "origin_question": "máy huawei nova 3i không gửi được tin nhắn đến tổng đài. giúp mk cách giải quyết vs ạ thanks!",
+   "hits": [
+      {
+         "score": 85.18475,
+         "id": "1164336",
+         "field_search": "question",
+         "question": "máy huawei nova 3i không gửi được tin nhắn đến tổng đài. giúp mk cách giải quyết vs ạ thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.475327,
+         "id": "1023390",
+         "field_search": "question",
+         "question": "Cách khắc phục lỗi tin nhắn gửi tổng đài không được trên sony XA",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.208088,
+         "id": "999099",
+         "field_search": "question",
+         "question": "Em gửi tin nhắn cho tổng đài không được. Em xài j2 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.01208,
+         "id": "1010347",
+         "field_search": "question",
+         "question": "sau điện thoại của e không gửi được tin nhắn cho tổng đài 191,155,,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.461798,
+         "id": "799012",
+         "field_search": "question",
+         "question": "E dùng iphone 5s,nhưng khi đăng kí smsbank trên cây rồi mà gửi tin nhắn đến tiổng đài 8170 của vietcombank mà vẫn không nhận được tin phản hồi,gọi tổng đài thì họ nói gửi rồi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.31869,
+         "id": "1013783",
+         "field_search": "question",
+         "question": "Cho mình hỏi bật máy Obi không nhắn được tin nhắn đến tổng đài thi cài đặt lại như thế nào? Cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.756445,
+         "id": "1131125",
+         "field_search": "question",
+         "question": "Em mới cập nhật phần mềm. Thông báo tin nhắn cuộc gọi nhỡ đều không báo ạ. Với em không gửi được tin nhắn cho tổng đài phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.37559,
+         "id": "938476",
+         "field_search": "question",
+         "question": " Em sài j7 preim dùng sum mobi nhưng s k gửi tin nhắn cho tổng đài đc ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.278877,
+         "id": "1000454",
+         "field_search": "question",
+         "question": "giúp mình với bạn sài Sony X mình bị gửi tin nhắn tổng đài không được. Minh bấm cài lại dữ liệu nhà SX. giờ mình mất hết dữ liệu trong máy giờ mình muốn khôi phục lại làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.710133,
+         "id": "1153859",
+         "field_search": "question",
+         "question": "Mình dùng máy Huawei y9 2019, tại sao vào messages nhắn tin cho các tổng đài như 9029, 999,...đều bị lỗi 38, mặc dù mình đã cho phép mấy gửi SMS cao cấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.866875,
+         "id": "1002307",
+         "field_search": "question",
+         "question": "anh chị cho e hỏi e đang dùng samsung galaxy j5 prime hôm nay e có gửi tin nhắn lên tổng đài thì máy hiện lên cho phép hay là không cho phép gì đấy e vội quá ấn nhầm vào phần k cho phép thì phải bây giờ gửi tn lên tổng đài k được nữa giờ làm sao ạ mong ac giúp e.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.653671,
+         "id": "942472",
+         "field_search": "question",
+         "question": "Quên mật khẩu nên gửi tin nhắn tới tổng đài 8037 thì nhận được mã kích hoạt nhưng lại thông báo là mã không đúng lá sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.585314,
+         "id": "1017058",
+         "field_search": "question",
+         "question": "Tôi dùng ss j5 pr Sao tôi gửi tin nhắn cho tổng đài mà mà nó cứ báo như này là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.992828,
+         "id": "752968",
+         "field_search": "question",
+         "question": "Tôi hiện tại đang dùng iPhone 6+ hiện trạng bây giờ điện thoại của tôi rơi vào tình trạng nhận được cuộc gọi và gửi tin nhắn, tra cước ok, nhưng muốn gọi đi đến 1 thuê bao bình thường hoặc tổng đài là không gọi được. Tôi đã cài đặt là mạng, xoá tất cả nội dung đã cài đặt, nhưng mấy hôm sau lại bị. Mong ad có cách nào giải quyết hộ tôi. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.476814,
+         "id": "1140057",
+         "field_search": "question",
+         "question": "em mua trả góp máy huawei nova 3i được 13 ngày rồi giờ muốn đổi sang máy huawei nova 3 có dược không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.294481,
+         "id": "1164857",
+         "field_search": "question",
+         "question": "Huawei nova 3i của em bật 4G nhưng ko hiển thị có cách nào giúp em ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.248518,
+         "id": "1137091",
+         "field_search": "question",
+         "question": "ad cho mình hỏi chút, mình đang sử dưng huawei nova 3i Mình muốn hiển thị thông báo trạng thái face hoặc tin nhắn của zalo, viber ra mình hình chờad có thể chỉ cách giúp mình không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.992315,
+         "id": "1142685",
+         "field_search": "question",
+         "question": "Dạ em sử dụng J7 2016 mà mỗi lần e gửi tin nhắn cho tổng đài mà nó cứ báo lỗi như này, em phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.541,
+         "id": "1148471",
+         "field_search": "question",
+         "question": "Em xài Huawei nova 3i, e quay video 22 giây, nhưng gửi còn 8 giây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.401161,
+         "id": "1139170",
+         "field_search": "question",
+         "question": "Máy nova 3i có đèn led màu báo tin nhắn ở phía trước ko???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.808693,
+         "id": "1155058",
+         "field_search": "question",
+         "question": "Chào ad.. Máy huawei bị nóng có cách nào giải quyết k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.387068,
+         "id": "996773",
+         "field_search": "question",
+         "question": "Cánh khắc phục lỗi SMS . Điện thoại wIKO k-kool gửi SMS cho tổng đài Viettel 109 mà bị lỗi không gửi được chỉ em cách khắc phục lỗi đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.908705,
+         "id": "676651",
+         "field_search": "question",
+         "question": " Tại sao tôi không gửi được tin nhắn đến đầu số 191 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.787153,
+         "id": "1149323",
+         "field_search": "question",
+         "question": "Cho em hỏi cách tắt mã pin mở khóa màn hình trên huawei nova 3i đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.546015,
+         "id": "1142331",
+         "field_search": "question",
+         "question": "cho em.hỏi e sử dụng vivo y53 mà máy không nhận được tin nhắn tới. gđt tổng đài thì sim vẫn bình thuờng, bộ nhớ máy vẫn đủ. vậy giờ em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.503319,
+         "id": "1137144",
+         "field_search": "question",
+         "question": "cho em hỏi e dùng điện thoại vivo v11i mà sao không gửi được tin nhắn cho tổng tài 999 191",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.267902,
+         "id": "1153439",
+         "field_search": "question",
+         "question": "Mình mới update con iphone 6 của mình lên ios 12.1.4 và giờ nó k báo lỗi \"K có dịch vụ\", k thể nghe gọi hay nhắn tin được. Vào wifi vẫn được nhưng k thể bật 3G. Cho mình hỏi cách giải quyết với ạ. Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.125633,
+         "id": "1146511",
+         "field_search": "question",
+         "question": "Không gửi được tin nhắn trên hawaii j7pro. Ad giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.119005,
+         "id": "1013611",
+         "field_search": "question",
+         "question": " Ad giúp mình cách khắc phục bị chặn tin nhắn khi gửi đến các đầu số ngắn 8xxx hoặc 333... nhé  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.920639,
+         "id": "1001437",
+         "field_search": "question",
+         "question": "Em không gửi được tin nhắn trên điện thoại zte blade v7 lite, bình thường vẫn gửi được, mong mọi người chỉ em cách gửi tin nhắn lại như bình thường ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.889774,
+         "id": "744611",
+         "field_search": "question",
+         "question": " Mình không gửi được tin nhắn MMS trên máy Samsung J5, trả lời giúp mình nha 09752660XX ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.706802,
+         "id": "816401",
+         "field_search": "question",
+         "question": "Mình gửi tin nhắn zalo cho ngta lúc ng đó chưa onl, tin nhắn hiện chữ \"đã gửi\". Sáng hôm sau thấy người ấy onl rồi, nhưng tin nhắn vẫn chỉ hiện chữ \"đã gửi\" thôi. Như vậy thì tin nhắn đã được gửi đến người nhận chưa? Có cần thiết phải gửi lại lần nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.668472,
+         "id": "1021972",
+         "field_search": "question",
+         "question": "E sai zumbo j2 ,gan hai sim viettel vào máy .người ta gửi tin nhắn đến may không hien thi là den sim nào hết vậy,chi biết là có tin nhắn đến chu k biết gửi đến sim nào het",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.66555,
+         "id": "1149088",
+         "field_search": "question",
+         "question": "cho mình hỏi nếu mua máy ở 1 tiệm nhưng đến lúc bảo hành về sự cố máy bị đứng ứng dụng, ứng dụng ko phản hồi thì đến tgdd khác bảo hành đc ko ạ. Mới mua máy huawei nova 3i cách đây 2 ngày ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.64209,
+         "id": "1144254",
+         "field_search": "question",
+         "question": "Emui 9.0 của Huawei khi nào cập nhật cho nova 3i ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.63691,
+         "id": "1013523",
+         "field_search": "question",
+         "question": "mobell bị huawei mua lại máy nova P2 rùi ạ?Sao thegioigdidong có đưa tin Huawei có huawei NOVA P2 là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.584747,
+         "id": "803089",
+         "field_search": "question",
+         "question": "Khi đăng nhập vào Tango tôi nhận được thông báo Thiết bị của bạn đã bị chặn bấn vào đây để biết thêm thông tin tin http bit.ly DBlocked Xin giúp tôi giải quyết vấn đề này. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.466808,
+         "id": "803090",
+         "field_search": "question",
+         "question": "Khi đăng nhập vào Tango tôi nhận được thông báo Thiết bị của bạn đã bị chặn bấn vào đây để biết thêm thông tin tin http bit.ly DBlocked Xin giúp tôi giải quyết vấn đề này. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.416315,
+         "id": "1022633",
+         "field_search": "question",
+         "question": "Mình muốn gửi tin nhắn đến một số mới trên htc 728 giúp mình nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.393486,
+         "id": "1148170",
+         "field_search": "question",
+         "question": "Thay mặt kính màn hình ngoài của huawei nova 3i hết bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.351358,
+         "id": "820027",
+         "field_search": "question",
+         "question": "Mấy hôm nay, viber trên MacBook của tôi không thể sync tin nhắn từ người khác gửi đến cho tôi. Nó chỉ sync những tin nhắn từ điện thoại của tôi gửi đi. Nó ko thể nhận và gửi được tin nhắn trên macbook. Vui lòng hướng dẫn cách khắc phục. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.349176,
+         "id": "1135378",
+         "field_search": "question",
+         "question": "Ad có thể tính tổng tốc độ CPU của huawei nova 2i đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.291782,
+         "id": "997246",
+         "field_search": "question",
+         "question": "Tại sao nhắn tin mặc định của máy galaxy J2 prime không gửi tin nhắn được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.202263,
+         "id": "803147",
+         "field_search": "question",
+         "question": "Khi đăng nhập vào Tango tôi nhận được thông báo Thiết bị của bạn đã bị chặn bấn vào đây để biết thêm thông tin tin http bit.ly DBlocked Xin giúp tôi giải quyết vấn đề này. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.185263,
+         "id": "986791",
+         "field_search": "question",
+         "question": " Nếu máy em báo bộ nhớ tin nhắn đầy mà có người gửi tin nhắn đến thì chuyện gì sẽ xảy ra ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.154036,
+         "id": "1162644",
+         "field_search": "question",
+         "question": "Mình mới mua máy huawei nova 3i được 2 tuần thì giờ muốn đổi oppo f11 thì bù bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.107422,
+         "id": "1138813",
+         "field_search": "question",
+         "question": " Mình mới mua điện thoại huawei nova 3i cách đây 2 tháng, giờ bị bể miếng kính chỗ camera thì có thay được ko ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.041294,
+         "id": "1162597",
+         "field_search": "question",
+         "question": "Thay mặt kiến  huawei nova 3i giá  bao nhiêuTiền vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.024364,
+         "id": "1153316",
+         "field_search": "question",
+         "question": "cho em hỏi máy em huawei nova 3i  nóng lên là bị khởi động lại có sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.981903,
+         "id": "918768",
+         "field_search": "question",
+         "question": "Giúp mình với ạ!!!mình bị mất điện thoại và đã gọi tổng đài để khóa sim vậy tài khoản zalo của mình có được an toàn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.938602,
+         "id": "922293",
+         "field_search": "question",
+         "question": "Khi đã xóa bộ nhớ đệm trong máy, có tải lại được tin nhắn trên kakaotalk được không nếu được thì làm cách nào ạ? Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.856255,
+         "id": "997593",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mk dùng huawei y5ll tại sao mk cài đặt nhạc chuông tin nhắn rồi mà sao nó k kêu yh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.730225,
+         "id": "1142898",
+         "field_search": "question",
+         "question": "Mi A2 không gửi được tin nhắn . mình tìm chỗ trung tâm tin nhắn để cài mã cũng ko có mong ad trợ giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.511204,
+         "id": "1007787",
+         "field_search": "question",
+         "question": "- điện thoại em không hiển thị tin nhắn gửi tới. k biết máy em bị sao ạ. - gửi đi vẫn được nhưng người khác gửi đến máy em thì không hiển thị. hiện em đang xài lenovo a6020a40.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.4972,
+         "id": "760839",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ, em dùng iPhone 4s, em có gửi tin nhắn cho bạn nhưng nó hiện chưa gửi được trong khi điện thoại bạn em vẫn bình thường. Sau đó bạn em nhắn tin thì em không nhận được tin nhắn của bạn, khi vào mục tin nhắn em thấy có tin nhắn từ em được gửi đi trả lời số tin nhắn bạn em gửi mặc dù em không cho ai mượn cả. Admin có biết vì sao không ạ??? Em đang rất thắc mắc. Admin trả lời giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.403229,
+         "id": "1163077",
+         "field_search": "question",
+         "question": "Đăng ký 4g r nhưng khi bật thì không hiện trên màn hình huawei nova 3i và không sài được 4g",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.326044,
+         "id": "1151232",
+         "field_search": "question",
+         "question": "chuyển từ android 9.0 xuống 8.1 trên huawei nova 3i sao a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.284058,
+         "id": "894998",
+         "field_search": "question",
+         "question": " Làm sao biết điện thoại có icloud hay không ạ có sdt tổng đài tư vấn không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.212727,
+         "id": "997147",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi mình đang dùng s7 mà quên mk màn hình chỉ sử dụng được vân tay, xong mình khởi động lại nó bắt nhập mk giờ tắt nguồn không đượcmà vào máy không được có cách nào giải quyết không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.181383,
+         "id": "998441",
+         "field_search": "question",
+         "question": "AD cho hỏi là mình để số đt ở đây thì có tổng đài tư vấn miễn phí k ạ , tại mình muốn gọi vậy cho tiện . không thì ad cho mình số đt tổng đài tư vấn luôn ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.160358,
+         "id": "1020577",
+         "field_search": "question",
+         "question": "Samsung J7 Prime trong FB không gửi được tin nhắn messenger ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.158997,
+         "id": "1164675",
+         "field_search": "question",
+         "question": "Đt của mk là lumia nhưng bh k sử dụng Fb được vậy h mk phải làm saomà mk gửi tin nhắn trên fb lúc nào cũng phải kèm icon",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.141186,
+         "id": "1162517",
+         "field_search": "question",
+         "question": "e mua điện thoại huawei nova 3i được 1tháng rồi giờ e muốn đổi màu khác thì mất bao nhiêu phí ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.134048,
+         "id": "892551",
+         "field_search": "question",
+         "question": "Hi chi mình hỏi thông tin viberSo dt: 0939455252 mình tại sao nhận duoc tin nhắn từ bạn bè, nhưng khi mình gửi lại tin nhắn được mà bên kia không nhìn thấy tin nhăn mình gửi, bạn có thể giúp mình không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.0326,
+         "id": "908722",
+         "field_search": "question",
+         "question": " tôi hay bị thoát zalo và mỗi lần này đăng nhập lại tổng đài ko cung cấp mã code mag bắt phải nhắn tin mất tiền là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.019382,
+         "id": "924487",
+         "field_search": "question",
+         "question": "có một số tin nhắn bạn tôi đã gửi trước đó 5 tiếng nhưng tôi mở viber không thấy tin nhắn nhưng tôi khởi động lại máy thì mới thấy tin nhắn đã gửi cách đó 5 giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.014374,
+         "id": "1137166",
+         "field_search": "question",
+         "question": "ac cho e hỏi đt Huawei Nova 3i khi hư hỏng có linh kiện thay k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.98018,
+         "id": "1000372",
+         "field_search": "question",
+         "question": "Em gửi tin nhắn SMS thì xuất hiện lỗi: Hiện tại không gửi được tin nhắn. Sẽ gửi khi có dịch vụ. Em vẫn có thể gọi được nhưng không nhắn tin được. Em xài Samsung A7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.940823,
+         "id": "847001",
+         "field_search": "question",
+         "question": "Cần gấp :Mình xài iphone , nhưng gửi tin nhắn sms không được , mặc dù đã tắt imessager đi rồi nhưng vẫn không gửi được tin nhắn , nó báo là \" CHƯA GỬI ĐƯỢC \" . Gíup mình với , cảm ơn ạ ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.925592,
+         "id": "1139988",
+         "field_search": "question",
+         "question": "Bán lại máy cũ mua của tgdd giá như thế nào vậy. Huawei nova 3i. Nứt màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.925592,
+         "id": "1161410",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại mình mỗi khi mở máy đều hiện lên ntn, đt huawei nova 3i ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.8251,
+         "id": "1135136",
+         "field_search": "question",
+         "question": " Như Thế Này Là Sao Mn Chỉ Giúp Mình cách Giải Quyết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.800608,
+         "id": "1160561",
+         "field_search": "question",
+         "question": "Mình có mua máy Huawei Nova 3i tại TGDĐ q2 vào ngày 29/1/2019 với giá 6.490.000 đến thời điểm hiện tại bên TGDĐ thu máy vào với giá thế nào ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.744791,
+         "id": "1001546",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng Sony z5. Khi nhắn tin đăng ký gói 3g cả 2 nhà mạng Vinaphone và Mobile đều kg được. Báo lỗi \"Không thể gửi!\". Hỏi nhà mạng, họ nói do cài đặt \"bảo mật về tin nhắn...\" trên máy. Nhưng tôi kg tìm và kg khắc phục được. Xỉn Admin chỉ dẫn giúp! Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.679142,
+         "id": "1139484",
+         "field_search": "question",
+         "question": "Em dùng máy huawei nova 3i moiws được 2 tuần thì bắt đầu thấy hiện tượng mấy nóng lên vậy đó có phải lỗi do phần cứng hay do máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.562399,
+         "id": "1168644",
+         "field_search": "question",
+         "question": "Cho e hỏi Điện thoai huawei nova 3i xem youtube, nghe zing không có âm thanh chỉ cắm tai nghe mới nghe được là bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.547935,
+         "id": "1010428",
+         "field_search": "question",
+         "question": "Tin nhắn điện thoại của mình cứ hiện đang gửi. Khởi động lại máy vẫn bị. Tin nhắn gửi đến vẫn nhận như bình thường,  còn gửi đi nó cứ hiện đã gửi.  Cả 2 sim viettel và vietnam mobile đều bị.  Anh chị cho e hỏi là lỗi gì ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.523584,
+         "id": "990511",
+         "field_search": "question",
+         "question": "Một số cách giải quyết lỗi không bấm được phím Delete trên laptop ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.50609,
+         "id": "1158500",
+         "field_search": "question",
+         "question": "E muốn hỏi e đang trả góp đt huawei nova 3i giờ e muốn bán lại và chuyển sang hãng khác được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.496803,
+         "id": "1159100",
+         "field_search": "question",
+         "question": "Kính camera huawei nova 3i của e bị bể 1 phần thay bao nhiu. Trong bao lâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.448473,
+         "id": "1019142",
+         "field_search": "question",
+         "question": "Cho mk hỏi. Máy huawei y5c có kết nối wifi dc vs dòng máy khác dc k ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.444326,
+         "id": "1161982",
+         "field_search": "question",
+         "question": "Mình có máy huawei nova 3i muốn đổi lên máy huawei mate 30lite...mình muốn đổi đời máy..nên mình muốn hỏi xem bên mình có chương trình hỗ trợ đổi máy không máy nhỉ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.431242,
+         "id": "1144602",
+         "field_search": "question",
+         "question": "Mình dùng máy Huawei nova 3i nghe một số bài nhạc thì loa bị rè, như thế loa cí bị làm sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.430855,
+         "id": "874996",
+         "field_search": "question",
+         "question": "Cho em hỏi. Messenger của em cứ hiển thị \"Không thể hiển thị các tin nhắn\". Em gửi tin nhắn cho bạn em thì thấy không gửi được nhưng bạn em lại xem được. Còn bạn em thì không thể gửi được cho em. Sau khi em xoá app đi và cài lại sau khi đọc được vài hướng dẫn trên mạng thì các tin nhắn của em mất sạch và vẫn có tình trạng \"Không thể hiển thị các tin nhắn\". Hãy giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.356594,
+         "id": "815803",
+         "field_search": "question",
+         "question": "Em xài điện thoại mobiistar touch s07, mỗi lần gửi tin nhắn là không được, nó cứ hiện lên: ''Hiện không thể gửi tin nhắn, dịch vụ không khả dụng. tin nhắn sẽ được gửi khi dịch vụ khả dụng.'' là sao ạ. Điện thoại màu trắng và nhìn như điện thoại samsung bên dưới vậy ạ.​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.344124,
+         "id": "761756",
+         "field_search": "question",
+         "question": " Mình đang dùng iPhone 5 nhưng bạn bè gửi tin nhắn video đến qua zalo mình không xem được phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.312693,
+         "id": "998793",
+         "field_search": "question",
+         "question": "Cách Huỷ gói đăng ký facebook và huỷ chặn tổng đài 191",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.30885,
+         "id": "1148055",
+         "field_search": "question",
+         "question": "Tin nhắn không gửi được phải làm sao. Máy j7pro có thể tự phục hồi được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.28502,
+         "id": "1151738",
+         "field_search": "question",
+         "question": "Hi shop, hướng dẫn cách cài chuông tin nhắn của huawei y9 2019 voiws ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.281364,
+         "id": "779766",
+         "field_search": "question",
+         "question": "Messenger không thể gửi tin nhắn thoại (Voice message) là tại vì sao ạ ? tin nhắn load rất lâu nhưng tin nhắn thoại chỉ có 5s thôi và cuối cùng Messenger báo lỗi ko gửi đc. Mình đã thử nhiều cách như update, tắt nguồn máy, xóa Mess và cài lại những vẫn không dùng được !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.240736,
+         "id": "1153353",
+         "field_search": "question",
+         "question": "Tôi mới mua điện thoại Samsung A7 cỡ 1 tháng trước. Nhưng bây giờ trong máy lại hiện thông tin \"Thẻ sim không được chấp nhận\" và không thể gọi điện hay nhắn tin cho ai. Giờ tôi phải giải quyết như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.180685,
+         "id": "1156873",
+         "field_search": "question",
+         "question": "Cho m hỏi chút ạ, m đang dùng Samsung j4 plus mà m không gửi dc tin nhắn đến 191 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.135553,
+         "id": "816462",
+         "field_search": "question",
+         "question": "Ad cho em hỏi tí ạ: em đang dùng ios 7. không biết sao tin nhắn từ người lạ gửi đến e ko đọc được và ko gửi lại đươc. Kết bạn rồi cũng ko chat được, lên máy tính thì chat bình thường ạ. ad giúp e khắc phục lỗi này với ạ. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.06316,
+         "id": "886136",
+         "field_search": "question",
+         "question": "Cho em hỏi là messenger của các bạn e vẫn gửi được tin nhắn bình thường mà sao máy e gửi mãi không được ạ, như vậy có phải do máy không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.016094,
+         "id": "1156857",
+         "field_search": "question",
+         "question": "Em đang dùng Huawei Y7 Pro 2019 bằng ứng dụng video call của Zalo thì bị đứng máy và giờ thì máy bị đơ, mang ra cửa hàng để giải quyết được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.001064,
+         "id": "1160110",
+         "field_search": "question",
+         "question": "chào shop cho mình hỏi huawei nova 3i nếu mua ko có quà tặng thì giá còn bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.990725,
+         "id": "1009537",
+         "field_search": "question",
+         "question": "Tôi dùng ĐT Sony  xperia z3, Tôi đã lưu tên vào danh bạ, khi có người nhắn tin đến thì điện thoại hiện số +84xxxxxxxxxx mà không hiện tên, khi nhắn tin trả lời lại thì không gửi được. Giúp tôi với, ĐT Sony phiền phức quá....chán",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.939995,
+         "id": "773789",
+         "field_search": "question",
+         "question": "Mình đang dùng điện thoại Masstel M503 và dùng sim viettel đầu 0167 sim của mình vẫn nghe gọi bình thường nhưng khi gửi tin nhắn thì không gửi được. Mà nếu gửi được có khi chờ mất hàng tiếng đồng hồ. Mong QTV giải thích giúp mình với. Thân.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.930223,
+         "id": "1157857",
+         "field_search": "question",
+         "question": "Điện thoại huawei nova 3i của e mới mua được 4 tháng còn trả góp... E muốn bán lại và đổi sang hãng khác có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.92031,
+         "id": "993332",
+         "field_search": "question",
+         "question": "  Thế giói di động cho mình hỏi ! Tin nhắn mình ko có gì mà báo dung lượng gần 6gb ! Cho mình hỏi hướng giải quyết",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,809 @@
+{
+   "id_query": "924978",
+   "total": 32086,
+   "total_current": 100,
+   "max_score": 74.25459,
+   "origin_question": " Ad ơi điều khiển công tắc iphone của em không định vị được khuôn mặt giờ em phải làm sao ạ ",
+   "hits": [
+      {
+         "score": 74.25459,
+         "id": "924978",
+         "field_search": "question",
+         "question": " Ad ơi điều khiển công tắc iphone của em không định vị được khuôn mặt giờ em phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.383106,
+         "id": "781383",
+         "field_search": "question",
+         "question": " iphone 4s của em có hiện dòng  bấm nút Home 3 lần để dừng điều khiển công tắc. em phải làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.012243,
+         "id": "812559",
+         "field_search": "question",
+         "question": " iphone của em bị dính virus rồi ad ơi, giờ phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.564756,
+         "id": "769730",
+         "field_search": "question",
+         "question": "Em vừa bị mất cái iPhone 5 tối qua, khi e gọi thì vẫn đổ chuông, không ai bắt máy, định vị thì báo ngoại tuyến e phải làm sao đây ạ, lên find friend trên máy tính thì không xác định được vị trí. giúp e với QTV ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.909443,
+         "id": "1159742",
+         "field_search": "question",
+         "question": "dạ cho em hỏi điện thoại của em là iphone Xs max em đã tháo sim và tắt định vị tắt tìm iphone vậy người khác có thể định vị được em không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.620232,
+         "id": "796305",
+         "field_search": "question",
+         "question": "iPhone 5s mà mới bị mất tối qua mà em chỉ mới bật icloud tìm iphone thôi ko mở định vị mà giờ đt e tắt nguồn rồi..giờ có cách nào định vị được không chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.460377,
+         "id": "772829",
+         "field_search": "question",
+         "question": " iPhone bị mất nhưng không bật định vị phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.459557,
+         "id": "804652",
+         "field_search": "question",
+         "question": " iphone mới update ios bấm vào siri. không điều khiển được nữa . anh chị giúp em với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.306877,
+         "id": "765160",
+         "field_search": "question",
+         "question": " ad ơi iPhone của em bị dính iCloud, giờ làm sao bẻ khóa được đấy, ai chỉ giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.289131,
+         "id": "742625",
+         "field_search": "question",
+         "question": "Cho em hỏi sao em vào thời tiết của oppo neo 7 mà điện thoại báo không định vị được và thêm thành phố là sao.trong khi em đã bật định vị rồi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.901373,
+         "id": "996487",
+         "field_search": "question",
+         "question": "Sao điều khiên công tắc mình k bật On dc minh xài ip 6s 64gb  ios 9.3.2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.627798,
+         "id": "790405",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 5s có chức năng nào chỈ chạm màn hình là mở được khóa. Không phải dùng nút điều khiển k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.61623,
+         "id": "1156245",
+         "field_search": "question",
+         "question": "Tôi dùm dt ss A6 lúc trước vào zalo định vị vị trí quét xung quanh dc sao giờ vào quét định vị vị trí k dc vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.460466,
+         "id": "1161837",
+         "field_search": "question",
+         "question": "Iphone không nâng cấp đc hệ điều hành em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.365044,
+         "id": "1147637",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em bị người khác cài định vị, vậy làm sao để không bị nữa ạ? Gmail em cũng đã xoá khỏi máy rồi mà vẫn bị vậy phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.316277,
+         "id": "1146344",
+         "field_search": "question",
+         "question": "cho e hỏi e muốn đổi mở khóa bằng khuôn mặt người khác thì phải làm sao.vì đt của ck e mà e lỡ để khóa khuôn mặt e nên jo e muốn đổi lại mặt ck e ạe cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.267153,
+         "id": "1148753",
+         "field_search": "question",
+         "question": "anh chị ơi giúp em với,em làm mất điên thoại samsung j6 2018 mà nếu không có mật khẩu samsung cloud thì có bẻ được khóa điện thoại không ạ,. E đã thử lên trang find my phone để định vị nhưng không có kết nối internet nơi điện thoại nên k định vị được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.185415,
+         "id": "1159359",
+         "field_search": "question",
+         "question": "Ad ơi em mới mua máy oppo f7 128g đc gần một năm mà gần đây máy có hiện tượng như tự điều khiển ấy ,đầu tiên máy có hiện tượng chập chờn như yếu điện xong sau đó mà máy tự điêù khiển ,em không biết làm thế mong ad giúp cho ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.079733,
+         "id": "1020718",
+         "field_search": "question",
+         "question": "cho e hỏi điện thoại có chủ dịch vụ định vị bây giờ phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.003925,
+         "id": "832933",
+         "field_search": "question",
+         "question": "Thế Giới Di Động ơi, cho em hỏi:Máy tính DELL của em đang sử dụng hệ điều hành Windows 8.1 Single Language, người ta nói hệ điều hành này mạnh lắm, nhưng sao hiện nay em thấy cái máy của em rất chậm, làm gì cũng chậm hết, giờ em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.90082,
+         "id": "1018445",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi. con mobiistar prime X của em bị bung mặt sau. Cho em hỏi có thay được không ạ. Thanks ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.892666,
+         "id": "766019",
+         "field_search": "question",
+         "question": "Anh ơi sao iPhone 5s của em vừa mua hôm nay sáng vẫn sài bình thường nhưng bây giờ bàn phím không hoạt động, nhập số không được, em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.890642,
+         "id": "1160616",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi iphone bị bạn lấy cấp mà dung gmail có định vị đc k ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.804907,
+         "id": "1006260",
+         "field_search": "question",
+         "question": "adm cho em hỏi xíu, em mới bị Kẻ xấu lấy trộm ĐT S7 em muốn định vị vị trí của máy hiện tại ở đâu có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.74287,
+         "id": "948505",
+         "field_search": "question",
+         "question": " ad ơi.. giờ ituns của e quên mk.. quên cả email giờ k tải fb.,, zalo hoặc cái khác k đc.. giờ em phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.361504,
+         "id": "1153385",
+         "field_search": "question",
+         "question": "Cho em hỏi cách cài bảo mật khuôn mặt trên  xiaomi redmi 6 ạ . Với lại em xài 2 máy xiaomi redmi 6 y chang nhau ,mà 1 máy có bảo mật khuôn mặt.  1 máy không có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.322727,
+         "id": "761125",
+         "field_search": "question",
+         "question": "Ad ơi. Cách đây vài tháng khi người bạn ở hà nội gui cho mình bức hình bằng viber. Trong khi gửi có định vị. Và mình lấy tấm hình này chuyển tiếp  cho một bạn ở sài gòn. Người bạn ở sài gòn nhận được tấm hình này và bấm xem định vị và thấy tấm hình trên vẫn thấy định vị ở hà nội mặc dù mình ở đà nẵng chuyển tiếp hình của bạn đó thôi, nhưng giờ mình cũng làm như vậy nó không định vị chỗ cũ nữa, mà nó định vị lúc mình gửi. Không biết viber có bị lỗi j không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.282022,
+         "id": "1154474",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi làm sao ẩn phím điều hướng trên j4 core vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.223738,
+         "id": "1160336",
+         "field_search": "question",
+         "question": "Ad ơi em vừa làm rơi nứt mặt kính điện thoại j2pro cho em hỏi có thể thay mặt kính đó được không ạ và nếu thay thì giá bao nhiêu ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.157719,
+         "id": "1144764",
+         "field_search": "question",
+         "question": " Giờ điện thoại em ,mà em quên mặt khẩu ứng dụng giờ làm sao đặt lại được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.14227,
+         "id": "1009892",
+         "field_search": "question",
+         "question": "AD cho mình hỏi về chính sách bảo hành điều khiển thông minh của tivi Samsung",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.099152,
+         "id": "757549",
+         "field_search": "question",
+         "question": "Cho em hỏi là iPhone của em có bật định vị, có tài khoản iCloud, có bật 3g, nhưng khi tắt máy thì có thể tìm được không ạ.? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.002666,
+         "id": "860783",
+         "field_search": "question",
+         "question": " Giờ mình bị mất cái điện thoại iPhone muốn định vị nó thì làm như nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.873938,
+         "id": "1167138",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi em dùng A10 mà sao lúc nó mở khóa bằng khuôn mặt nhanh, lúc thì mở đi mở lại vẫn không được là sao ạ. Có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.837568,
+         "id": "812205",
+         "field_search": "question",
+         "question": " Làm thế nào để kích hoạt điều khiển tv của Oppo r7s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.797195,
+         "id": "830568",
+         "field_search": "question",
+         "question": "Qtv ơi cái iPhone 4s của em cài mật khẩu khóa màn hình bị thằng bạn em mở nhiều lần giờ bật màn hình lên nó kêu iphone của bạn đã bị vô hiệu hóa giờ em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.760246,
+         "id": "1164386",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi ! Em vừa mua 1 máy samsung galaxy A50, máy ảnh của máy chỉ chụp được chế độ âm bản, không chụp được chế độ bình thường ? Vậy em phải làm như thế nào mới có thể điều chỉnh lại ạ ?? Xin cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.736664,
+         "id": "994568",
+         "field_search": "question",
+         "question": "ad cho em hỏi. e vừa resore iphone 4 của em. nhưng e mất icloud rồi. giờ nó bắt kích hoạt. em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.728334,
+         "id": "825656",
+         "field_search": "question",
+         "question": "Ad cho em hỏi máy em iphone 5 quốc tế...sao em không tắt tiếng chụp ảnh được ạ..dù đã gạt cái công tắt ở bên rồi..chụp vẫn kiêu ad ơi..chi em hỏi có cách nào để tắt không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.706722,
+         "id": "1157174",
+         "field_search": "question",
+         "question": "Điện thoại em bị lỗi từ khi cập nhật lên androi 8 bây giờ điều khiển vào màn hình không được chỉ điểu khiên mấy phím cứng được thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.675852,
+         "id": "832022",
+         "field_search": "question",
+         "question": " Cho em hỏi em bị mất điện thoại iPhone 5S mà người ta tắt nguồn vậy mình định vị được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.580524,
+         "id": "770720",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi là máy laptop của em, sau con chuột trong máy không xài được, vậy rồi làm sao giờ. em xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.519106,
+         "id": "765572",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi với imei990002814950323 thì iPhone của em có phải hàng chính hãng không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.449509,
+         "id": "819205",
+         "field_search": "question",
+         "question": " Ad ơi em bị quên cái nick icloud cũ giờ nó khóa rồi em tạo lại em mún hủy icloud cũ phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.442657,
+         "id": "1157809",
+         "field_search": "question",
+         "question": "Điện thoại oppo A3s của em giờ không lên nguồn được phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.226223,
+         "id": "809981",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop giờ chayjc chậm quá phải làm sao đây ạ, với lại có mặt kính lumia 625 không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.208004,
+         "id": "1139985",
+         "field_search": "question",
+         "question": "Em bị mất một cái đt oppo a37 mà em không đăng nhập tài khoản gmail trên điện thoại :((( thì làm cách nào định vị được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.204176,
+         "id": "805698",
+         "field_search": "question",
+         "question": " iphone của em màn hình ngoài bị lồi ra , giờ phải làm sao ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.152267,
+         "id": "792278",
+         "field_search": "question",
+         "question": "Em đang xài iphone nhưng mà hình em bị bong mặt kính lên một xíu khỏi viền nhựa bên trái. Bây giờ phải làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.133684,
+         "id": "744591",
+         "field_search": "question",
+         "question": " Cách sử dụng điều khiển từ xa của oppo neo 7? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.131111,
+         "id": "809135",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi sử dụng gọi facetime thì phải làm sao? Vì em đang xài iPhone 4 và e của em cũng vậy mà sao em gọi không được. Báo lên là không khả dụng giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.123241,
+         "id": "1138387",
+         "field_search": "question",
+         "question": "Em mới mua samsung galaxy A7 2018 mà sao em mở khóa = khuôn mặt với vân tay nó để ( vẽ mẩu hình theo yêu cầu của chính sách bảo mật thay vì dùng dữ liệu sinh trắc học ) ad giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.077309,
+         "id": "1003302",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có cho vay tiền mặt của Công ty FECredit không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.06084,
+         "id": "875872",
+         "field_search": "question",
+         "question": " nếu như đã bật find my iphone thì trên màn hình sẽ hiện lên dấu định vị phải ko ad ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.996904,
+         "id": "912798",
+         "field_search": "question",
+         "question": " iphone5 của em ấn nhầm vào lâng cấp hệ điều hành và không may bị treo itunes bgio em phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.876923,
+         "id": "791695",
+         "field_search": "question",
+         "question": " MẤY PRO CHO EM HỎI IPHONE 3S CỦA EM TẮT ĐỊNH VỊ XOng rồi tự nhiên nó bật lại. Có cách nào khắc phục ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.85135,
+         "id": "1157268",
+         "field_search": "question",
+         "question": "6plus chạy iOS 9 em muốn lên iOS 12 thì phải làm sao ạ không cài thủ công được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.818888,
+         "id": "1150521",
+         "field_search": "question",
+         "question": "Ad cho em hỏi tại sao điện thoại của em không thể nâng cấp hệ điều hành được ạ em sài ios",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.807985,
+         "id": "781191",
+         "field_search": "question",
+         "question": " Xin chao qtv bên mình có thay mặt kính iPhone không ạ và chỉ cho em hỏi e bị roi iPhone giờ không nhận sim làm sao ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.795721,
+         "id": "1167813",
+         "field_search": "question",
+         "question": "Tại sao em mua redmi note 6 pro lại k có nhận diện khuôn mặt ạ. Lúc mua còn mị mất siu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.756025,
+         "id": "740604",
+         "field_search": "question",
+         "question": " Admin ơi.  Em đang dùng iPhone 5s hệ điều hành ios 8.3. Bây giờ e muốn nâng cấp lên 8.4 thì có được nữa không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.755936,
+         "id": "810396",
+         "field_search": "question",
+         "question": " A cho em hỏi làm thế nào để biết người kia đang ở đâu mà chỉ cần định vị iPhone với iPhone? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.613451,
+         "id": "768579",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi thay mặt kính cảm úng của Zenfone 5 giá bao nhiêu ạ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.556025,
+         "id": "762966",
+         "field_search": "question",
+         "question": " Cho em hỏi e bị mất con iPhone 5s nhưng nếu bị người khác tắt định vị thì có cách nào tìm lại được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.531666,
+         "id": "764392",
+         "field_search": "question",
+         "question": " Em muốn hạ hệ điều hành của iPhone 4s xuống phải làm như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.5112,
+         "id": "794535",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi thấy trên trang ad có đăng mua iphone 5s đc tặng cục sạc dự phòng vậy sao em mua k được tặng vậy ad ? Với cho em hỏi làm sao biết iphone của mình có bao nhiêu GB ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.499228,
+         "id": "1151588",
+         "field_search": "question",
+         "question": "Samsung m20 có mở khoá bằng khuôn mặt k ạ e đang muốn mua nhưng đang hơi băn khoăn về mở khoá khuôn mặt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.467552,
+         "id": "1163302",
+         "field_search": "question",
+         "question": "Mình mới bị mất 1 cái Galaxy Note 8, nhưng tìm định vị theo tài khoản Samsung account và email vẫn ko thể truy cập được. Vậy giờ mình có thể định vị theo EMEI được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.42544,
+         "id": "828716",
+         "field_search": "question",
+         "question": "Điện thoại của em tự nhiên không gửi đc tin nhắn, không vào được các trang mạng như FB,...khi gửi ttin nhắn hoặc truy cập mạng em đều nhận được thông báo vị trí của bạn không xác định.em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.403442,
+         "id": "831949",
+         "field_search": "question",
+         "question": "Anh/chị ơi, cái ipad em bị mất ý hôm nay bên nó mở máy lên em xem đc định vị thì thấy đc chỗ đó mà đc 1 lúc thì lại ngoại tuyến rồi. Lúc mất thì em đã cài Tìm Iphone và bật Báo mất ipad và cài mật khẩu máy, có phải nó ko vào đc nên nó tắt nguồn rồi ko? và có cách nào nó hủy được cái chế độ mà em định vị ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.314686,
+         "id": "958818",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao máy em đang sài pin còn đến 80% sài 3G lên mạng 1 hồi tự nhiên máy tắc nguồn bật lại vẫn tắc phải sạc mới sữ dụng típ được là tại sao ạ( máy em là iphone3 )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.275755,
+         "id": "800994",
+         "field_search": "question",
+         "question": "Ad ơi em dùng iphone 4.Em không hiểu sao em không gọi mà máy nó cứ tự động gọi cho người khác.bây giờ em không biết làm sao.ad tư vấn giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.274117,
+         "id": "804840",
+         "field_search": "question",
+         "question": " Add ơi em muốn thay mặt kính của iphone 4 qua cho? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.242168,
+         "id": "914742",
+         "field_search": "question",
+         "question": " sao win 10 của e không tải được lol ad ơi ? Tải về toàn ra phần mềm word thôi 3 AD ơi phải làm sao bây h ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.224337,
+         "id": "801444",
+         "field_search": "question",
+         "question": " Ad ơi em dùng iPhone 4. Cái tệp ảnh muốn đổi tên phải làm thế nào ạ!? Ad tư vấn cho em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.20845,
+         "id": "750351",
+         "field_search": "question",
+         "question": " Muốn cài đặt định vị trên oppo mirror 5 làm Sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.204363,
+         "id": "766560",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi iPhone 4 của em đã thiết lập 3 tài khoản iCloud bây giờ em muốn lập thêm 1 tài khoản iCloud nữa được không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.15962,
+         "id": "755634",
+         "field_search": "question",
+         "question": "  Kiểm tra giúp em Ad ơi, có phải iPhone Trung Quốc không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.136976,
+         "id": "763257",
+         "field_search": "question",
+         "question": "  Sao máy em cài đặt lại iPhone rồi máy bị treo luôn giờ phải làm sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.108017,
+         "id": "1147978",
+         "field_search": "question",
+         "question": "cho em hỏi mặt lưng sau của a7 2017 bị hở keo thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.103523,
+         "id": "801237",
+         "field_search": "question",
+         "question": " Anh chị Admin em hỏi máy iPhone 4s của em không bắt được wifi giờ làm sao ạ em thử load lại máy vẫn không được. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.072504,
+         "id": "1143337",
+         "field_search": "question",
+         "question": "tgdd ơi cho em hỏi tình hình ổ đĩa của em như thế này không phân vùng đc em phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.068764,
+         "id": "1136043",
+         "field_search": "question",
+         "question": "sử dụng điện thoại a5 2017 có định vị được vị trí của người khác qua điện thoại của mình đăng sử dụng k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.062122,
+         "id": "1169070",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi tgdd ở ninh bình có thay mặt kính của xiaomi not5 pro ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.00202,
+         "id": "946267",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi em ko tìm thấy game chiến dịch huyền thoại trên app của ios thì phải làm sao ạ . Em dùng iphone 4s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.993135,
+         "id": "1148141",
+         "field_search": "question",
+         "question": "Vì sao nhiều khi a7 2018 chỉ cho mở khóa hình chứ không cho nhận diện khuôn mặt vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.981758,
+         "id": "989967",
+         "field_search": "question",
+         "question": "AD cho em hỏi lỗi không thể kích hoạt Iphone phải làm sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.932327,
+         "id": "762748",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi chút em có cây iPhone 5s lên 9.2 giờ muốn xuống 8.4.1 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.931158,
+         "id": "802211",
+         "field_search": "question",
+         "question": " AD ơi cho em hoi. giờ em muốn hạ cấp iPhone 5 của em xuống 8.4 dk không ạ. hiện tại em đang sử dụng ios 9.2.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.919958,
+         "id": "1162674",
+         "field_search": "question",
+         "question": "Ad ơi, bây h em muốn đăng xuất icloud nhưng em không có mật khẩu thì phải làm sao ạ. Icloud là của người khác em không thể dùng cách quên mk đâu ạ. Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.908775,
+         "id": "758615",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ em lập mail trên vi tính rồi! Và sau khi nhập mail trên iPhone thì không được thư đến em phải làm sao! Em làm đi làm lại mà vẫn không dùng được mail trên iPhone của em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.853996,
+         "id": "767211",
+         "field_search": "question",
+         "question": " Em dùng iphone 4s chót dại nâng cấp ios 9.2 rồi nhưng giờ máy của em sạc nó không vào pin thì phải làm sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.826666,
+         "id": "857615",
+         "field_search": "question",
+         "question": " Em đang sử dụng iPhone 5s mà tạo tài khoản iCloud không được phải làm sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.805822,
+         "id": "1142419",
+         "field_search": "question",
+         "question": "Điện thoại Samsung J7 của em, không sạc được phải làm sao ạ? Điện thoại từ trước giờ vẫn bình thường ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.80217,
+         "id": "786957",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi chút. em đang dùng iPhone 6 lock nhật , 8,3 đã jb . gần đây wifi của máy không biết bị làm sao,lúc bắt được lúc không, hầu như là không bắt được. em đã thử rất nhiều wifi khác nhau . em mong ad giúp đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.791775,
+         "id": "796434",
+         "field_search": "question",
+         "question": "Mình vừa bị mất cái điện thoại oppo F1.mình không bật định vị trên máy..nhưng trong máy có tk facebook với google.bây giờ có cách nào định vị được máy không ạ.chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.731884,
+         "id": "1156553",
+         "field_search": "question",
+         "question": "Anh cho em hoi em co iPhone 6 ven tai khoản icloud giờ phải làm sao để xoá icloud được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.713215,
+         "id": "990445",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi iphone 5 bản lock này giờ không hỗ trợ sim trung quốc thì làm cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.70137,
+         "id": "1164616",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi samsung A10 có nên dùng chế độ nhận diện khuôn mặt không ạ, nếu dùng thì nó có nhanh hư máy không ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.699245,
+         "id": "763458",
+         "field_search": "question",
+         "question": " Cho em hỏi mặt sau iPhone 6s của mình không có chữ IMEi có phải hàng chính hãng không ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

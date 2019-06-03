@@ -1,0 +1,809 @@
+{
+   "id_query": "1156338",
+   "total": 33897,
+   "total_current": 100,
+   "max_score": 170.31468,
+   "origin_question": "e có dùng chung tk icloud với bạn. bây giờ e đăng xuất tk icloud ra iphone của mình rồi thì liệu bạn e có thể xem được ảnh hoặc tin nhăns imess của em không ạ. em nghe nói dùng chung icloud sẽ đọc được tn và xem được ảnh của iphone dùng chung icloud",
+   "hits": [
+      {
+         "score": 170.31468,
+         "id": "1156338",
+         "field_search": "question",
+         "question": "e có dùng chung tk icloud với bạn. bây giờ e đăng xuất tk icloud ra iphone của mình rồi thì liệu bạn e có thể xem được ảnh hoặc tin nhăns imess của em không ạ. em nghe nói dùng chung icloud sẽ đọc được tn và xem được ảnh của iphone dùng chung icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 73.0898,
+         "id": "1167022",
+         "field_search": "question",
+         "question": "e với bạn trai xài chung icloud nhưng hiện giờ đt của e bị mất, e đã khóa icloud e muốn đăng xuất icloud của e trên đt bạn trai thì làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.49496,
+         "id": "1021801",
+         "field_search": "question",
+         "question": "Cho em hỏi chút ạ: em và bạn trai dùng chung icloud, mà lại ko xem được tin nhắn imessage hay ảnh. Chỉ xem đc danh bạ và cuộc gọi thôi. Vậy làm cách nào để có thể xem được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.47204,
+         "id": "1166502",
+         "field_search": "question",
+         "question": "2 iPhone của mình dùng chung 1 iCloud mà 1 cái bị mất. Giờ mình có thể khoá tk điện thoại đó không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.60769,
+         "id": "987594",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. E dùng chung tk icloud với 2 máy khác ạ. E dùng 5s, đăng nhập icloud ip 4, ip 7pl ạ. E bật đồng bộ ảnh ở cả 3 máy mà tại sao ảnh của ip7 pl nó chỉ đồng bộ qua ip4 mà bên 5s ko có ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 68.37077,
+         "id": "911960",
+         "field_search": "question",
+         "question": "Mình và bạn mình dùng chung một Icloud Mỗi khi bạn mình nhắn tin trên máy bạn đó thì máy mình lại nhận được. Vậy nên mình hỏi cách không chia sẻ tin nhắn giữa 2 máy khi dùng chung 1 Icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.38389,
+         "id": "986956",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi nếu mà mình dùng iCloud! Người khác có xem được kho ảnh của mình nếu mình không chia sẻ ko bạn! Trước đây mình có chia sẻ ảnh với tk khác vậy sau đó tài khoản đó có xem được những ảnh khác trong kho ảnh của mình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.14203,
+         "id": "1143423",
+         "field_search": "question",
+         "question": "Cho e hỏi là đt e đã có icloud rồi mà giờ e muốn sài chung với chị e vậy khi e đăng xuất icloud của e thì có bị mất tất cả dữ liệu trong đt e k ạ hay vẫn bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.823154,
+         "id": "1019133",
+         "field_search": "question",
+         "question": "em mua lại iphone, giờ em với chủ cũ dùng chung icloud. vậy em muốn dùng riêng icloud đấy thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.751755,
+         "id": "1163254",
+         "field_search": "question",
+         "question": "2 iphone chung 1 icloud, giờ đăng xuất icloud trên 1 máy đã tắt hết đồng bộ thì máy còn lại có ảnh hưởng gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.39032,
+         "id": "886045",
+         "field_search": "question",
+         "question": "add cho em hỏi chut : em có dùng chung icloud với đứa bạn nhưng em mới chỉ đăng nhập ituns thôi....chưa đăng nhập icloud. em có 1 cái video mới quay xong em xóa luôn, em còn đặt lại cả iphone của em. vậy không biết máy bạn em có còn lưu cái video đấy không ạ, em có lấy máy bạn ấy xem trong thư viện ảnh thì không có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.290344,
+         "id": "997724",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone và iPad có nên dùng chung iCloud không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.19327,
+         "id": "1164382",
+         "field_search": "question",
+         "question": "cho e hỏi e với ny e dùng chung icloud khi e đăng xuất ra rồi đăng nhập lại khi gửi tn cho nhau nó lại đồng bộ về máy nhau chứ k tb có tn mới làm sao đê tắt tính năng đấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.7093,
+         "id": "886810",
+         "field_search": "question",
+         "question": " Dùng chung iCloud trên iPhone thì có đọc đc tin nhan facebook và zalo ko a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.016747,
+         "id": "762743",
+         "field_search": "question",
+         "question": "Giúp mình vs.mình đăng xuất và xoá hết ảnh, video của tk icloud cũ rồi đăng kí tk icloud mới.vào album ảnh thì có mấy cái mà sao vào giới thiệu thì vẫn còn nguyên số ảnh và video đó. Dung lượng ảnh và video đó thì vẫn còn. thank ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.381336,
+         "id": "877823",
+         "field_search": "question",
+         "question": "mình xài icloud chung vs 1 ng. vừa rồi tình cờ biết dc người đó vào xem tn zalo của mình nhưng mình ko hề hay biết. cho mình hỏi có phải do xài icloud chung k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.212948,
+         "id": "1141429",
+         "field_search": "question",
+         "question": "Tôi muốn xem nội dung trong ICloud của bạn tôi nhưng tôi được biết khi dùng chung vậy thì khi nghe gọi thì hay máy đều hiện lên hết. Vậy làm cách nào để cho máy tôi hiện nội dung của bạn tôi thôi  nhưng máy bạn tôi thì ko hiện lên ( đại loại là xem trộm ); nếu tôi không dùng sim nữa chỉ để máy xem iCloud có thành công ko. Cảm ơn!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.15144,
+         "id": "896138",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình vào trang chủ khôi phục tk iCloud thấy báo đang chờ xử lý mất vài ngày và sẻ được gửi đến số đt mà mình cung cấp như thế chỉ việc chờ thôi là được ạ. Do vợ chồng mình dung chung tk iCloud mà mình đăng xuất rồi còn ck mình thì chưa. Máy ck mình mới mua ở bên bạn 6 Plus như vậy chờ khôi phục nó có ảnh hưởng gì tới máy không, mà thấy báo chỉ máy mình mới dùng xác minh (iPhone 5) tk còn máy 6 plus ck mình thì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.00275,
+         "id": "1024038",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Nếu mình và bạn trai mình dùng chung một tài khoản icloud. Sau đó bạn trai mình đổi mật khẩu icloud. Thì ảnh, tin nhắn, cuộc gọi trong máy bạn trai mình có hiện trong máy mình nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.9975,
+         "id": "1164490",
+         "field_search": "question",
+         "question": "Mình và vk mình đều dùng ip6 và chung 1 icloud nhưng danh bạ và ảnh thì 2 máy là khác nhau nhưng khi vk mình dùng ip7 thì nhập lại icloud để lấy dữ liệu từ máy cũ của vk mình thì không thấy mà chỉ thấy ảnh va danh bạ của máy mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.58488,
+         "id": "909706",
+         "field_search": "question",
+         "question": "Cho mình hỏi 2 máy cùng dùng 1 TK iCloud muốn đọc đc tin nhắn của máy kia mà ko muốn đọc đc tin nhắn của máy mình thì làm ntn bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.1528,
+         "id": "899571",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình có dùng TK icloud của người khác đăng nhập vào máy mình, thì lúc đó iPhone báo là Merge hoặc Dont Merge Safari data & Danh bạ, mình không nhớ là mình bấm Merge hay không Merge nữa, mà mình check lại phone người đó với TK icloud đó thì không thấy có bất kì thứ gì từ máy mình chuyển qua. Giờ mình đăng nhập lại TK của mình rồi. Vậy cho mình hỏi mình thoát ra khỏi icloud của người kia thì dữ liệu bên máy mình hoàn toàn được bảo về và hết chia sẻ qua máy có đăng nhập TK icloud đó phải không?Và nữa là nếu mình lỡ bấm Merge rồi, thì những dữ liệu gì sẽ truyền qua TK icloud kia? Nếu vậy Safari date, danh bạ,... Các kiểu thì phải xoá ra sao?Xin cảm on rất nhiều! Mong sớm nhận được câu trả lời.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.010494,
+         "id": "1003045",
+         "field_search": "question",
+         "question": "2 máy e dùng chung tài khoản icloud, nếu xoá tài khoản icloud ở 1 máy thì máy kia có bị ảnh hưởng j ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.85976,
+         "id": "1006132",
+         "field_search": "question",
+         "question": "có cách nào biết được ai đang dùng chung tài khoản icloud với máy mình ko ạ .em cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.21789,
+         "id": "900530",
+         "field_search": "question",
+         "question": " Nếu dùng chung ip Apple thì có sao ko? Em ko dùng iCloud. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.5309,
+         "id": "759880",
+         "field_search": "question",
+         "question": "Khi tạo xong iCloud, ở cuối cùng có chữ \"đăng xuất\". Vậy có nên đăng xuất không khi máy trả lời Nếu bạn đăng xuất khỏi tài khoản, tất cả  ảnh trong kho ảnh và icloud Drive được lưu trữ trong icloud sẽ bị xóa khỏi iphone này\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.69636,
+         "id": "896878",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy của em bình thường vẫn hiện lên hình ảnh được chụp trong máy mà giờ lại xuất hiện lên hình của bạn em , em và bạn đó không hề xài chung iCloud hay là gì hết mà tại sao lại xảy ra như vậy! Mong mọi người giải thích sớm nhất có thể cho em!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.5879,
+         "id": "994445",
+         "field_search": "question",
+         "question": " Cho mình hỏi: Mình và bạn gái mình đều dùng iphone và dùng chung tài khoản icloud. Mỗi khi có ai đó gọi điện cho mình thì iphone của bạn gái mình cũng nhận được số đó và ngược lại. Làm thế nào để tắt được tính năng này vậy? Cảm ơn ad và mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.392525,
+         "id": "786721",
+         "field_search": "question",
+         "question": "Anh ơi.. Em đăng nhập và đăng xuất icloud bình thường.. Giờ em đăng xuất không dùng icloud nữa. Thỳ sau này bán máy đi ngta có tạo được icloud mới riêng của ngta không anh ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.717495,
+         "id": "761587",
+         "field_search": "question",
+         "question": "Ad cho m hỏi lấy mã kích hoạt này ở đâu khi  mình muốn xem tin nhắn trên 2 iphone dùng chung iCould  vào Cài đặt  > Tin nhắn > Chuyển tiếp Tin nhắn văn bản > Bật thiết bị sẵn có (khi dùng chung iCloud) > Nhập mã kích hoạt được gởi đến máy tính.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.256557,
+         "id": "776427",
+         "field_search": "question",
+         "question": "Cho e hỏi tài khoản icloud : e dùng tài khoản được 2 tháng rồi tự nhiên bị mất tk icloud, e thử tạo mới bằng chính gmail ban đầu thì e test thử tạo tk này trên itunes (nhưng e chưa tạo sau khi qua bước 1). hình như tk của e mất hẳn khỏi server Apple rồi??? Anh giải thích hộ em với ạ. em cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.203606,
+         "id": "914360",
+         "field_search": "question",
+         "question": "Mình và bạn gái dùng chung tài khoản icloud khi mình gửi tin nhắn trên điện thoại bạn gái vẫn nhận đc. Nhưng cứ phải kết nối internet thì mình mới nhận được tin nhắn từ điện thoại của bạn mình. Cho mình hỏi như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.96964,
+         "id": "787754",
+         "field_search": "question",
+         "question": "Em dùng chung tài khoản icloud vs 1nguoi bây h e muốn đổi nhung e chua có tài khoản khac muốn lập thì phải lập ở dâu và như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.855602,
+         "id": "795000",
+         "field_search": "question",
+         "question": "Cho em hỏi khi em đăng xuất tài khoản iCloud ra thì bị xoá hết ảnh và dữ liệu trg máy.vậy lúc đăng nhập lại tài khoản iCloud đó thì có khôi phục được ảnh và dữ liệu trong máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.804466,
+         "id": "755908",
+         "field_search": "question",
+         "question": "Xin chào! Các bạn tư vấn giúp mình với,hiện nay mình đang dùng ipad và mac còn bà xã dùng iphone, vì cả 3 thiết bị này đều dùng chung 1 tài khoản iCloud nên khá phiền,hiện nay iphone mình đã đăng xuất tài khoản chung và tạo tài khoản mới nhưng nếu muốn tải hoặc cập nhật thì iphone bắt nhập mật khẩu của tài khoản cũ. Vậy mình cần làm như thế nào để đăng xuất hết tài khoản cũ trên iPhone?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.44586,
+         "id": "909878",
+         "field_search": "question",
+         "question": "cá a/c cho em hỏi là làm sao để biết tk icloud của mình đang đăng nhập trên những máy nào ạ . e thấy máy của e báo về là tk của e đang bị dùng để đăng nhập cái gì ấy .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.092846,
+         "id": "876275",
+         "field_search": "question",
+         "question": "Cho mình hỏi: cả nhà mình bố mẹ và mình đều dùng chung 1 tk icloud, mỗi khi máy mình có cuộc gọi nhỡ của bạn mình gọi tới thì cả máy bố và mẹ mình đều hiện số của bạn mình và ngược lại. Cho hỏi làm sao để tắt chức năng này đc ạ? Cảm ơn ad và mọi người nha!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.783592,
+         "id": "833362",
+         "field_search": "question",
+         "question": "Ad ơi cho Em hỏi: Iphone 6 e đang dùng bình thường và có đăng nhập tài khoản icloud của e thành công nhưng khi e đăng xuất ra thì e check icloud trên web Icluod.com thì nó vẫn hiện là On, sau đó e đăng nhập tài khoản icloud của e vào lại ip6 thì lại vẫn bình thường. Ad cho e hỏi có phải máy e đã bị dính icloud ẩn hay không?, e rất thắc mắc vì nếu bị icloud ẩn thì tại sao e lại đăng nhập tài khoản icloud của e đc...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.499393,
+         "id": "991049",
+         "field_search": "question",
+         "question": "Em lỡ đăng xuất icloud làm mất hết ảnh trong Kho ảnh icloud rồi ạ. Có cách nào để khôi phục ảnh lại được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.43137,
+         "id": "755911",
+         "field_search": "question",
+         "question": "QTV cho em hỏi chút ạ. Em vừa dùng iPhone nên chưa iCloud là cái gi và chức năng của nó là như thế nào, dù đã tìm hiểu trên internet nhưng còn lơ mơ. Nên em muốn hỏi là mỗi máy sẽ có 1 tài khoản iCloud riêng hay là một người có một tài khoản iCloud là dùng chung cho iPhone nào cũng được hay là sao ạ? Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.19232,
+         "id": "884766",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi Icloud và ID Apple mình dùng chung 1 tài khoản được ko vậy? Thanks Ad nhiều. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.903294,
+         "id": "1003345",
+         "field_search": "question",
+         "question": "Cho e hỏi 2 máy ip xái chung icoudl nếu đăng nhập số đt của mình lên imess thì 2 bên có thấy tn của nhau k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.756313,
+         "id": "1008838",
+         "field_search": "question",
+         "question": "Em có 1 lần dùng tài khoan icloud của người khác đăng nhập máy để lấy sđt như mà e hợp nhất itunes & app store và e nhập lại icloud cũ của e vào thì bị sđt của người lưu trong máy. Em đăng xuất cải 2 ra và đăng nhập icloud vào thì lại không có sđt lúc nào em đăng nhập itunes & app store là xuất hiện sđt kia h e phải llm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.106213,
+         "id": "1164489",
+         "field_search": "question",
+         "question": "Add cho mình hỏi ạ: Mình dùng 2 ip chung 1 icloud nhưng anr và danh bạ 2 máy khác nhau nhưng khi vk mình mua ip khác thì khi nhập vào icloud ko thấy có ảnh và danh bạ ở máy cũ của vk mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.087788,
+         "id": "940003",
+         "field_search": "question",
+         "question": "Ac cho e hỏi là : e có một ngừoi bạn xài icloud cua e. Giờ e ko muốn nó xài chung nữa thì phải làm s ạ. Trong ứng dụng Tìm iphone nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.844826,
+         "id": "1162674",
+         "field_search": "question",
+         "question": "Ad ơi, bây h em muốn đăng xuất icloud nhưng em không có mật khẩu thì phải làm sao ạ. Icloud là của người khác em không thể dùng cách quên mk đâu ạ. Giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.83495,
+         "id": "1168374",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, em sd iphone 5S, bây giờ máy em sắp hết dung lượng, vậy nên em đã sao lưu và đồng bộ dữ liệu ảnh, .... vào icloud rồi, vậy em có thể hỏi là nếu em xóa hết hình bên app ảnh của iphone thì bên icloud có mất luôn không ạ? Em cảm ơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.57332,
+         "id": "918468",
+         "field_search": "question",
+         "question": "add ơi, cứu e với, e với con e em dùng chung tài khoảng icloud, tư dưng hình ảnh trong máy e ko còn cái nào,thay vào đó là toàn bộ hình ảnh trong máy nó qua máy e, chỉ e cách lấy lại ảnh trên máy e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.535915,
+         "id": "1147864",
+         "field_search": "question",
+         "question": "Cho e hỏi là do e quên mất sdt xac minh của tài khoản icloud thế giờ em không đăng nhập vào tk  được nên ko biêt ad có cách nào đăng nhập vào icloud lại được không ạ hay xác minh cái khác để vào tài khoản",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.351093,
+         "id": "765451",
+         "field_search": "question",
+         "question": "Cho e hỏi cách xem ảnh đã lưu trên icloud và nếu đã đưa lên icloud thì khi xoá ở album ảnh có mất trên icloud k?rất mong được hồi âm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.010918,
+         "id": "769867",
+         "field_search": "question",
+         "question": "Ních icould của e có sài chung vs bạn..sáng nay e đăng xuất ra, nhưng bjo e k vào dc nữa.E có thử vào ních của bạn e cũng k dc.. ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.934353,
+         "id": "740005",
+         "field_search": "question",
+         "question": "Em vừa restore lại iPhone của em và để active lại thì nó hỏi ID Apple và đuôi đăng nhập thì là iCloud . Nhưng khi e vẫn còn dùng được máy thì em đăng ký iCloud ở phần cài đặt thì lag đuôi @gmail.com . Anh chị có cách nào để em biết được cái đuôi iCloud đấy là gì đc không ạ? Cái ID Apple của em thì xác minh rồi nhưng em khác cái đuôi @iCloud đấy từ đâu ra . Từ lúc em sử dụng máy em chưa được gửi thông báo cái đấy bao giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.875965,
+         "id": "854694",
+         "field_search": "question",
+         "question": "tại sao facebook của mình không like được ảnh không like được ảnh khiong chia sẻ được bài viết không đăng được gì lên hết không nhắn tin được nói chung là không làm được một cái gì mà chỉ vào xem được thôi mọi người giúp miifnh với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.80991,
+         "id": "757025",
+         "field_search": "question",
+         "question": "Nếu có mã icloud và pass của iphone thì có thể đăng nhập vào máy tính hay iphone khác để xem được các nội dung của máy kia không ạ! Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.781235,
+         "id": "1115292",
+         "field_search": "question",
+         "question": "Điện thoại của em và của me dùng chung icloud nên bị đồng bộ danh bạ. Em đã thoát icloud bên mẹ rồi nhưng danh bạ đã bị đồng bộ. Ko biết có cách nào trở lại như cũ ko ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.76566,
+         "id": "803479",
+         "field_search": "question",
+         "question": " Máy của e đang dùng iPhone 4 thường không nhập được tài khoản icloud miễm phí được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.691357,
+         "id": "1010021",
+         "field_search": "question",
+         "question": "Chào tgdđCho mình hỏi mình đăng nhập icloud trên iphone 5s nhưng bây giờ mình muốn đăng xuất thì lại không được. Và máy báo lỗi : (Không thể xác minhĐã có lỗi khi kết nối icloud.)Mod giúp mình với ạ 😥😥😥",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.59829,
+         "id": "807384",
+         "field_search": "question",
+         "question": "iPhone của em vừa cập nhật lên 9.3, nhưng em quên pass iCloud, giờ không vào được nên máy bị khoá rồi. E cũng quên cả pass của email nhận thông tin nên không reset được. Hiện tại Ipad của e cũng đang dùng iCloud này, vậy có cách nào tìm lại được pass đe mở đuoc iPhone k ad? Em cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.35397,
+         "id": "1152885",
+         "field_search": "question",
+         "question": "Em muốn hỏi là máy em dùng icloud, em tắt đồng bộ ảnh icloud, sau đó xóa ảnh trên iphone thì khi bật đồng bộ ảnh icloud lên hoặc back up lại thì hình đã đồng bộ trước đó nhưng bị xóa ở iphone thì trên icloud còn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.230473,
+         "id": "800376",
+         "field_search": "question",
+         "question": "Khi tạo xong icloud thì có thông báo 'dữ liệu Safari của bạn trên iphone này sẽ đc tải lên và nhập với icloud nêu chọn nhập thì sao và không hợp nhất thì sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.20357,
+         "id": "762670",
+         "field_search": "question",
+         "question": "Chào mừng bạn đến với app Ảnh App Ảnh kết nối liền mạch với Thư viện Ảnh iCloud bao gồm tất cả ảnh và video được lưu trữ trên iCloud và luôn cập nhật trên web, iPhone, iPad, iPod touch và máy Mac. Để sử dụng app Ảnh, hãy vào Cài đặt iCloud trên thiết bị iOS, chạm vào Ảnh và bật Thư viện Ảnh iCloud. Trên máy Mac, hãy mở app Ảnh, vào Tùy chọn và bật Thư viện Ảnh iCloud. *Ảnh iCloud yêu cầu phiên bản iOS 8.1 trở lên, hoặc OS X Yosemite 10.10.3 trở lên.,,,,, dong chữ này xuất hiện khi vào xem ảnh,, tôi khong rõ xin hỏi , cảm ơn ,,, xin chỉ cách xem ảnh trên icloud ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.052048,
+         "id": "1147252",
+         "field_search": "question",
+         "question": "mình có mua đt ip6s tại tgdd có tạo tk icloud tại tgdd sdt khách hàng mua là 0967748010 các b có thể tra lại lịch sử xem có lưu tt tk mk của icloud đó ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.016167,
+         "id": "820669",
+         "field_search": "question",
+         "question": "Chào ad, em mới mua cái ip6 của người khác và không biết có icloud ẩn gì trong máy không vì em đọc trên mạng thấy máy có icloud ẩn vẫn đăng nhập bt vậy ad chỉ e cách xem icloud ẩn đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.862244,
+         "id": "855187",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5s nhưng do lâu không sử dụng đến. Giờ mình lấy dùng mở máy ra yêu cầu mình đăng nhập lại tk icloud.cho mình hỏi mình đăng nhập tk icloud rồi phải làm như thế nào nữa để đt mình lại dùng đc như trước đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.859413,
+         "id": "1164088",
+         "field_search": "question",
+         "question": "iPhone hay hiện dòng tin “bạn có thể bị tính phí khi dùng tin nhắn SMS để kích hoạt iCloud “có phải tôi bị ai đó đăng nhập iCloud ? “",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.75759,
+         "id": "766820",
+         "field_search": "question",
+         "question": "Giúp mình với iPhone của mình thoát iCloud cũ và đăng nhập tài khoản mới vào Album rõ ràng không còn ảnh và video của iCloud cũ nữa, chỉ có mấy chục cái ảnh mình mới chụp, sao vào xem giới thiệu lại thấy số lượng ảnh và video trong máy rất nhiều (như trước khi mình thoát iCloud cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.734,
+         "id": "802734",
+         "field_search": "question",
+         "question": "Em có 1 cái iPhone 5 nếu em biết được mã iCLoud của iPhone khác em có thể xem những ứng dụng của iPhone đó được không anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.537575,
+         "id": "1153858",
+         "field_search": "question",
+         "question": "Cho e hỏi , máy e đang dùng là iphone6 đang xài ios9 không có cài icloud , chỉ có cài tk appstore thôi nhưng tự dưng máy bị khóa kích hoạt thì e ra tgdd có thể mở được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.304256,
+         "id": "1135777",
+         "field_search": "question",
+         "question": " Cho em hỏi 2 máy Oppo dùng chung Ocloud thì có hiển thị được cuộc gọi hay tin nhắn gửi chung không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.22966,
+         "id": "872327",
+         "field_search": "question",
+         "question": "mình mới bị mất cái ip6. giờ về nhà đăng nhập tk icloud k được, mình nghi bị hack rồi. tất cả các dữ liệu dđã bị mất hết.giờ có cách nào khôi phục lai cái tk icloud dể lấy lại danh bạ và các dữ liệu. thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.227165,
+         "id": "1136996",
+         "field_search": "question",
+         "question": "Mình đang sử dụng một tài khoản icloud và id apple trên 2 thiết bị iPhone và iPad, người mình muốn xoá và thoát tk icloud trên iPad thì tk trên iPhone có bị xoá không, nếu sau này mình lấy tk icloud này đăng nhập lại trên iPad đó có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.83624,
+         "id": "888297",
+         "field_search": "question",
+         "question": "1. Cho tôi hỏi: tôi dùng mất iphone 6 rồi mua lại iphone 6 dùng chung một icloud. Nay bị báo icloud đã đầy, trong đó iphone cũ 4,8Gb, (hình 1) vậy tôi xóa dung lượng trên iphone 2 (hình 2) để giải thoát bộ nhớ có ảnh hưởng gì không vây (kèm hình) .rất mong được phản hồi, ĐT: 0985027327, kybv.dnpc@gmail.com2. tôi muốn đổi pass icloud nhưng chưa biết cách thực hiện.3. Nâng cấp tài khooản icloud thì cần thẻ tín dụng và tài khoản nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.82204,
+         "id": "907836",
+         "field_search": "question",
+         "question": "Chào ad! Em muốn hỏi khi dùng iphone và có tài khoản icloud. Nếu xóa ảnh trên iphone thì tại tài khoản icloud có còn ảnh đó nữa hay không? Thank ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.67991,
+         "id": "750831",
+         "field_search": "question",
+         "question": "Mình mua máy lại của một người bạn vẫn dùng tài khoản icloud cũ nhưng bây giờ mày tự nhiên bất nhập mật khẩu icloud, mình đã nhập nhưng không được giờ không biết làm thế nào có ai giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.60829,
+         "id": "935891",
+         "field_search": "question",
+         "question": "Chào bạn! Cho mình hỏi: Minh có Iphone 5S giờ máy báo: Máy bị ẩn Icloud cũ của tôi! Tôi nâng cấp phần mềm! Máy bạn dùng icloud ẩn của tôi. Cho mình hỏi giờ mình phải làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.516552,
+         "id": "1013485",
+         "field_search": "question",
+         "question": "a ơi fb e bị j mà nó để: Bạn hiện không thể đăng nhập Chúng tôi sẽ liên hệ với bạn sau khi xem xét ảnh của bạn. Vì lý do bảo mật, bạn hiện sẽ bị đăng xuất khỏi Facebook. xin add giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.30407,
+         "id": "1155097",
+         "field_search": "question",
+         "question": "em dùng ip 6 và điện thoại của em mới reset lại em muốn khôi phục ảnh và video có được ko ạ. ảnh và video chưa đồng bộ icloud và itunes ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.061478,
+         "id": "760573",
+         "field_search": "question",
+         "question": "Em bị hết phiên tạo tài khoản iCloud miễn phí, bây giờ em muốn dùng 1 iPhone khác đang còn số lượt đăng kí tài khoản iCloud để lập iCloud nhưng máy đó đã có iCloud rồi thì phải làm sao để lập thêm iCloud nữa ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.74488,
+         "id": "898177",
+         "field_search": "question",
+         "question": "AD cho em hỏi. e có 1 tk icloud đăng nhập trên ip5s. e mua 1 chiếc ip6 về. e reset ip6 và khôi phục ip6 bằng icloud. giờ 2 ip đã giống hệt nhau. em nhận được thông báo nhập mật khẩu icloud. e vào cài đặt và nhập xong thì cả 2 ip bị đẩy ra và yêu cầu nhập id passwuod. e nhập vào thì nó báo không đúng. trong khi e không thay đổi mật khẩu icloud, e bị 2 lần rồi, mong ad giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.718742,
+         "id": "798429",
+         "field_search": "question",
+         "question": "E dùng ip4 có 6g khi e dùng có cài icloud nên mất 5g trong bộ nhớ...ad ơi e có thể giải thoát 5g trong icloud ra bộ nhớ ngoài được k???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.610943,
+         "id": "788305",
+         "field_search": "question",
+         "question": " E mới mua Iphone 5s.. trên máy còn icloud của người dùng trước mà em không có pass.. giờ làm sao để logout ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.586212,
+         "id": "986358",
+         "field_search": "question",
+         "question": "Iphone cua em bi dính icloud có đăng xuất ta được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.46974,
+         "id": "1000546",
+         "field_search": "question",
+         "question": "mod cho e hỏi, ip của em nhập icloud của em và tắtmở được chức năng tìm ip thì có bị dính icloud ẩn không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.285194,
+         "id": "754388",
+         "field_search": "question",
+         "question": "Ad cho em hỏi . Trước em dùng iphone4 có tài khoản icloud. Bây giờ em dùng sang ip5 e chuyển dữ liệu icloud từ ip4 sang ip5. Bây giờ hiện tại thì máy em đang có 2 bản sao lưu 1 của máy cũ và 1 của máy mới em đang dùng. Mà em muốn xoá dữ liệu của bản sao lưu trước đây vì khi chuyển sang máy mới  em muốn sao lưu lại các dữ liệu mới thì ko được vì bản sao lưu của ip cũ đầy rồi. Vậy ad cho me hỏi em xoá bản sao lưu cũ đi liệu có mất danh bạ ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.79961,
+         "id": "897478",
+         "field_search": "question",
+         "question": "Ngày trước e đã từng đăng ký sđt vào nick icloud cũ. Bh đổi máy k nhớ icloud cũ phải đăng kí icloud mới. E muốn đăng ký = sđt của mình nhưng k được bây phải em phải làm sao.                ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.728325,
+         "id": "990884",
+         "field_search": "question",
+         "question": "Anh ơi máy em dùng trước đây không có icloud, giờ em thêm icloud vào để dùng tiện hơn thì có bị mất dữ liệu không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.631866,
+         "id": "1004864",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi rằng:- lúc trước mình dùng ip 4s và có đăng nhập icloud trong máy đó.. giờ mình chuyển sang dùng 6 plus nên mình đã đăng xuất icloud ở ip4s chuyển Tk sang ip6 plus và em mình dùng ip4s đó tạo tài khoản khác để dùng rồiNhưng không hiểu sao khi mình lưu hay xóa số điện thoại danh bạ của 2 máy ý hệt nhau. Kiểu như lưu hay xóa số máy này thì máy kia tự động làm y hệt vậy..Có cách khắc phục không ạ. mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.628223,
+         "id": "888182",
+         "field_search": "question",
+         "question": "admin cho e hỏi điện thoại iphone 5 của e bị hư màn hình . ngoài việc sử dụng icloud để tải ảnh thì còn cách nào khác để lấy ảnh trên cuộn camera về được không ạ . tại e đăng nhập icloud nhưng nó chỉ về có vài tấm à . help me !!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.357357,
+         "id": "801522",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi em đang dùng iPhone 4S có thể dùng hai tài khoản iCloud được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.19623,
+         "id": "829100",
+         "field_search": "question",
+         "question": "Có 1 bạn đang dùng chung tài khoản zalo với mình mà mình ko bít làm cách nào để xoá tk đó. Làm sao để có thề xoá tk zalo trên các thiết bị hiện tại để mình có thể cài đặt lại trên 1 thiết bị khác?Cám ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.179554,
+         "id": "803947",
+         "field_search": "question",
+         "question": "Mình bị mất điện thoại iPhone 6 plus, làm thế nào để mình khóa đc icloud trên máy tính. Mình không mong sẽ tìm lại được, nhưng nếu có người dùng đt của mình mà k có mật khẩu, vân tay và icloud thì cũng không thể sử dụng được phải k add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.98546,
+         "id": "825139",
+         "field_search": "question",
+         "question": "Anh cho em hỏi máy em đang dùng bình bị đơ máy xong bắt thiết lập lại tài khoản mà em nhập tài khoản icloud của em vào mà không được máy bảo tài khoản này không thể mơe máy được . có khi nào thêm được 1 tk icloud vào máy em không? mong ac giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.956604,
+         "id": "1156079",
+         "field_search": "question",
+         "question": "Xin hỏi dung chung ic và id có xem dc tin nhắnvaf hình ảnh của zano và fb kg. Môt máy ở  nước  ngoài và một ở viet nam. Và khi dùng chung có hiện cuộc  gọi hay tin nhắn  tren 2 máy ở hai nước  khác nhau dc kg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.890392,
+         "id": "914168",
+         "field_search": "question",
+         "question": "dạ em có dung chung tk icloud e có cập nhật phần mêm iphone 4s sau đó khi tắt máy bật lên thì máy có mật khẩu màn hinh mà trc đó e k đặt mật khẩu e k bit tại sao mong ad và mọi người giúp đỡ giải thích cho e và cho e cách giải quyết ạ em xin cảm ơn ad và mọi người :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.87182,
+         "id": "742925",
+         "field_search": "question",
+         "question": "Em có 1 máy iPhone 4, máy em bị hỏng và đem ra tiệm thì họ bảo lỗi phần mềm, phải chạy lại máy, khi đó điện thoại em đang dùng iCloud là  P****@iCloud.com nhưng khi em ra lấy máy thì họ bảo e nhập icloud bắt đầu bằng chữ \"c\" là c*****@icCoud.comEm có thể reset máy và nhập iCloud của e không? Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.70643,
+         "id": "1157185",
+         "field_search": "question",
+         "question": "Cho em hỏi với. Icloud của em đang dùng hiện tại. Đăng nhập vào một máy khác thì các tin nhắn imess trứowc đây em đã xoá có hiện lên khi đăng nhập không? Em xoá thì khi đăng nhập lại có thấy không ạ. Mong phản hồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.588253,
+         "id": "892993",
+         "field_search": "question",
+         "question": " e vừa bị mất iphone 5s và e có dùng định vị icloud nhưng không ra,vậy có cách nào khá để tìm lại được không ạ,e cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.44361,
+         "id": "991844",
+         "field_search": "question",
+         "question": "Ad cho hỏi là 2 máy xài chung icloud . Khi restore lại máy . Có cần thoát icloud ra ko . Khi restore máy kia hỏi mã icloud để kích hoạt . Vạy máy e đang bị dính icloud phải ko . Có cách nào khắc phục hoàn toàn k ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.348213,
+         "id": "1156898",
+         "field_search": "question",
+         "question": "Ad ơi. E láy icloud iphone đăng nhập vô ipab( trong khi ipad e có tài khoản) nhưng bgio e muốn thoát icloud của iphone ra ipab để e đăng nhập icloud ipab vào ,thì nó ciu sai id apple trong khi e vẫn nhớ. Nếu như vâty e có thể xài 2icloud trên cùng ipab và iphone dc kh ạ( mà iphone e bị hư nên e đaq tính sửa lại) sợ sửa rồi mà đăng nhập kh dc thì phone kh sài dc đúng kh ạ. Nhờ ad giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.280033,
+         "id": "843237",
+         "field_search": "question",
+         "question": "Em muốn hỏi cách thoát icloud mà không nhớ pass với email ạ. Vì đây là TK của người khác trên mạng cho em mượn, nhưng giờ đổi mật khẩu nên em k thoát được. E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

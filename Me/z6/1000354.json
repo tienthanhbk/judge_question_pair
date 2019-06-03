@@ -1,0 +1,809 @@
+{
+   "id_query": "1000354",
+   "total": 30057,
+   "total_current": 100,
+   "max_score": 102.513885,
+   "origin_question": "bên mình có sữa chữa điện thoại không ạ.hoặc có đổi cũ lấy mới không  ạ.e có con iphone 6 bị hỏng cảm ứng.muốn sữa or đổi",
+   "hits": [
+      {
+         "score": 102.513885,
+         "id": "1000354",
+         "field_search": "question",
+         "question": "bên mình có sữa chữa điện thoại không ạ.hoặc có đổi cũ lấy mới không  ạ.e có con iphone 6 bị hỏng cảm ứng.muốn sữa or đổi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.247498,
+         "id": "819217",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ. em dùng iphone 5s mà do mới đổi mật khẩu mà em không nhớ nên điện thoại em bị vô hiệu hóa. bên thegioididong có sữa chữa điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.135807,
+         "id": "1165849",
+         "field_search": "question",
+         "question": "Bên mình có đổi điện thoại cũ lấy điện thoại mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.402325,
+         "id": "1155680",
+         "field_search": "question",
+         "question": "điện thoại huawei nova 3i của mình còn bảo hành 6 tháng. Điện thoại vẫn như mới, chưa qua sữa chữa hay hư hỏng gì. Vậy bên tgdd có hỗ trợ thu lại không, và giá thu lại là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.013256,
+         "id": "1157097",
+         "field_search": "question",
+         "question": "điện thoại e bị rơi xuống, bây giờ bật không lên nữa. vậy bên mình có hỗ trợ sữa chữa không vậy. Điện thoai J2 Pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.009975,
+         "id": "1002174",
+         "field_search": "question",
+         "question": "Xin chào! Ở bên bạn  Có sữa chữa iPhone 3 không bạn  ?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.983444,
+         "id": "988582",
+         "field_search": "question",
+         "question": "màn hình lapptop bị hư bên tggd có sữa chữa không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.214075,
+         "id": "1152422",
+         "field_search": "question",
+         "question": "Bên mình có thu cũ đổi mới không? Mình muốn đổi note 9 lấy S10 Plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.700603,
+         "id": "1141033",
+         "field_search": "question",
+         "question": "có chương trình đổi điện thoại cũ lấy mới bù tiền không bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.209562,
+         "id": "1021328",
+         "field_search": "question",
+         "question": "ad cho e hỏi bên của hàng  mình có nhận sữa chữa laptop không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.567245,
+         "id": "1021992",
+         "field_search": "question",
+         "question": "Điện thoại Obi ở TGDĐ mình có phụ kiện để thay và sữa chữa ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.530094,
+         "id": "995625",
+         "field_search": "question",
+         "question": "thế giới  di động có dịch vụ sữa chữa điện thoại sony ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.394056,
+         "id": "1007007",
+         "field_search": "question",
+         "question": "cho mình hỏi bên hệ thống bạn có dịch vụ đổi điện cũ rồi bù tiền  lấy điện thoại mới ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.348686,
+         "id": "997096",
+         "field_search": "question",
+         "question": "Mình sữa dt ở cửa hàng tgdd..vậy mình có được mựon đt để xài trong thoi gian sữa chữa không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.311558,
+         "id": "1021055",
+         "field_search": "question",
+         "question": "cho mình hỏi mình muốn đổi điện thoại mới nhưng không đủ tiền mình có điện thoại cũ cũng mua trả góp ở tgdd khoảng 2 năm rồi nên minh lấy điện thoại cũ với bù tiền thêm có thể đổi máy mới được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.102774,
+         "id": "799638",
+         "field_search": "question",
+         "question": " Laptop mình mở không lên.. Cho mình hỏi là bên thegioididong có sữa chữa k? Máy mình cũng mua ở thegioididong nhé ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.84568,
+         "id": "809608",
+         "field_search": "question",
+         "question": " Máy laptop mình bị lỗi khổi động. Siêu thị có dịch vụ sữa chữa không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.8089,
+         "id": "1164572",
+         "field_search": "question",
+         "question": "cho mình hỏi bên thegioididong có dịch vụ sữa chữa điện thoại không? mình có cái asus zenphone mua bên TGDD đã hơn 2 năm nay bị bung màn hình,không biết nơi nào nhận sửa nên muốn qua TGDD cho tiện.Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.609344,
+         "id": "1160997",
+         "field_search": "question",
+         "question": "Cho mình hỏi, điện thoại mình là điện thoại Samsung Galaxy S9 Đen 64Gb ( SM-G960F/DS) có được tham dự chương trình đổi cũ lấy mới không ad Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.55398,
+         "id": "1021990",
+         "field_search": "question",
+         "question": "Cho e hỏiE có mua online 1 điện thoại hiệu Obi của TGDĐ cách đây khoảng 2 tháng mà do bị rớt nên màn hình bị nứt nhiều và bị loạn cảm ứng. Vậy mình đem đến trung tâm sữa chữa của TGDĐ để sữa chữa và chịu phí được ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.035904,
+         "id": "1017229",
+         "field_search": "question",
+         "question": "Xin chào. Mình co mua 1 con S8+. Kèm theo là tai nghe AkG nhưng giờ đã bị hỏng dây của 1 bên loa. Không biết TGDD có thu đổi hay sửa chữa gì đc k ạ. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.011763,
+         "id": "998507",
+         "field_search": "question",
+         "question": "Đổi Oppo f1s lấy ip 6 32GB cần bù bao nhiêu ạ điện thoại mình bị bể màn hình nữa như vậy đổi có được không đổi vậy có nhiều tiền không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.886189,
+         "id": "1007035",
+         "field_search": "question",
+         "question": "cho e hỏi tý ad!! e có gửi máy đi sữa chữa mà k sữa gửi về lại e có bị mất cước gì k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.303673,
+         "id": "826816",
+         "field_search": "question",
+         "question": " em có một con iphone 5 thường bị rơi xuống đất giờ bật không lên nguồn cho e hỏi bên anh chị có sữa được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.24959,
+         "id": "1021610",
+         "field_search": "question",
+         "question": "Em mới gữi 1 con ss j5 prime về hãng để sữa chữa. Cho em hỏi thời gian có thể lấy lại đt là bao lâu không ạ. Em ở chi nhánh ninh hoa-khánh hoà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.233486,
+         "id": "837068",
+         "field_search": "question",
+         "question": "Điều kiện đổi máy cũ lấy máy mới như thế nào? mình có máy iphone 4s muốn đổi lấy máy khác có được không? thủ tục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.214615,
+         "id": "1160959",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ , bây giờ em có con iphone 6 plus nhưng bị dính icloud em muốn xoá tài khoản luôn phải làm cách nào ? Mail thì cũng không có nên em không lấy lại mật khẩu được Mà điện thoại lại phiên bản cũ ios 9.0.2 Nếu em lên tgdđ sữa chửa phải mất bao nhiêu tiền ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.162966,
+         "id": "1001929",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới dùng điện thoại f3 plus được 3 tháng muốn đổi sang iphone 6 plus cũ có đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.00544,
+         "id": "1150085",
+         "field_search": "question",
+         "question": "cho e hỏi bên mình có hỗ trợ sữa chữa phần mềm của laptop Asus a541U k ạ!!máy e bị giất lag nặng. khởi động lâu . e có thể đem máy đến chỉnh sữa k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.731005,
+         "id": "782269",
+         "field_search": "question",
+         "question": "Chào TGDD!Trước đây tôi có mua 1 điện thoại iPhone 6 tại TGDD vào ngày 24/11/2014. Nay tôi có nhu cầu đổi muốn đổi iPhone 6s không biết bên TGDD có hỗ trợ thâu mua sản phẩm cũ không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.479647,
+         "id": "1156202",
+         "field_search": "question",
+         "question": "Điện thoại là Nokia 5, mua từ 1 năm trước không phải ở TGDD, giờ em muốn đổi cũ lấy mới qua Nokia 5.1 có được không ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.438383,
+         "id": "1141758",
+         "field_search": "question",
+         "question": "Cửa hàng có thu mua lại điện thoại cũ để đổi điện thoại  mới không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.434652,
+         "id": "759676",
+         "field_search": "question",
+         "question": " Ac cho em hỏi, ở siêu thị của mình có dịch vụ sữa chữa laptop không ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.429392,
+         "id": "996763",
+         "field_search": "question",
+         "question": "Điện thoại Q ViTaS của em bị rơi vào nước , em vẫn còn bảo hành thì có thể đem máy tới thegioididong để sữa chữa được không ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.406425,
+         "id": "997956",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng điện thoại ASUS ZOOED mua ngày 22052016 tôi muốn đổi cũ lấy mới TGDD có hổ trợ không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.265173,
+         "id": "1148076",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang xài oppo neo 7 lúc trước không bị nhưng dạo gần đây khi cắm tai nghe vào điện thoại thì nó bị lỗi cảm ứng dù k động j vào điện thoại không biết có cách nào sữa chữa k mong tgdd tl ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.152754,
+         "id": "1140538",
+         "field_search": "question",
+         "question": "Có chương đổi điện thoại cũ lấy điệ n thoại ms k chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.123577,
+         "id": "1166672",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại của em ( samsung j3 pro) bị vào nước trong màn hình và camera nhưng vẫn sài bth thì sữa lại tầm bao nhiêu ạ hoặc em có thể đổi điện thoại không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.04431,
+         "id": "783511",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ em dùng iPhone 6 mà em bật đèn led nhưng sao không được là bị sao vậy ạ, nếu như đèn của em mà bị hỏng em mang sang ben mình sữa chữa cho em có được không ( máy em không mua ben mình) và cho em giá cả nếu em sửa là bao nhiêu ạ?Em cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.756044,
+         "id": "767262",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi cửa hàng mình có đổi đt cũ rồi bù tiền để lấy điện thoại khác không ạ...em muốn đổi cái Sony z3 lấy iphone 5s thì bù khoảng bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.60301,
+         "id": "820038",
+         "field_search": "question",
+         "question": " Xin hỏi, TGDĐ mình có nhận sữa iphone bị hư ổ sim không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.507162,
+         "id": "969504",
+         "field_search": "question",
+         "question": " Làm thế nào đổi được số điện thoại zalo bạn ơi mình ko đổi được số cũ ko đổi được con số mới thì đổi được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.419416,
+         "id": "1156038",
+         "field_search": "question",
+         "question": "Laptop của em bị gãy bản lề. Bên mình có sữa đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.387897,
+         "id": "987150",
+         "field_search": "question",
+         "question": "Đổi điện thoại cũ mua điện thoại mới được không????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.343632,
+         "id": "1018031",
+         "field_search": "question",
+         "question": "điện thoại em bị bể màn hình, có gửi bên tgdd chuyển qua trung tâm bảo hành sửa chữa hồi chiều thứ 2, nhưng tới giờ em vẫn chưa nhận được thông báo phí sữa chữa để chấp nhận sửa dt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.200619,
+         "id": "994267",
+         "field_search": "question",
+         "question": "Mình mới mua con Xaomi 4x ngày 15/6/2017 tuy nhiên mình đang muốn trả lại để đổi sang mua dùng con Sam sung j7 prime, vì sợ nhà có trẻ em dùng nhỡ hỏng khó thay thế, bảo hành sửa chữa linh kiện. Vậy cho mình hỏi giờ mình trả lại con xaomi và lấy con j7 thì thủ tục và giá bị trượt thế nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.09958,
+         "id": "1017041",
+         "field_search": "question",
+         "question": "hồi chiều em có nhờ tgdd chuyển máy lên trung tâm bảo hành để sữa chữa, nhưng em làm mất giấy hẹn lấy máy, vậy có sao không ? Có cách nào lấy máy nhưng không cần giấy hẹn không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.0821,
+         "id": "802695",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình không mua laptop ở TGDD nhưng mình có thể sữa chữa tại TGDD được không ạ, hiện tại laptop mình hay bị treo máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.91222,
+         "id": "867998",
+         "field_search": "question",
+         "question": "Mình có iphone 5c mua tại thế giới di động tuy nhiên đã hết hạn bảo hành, nay bị hỏng ổ sim và khay sim (Không nhận sim và không lấy khay sim ra được) vậy cho mình hỏi bên bạn hỗ trợ gửi lên hãng fpt sữa được không và phí hết bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.9074,
+         "id": "1158535",
+         "field_search": "question",
+         "question": "Laptop của mình loại Asus  X550LD mua ở ngoài hiện không thể kết nối wifi và pin k còn diệt dụng được nữa vậy bên có tỷ có hỗ trợ sữa chữa, thấy thế không vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.874477,
+         "id": "1137708",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi em có con sony m5 hỏng main thì bên mình có hỗ trợ sửa chữa không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.870022,
+         "id": "930318",
+         "field_search": "question",
+         "question": " Tại thế giới di động có đổi laptop cũ lấy laptop mới được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.755486,
+         "id": "1160080",
+         "field_search": "question",
+         "question": "Em chào ad! Hiện bên mình có thu lại điện thoại cũ không ạ? Nếu có thì em muốn đổi cái Oppo A3s để lấy Huawei Y6 Prim thì bù khoảng bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.740734,
+         "id": "812540",
+         "field_search": "question",
+         "question": "Cho em hỏi, em có một cái iphone 5 cũ giờ em muốn đổi lấy 5s mới hoặc iphone 6s, và em sẽ bù tiền thêm để đổi, có được không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.716125,
+         "id": "1000041",
+         "field_search": "question",
+         "question": "Cho em hỏi thegioididong có nhận sữa diện thoại hư không ạ..sữa ở ngoài sợ không uy tín..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.588058,
+         "id": "1017198",
+         "field_search": "question",
+         "question": "mình mua điện thoại cũ đổi trả có trả góp được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.518501,
+         "id": "1164073",
+         "field_search": "question",
+         "question": "tgdd có đổi điện thoại cũ lại điện thoại mới bù tiền k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.508831,
+         "id": "1000720",
+         "field_search": "question",
+         "question": "Chào cửa hàng, cho e hỏi bên TGDD của mình có chương trình thu lại máy cũ đổi máy mới không? Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.333378,
+         "id": "999969",
+         "field_search": "question",
+         "question": "Ad cho hỏi tí em có một thiết bị sony xperia m2.Mà e làm rớt máy,camera selfie của máy bị hỏng và khe sim không sử dụng được.Với tình trạng này máy e có thể sữa chữa không ạ?Mong Ad tra lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.178997,
+         "id": "1014435",
+         "field_search": "question",
+         "question": "Hôm trước e có mang đt ra cửa hàng để sữa. Mà về vẫn gặp tình trạng nv. Đt e mới mua chưa được 1 tháng có thể 1 đổi 1 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.176825,
+         "id": "999548",
+         "field_search": "question",
+         "question": "em hỏi em không mua điện thoại bên mình nhưng giờ em muốn bán bên mình để đổi lấy điện thoại khác được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.12493,
+         "id": "1151834",
+         "field_search": "question",
+         "question": "TGDĐ có dịch vụ đổi cũ lấy mới không ạ mình muốn một IPhone 7 plus32G để mua IPX64G thì bù khoảng bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.095322,
+         "id": "986504",
+         "field_search": "question",
+         "question": "Cho hỏi TGDD có chính sách đổi cũ lấy mới không và nếu có thì chính sách ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.042566,
+         "id": "1145364",
+         "field_search": "question",
+         "question": "bên mình có nhận sửa chữa macbook k thế ad ? mình có con macbook bị lỗi cắm sạc pin không vào điện",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.992683,
+         "id": "785686",
+         "field_search": "question",
+         "question": " Ở thegioididong mình có sữa lỗi icould cho iphone đuợc không vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.95427,
+         "id": "1000431",
+         "field_search": "question",
+         "question": "cho minh hỏi mình đang xài ip6 nhung không bật cảm biến vân tay đuọc cho hỏi bị hư gi có sữa đuọc không hay thay mới được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.922888,
+         "id": "1013366",
+         "field_search": "question",
+         "question": "điện thoại của em bị dính google account khi reset máy bây giờ thế giới di dộng có sữa được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.739939,
+         "id": "1021335",
+         "field_search": "question",
+         "question": "bên tgdd có thể kiểm tra giùm mình xem điện thoại của mình đã được sữa chửa xong chưa ạ. SDT mình là: 0937380890  , máy Sony Xa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.529652,
+         "id": "778367",
+         "field_search": "question",
+         "question": " Xin cho mình hỏi bên tgdd có nhận sửa chữa điện thoại iPhone xách tay không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.477104,
+         "id": "1007883",
+         "field_search": "question",
+         "question": "Có thể đổi điện thoại đang xài để lấy điện thoại khác có thể bù tiền hay không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.31873,
+         "id": "1009026",
+         "field_search": "question",
+         "question": "Bên bạn thu mua lại là sao ạ.khônh đổi cũ lấy mới à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.225227,
+         "id": "1010623",
+         "field_search": "question",
+         "question": "cho em hỏi là mình có hỗ trợ cài hệ điều hành dùm không ạ hay chỉ bảo hành là sữa chữa lỗi thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.20255,
+         "id": "1010895",
+         "field_search": "question",
+         "question": "Cho em hoi là em đang sử dụng samsung gear s2 bị lỗi cảm ứng ở giữa màn hình thì TGDĐ có nhận sữa chữa hoặc thay cảm ứng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.143208,
+         "id": "1019981",
+         "field_search": "question",
+         "question": "Kiểm tra điện thoại còn bảo hành đến ngày bao nhiêu?  Pin sạc điện thoại bị cũ có đổi được hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.093657,
+         "id": "995102",
+         "field_search": "question",
+         "question": "Mình có mua điện thoại sony mới tại thế giới di động được 7 ngày,máy bị lỗi mang đi đổi lại.. về kiểm tra thấy máy đổi lại đã qua sử dụng , thời hạn kích hoạt bảo hành đã lâu.. thế mua điện thoại mới bị lỗi đổi điện thoại cũ à ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.062534,
+         "id": "993314",
+         "field_search": "question",
+         "question": " Màn hình của đt ip 6 của e bị sọc dọc như thế này thì có sữa đi ko ạ. Nếu sữa thì hết bao nhiêu tiền ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.056618,
+         "id": "781017",
+         "field_search": "question",
+         "question": " Điện thoại iPhone 4 bị treo cáp itunes thì phải sữa như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.000729,
+         "id": "1155417",
+         "field_search": "question",
+         "question": "Khi mua các điện thoại dòng A như A9 A50...thì sau này có thu cũ đổi mới không AD.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.959877,
+         "id": "1156480",
+         "field_search": "question",
+         "question": "Cho hỏi mình bị hack Facebook bị đổi sdt và email, bên tgdđ có thể lấy lại giùm mình ko, xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.930183,
+         "id": "988695",
+         "field_search": "question",
+         "question": "Chào ad em tên Hậu sống tại cần thơ. Thứ 3 vừa rồi em có mang chiếc laptop acer swift 3 của mình đến cửa hàng để sữa chữa lỗi mất driver wifi nhưng đến nay thì vẫn bị lại mong anh/ chị hỡ trợ em cách sữa chữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.798561,
+         "id": "1133369",
+         "field_search": "question",
+         "question": "e sài máy lenovo a6010 đang up rom thì bị hết bin sau đó mở máy không lên nữa. như v có sữa chữa dk ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.763208,
+         "id": "1004553",
+         "field_search": "question",
+         "question": "Tai nghe em đang trong thời gian bảo hành mà bị hỏng một bên có đổi được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.751228,
+         "id": "1161194",
+         "field_search": "question",
+         "question": "Tôi muốn mua samsung a9 .. và muốn lấy samsung a7 2017 ra đổi .. nhưng tôi muốn biết .  Giá a9 là 8990000vnd.. vây nếu lấy a7 2017 ra .. thi giá toi mua a9 sẽ là bao nhiêu ? A7 tôi còn zin.. ko sữa chữa hoạt đồng con tốt.. màn hình ko bit trầy sướt gì hết ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.741196,
+         "id": "846765",
+         "field_search": "question",
+         "question": " AChị cho e hỏi là e muốn mua điện thoại iphone 6 cũ mà bên mình điện thoại cũ có bán trả góp ko ạ !! tks ac ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.689478,
+         "id": "785695",
+         "field_search": "question",
+         "question": "Cho tôi hỏi 5s của tôi nhiều lúc bị loạn cảm ứng, tôi mua không mua máy ở TGDĐ vậy tôi mang máy đến nhân viên kĩ thuật sửa được không ạ (tôi có trả tiền sữa chữa)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.612381,
+         "id": "1165025",
+         "field_search": "question",
+         "question": "cho mình hỏi bên bạn có cảm ứng của điện thoại xiaomi mi 6 không. điện thoại mình đang dùng mà cảm ứng không lướt được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.58061,
+         "id": "1167731",
+         "field_search": "question",
+         "question": "Mình dùng máy samsung m20. Do làm rơi nên bị bể mặt kiếng màn hình. Vậy cho mình hỏi bên tgdd có hỗ trợ bảo hành hay sữa chữa không ạ. Nếu có cụ thể như thế nào? Tư vấn giúp mình. Vì nhà khá xa tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.539738,
+         "id": "1009077",
+         "field_search": "question",
+         "question": "bạn ơi bên mình có thu mua và đổi sản phẩm cũ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.469465,
+         "id": "1161046",
+         "field_search": "question",
+         "question": "Tôi mới mua điện thoại SAMSUNG NOTE9 được 2 ngày.Nay muốn đổi sang IPHONE X64G thì có bị trừ tiền không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.365524,
+         "id": "855298",
+         "field_search": "question",
+         "question": " mình có iphone 6 plus 16GB chưa mở hộp, mình muốn đổi 64 hay 128 GB bên cty có cho đổi ko vậy???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.215088,
+         "id": "1168251",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua điện thoại hawei p30 lite ở cửa hàng mới hơn 2 tuần., mình muốn đổi lấy điện thoại Samsung được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.191574,
+         "id": "1149585",
+         "field_search": "question",
+         "question": "Tư vấn giúp mình chương trình đổi máy cũ lên đời NOTE 9 nhé? Nếu như mình đổi iphone 6s 16GB lấy NOTE 9 thì mình có được mua trả góp 0% không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.135546,
+         "id": "1150871",
+         "field_search": "question",
+         "question": "Mình có mua bên TGDD chiếc oppo realme c1 vì lúc mua ko có tai nghe đi kèm lên ko thử, giờ phát hiện lỗi tai nghe,cắm vào là nhảy lung tung,chuyển tab các kiểu, vẫn còn bảo hành, giờ phải sử lý như nào, có được đổi máy hay sữa chữa ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.083391,
+         "id": "1137175",
+         "field_search": "question",
+         "question": "Hiện có thông tin đổi mấy cũ sang lấy máy mới thì của mình là J7 Plus muốn đổi sang A9 thì phải bù bao nhiêu vây? Mấy mình còn đủ hộp và phụ kiện. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.061083,
+         "id": "991105",
+         "field_search": "question",
+         "question": "Chào TGDĐ. Tôi là Long. 2 tuần trước tôi có mua chiếc Oppo f3 ở bên mình. Nhưng nó là màu trắng ở mặt trước nên tôi không thích lắm. Oppo mới ra phiên bản màu đen. Tôi muốn đổi máy đang dùng lấy máy màu đen. Không biết bên mình có hỗ trợ việc đổi sản phẩm hoặc mua bán lại được không. Nếu có tôi cần làm gì và có mất phí không? Tôi mới mua máy được 2 tuần. Máy vẫn dùng tốt không hỏng hóc gì. Tôi xin chờ câu trả lời từ bên mình. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.057108,
+         "id": "1154251",
+         "field_search": "question",
+         "question": "Mình mới mua điện thoại Xiaomi A2 Cũ tối qua. Mình cảm thấy không hài lòng về điện thoại lắm, bây giờ mình muốn đổi điện thoại khác thì phải làm như thế nào, và chi phí ra sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.05595,
+         "id": "991108",
+         "field_search": "question",
+         "question": "Chào TGDĐ. Tôi là Long. 2 tuần trước tôi có mua chiếc Oppo f3 ở bên mình. Nhưng nó là màu trắng ở mặt trước nên tôi không thích lắm. Oppo mới ra phiên bản màu đen. Tôi muốn đổi máy đang dùng lấy máy màu đen. Không biết bên mình có hỗ trợ việc đổi sản phẩm hoặc mua bán lại được không. Nếu có tôi cần làm gì và có mất phí không? Tôi mới mua máy được 2 tuần. Máy vẫn dùng tốt không hỏng hóc gì. Tôi xin chờ câu trả lời từ bên mình. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.021843,
+         "id": "957473",
+         "field_search": "question",
+         "question": "Tôi bị mất điện thoại, khi đăng nhập zalo trên điện thoại mới thì cuộc trò chuyện cũ bị mất hết, có cách nào để lấy lại không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.021627,
+         "id": "795140",
+         "field_search": "question",
+         "question": "Mình mua điện thoại trả góp iphone 6s 16G chưa được 1 tháng...nhưng bây giờ mình muốn đổi lại lấy 64G liệu có được không bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.973932,
+         "id": "987668",
+         "field_search": "question",
+         "question": "Có thể đổi điện thoại củ bù tiền để mua điện thoại mới không",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,809 @@
+{
+   "id_query": "911905",
+   "total": 27212,
+   "total_current": 100,
+   "max_score": 61.367393,
+   "origin_question": " Máy galaxy a7 2016 sao không xem được ảnh 360 độ trên facebook hả admin ",
+   "hits": [
+      {
+         "score": 61.367393,
+         "id": "911905",
+         "field_search": "question",
+         "question": " Máy galaxy a7 2016 sao không xem được ảnh 360 độ trên facebook hả admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.211048,
+         "id": "1018768",
+         "field_search": "question",
+         "question": "e dùng ga A7 2016, cho hỏi sao e không xem được video trên google nhưng vẫn xem được trên youtube và các ứng dụng xem vid đã tải về ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.086878,
+         "id": "1158628",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là samsung a7 nhưng sao không xem được tập đính kèm các file trên facebook ạ? Tải về không được. Em cần cài phần mềm hay làm thế nào để xem được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.910343,
+         "id": "1143880",
+         "field_search": "question",
+         "question": "SS A7 2016 của mình bị 2 lỗi.1 là khi mở chụp ảnh thì máy bị rung cam rất lâu sau mới chụp ảnh dc.2 là màn hình khi chuyển về độ sáng thấp lại nhấp nháy liên tục xong có vệt xanh chia cắt màn hình.Vậy là bị sao hả ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.89561,
+         "id": "1004765",
+         "field_search": "question",
+         "question": "điện thoại em lỡ bật chế độ xem ảnh bằng máy in, vậy em muốn chỉnh xem trên bộ sưu tập thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.844604,
+         "id": "1020455",
+         "field_search": "question",
+         "question": "Làm sao đồng bộ ảnh trên facebook xuống máy đt hả ad? E đang dùng samsung A3 2017 ạ.em đã làm như này rồi mà k đc??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.811443,
+         "id": "1010459",
+         "field_search": "question",
+         "question": "E đang dùng ss j3 2016,sao e xem video đã tải về trong máy không được ạ, nó vẫn chạy âm thanh của video đó nhưng hình ảnh thì nó không phát được cứ 0:00 giây đứng mãi. Admin xem thử có cách nào khắc phục được không ạ e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.66731,
+         "id": "855995",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi muốn điều chỉnh tăng độ nhạy cảm ứng trên A7 2016 làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.595741,
+         "id": "1000983",
+         "field_search": "question",
+         "question": "Cho e hõi đt như thế nào mới xem được video 360 độ vậy ad ? Sony xa được ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.927639,
+         "id": "1007554",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình có con a7 2016 và có chế độ sạc nhanh, sạc cũng cũng từ trong máy luôn thì sạc nhanh có ảnh hưởng gì đến tuổi thọ pin không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.799881,
+         "id": "1168798",
+         "field_search": "question",
+         "question": "Hướng dẫn cách  chụp hình hdr 360 trên galaxy note 8",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.731369,
+         "id": "1009863",
+         "field_search": "question",
+         "question": "Phần mềm bẻ khóa wifi trên điện thoại Samsung Galaxy J3 2016 khi sử dụng nó có bị ảnh hưởng gì cho máy không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.697912,
+         "id": "1013655",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để bật chế độ ban đêm cho máy Samsung galaxy J3 2016 v ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.590448,
+         "id": "803172",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi facebook của mình đang bình thường sao bậy giờ vào lại thành ''facebook for business: Tiếp thị trên facebook'' là sao k xem được ảnh cũng như chat với bạn bè nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.579626,
+         "id": "870641",
+         "field_search": "question",
+         "question": "Màn hình máy Iphone xuất hiện thông báo này khi lướt facebook và xem các clip trên facebook. Cách loại bỏ những spam này như thế nào vay admin??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.506039,
+         "id": "993357",
+         "field_search": "question",
+         "question": "Giữa máy nokia 5 và samsung j7 2016 thì máy nào tốt hơn ạ về: cấu hình,  độ bền bỉ, đa nhiệm, game,  chụp ảnh,  xem phim,  chạy youtube....  ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.459785,
+         "id": "817143",
+         "field_search": "question",
+         "question": " Tại sao không xem được ảnh của người khác trên zalo. Trước đó mình vẫn xem được ảnh của họ. Có phải người đó chặn mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.458155,
+         "id": "747598",
+         "field_search": "question",
+         "question": " Admin ơi, sao phần setting trong laptop mình down xuống không có Sync Tones là sao hả admin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.30801,
+         "id": "857233",
+         "field_search": "question",
+         "question": " tại sao tải camera 360 trên IOS về không xài được cũng không xóa được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.255272,
+         "id": "996992",
+         "field_search": "question",
+         "question": "Mình đang dùng samsung galaxy a5 2016. Khi đang xem video trên youtube và facebook thì tự nhiên bị dừng kiểu như pause phải bấm tiếp tục mới xem tiếp được. Cứ 20s lại bị 1 lần.  Giúp mình tìm cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.973609,
+         "id": "1140908",
+         "field_search": "question",
+         "question": "Cho em hỏi sao không thể di chuyển hình ảnh từ đt sang thẻ nhớ được . Với thẻ nhớ cũng không xóa hay di chuyển được ảnh ạ . Đt : ss galaxy a7 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.854231,
+         "id": "1005646",
+         "field_search": "question",
+         "question": "Máy tính Dell XPS 9360 có thể gập xoay 360 độ không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.831201,
+         "id": "1021975",
+         "field_search": "question",
+         "question": "J7 prime có lên được android 7.0, 8.0 không hả admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.818709,
+         "id": "817335",
+         "field_search": "question",
+         "question": "E xem video trên ứng dụng facebook của đt samsung s4 docôm thì bị mờ, k cho hình ảnh sắc nét. E xem trên đt khác thì nó vẫn nét ạ. Bây giờ thì e phải cài đặt như thế nào để xem video trên facebook được nét ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.802441,
+         "id": "998671",
+         "field_search": "question",
+         "question": "Sao zumbo j2 k xem đc video 360 vâỵ phải dùng tay kéo có cách nào chính xem 360 bằng cách sử dụng tay nghiêmg qua nghiên lại không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.800667,
+         "id": "1005865",
+         "field_search": "question",
+         "question": "Lenovo Yoga 3 Pro xoay 360 độ được không vậy quản trị viên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.733702,
+         "id": "1155822",
+         "field_search": "question",
+         "question": "Admin ơi bạn có bảng sao sánh tốc độ khởi động và tốc độ chụp ảnh của những smartphone năm 2018 và 2019 ko admin,mình chỉ thấy 2015 à,xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.726604,
+         "id": "1007777",
+         "field_search": "question",
+         "question": "Làm sao để khắc phục lỗi lấy không được điểm ảnh ở xa của camera sau trên nokia3 hả ad. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.68211,
+         "id": "1003686",
+         "field_search": "question",
+         "question": "Mình đang dùng máy galaxy a7 2015,tại sao tất cả ảnh trong bộ sưu tập ko hiển thị được,các file nhạc lưu trong máy cũng bị mất,máy ảnh chụp thì ko lưu ảnh vào máy được. Giúp mình với nhé. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.475428,
+         "id": "749874",
+         "field_search": "question",
+         "question": " Samung Galaxy J5 sao không xem được icon comment ở facebook ạ. Nhưng ở trong tin nhắn vẫn hiển thị đươc ạ, ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.473235,
+         "id": "1005969",
+         "field_search": "question",
+         "question": "Màn hinh galaxy a7 2016  giờ thay hết bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.457072,
+         "id": "1011312",
+         "field_search": "question",
+         "question": "Máy samsung galaxy A7 2016 của em bị phồng, muốn thay pin mới là giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.412972,
+         "id": "1013425",
+         "field_search": "question",
+         "question": "Mk mới mua máy cach đây hn tuần mak sao mk lưu ảnh trên facebook với messenger lại k được!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.261065,
+         "id": "1159541",
+         "field_search": "question",
+         "question": "Sao Nokia 3.1 của em lại ko dùng được chế độ xem vr trên Youtube vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.258946,
+         "id": "824282",
+         "field_search": "question",
+         "question": "Vì sao máy tôi mỗi khi muốn xem video thì đều ko xem được và đều hiện ra chữ như trên ảnh, giờ phải làm thế nào để xem được video",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.173223,
+         "id": "765387",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy iPhone 5 của e chụp ảnh ở cemara 360 và chụp ảnh màn hình lại không được lưu vào thư viện ảnh. Khi lưu nó chỉ hiện save to album là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.141844,
+         "id": "751104",
+         "field_search": "question",
+         "question": " Lưu ảnh chụp bằng camera 360 vào Ảnh máy iphone 5 như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.13471,
+         "id": "831880",
+         "field_search": "question",
+         "question": " Cho tôi hỏi nếu tải ảnh từ facebook của một người khắc về máy iphone 4s có bị treo táo hay ituns không hả qtv ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.133299,
+         "id": "1002043",
+         "field_search": "question",
+         "question": "Chỉnh lại cường độ sáng đèn pin điện thoại samsung galaxy A5 2016 !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.068522,
+         "id": "920665",
+         "field_search": "question",
+         "question": " Muốn xem ảnh bìa zalo cũ làm như nào hả bạn? và xem thời gian cập nhật ảnh bìa từ bao giờ như nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.063536,
+         "id": "1159535",
+         "field_search": "question",
+         "question": "Sao Nokia 3.1 của em sao ko dùng được chế độ xem thực tế ảo trên Youtube vây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.042774,
+         "id": "1020897",
+         "field_search": "question",
+         "question": "Admin có thể hướng dẫn mình cách bật 3G và chọn chế độ mạng  trên HTC U11 được không ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.994197,
+         "id": "1005788",
+         "field_search": "question",
+         "question": "HP Spectre x360 có hỗ trợ gập xoay 360 độ không vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.875429,
+         "id": "825973",
+         "field_search": "question",
+         "question": "Samsung A7 2016 của mình sao ko tự bật chế độ sạc nhanh được. Mình sạc từ 10h đêm đến 4h30 sáng đc 80% thôi. Có phải bị lỗi gì ko ad ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.822866,
+         "id": "1136308",
+         "field_search": "question",
+         "question": " Sao mình không bật được chế độ dolby atmos trên chiếc sasung galaxy j6 mới mua này như gới thiệu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.795534,
+         "id": "846769",
+         "field_search": "question",
+         "question": " tại sao e chụp nhiều ảnh trên máy tính nhưng xem lại thì các ảnh nó đều giống nhau ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.745935,
+         "id": "991888",
+         "field_search": "question",
+         "question": " Dạ TGDD có loại sim nào mà dùng được 1 năm lướt web xem Youtobe, Facebook không hết tốc độ cao không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.575876,
+         "id": "1007569",
+         "field_search": "question",
+         "question": "tại sao không tạo được tài khoản facebook khi tạo máy hiện chữ tải ảnh bạn lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.552897,
+         "id": "1161631",
+         "field_search": "question",
+         "question": "Tôi đã Tải Facebook like lại máy tại sao không quay trực tiếp trên Facebook được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.551377,
+         "id": "1152910",
+         "field_search": "question",
+         "question": "Máy a7 2018 có hỗ trợ sạc nhanh không ạCám ơn Admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.536161,
+         "id": "1151612",
+         "field_search": "question",
+         "question": "E sài đt realme c1 . Maya mua được khoảng 1 tháng... nhưng xem hình ảnh trên Facebook..hay tải ảnh về đt đều bị mờ dù k có bất kì và chạm mạnh nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.514338,
+         "id": "935005",
+         "field_search": "question",
+         "question": "Tại sao em xem ảnh trên máy tính từ điện thoại gửi qua Messenger thì nó rất mờ nhỉ? E xem trên điện thoại rất nét, e cũng cài đặt tải ảnh lên HD cả rồi. Chỉ khi xem trên máy tính mới bị thôi, tức là máy tính xem ảnh từ messenger do điện thoại tải lên thì rất mờ ạ! Giúp e khắc phục với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.500591,
+         "id": "758925",
+         "field_search": "question",
+         "question": "Sao máy minh bấm vào xem video trên facebook hay youtube đều không coi được?  Bấm vào video trên face thì để \"rất Tiếc đã xảy ra lỗi không xác định khi cố Phát video này\" 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.47291,
+         "id": "753302",
+         "field_search": "question",
+         "question": " Cho em hỏi có Laptop cảm ứng xoay 360 độ tầm 10 triệu không ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.460983,
+         "id": "1148923",
+         "field_search": "question",
+         "question": "Cho mình hỏi muốn xóa ứng dụng mặc định trên galaxy note 3 làm sao hả bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.436012,
+         "id": "854989",
+         "field_search": "question",
+         "question": "Messenger trên iphone 4 của mình gần 1 tháng nay thì người khác gửi ảnh cho mình không xem được. Muốn xem phải lưu ảnh vào máy rồi mở ra xem nhưng chỉ có ảnh gửi rời mới lưu và xem đc. Mng giúp mình fix lỗi này với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.390905,
+         "id": "1015212",
+         "field_search": "question",
+         "question": "Làm sao để tắt chế độ an toàn ở máy samsung j3 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.380964,
+         "id": "1011694",
+         "field_search": "question",
+         "question": "Mình tính mua 1 cái gear vr có điều khiển về chơi nhưng máy mình là j7(2016) mà mình thấy trên youtube có tính năng xem phân chia màn hình để xem . Vậy máy mình xem như trên youtube với chơi game down trên ch play được không QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.372121,
+         "id": "819300",
+         "field_search": "question",
+         "question": " máy của mình sao không tải ảnh lên facebook được. Có ai biết giúp mình với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.340603,
+         "id": "823306",
+         "field_search": "question",
+         "question": " Em mới mua cái Lenovo Vibe S1 được 2 ngày...nhưng sao xem video trên facebook cái nó tự tắt khóa máy...Giúp em! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.285669,
+         "id": "917672",
+         "field_search": "question",
+         "question": " Máy iphone 5s của mình khi xem video trên máy không xem được toàn màn hình là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.279514,
+         "id": "1000006",
+         "field_search": "question",
+         "question": "em dùng máy dell N7640 mà em xem video, nghe nhạc trên website cứ tầm 10 phút là không xem được. Nó cứ load như cái ảnh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.265849,
+         "id": "1008106",
+         "field_search": "question",
+         "question": "cho em hỏi sao em lên google mà không thấy được hình ảnh và video . mà em đã bật chế độ không hình ảnh giúp em làm sao tắt được chế độ đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.254025,
+         "id": "1144058",
+         "field_search": "question",
+         "question": "Admin cho em hỏiEm dùng Galaxy J3 (2016)Gần đây nó tự cập nhật ứng dụng Galaxy Apps Nó tự trừ tiền trong tài khoản là sao ạAd chỉ e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.199606,
+         "id": "854694",
+         "field_search": "question",
+         "question": "tại sao facebook của mình không like được ảnh không like được ảnh khiong chia sẻ được bài viết không đăng được gì lên hết không nhắn tin được nói chung là không làm được một cái gì mà chỉ vào xem được thôi mọi người giúp miifnh với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.16976,
+         "id": "1001904",
+         "field_search": "question",
+         "question": "add cho em hỏi, em dùng máy ss galaxy S2 chụp ảnh bằng camera thường nhưng không lưu đc ảnh vào bộ sưu tập và không xem đc ảnh ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.169557,
+         "id": "1159267",
+         "field_search": "question",
+         "question": "không xem được ảnh trong tin nhắn zalo sau khi sao lưu chuyển sang máy khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.113059,
+         "id": "1149647",
+         "field_search": "question",
+         "question": "máy Huawei Y7 Pro 2019 xạc bao lâu thì đầy pin hả admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.099826,
+         "id": "1157874",
+         "field_search": "question",
+         "question": "android pie trên not fe ko còn chế độ 1 chạm khi cuộc gọi đến hả ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.097397,
+         "id": "1156300",
+         "field_search": "question",
+         "question": "anh, chị cho mình hỏi khi mình tải Themes trên galaxy store thì file ảnh đó nằm ở đâu ạ, Mình đang dùng SAMSUNG A7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.088932,
+         "id": "888619",
+         "field_search": "question",
+         "question": " Cho mình hổ tại sao mấy máy oppo r1 đều không xem được video stream trên facebook ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.083593,
+         "id": "1150990",
+         "field_search": "question",
+         "question": "Admin ơi cho em hỏi điện thoại sony xperia x performance sao lúc em xem phim trên google lúc bật toàn màn hình thì vẫn còn phím điều hướng ảo và có thể tắt nó được không admin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.950651,
+         "id": "1156849",
+         "field_search": "question",
+         "question": "Làm sao để tăng độ sáng đèn pin trên Samsung A7 2018 vậy? Đèn Pin của mình tối quá.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.940561,
+         "id": "780298",
+         "field_search": "question",
+         "question": " Anh chị cho hỏi Samsung galaxy j2 không xem được video 720p trên youtube ak? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.911652,
+         "id": "1164386",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi ! Em vừa mua 1 máy samsung galaxy A50, máy ảnh của máy chỉ chụp được chế độ âm bản, không chụp được chế độ bình thường ? Vậy em phải làm như thế nào mới có thể điều chỉnh lại ạ ?? Xin cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.87649,
+         "id": "1022138",
+         "field_search": "question",
+         "question": "cho em hỏi vì sao ảnh em chụp từ samsung galaxy j7 Pro khi gửi qua tin nhắn  nhìn trên máy tính nó không rõ nét và có màu khác hẳn ở trên điện thoại ạ ^^ em đối chiếu 1 ảnh ấy trên 2 máy thấy ns khác hẳn màu và ảnh trên máy tính bị mờ hơn ảnh trên điện thoại? Có phải máy bị lỗi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.855233,
+         "id": "845453",
+         "field_search": "question",
+         "question": "Tôi copy 1 ảnh từ điện thoại iphone 6s sang máy tính, copy xong ở máy tính có 2 ảnh (1 ảnh có tên là IMG_0005.JPG và 1 ảnh có tên là IMG_0005.MOV). Khi mở xem ảnh trên máy tính ảnh có đuôi JPG mở bình thường; ảnh có đuôi MOV phải mở dạng video. Hỏi vậy tại sao? nếu do cài chế độ chụp ảnh của iphone thì cách cài đặt cụ thẻ ra sao? xin cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.812539,
+         "id": "1133720",
+         "field_search": "question",
+         "question": "Mình muốn mở chức năng đa cửa sổ trên A7 nhưng chức năng chia đôi màn hình lại có màu xám và bị khóa mình không mở khóa được chức năng này thì làm sao hả ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.797953,
+         "id": "915322",
+         "field_search": "question",
+         "question": " Sao không thể lưu ảnh trong tin nhắn zalo facebook được vậy ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.707965,
+         "id": "781797",
+         "field_search": "question",
+         "question": " Em sử dụng máy iphong 3g bị vào chế độ recoverybây giờ làm sao dể thoát hả ad?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.692032,
+         "id": "766105",
+         "field_search": "question",
+         "question": "Cho em hỏi em tải camera 360 về iPad nhưng trên màn hình iPad nó không hiện cái biểu tượng của app camera 360 phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.672142,
+         "id": "831334",
+         "field_search": "question",
+         "question": " bạn ơi! cho mình hỏi, sao iphone se mình tải facebook, camera 360 về ko đc ạ!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.65273,
+         "id": "1149235",
+         "field_search": "question",
+         "question": "làm thế nào để bật tắt chế độ sặc nhanh trên oppo a7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.6476345,
+         "id": "1145441",
+         "field_search": "question",
+         "question": "check giúp em xem dt samsung Galaxy A7 2018 còn màu vàng đồng k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.635562,
+         "id": "1008696",
+         "field_search": "question",
+         "question": "Admin cho em hỏi oppo f1s phiên bản 2016 của em, không biết là lỗi phần mềm hay gì mà chụp ảnh bằng chuyên gia thì ảnh trắng tinh không thấy gì,mong ad giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.568432,
+         "id": "872989",
+         "field_search": "question",
+         "question": "Em đang sử dụng một chiếc iphone 6 plus mua ngày 21/05/2016, quay video hoặc livestream trên facebook thì rất tối, tối hơn rất nhiều so với chụp ảnh dù đã bật flash. Vậy đó là lỗi của máy hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.548991,
+         "id": "845780",
+         "field_search": "question",
+         "question": " Mình dùng máy tính. không up được ảnh lên facebook, load xong toàn báo ảnh tải không hợp lệ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.532464,
+         "id": "987928",
+         "field_search": "question",
+         "question": "Admin cho hỏi tại sao khôi phục ảnh từ máy iphone này qua máy iphone khác lại mấy dung lượng máy đến thếMáy củ của e ảnh chỉ có 800MB nhưng qua máy mới tới 1.77GB và xoá ảnh vẫn không giảm đi số GB đó Admin cho e hỏi là lí do vì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.524662,
+         "id": "1157859",
+         "field_search": "question",
+         "question": "A7(2018)Facebook mình phải bấm vào video mới xem được, điện thoại khác chỗ nào có video thì sẽ tự phát. Khắc phục thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.490953,
+         "id": "1169111",
+         "field_search": "question",
+         "question": "Em dùng Vsmart joy 1+ . Khi em chụp ảnh bằng camera thì xem ảnh vẫn hiện trong google photo.. Nhưng trong thư mục thì không có cái ảnh nào cả. Khi vào Facebook và mes thì em muốn đăng ảnh lên nhưng không có ảnh để đăng lên..  Xin hỏi máy em bị sao vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.489005,
+         "id": "874453",
+         "field_search": "question",
+         "question": "Tại sao vào zalo của người khác lại không xem được ảnh vậy. Vào rất nhiều nick để xem ảnh đều hiện thị không có ảnh. Mà người đó lại k chặn minh xem nhật kí hay gì hết .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.406632,
+         "id": "1019321",
+         "field_search": "question",
+         "question": "e mới mua một chiếc ss galaxy tab E về với mục đích để xem video học tập, website e xem là hocmai. tuy nhiên e không thể nào đăng nhập với tài khoản google trên app hocmai lecture, đăng nhập trên website hocmai thì chỉ xem được 1 đoạn video đầu ngắn, về sau là hiện dấu X lỗi không tải được video. Mong admin xử lí và đưa ra giải pháp giúp e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.392572,
+         "id": "1000804",
+         "field_search": "question",
+         "question": "Xin chào! Mình có cái điện thoại Samsung galaxy A7(2016). Mình mua ở bên ngoài. Nhưng giờ mình có thể vào thế giới di động bán lại được không vậy? Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.362359,
+         "id": "799746",
+         "field_search": "question",
+         "question": " Tại sao 2 nút cảm ứng của A7 2016 không sáng đèn khi mình chạm vào vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.352485,
+         "id": "1158049",
+         "field_search": "question",
+         "question": "e dùng đt ss a7 2018. lúc xem story trên instagram đt không tương thích nên hình ảnh trong story bị zoom ra cắt mất chữ mất hình. em phải khắc phục ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.322605,
+         "id": "828779",
+         "field_search": "question",
+         "question": "mình dùng facebook trên máy tính. Nhưng gần đây khi facebook thông báo có tin nhắn, mình mở xem được nhưng trả lời không được. Nó cứ hiện \"Tin nhắn chưa đc gửi, vui lòng thử gửi lại\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.310486,
+         "id": "1004238",
+         "field_search": "question",
+         "question": "Máy j2 prime nó bảo cập nhật phần mềm như thế này. Em có nên cập nhật k, máy em xem ảnh trên facebook hơi chậm. Kích cả 5s mới xem dc.Mong trả lời sớm, e hỏi 2 lần rồi. Tức muốn khiếu nại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.283255,
+         "id": "1138019",
+         "field_search": "question",
+         "question": "Oppo f1s sao không mời live chung trên facebook được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.270931,
+         "id": "913631",
+         "field_search": "question",
+         "question": "ảnh trên icloud của mình 3,9 GBmình đăng nhập tài khoản icluod vào máy mới để tải ảnh trên icluod về.khi xem quản lí dung lượng máy ảnh chiếm có 1,8 gb.trong khi trên icluod là 3,9 gbmà trong ảnh vẫn đủ ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.236814,
+         "id": "856084",
+         "field_search": "question",
+         "question": " Cho minh hoi cách khac phuc lôi không xem dc video trên facebook ,  ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,809 @@
+{
+   "id_query": "1008410",
+   "total": 20575,
+   "total_current": 100,
+   "max_score": 202.00903,
+   "origin_question": "Em lỡ bấm nhầm vào một mục của android recovery và bị treo một chữ downloading ảnh em gửi là những chữ ghi ở góc phải khắc phục làm sao ạMáy của em là samsung galaxy tab A",
+   "hits": [
+      {
+         "score": 202.00903,
+         "id": "1008410",
+         "field_search": "question",
+         "question": "Em lỡ bấm nhầm vào một mục của android recovery và bị treo một chữ downloading ảnh em gửi là những chữ ghi ở góc phải khắc phục làm sao ạMáy của em là samsung galaxy tab A",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.42032,
+         "id": "832116",
+         "field_search": "question",
+         "question": " Laptop em là dell inspiron 5458 bị treo logo và bị lỗi file reconvery khắc phục làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.55852,
+         "id": "1164043",
+         "field_search": "question",
+         "question": "Máy của em là máy HTC m8 ạ. Gần đây, máy em bị lỗi và xuất hiện dòng chữ \"Mã hóa không thành công\". Em đã thử đặt lại điện thoại nhiều lần nhưng khi nó khởi động lại thì hiện dòng chữ \"Rất tiếc, Cài đặt đã dừng lại\". Cho em hỏi cách khắc phục lỗi với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.0877,
+         "id": "895525",
+         "field_search": "question",
+         "question": "Laptop của e ko bắt được wifi của nhà trong khi điện thoại vẫn bắt được và vào bình thường(wifi nhà hàng xóm thì laptop vẫn bắt được bình thường). QTV cho e hỏi thế là bị làm sao và cách khắc phục ntn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.751884,
+         "id": "957546",
+         "field_search": "question",
+         "question": " Laptop của mình ở có ghi là dd3rlonboard1 khe z là cái ram của onboard hay là ram được gắn vào z ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.52334,
+         "id": "1166333",
+         "field_search": "question",
+         "question": "Máy em là oppo f7 không gửi được tin nhắn cho tổng đài vì em lỡ bấm nhầm vào không đồng ý khi màn hình hiện lên tin nhắn sẽ tính phí. Bây giờ em phải chỉnh lại thế nào ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.70863,
+         "id": "774170",
+         "field_search": "question",
+         "question": "Cho em hỏi máy trước em mua ở tgdd máy ip5 này là bản nước nào vậy ạ.mà sao kiểu máy ghi chữ j ma không có chữ a nữa như bản nhật vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.552513,
+         "id": "999423",
+         "field_search": "question",
+         "question": "Cho em hỏi máy Galaxy Tab A6 của em bị đơ ở màn hình khoá giờ làm sao ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.01022,
+         "id": "801128",
+         "field_search": "question",
+         "question": "hồi em chơi zalo bằng sim em....rồi một thời gian sau em đưa điện thoại lẫn sim em cho thằng bạn...bây h nó vào sài gòn đi làm..và chơi zalo của em..trên điện thoại của em..sdt của em luôn...cho em hỏi có cách nào để biết mật khẩu zalo cũ của em không....sdt cũ em dùng chơi zalo là 0964415628",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.354126,
+         "id": "1155578",
+         "field_search": "question",
+         "question": "Tài khoản faecbook của em bị hack và đổi email đăng kí, em gửi giấy tờ tùy thân cho facebook xác minh nhưng tên trong giấy tờ là Đoàn Quế Kiệt còn tên facebook em là Đoàn Kiệt. Facebook không chấp nhận trả lại tài khoản cho em. giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.36475,
+         "id": "774233",
+         "field_search": "question",
+         "question": " Asus Fonepad7 k012 của em không vào được recovery là sao ạ, nó cứ báo lỗi.  Giúp em với! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.753075,
+         "id": "1154989",
+         "field_search": "question",
+         "question": "cho em hỏi ở trong máy của em có 1k6 ảnh,14 video  nhưng sao em vào icloud đồng bộ để sao lưu lại trên máy tính thì chỉ hiện lên 550 cái ảnh,6 video ? cách khắc phục như thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.524494,
+         "id": "921708",
+         "field_search": "question",
+         "question": " Laptop cuả em có 1 số phím bấm k được nhưng k phải bị lờn. Làm saođể khắc phục anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.028343,
+         "id": "769409",
+         "field_search": "question",
+         "question": "Em dang dùng máy dell. bình thường máy em vẫn chụp ảnh bằng webcam được nhưng mak hôm nay vào thì nó hiện lên cửa sổ dòng chữ \"NO WEBCAM DETECTED....\" Mong ad cho em biết lý do và cách khắc phục​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.673,
+         "id": "870197",
+         "field_search": "question",
+         "question": "tại sao khi máy của mình mỗi lần vào facebook đều bị lỗi k có phản hồi như này và cho minh cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.848167,
+         "id": "1015557",
+         "field_search": "question",
+         "question": " Cho e hỏi bị như thế này thì phải làm sao và cách khắc phục  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.824543,
+         "id": "999154",
+         "field_search": "question",
+         "question": "Cho hỏi Máy samsung A9 pro đang sài bị màn hình đen, nổi chữ Samsung sáng mờ, máy cứ bị như thế hoài, không bấm nút nào được hết. Chi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.307602,
+         "id": "869172",
+         "field_search": "question",
+         "question": "em quên ID của tk icould mà nhớ pass + nhớ 8 chữ đầu còn 2 chữ nữa là số e k nhớ - mn có cách nào giúp em dò lại k ạ ? em k nhớ yahoo luôm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.023647,
+         "id": "844943",
+         "field_search": "question",
+         "question": "laptop asus của e sử dụng windows 8.1 nhưng e lỡ bấm vào cài đặt windows 10, vừa rồi e vừa hạ cấp xuống lại windows 8.1. Bây giờ máy tính của e k sử dụng được ứng dụng asus smart gesture, khi e bấm vào đó thì hiện ra hình ở bên dưới. BÂY giờ e phải làm sao xin hãy hướng dẫn cụ thể cho e , e cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.399094,
+         "id": "1010967",
+         "field_search": "question",
+         "question": "Anh cho em con asus zenphone 5 của em bị chập chờn wifi thì cho em hỏi làm các nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.377132,
+         "id": "804557",
+         "field_search": "question",
+         "question": "Laptop asuss k555L core i5 của e khi khởi động nó để là: we couldn\"t complete the updates undoing changes don\"t turn off your computer. là bị gì vậy a?? cách khắc phục ntn a???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.23105,
+         "id": "1021629",
+         "field_search": "question",
+         "question": "ad cho hỏi máy em đang sử dụng là Samsung Galaxy Y GT-S5360 nó bị liệt màn hình bây giờ làm sao khắc phục ? em thử lấy đồ vợt muỗi nhưng k hiệu quả :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.22677,
+         "id": "872096",
+         "field_search": "question",
+         "question": "E đang dùng laptop hp win 10 nhưng k hiểu sao sáng nay bật máy lên tự dưng màn hình xanh có chữ shutting down đang load.Vậy cho e hỏi là máy e đang bị sao và cách khắc phục tnào ạ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.601612,
+         "id": "1017708",
+         "field_search": "question",
+         "question": "Em đang sử dụng con galaxy Grand 2. Vừa up ROM CM 12.1 lên Android 5.1. Sử dụng được một lát thì bị lỗi Rất tiếc Rebuchet đã dừng lại. Khắc phục lỗi này ntn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.52145,
+         "id": "1140471",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách cài đặt trung tâm tin nhắn và luôn cho phép gửi tin là ở mục nào? Phần nào của máy asus zenfone max m1 plus vậy? Từ khi mình mua máy mới tgdd về lúc gửi tin nhắn dc lúc không. Gửi đi số nào cũng k gửi dc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.41289,
+         "id": "1016883",
+         "field_search": "question",
+         "question": "Asus 3max5.5 chơi liên quân bị  thoát games  làm  sao khắc phục,khôi phục  cai đặt góc van không hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.68152,
+         "id": "1007685",
+         "field_search": "question",
+         "question": "Cho em hỏi là em có sử dụng 1 cái sim không phải bằng chứng minh của em. Giờ em làm mất và sim đó dùng để đăng kí nhiều thứ quan trọng, giờ có làm lại được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.626522,
+         "id": "1144744",
+         "field_search": "question",
+         "question": "thẻ atm của mình chỉ đăng ký chuyển khoản ol thì bây giờ mình muốn cà thẻ đê thanh toán ở st thì mình phải làm gì thẻ của mình là thẻ shb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.4747,
+         "id": "1022791",
+         "field_search": "question",
+         "question": "Em lỡ tay gỡ cài đặt cập nhật dịch vụ của google và tắt ứng dụng google play trên điện thoại ASUS ZENPHONE 5 nên bây giờ vào youtube hay Gmail đều nói rằng Gmail sẽ không chạy trừ khi bạn cập nhật dịch vụ của google và nói lỗi dịch vụ của google. Bây giờ em phải làm sao để sửa ạ? Mong các anh giúp em với.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.349606,
+         "id": "992039",
+         "field_search": "question",
+         "question": "Cho mình hỏi là nếu 2 thiết bị của apple dùng chung tài khoản icloud và đồng bộ hình ảnh thì các hình ảnh của mình chụp sẽ tự động tải qua máy kia và khi mình xóa hình thì máy kia có bị xóa luôn không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.22584,
+         "id": "765846",
+         "field_search": "question",
+         "question": "Em sử dụng iphone 4s tối qua vẫn bình thường nhưng sáng nay thì không thể bắt được wifi, wifi thì ở chế độ tắt và bặt lại không được ạ. Cho em hỏi như thế là bị gì và phải làm sao ạbạn em nói là iphone 4 năm 2016 không thể bắt được wifi là có thật không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.763386,
+         "id": "1018362",
+         "field_search": "question",
+         "question": "Bên mình cho em hỏi, sau khi em nghe nhạc trên mp3.zing và Spotify qua tai nghe theo máy thì khi rút ra lại không phát loa ngoài được ạ, cho hỏi cái này là lỗi gì vậy ạ và em phải khắc phục làm sao ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.686913,
+         "id": "1006944",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng điện thoại samsung galaxy j1 mini và em muốn hỏi là khi em vô quản lí file của điện thoại thì em thấy có vài file nhạc mp3 có hình riêng trong khi vài file khác lại không có hình riêng mà chỉ có hình nốt nhạc, vậy làm sao để em thêm hình vào những file nhạc không có hình được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.586746,
+         "id": "889047",
+         "field_search": "question",
+         "question": " Màn hình laptop asus cảm ứng bị loạn, rung giật nguyên nhân là gì và cách khắc phục ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.536736,
+         "id": "940000",
+         "field_search": "question",
+         "question": "tài khoản ID Apple của mình bị vô hiệu hóa.Mình đã tìm hiểu trên mạng,mình tạo tài khoản mới và đã đăng nhập nhưng khi mình tải game thử thì nó vẫn kêu là \"ID Apple của bạn đã bị vô hiệu hóa\" thì bây giờ mình phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.485523,
+         "id": "1020751",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng điện thoại samsung galaxy j1 mini và em muốn hỏi là điện thoại em có dùng được bút cảm ứng không ạ và giá của bút cảm ứng là bao nhiêu tiền ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.471542,
+         "id": "1006950",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng điện thoại samsung galaxy j1 mini và em muốn hỏi là khi em vô quản lí file của điện thoại thì em thấy có vài file nhạc mp3 có hình riêng trong khi vài file khác lại không có hình riêng mà chỉ có hình nốt nhạc, vậy làm sao để em thêm hình vào những file nhạc không có hình được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.415413,
+         "id": "1013258",
+         "field_search": "question",
+         "question": "Máy e là zenphone 3 max, nay em cập nhận androi từ 6.0 lên 7.0 và giờ máy em bị chậm và lag. Em phải làm như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.107563,
+         "id": "805037",
+         "field_search": "question",
+         "question": "Tình hình là sạc con ip4 của em bị hỏng giờ em mua dầ cáp không thì có sạc được pin không ạ,và giá cuả cap sạc ip4 là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.87928,
+         "id": "753652",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4s nhưng dùng wifi không vào được appstore và 1 số ứng dụng nhưng lại vào được youtube và facebook cách khắc phục là gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.621334,
+         "id": "797414",
+         "field_search": "question",
+         "question": "@@ zalo của e ko hhề bị báo đăng nhập từ thiết bị khác, mật khẩu e cài cũng rất dài và chắc chắc mà ko hiểu sao có ng vẫn vào đc zalo của e và tải ảnh về T.T",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.571205,
+         "id": "1009696",
+         "field_search": "question",
+         "question": "Cho tôi hỏi hiện tôi dùng asus zefone2 tại sao không biết mấy ngày hôm nay máy tôi cứ không dùng một lúc là tự nhiên mất mạng và khởi động lại thì mới có cho tôi hỏi cách khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.559593,
+         "id": "795491",
+         "field_search": "question",
+         "question": "Chào anh chị em đang xài iphone 6 chạy ios 9.2.1 e hạ xuống ios9.2 thì bị lỗi 17 và bị treo máy khôi phục lại máy mãi mà không được giờ em phải làm sao????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.553,
+         "id": "781959",
+         "field_search": "question",
+         "question": " iPhone 5s của em bị rót nước bây giờ không có sóng thì bị hư gì và giá sữa chữa là bao nhiêu vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.534798,
+         "id": "761897",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 5s của em đang xài là ios 8.1.1 em muốn lên 8.4 .1 nhưng lại bị lỗi 3194 là sao hả anh? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.534798,
+         "id": "761715",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 5s của em đang xài là iOS 8.1.1 em muốn lên 8.4 .1 nhưng lại bị lỗi 3194 là sao hả ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.395214,
+         "id": "864038",
+         "field_search": "question",
+         "question": "AD cho em hỏi tại sao các hình ảnh của sticker e tải trên facebook hay zalo lại có ở album ảnh. Cả những hình ảnh vật phẩm cuả game fifa online 3 M nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.041832,
+         "id": "985953",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi iphone của em sạc thì vào nhưng không lên pin để lâu cạn pin sập nguồn luôn nhưng vẫn sạc vào đc mà k lên là bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.70063,
+         "id": "751328",
+         "field_search": "question",
+         "question": " Cho em hỏi cách gửi tin nhắn hình ảnh trên Facebook của laptop? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.675426,
+         "id": "763715",
+         "field_search": "question",
+         "question": " Cho em hỏi hình nền mặc định của iPhone 6 bị mất rồi phải làm sao để tìm lại làm ơn chỉ với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.504784,
+         "id": "877895",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi sao điện thoại của em cứ vào youtube là không coi video được, hình bị sọc sọc nhiều màu rồi tự thoát ra khổi chương trình ak!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.492397,
+         "id": "781372",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 6s 64G của mình dùng lâu lại bị nóng ở phần trên mặt sau là bị trục trặc gì vậy ad??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.490173,
+         "id": "1010972",
+         "field_search": "question",
+         "question": "Cho em hỏi con asus zenphone5 của em bị chập chờn wifi thì làm thế nào để khác phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.19985,
+         "id": "1159643",
+         "field_search": "question",
+         "question": "Em vừa mua một chiết Galaxy a50 về sử được 5 ngày thì không thể nhận được cuộc gọi em phải khởi động máy lại mới có thể nhận cuộc gọi, máy em bị thế 2 ngày rồi khi em đem đến thegioididong thì nhân viên không cho em đổi máy mới và nói là bị lỗi phần mềm không đổi được cho em biết vì sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.198723,
+         "id": "1009945",
+         "field_search": "question",
+         "question": "Điện thoại của em là Asus zenfone 3 max, sau khi mua về 1 thời gian thì khi e sử dụng bằng thời gian và cùng chơi Liên Quân với máy Samsung J5 prime nhưng sao máy em tại hao pin nhiều hơn, trong khi máy em pin khủng long 4100mhz, mong admin chỉ rõ nguyên nhân và hướng khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.025455,
+         "id": "840837",
+         "field_search": "question",
+         "question": " Iphone 5 của em xài phiên bản 7.1.2 giờ em muốn lên ios9 thì phải làm sao và cần bộ nhớ bao nhiêu???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.88929,
+         "id": "796422",
+         "field_search": "question",
+         "question": "cho em hỏi là mt của em là loai Asus X44H.em mua được lâu rồi.dạo gần đây em sạc pin k đk đầy.chỉ đk 97% thôi ạ.nếu mà vừa sử dụng vừa nạp pin thì đk 1 tí là sạc bị nóng ạ.cho em hỏi là em nên làm gì trong trường hợp này ạ.lỗi do đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.88623,
+         "id": "1010312",
+         "field_search": "question",
+         "question": "Ai biết cách khắc phục vụ này thì giúp em với ạ ! Điện thoại em là ASUS zenfone 3 max ! Em xin cảm ơn ạ ! Ngay cả khi gắn tai nghe bấm tăng âm lượng nó cũng ghi vậy luôn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.758465,
+         "id": "845752",
+         "field_search": "question",
+         "question": "mình có một máy tính bảng Dell,mình muốn xóa dòng mail hiển thị khi mở máy lên ngay phía dưới ảnh khi nhập password để vào máy thì phải xoá làm sao ạ.xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.703964,
+         "id": "763133",
+         "field_search": "question",
+         "question": " Sao máy tính bảng Asus của em bị mất màu rồi em nên làm thế nào để phục hồi màu như cũ ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.58317,
+         "id": "807257",
+         "field_search": "question",
+         "question": "Cho e hỏi zalo của e khi bạn bè gửi ảnh đến thì bị lỗi không thấy ảnh được, e gửi tin nhắn âm thanh cũng không được, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.355312,
+         "id": "760601",
+         "field_search": "question",
+         "question": " Cho em hỏi giá của iPhone 5 8GB và 16GB hiện nay là bao nhiêu ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.33818,
+         "id": "988680",
+         "field_search": "question",
+         "question": "mình dùng zalo phiên bản 3.2.2.r2.medium chỉ đổi ảnh nền trong một khung chat thôi mình muốn đổi ảnh nền cho tất cả thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.27592,
+         "id": "1019025",
+         "field_search": "question",
+         "question": "Tgdd giúp em với! Em đang dùng zenfone live chơi game biệt đội chibi,mỗi lần đăng nhập tài khoản khác là bị lag bàn phím.bàn phím rất lâu mới hiện và bấm ký tự cũng chậm hiển thị.khi vào game thì bình thường.restart máy thì lại dc nhưng chỉ dc 5 lần log là lại bị lag.em đã test trên nhiều máy cấu hình thấp như zenfone 4.... Chạy rất ok...mong nhận dc tư vấn của ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.26231,
+         "id": "872253",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi cách khắc phục thiết bị không được hộ trợ 2028 trên zalo của dòng asus5 đi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.19442,
+         "id": "996396",
+         "field_search": "question",
+         "question": "Điện thoại samsung tab a6 của mình ,ai gọi đến đổ chuông mà không lên màn hình phải làm sao vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.168587,
+         "id": "1139890",
+         "field_search": "question",
+         "question": "Cho mình hỏi là Laptop Asus mình mới dùng được 1 năm, nhưng máy hay bị treo và máy rất nóng nóng dù quạt tản nhiệt vẫn hoạt động và không dùng lâu thì có cách khắc phục nào không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.1045,
+         "id": "772561",
+         "field_search": "question",
+         "question": "  Điện thoại Oppo neo 5 vào Messenger cứ bị thế này phải làm sao để khắc phục ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.934196,
+         "id": "888631",
+         "field_search": "question",
+         "question": "Đây là lỗi gì vậy ad. Nó thay đổi toàn bộ giao diên của máy mình và lúc tắt máy bật lại thì dữ liệu cũ mất hết. Bày cách khắc phục cho mình vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.762367,
+         "id": "1003935",
+         "field_search": "question",
+         "question": "máy oppo r1001 của em phần :bàn phím & phương thức nhập bị mất mục swype for oppo rồi ,giờ chỉ còn mục nhập giọng nói của google . ai chỉ em cách sữa đc kh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.63318,
+         "id": "1013069",
+         "field_search": "question",
+         "question": "Cho em hỏi..em có điện thoại samsung galaxy s7 egle mua ở nước ngoài...vô tình người bên đó quên thoát gmail..ông anh em mua lại gửi về việt nam.khi về việt nam em mở máy lên thì báo bảo mật gmail không chính xác. Giờ em phải làm sao..mong nhận được sự phản hồi của anh chị ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.38924,
+         "id": "1150127",
+         "field_search": "question",
+         "question": "cho em hỏi máy em đang dùng là dell i5. nó hay bị nhiện cái trang chữ e màu xanh dương ấy ạ mặc dù em k mở nó cũng tự mở quá trời trang làm đứng máy. với máy hay hiện kêu em mua phần mềm diệt virut. bên mình có bán phần mềm đó không và giá thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.358852,
+         "id": "817750",
+         "field_search": "question",
+         "question": "Tại sao iphone 4s của tôi khi vào jailbreame.com lai không xuất hiện chi xuất hiện lung tung và chỉ cho em làm sao để jailbreak không cần máy tính được không a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.220192,
+         "id": "1134552",
+         "field_search": "question",
+         "question": "Em có gửi chiếc laptop của em ra thế giới di động để gửi đi hãng, khi đem về thì e kiểm tra thấy tem ở ổ cứng bị tróc 1 cạnh, e không thay ổ cứng, giờ khi e mở lên thì bắt nhập password để vào ổ cứng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.884127,
+         "id": "807646",
+         "field_search": "question",
+         "question": "Chào anh. Cho em hỏi dt Mobiistar Kool Lite của em khi bấm vào tên danh bạ thì không gọi dt bình thường được, mà nó tự động chuyển sang cuộc gọi video rồi báo \"ngắt kết nối\". Em phải làm sao để gọi bình thường được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.875547,
+         "id": "862975",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại iphone 4s của em bây giờ không cập nhật ảnh đại diện mới của bạn bè trong messenger mà vẫn cứ hiện ảnh đại diện cũ. em có tải lại nhiều và làm cách xoá phiên hoạt động gì đó trên fb để đăng xuất ra nhưng khi vào thì nó vẫn như cũ. Mọi người giúp em với !! Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.81444,
+         "id": "997982",
+         "field_search": "question",
+         "question": "Ad oi may em bị như thế nay là sao ạ máy em  là máy tinh bảng sam sung tab e smt561y ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.760786,
+         "id": "1021872",
+         "field_search": "question",
+         "question": "Nếu e mua máy cũ giá rẻ ở một cửa hàng cách nơi em ở tầm 80km thì TGDD có gửi sản phẩm lên đây không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.69795,
+         "id": "1024159",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng điện thoại samsung galaxy j1 mini và em muốn hỏi là có ứng dụng nào tự động backup tin nhắn ngay khi tin nhắn được gửi tới hay gửi đi không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.628601,
+         "id": "1117109",
+         "field_search": "question",
+         "question": " Pin của máy oppo f9 là bao nhiêu ?màn hình của máy là bn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.62489,
+         "id": "1022796",
+         "field_search": "question",
+         "question": "AD ơi, em lỡ tay nhấn gỡ cài đặt cập nhật dịch vụ của google và tắt CH play, bây giờ không có phiên bản cập nhật nữa rồi, em đang sử dụng điện thoại ASUS ZENPHONE 5 ạ. Mong mọi người chỉ cho em cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.576576,
+         "id": "991268",
+         "field_search": "question",
+         "question": "chào bạn! miǹh đang dùng ip6 plus nhưng máy của mình đang bị hỏng nut home và mất dấu vân tay mình muốn trung tâm này sửa chữa thì mất bao lâu thời gian và giá sửa cái đó là bao nhêu vầy mình ko mua ở đây cho lên ko có bảo hành vs lại máy của mình bị cong mên nữa.!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.568823,
+         "id": "809485",
+         "field_search": "question",
+         "question": "Tôi mở zalo xong nó hiện màn hình ghi là bị lỗi chat,vậy tôi phải xử lý sao?khi nó hiện lên thì không vào zalo được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.235601,
+         "id": "776508",
+         "field_search": "question",
+         "question": "Tại iPhone 4 của em khị bị va chạp nhẹ phía sao màng hình hoặc đặc xuống thì nó bị tắt nguồn thế có cách nào để khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.021912,
+         "id": "746234",
+         "field_search": "question",
+         "question": "Máy của mình đang xài cái OPPO R7. Mình bị tắt nguồn mà mình sạc nó vô pin và giờ lại mở nguồn không được là sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.81585,
+         "id": "1151065",
+         "field_search": "question",
+         "question": "samsung m20 có sẵn ở tgdd không vậy ad và giảm 700k là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.801529,
+         "id": "853151",
+         "field_search": "question",
+         "question": "Mess với face của em không vào được ạ , cả facebook lite cũng thế . Mess cứ hiện là đang đăng nhập thôi ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.793896,
+         "id": "923942",
+         "field_search": "question",
+         "question": "  Điện thoại của em sạc đầy pin vẫn hiển thị 1 là sao vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.666225,
+         "id": "987537",
+         "field_search": "question",
+         "question": "ngày trước iphone của em vẫn xem được bình luận trên facebook bình thường, nhưng mấy ngày gần đây em lại chỉ đọc được bình luận nhãn dán, những bình luận chữ dài hoàn toàn không thấy, lý do tại sao giúp e sửa với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.510748,
+         "id": "764334",
+         "field_search": "question",
+         "question": " Cho em hỏi thường mấy anh đăng ký tài khoản ios, mật khẩu thường để chữ cái đầu là gì vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.468035,
+         "id": "1145648",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi công suất thực pin6s của mk là 1760mah nhưng cuông suất thiết kế của mình lại có 1690mah là sao ạ? mình mới sạc 5 lần ạ. và mình mới thay pin ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.450413,
+         "id": "994980",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là hôm nay em dùng máy xong thì sutdown được một chặp thì em mở lên lại tự nhiên ngôn ngữ chuyển sang tiếng việt còn giao diện thì tự nhiên đổi thành giao diện cổ lỗ sĩ nào mà không giống win 7 nữa thanh taskbar tự nhiên chuyển thành màu trắng, mấy phần mềm tự nhiên mất hết, mạng wif của nhà bật điện thoại vẫn bắt được mà máy không bắt được mạng nào cả khi vô một phầm mềm hay vô control panel đổi ngôn ngữ thì nó báo là bảo mật internet gì đó ạ ? Không biết máy em bị sao đây ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.386469,
+         "id": "754674",
+         "field_search": "question",
+         "question": "AD cho em hỏi một chút điện thoại em đã vượt qua 3 tài khoản icloud rồi nhưng em đã dùng máy iphone khác để tạo tài khoản mới nhưng khi tạo xong em vẫn không đăng nhập vào được là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.325294,
+         "id": "799863",
+         "field_search": "question",
+         "question": "Cho e hỏi là ở cửa hàng của mình có cài đặt microsoft office mới cho máy tính không ạ. Máy tính e không có mua ở cửa hàng của mình, nếu cài thì có tốn phí là bao nhiêu ạ. E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.261606,
+         "id": "1021069",
+         "field_search": "question",
+         "question": "cho em hỏi máy iphone 5s của em giờ không nghe gọi được. gọi cho máy khác thì loa trong không nghe tiếng gì bật loa ngoài lên lại nghe thấy bên kia nói , mình nói lại nhưng đầu dây bên kia không nghe thấy mình nói. em phải tắt nguồn đi mấy lần thì máy mới nghe gọi lại được bình thường nhưng chỉ được 1 lúc là máy lại bị thế kia . Cho hỏi máy của em bị làm sao vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.169312,
+         "id": "846518",
+         "field_search": "question",
+         "question": "Tình hình là em mới chạy lại win 7 ạ,, hôm qua thì máy hoạt động bình thường. tự nhiên hôm nay mở lên vào chorm thì con chuột nó cứ nhấp nháy và có hình tròn bên cạnh, lâu lâu lại tự hiện lên hình bên cạnh như kiểu bấm F12 và nó tắt luôn, tắt chorm xuống thanh tác vụ thì lại tự bật lên. vào internet explorer thì nó cứ hiện lên cái bảng gì đó rồi nhấp nháy liên tục không thể bấm hay làm gì được. vào paint hoặc là word thì chưa kịp bấm gì nó đã hiện lên cái bảng để save rồi. ad cho e biet tai sao khong a??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.098911,
+         "id": "771805",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6 16gb ở tgdd đc 1 tháng. Mình xài sim mobi và đang kí gói mobi big. lúc mới mua mình bật 3g xài thì vẫn hiện chữ 3g bình thường. nhưng gần đây khi mình chuyển từ 2g sang 3g thì nó vẫn hiện chữ E(tức là 2g). chỉ khi mình chọn bật chế độ máy bay và tắt nó đi thì mới nhận lại 3g bình thường. Cho mình đây có phải lỗi hay gì không ? và có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.068825,
+         "id": "805269",
+         "field_search": "question",
+         "question": " Cho mình hỏi sao mình đang nhắn tin ở zalo mà tự nhiên mất hết chữ luôn giờ làm sao   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.031895,
+         "id": "779172",
+         "field_search": "question",
+         "question": "Ad biết khắc phục lỗi 101 của sim ghép koVói cả làm sao để biết mìh dụng mạng nào khi mới đăng nhập sim ghép",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.970682,
+         "id": "1010146",
+         "field_search": "question",
+         "question": "Sao khi khôi phục cài đặt gốc laptop dell của tôi không có google, ứng dụng, trình duyệt Cốc cốc, tôi phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

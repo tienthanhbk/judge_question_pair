@@ -1,0 +1,809 @@
+{
+   "id_query": "1135440",
+   "total": 31841,
+   "total_current": 100,
+   "max_score": 68.91987,
+   "origin_question": " cho em hỏi như này là bị sao ạ? em tải file apk về rồi cài nhưng nó cứ báo lỗi. mấy lần rồi ạ",
+   "hits": [
+      {
+         "score": 68.91987,
+         "id": "1135440",
+         "field_search": "question",
+         "question": " cho em hỏi như này là bị sao ạ? em tải file apk về rồi cài nhưng nó cứ báo lỗi. mấy lần rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.393421,
+         "id": "1142111",
+         "field_search": "question",
+         "question": "Anh ơi sao máy em không cài tệp apk được ạ vào cứ như này , em bật không rõ nguồn gốc rồi mà vẫn vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.979603,
+         "id": "924407",
+         "field_search": "question",
+         "question": " sao em xó id apple của nhật rồi nhưng em lại không tải được game này về ạ  nó lại hỏi cái này là sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.876495,
+         "id": "761294",
+         "field_search": "question",
+         "question": "Em tải ios9.2 về máy rồi nhưng chưa cài đặt thỉnh thoảng nó cứ nhắc cài đặt em sợ người khác cầm máy sẽ cài đặt. cho em hỏi làm sao mà xoá bản đã tải về ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.661245,
+         "id": "802848",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa tạo id apple iphone 4s mà sao cứ tải trò chơi về là nó báo xem xét lại, em làm rồi mà vẫn tải trò chơi về không được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.306625,
+         "id": "804299",
+         "field_search": "question",
+         "question": " cho hỏi em tải LMHT về rồi và cài thì máy báo thế này?ai biết chỉ dùm cách sửa lỗi này và cài LMHT cái???thank  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.397564,
+         "id": "761301",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi máy em có phải chính hãng không ạ. với lại em tải iOS 9.2 về máy rồi nhưng chưa cài đặt thỉnh thoảng nó cứ nhắc cài đặt em sợ người khác cầm máy sẽ cài đặt, cho em hỏi làm sao mà xoá bản đã tải về ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.350788,
+         "id": "1140633",
+         "field_search": "question",
+         "question": "Cho em hỏi làm cách nào để tải được tin nhắn MMS ạ? em tải về mấy lần rồi, chờ rất lâu nhưng cũng không nhận được ạ. Dòng máy của em là Samsung galaxy J2 ạ. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.158981,
+         "id": "1158452",
+         "field_search": "question",
+         "question": "Em đang dùng OPPO A3s. Sau khi em xoá FaceBook và vào tải lại thì được báo như thế này . Em nghĩ lỗi này là do bên Thế Giới Di Dộng. Em đã gọi lên tổng đài nhưng không có hướng giải quyết. Cho em hỏi giờ phải là m sao để tải lại Facebook ạ. Trước em có xoá đi tải lại 2 lần vẫn được. Nhưng đến lần này thì bị báo lỗi thế này ạ. Mong khắc phục sớm lỗi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.086393,
+         "id": "1013363",
+         "field_search": "question",
+         "question": " Anh chị ơi em tải apk về muốn cài đặt mà nó nói bị lỗi phân tích cú pháp anh chị giải thích giúp em với   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.941608,
+         "id": "1024563",
+         "field_search": "question",
+         "question": "Cho tôi hỏi khi mà tải game về rồi mà vào game nó cứ hiện là game đã dừng lại là bị sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.643288,
+         "id": "1150678",
+         "field_search": "question",
+         "question": "em dùng asus 5 , em tải b612 về mà cứ bị thông báo là \" rất tiếc , b612 đã dừng lại \" em xoá hết dữ liệu trên điện thoạii rồi cài lại mà vẫn kh được là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.297047,
+         "id": "1142685",
+         "field_search": "question",
+         "question": "Dạ em sử dụng J7 2016 mà mỗi lần e gửi tin nhắn cho tổng đài mà nó cứ báo lỗi như này, em phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.176363,
+         "id": "1009069",
+         "field_search": "question",
+         "question": "em hỏi về vụ bảo hành 1 đổi 1 trong một năm em có cái pin dự phònng nó bị lỗi nên em đã đổi 1 lần rồi nhưng nó tiếp tục bị lỗi thì cho em hỏi là em có thể đem ra đổi thêm 1 lần nữa không ạ em còn thời gian bảo hành ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.011599,
+         "id": "1002339",
+         "field_search": "question",
+         "question": " Cái này là sao ạ,một số game cũng bị như vậy. Em cũng thử tải google play về rồi nhé vẫn ko đc  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.99295,
+         "id": "999228",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi , máy iphone của em cứ mỗi lần vô messenger là cứ bị văng ra ngoài , thử xoá rồi tải lại vẫn không đc, làm sao để hết ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.863989,
+         "id": "927622",
+         "field_search": "question",
+         "question": " Messenger của em nó cứ hiện như này thì sao ạ. Em thử tải lại nhiều lần mà không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.60355,
+         "id": "917095",
+         "field_search": "question",
+         "question": "Em đang dùng J7 Prime nhưng sao em không thể tải file word về từ Facebook nhưng trước đây em vẫn tải được. Khi em bấm chọn file thì hiện thông báo \"Không thể tải trang này\". Em đã thử nhiều file khác nhau vẫn không tải được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.28709,
+         "id": "834719",
+         "field_search": "question",
+         "question": " Tại sao em tải liên minh được 2.05.3 GB rồi mà nó bị lỗi không tải được nữa là sao ạ, em xài win 10 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.220903,
+         "id": "1167891",
+         "field_search": "question",
+         "question": "Em bị lỗi là khi tải 1 ứng dụng về trên CH play nó cứ để là \"đang tải xuống\" nhưng nó cứ treo máy và không tải được  giúp em đi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.112427,
+         "id": "996185",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 6s bị treo logo táo rồi tắt xong rồi lại treo logo rồi tắt cứ như v là sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.071428,
+         "id": "921158",
+         "field_search": "question",
+         "question": "Tớ dùng Iphone 4 thường đời đầu tẢi UC browser về máy rồi nhưng cứ mở ra là nó lại quay về màn hình chính , thế là bị làm sao vậy ạ ??????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.05804,
+         "id": "1139212",
+         "field_search": "question",
+         "question": "điện thoại em bị như vậy là sao ạ tự nhiên đang sài ngon mà bị vậy em củng hk pk sao nửa nó báo là '' đả sãy ra lỗi với cảm biến dấu vân tayNiếu thông báo này xuấn hiện nhiều hãy khởi động máy lại '' mà em dẳ khởi động nhiều lần rồi mà vẫn vậy bây giờ làm sao ạ mong giúp dỡ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.988443,
+         "id": "1009445",
+         "field_search": "question",
+         "question": "Mn cho e hỏi là tại sao nick fb nó cứ yêu cầu là xác nhận ảnh xong rồi khoá luôn nick lại. E bị 2 lần rồi. Mỗi nick chỉ dùng đc khoảng mấy ngày là bị. Hay do điện thoại bị ls ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.967537,
+         "id": "930827",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Lỗi Tunes ID này trên ip5s phải khắc phục như thế nào ạ. Muốn cài mở khoá bằng vân tay nhưng nó cứ báo lỗi như vậy đó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.943314,
+         "id": "1024053",
+         "field_search": "question",
+         "question": "em đã đăng xuất tài khoản này rồi và muốn tải ứng dụng mà s cứ liên tục hỏi như này. tk này e bị khóa rồi ạ. mong sự trợ giúp của công ty ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.765057,
+         "id": "1154294",
+         "field_search": "question",
+         "question": "cho mình hỏi IP 7Plus của mình sao tải phần mềm đọc file cad DWG FastView ,nhưng tải trên zalo về nó ko cho đọc,trong khi các máy khác vẫn tải về đọc bình thường.chỗ này là máy bị lỗi IP đúng ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.71404,
+         "id": "1150497",
+         "field_search": "question",
+         "question": "Điện thoại Itel s42 Android 8.0 cài file apk bị lỗi ứng dụng chưa được cài đặt thì làm sao khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.598917,
+         "id": "832928",
+         "field_search": "question",
+         "question": "Em bị như thế này phải làm sao bây giờ ad,em thử đổi mật khẩu,rồi nó gửi về điện thoại em 1 mã 6 số,em nhập vô thì Facebook nhập mật khẩu mới mà bạn muốn đổi,em nhập mật khẩu mới nhưng Facebook không chấp nhận bắt em chọn mật khẩu khác,em nhập mấy lần thì bị lỗi ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.58073,
+         "id": "760381",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao gửi mà nó cứ hiện vậy , em đã hỏi lại bạn rồi là có chặn gì không bạn em nói không có , kiểm tra lại hết rồi . Như vậy là bị gì vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.536816,
+         "id": "754406",
+         "field_search": "question",
+         "question": " Quản trị viên cho em hỏi, máy báo lỗi như thế này là bị sao vậy ạ ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.470112,
+         "id": "1134900",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi em đang sài mobiistar zumbo s2 dual. Mà messenger và facebook của em hai ứng dụng này tự động gỡ cài đặt( em ko gỡ. Nó tự gỡ) em tải lại thì nó để là lỗi 910. Tải thêm lần nữa nó để lỗi là 505. Em đã thử tắt nguồn rồi tải lại mà vẫn ko dc. Em thử tải messenger lite cũng ko dc. Huhu. Em phai làm s ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.307858,
+         "id": "818933",
+         "field_search": "question",
+         "question": " Tại sao em đã tải về rồi mà không cài đặt được facebook chỉ tải được fb lite là sao ạ chỉ em với.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.280315,
+         "id": "1001024",
+         "field_search": "question",
+         "question": "Chào ad. Em chuyển vậy rồi mà sao tải ứng dụng gì từ CH play về nó củng báo không đủ dung lượng là sao ạ.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.996683,
+         "id": "1004562",
+         "field_search": "question",
+         "question": "Google store của em bị lỗi tải liên quân về máy thì thông báo không thể tải. Làm sao để khắc phục lỗi này ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.88092,
+         "id": "845774",
+         "field_search": "question",
+         "question": "Máy tính của mẹ em hiện thế này là sao ạ? Mẹ em chuyển thư mục Program Files từ ổ C sang ổ D nó cứ báo lỗi như thế này là sao ạ? Ai chỉ giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.800657,
+         "id": "1008506",
+         "field_search": "question",
+         "question": "Ad ơi chữa hộ em với, chẳng biết sao mà nó cứ báo như vậy miếc. Em vào bật lại rồi tắt nhưng vào ứng dụng nó củng báo như vậy nữa !? Tắt đi bật lại nhiều lần mà củng không được ạ ? Mong ad sớm phản hồi. Em cảm ơn ạ ! Em dùng J7 Prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.796202,
+         "id": "799916",
+         "field_search": "question",
+         "question": "Cho em hỏi iPhone 6 16GB của e mới tải có 3 ứng dụng à sao nó cứ báo dung lượng sắp đầy , rồi vào ứng dụng không được cứ bị dăng ra ngoài , rồi bị đứng máy nữa , có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.769522,
+         "id": "803984",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua cái laptop cài win 10 nhưng không có kèm word,powerpoint...em phải làm sao ạ. Em cứ tưởng khi cài win là có sẵn mấy phần mềm đó rồi chứ ạ.Mong anh (chị) giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.750889,
+         "id": "814263",
+         "field_search": "question",
+         "question": "Cho em hỏi khi em vào Photoshop thì nó hiện như vậy! Khi em Open 1 ảnh thì nó cứ quay quay con trỏ chuột rồi đứng vậy hoài là sao ạ! em vừa delete và Tải lại vẫn hiện như vậy! Giúp em với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.648035,
+         "id": "768974",
+         "field_search": "question",
+         "question": " Anh ơi tại sao em tải game về xong rồi nhưng cứ tới 70 là Thất bại  Đang xài Iphone 38GB ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.541918,
+         "id": "998438",
+         "field_search": "question",
+         "question": "Máy em là samsung j7 preme dạo này cứ 1lúc là nó cứ tự phát quảng cáo cho dù ở đâu cũng vậy, em ẩn đa nhiệm thì thấy file system os đang chạy. Cho em hỏi tại sao lại bị như vậy và làm sao để xóa nó đi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.463348,
+         "id": "1001574",
+         "field_search": "question",
+         "question": "Tại sao mình đã lắp thẻ 16gb vào rồi nhưng máy không nhận. Nó cứ báo như thế này.. nó cứ để 8gb ở quản lý thông minh.. máy của mình là Samsung J2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.443476,
+         "id": "1001442",
+         "field_search": "question",
+         "question": "Em xài cái wikở bloom ạ. Sao nó bị lỗi tải về a ạ. Hình ảnh, video, Zing MP3 đều tải báo lỗi a ạ. E phải làm sao a?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.338762,
+         "id": "1008518",
+         "field_search": "question",
+         "question": "Anh cho em hỏi: Điện thoại của em mỗi lần chạy app hơi lâu, rồi máy em bị giật hoặc đứng máy, em cho khởi động lại máy thì khi em vào lại ứng dụng đó đã bị mất, mỗi lần như vậy em phải cài lại. Còn app nào có file obb thì file obb biến thành 0B ạ. Đôi khi nhạc cũng bị mất, file nhạc còn 32kb hoặc 0B ạ. Giúp em với. Điện thoại em là Lenovo a369i",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.31201,
+         "id": "1167967",
+         "field_search": "question",
+         "question": "cho em hỏi là: em dùng samsung j1 sài đến dưới 50% là nó tự sập nguồn nếu không cắm sạc thì nó cứ tắt rồi hiện lên chữ \"samsung\" xong nó tắt và liên tục hiện rồi tắt như vậy nhưng khi cắm sạc vào rồi thì nó mới vào giao diện chính là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.264322,
+         "id": "1010225",
+         "field_search": "question",
+         "question": " Tại sao nhạc việt em vẫn tải được còn nhạc nước ngoài em không tải được. Nó báo lỗi như vậy là sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.207893,
+         "id": "800146",
+         "field_search": "question",
+         "question": "Bộ phận kỹ thuật tgdd cho em hỏi , sao em lấy games free trên appstore về laptop rồi cài qua iphone khi vào games trên iphone nó vẫn báo nhập apple id là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.179134,
+         "id": "998102",
+         "field_search": "question",
+         "question": "Em dùng oppo joy 3 tại sao em tải fb về nó không cài đặt được hiện báo lỗi 24",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.15904,
+         "id": "949805",
+         "field_search": "question",
+         "question": " như này là bị sao ạ đăng nhập lại nó hiện lên như này ạ huhu nhập đúng mật khẩu rồi    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.11922,
+         "id": "874975",
+         "field_search": "question",
+         "question": " Chào ad! Ad cho em hỏi, tình trạng này là sao ạ? Cứ mỗi lần mở word ra là lại hiện cửa sổ thông báo này.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.07634,
+         "id": "1163488",
+         "field_search": "question",
+         "question": "Cho em hỏi, tìm mà nó hiện như này là sao ạ. Là có tìm được không ạ. Hiện tại số đó đang thuê bao rồi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.06186,
+         "id": "994031",
+         "field_search": "question",
+         "question": "Xin cho em hỏi về virus trên MacBook pro.Chị em có 1 cái MacBook pro nhưng ko biết nhiều về máy tính nên tải+cài cái này, cái kia về, nên giờ máy xuất hiện nhiều file lạ trên màn hình.Chị em đã để máy như vậy rất lâu rồi (khoảng hơn 6 tháng rồi, vì thấy tùm lum trên máy tính hết nên mới hỏi em, từ đó em mới biết)Xin cho em hỏi - nếu em reset về cài đặt gốc liệu có hết virus hay không ạ?- liệu để virus lâu trên máy tính như vậy, đã có hư hỏng phần mềm/ phần cứng gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.046951,
+         "id": "1158628",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em là samsung a7 nhưng sao không xem được tập đính kèm các file trên facebook ạ? Tải về không được. Em cần cài phần mềm hay làm thế nào để xem được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.988909,
+         "id": "1023363",
+         "field_search": "question",
+         "question": "Cho e hỏi ạ. Dạo này insta của em vào xong toán bị out ra ý ạ. Mà nó bị out ra suốt mấy ngày dù em đã tắt nguồn rồi bật lại, reset cài đặt. Đến lúc mà em xoá đi ins r down lại thì lại dùng được. Nhưng chỉ dùng đc hơn 1 ngày là nó lại out ra liên tục ý ạ. Xong e cứ cách 1 ngày phải xoá 1 lần để dùng được. Mà mới vào ins được mấy giây là nó đã out ra r ý ạ chưa kịp làm gì ạ. Cho e hỏi làm cách nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.981176,
+         "id": "1156985",
+         "field_search": "question",
+         "question": "A c cho e hỏi. Đt oppo f5 e có tải file game apk về. Nhưng sau đó xóa đi. Tại sao vẫn không khôi phục lại dung lượng vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.96095,
+         "id": "804256",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi điên thoai em sạc nó báo như này là bị sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.930214,
+         "id": "897001",
+         "field_search": "question",
+         "question": " Máy em iPhone 6 kiểm tra imei bị như này là sao ạ? Tắt tìm kiếm đi rồi nó vẫn hiện là on? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.887487,
+         "id": "1014951",
+         "field_search": "question",
+         "question": "Khi em chuyển hình ảnh qua thẻ nhớ thì nó báo lỗi là có sự cố khi chuyển file. Như vậy là sao ạ ? E dùng  j7 prime ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.881382,
+         "id": "751971",
+         "field_search": "question",
+         "question": "    Cho em hỏi. sao em dùng ram 8gb mà chơi mấy game nhẹ nhẹ này nó vẫn báo thiếu ram là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.870277,
+         "id": "993748",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, em đăng nhập vào icloud mấy lần đều ko đc và máy báo thế này là sao ạ, sao em ko thể đăng nhập đc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.815102,
+         "id": "832570",
+         "field_search": "question",
+         "question": " Máy em mấy hôm nay vào cốc cốc nhưng nó cứ ko tải trang luôn mà phải đợi 1 lúc nó mới bắt đầu tải.Kiểu như này này  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.797941,
+         "id": "1160778",
+         "field_search": "question",
+         "question": "AD cho em hỏi: em mới cập nhật HĐH Android 9 Pie trên J6 nhưng nó bị lỗi % pin, em cứ sài nhưng % pin nó không tuột rồi bất thình lình nó tắt nguồn hết pin, như vậy là do pin hư hay do HĐH ạk...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.73653,
+         "id": "1134957",
+         "field_search": "question",
+         "question": "  Cho hỏi máy htc one me của e cứ báo lỗi như thế này là bị gì và sửa như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.610634,
+         "id": "778663",
+         "field_search": "question",
+         "question": "iphone 6 của mình báo pin yếu, dùng 1 lúc thì báo 1% rồi sập nguồn, cắm sạc vào lại báo 10% như cũ. Cái này cứ lặp lại mấy ngày nay rồi, có phải là bị pin ảo ko vậy ạ? Có cách nào khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.587057,
+         "id": "1161375",
+         "field_search": "question",
+         "question": "Cho mình hỏi \"khi tải file về từ Facebook, gmail, tại sao mình k thể mở file đc ạ?\" Khi mình tải về thành công, ấn vào thông báo để lễ.mở file thì hiện \" không có sẵn ững dụng để mở file\" là như thế nào ạ? Rất mong nhận hồi đáp sớm. Xin cám ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.554909,
+         "id": "1010752",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi em dùng oppo R8001 e tải game liên quân mobile bằng 3g máy báo không đủ dung lượng e ra xóa bớt ứng dụng rồi bắt wifi vào cửa hàng play tải được game rồi nhưng giờ máy vẫn báo không đủ dung lượng tải về thất bại mà e tải đk rồi sao máy vẫn báo, làm sao để hết ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.51375,
+         "id": "768117",
+         "field_search": "question",
+         "question": "ipad em mỗi lần nhấn vào facebook là màn hình tối đi , rồi hiện lên biểu tượng trái táo như khởi động lại máy , em xóa đi tải lại nó vẫn như vậy, máy em bị như vậy là sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.385635,
+         "id": "1006138",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ, cái nút home của IPad Mobell Tab 8 nó cứ tự động phát sáng liên tục, em bấm vào Youtube hay Facebook nó liền out ra liền. Cứ sáng liên tục phiền lắm ạ, cho em hỏi có cách nào để khắc phục không. Em đã cố tắt nguồn mấy lần rồi nhưng vẫn không được :((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.30569,
+         "id": "1163251",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao em tải cái này về trên laptop windown 10 k dc vậy ạ trong khi em ra net thì tải dc mà em tải về thì bị như trong hình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.291199,
+         "id": "874741",
+         "field_search": "question",
+         "question": "mỗi lần mở là máy em hiện lên như thế này, cho em hỏi nó bị lỗi gì vậy anh/chị, làm sao em có thể khắc phục?em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.281775,
+         "id": "1159826",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tại sao mình tải cái file word về mà lúc mình vào xem thì nó hiện như thế, có một số file word khác thì mình tải được bình thường, nó hiện tải về hoàn tất mà mình vào xem thì không mở được file. Mình có thử tải cách khác là down trên máy tính xong gửi qua messenger fb rồi mình down về thì mở được bình thường. Nhưng vậy thì bất tiện lắm. Mình xài ss a8 star",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.249329,
+         "id": "687700",
+         "field_search": "question",
+         "question": "Phần mềm tozaco tải về tới lúc cài đặt máy báo lỗi cài đặt ứng dụng .cho em hỏi làm sao để khắc phục ạ .máy zp5 android4.4_2 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.248344,
+         "id": "890716",
+         "field_search": "question",
+         "question": "Cho em hỏi mấy ngày trước e tải file trên fb về vẫn đọc được bình thường, nhưng hôm nay tải về kg đọc được, và cái file cũ cũng kg đọc được luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.232342,
+         "id": "778321",
+         "field_search": "question",
+         "question": "Cứ mỗi lần bật máy lên là màn hình cứ hiển thị như thế nào e đánh mình rồi nhưng không được a có cách gì giúp em với ạ !!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.199846,
+         "id": "1020763",
+         "field_search": "question",
+         "question": "Em thường xuyên hay tải phim trên chrome về máy em (máy em là Lenovo Vibe P1) nhưng từ khi em nâng cấp lên Android 6.0 thì lúc tải phim về máy toàn báo là lỗi videoplayback, không thể tải được. Như vậy là sao ạ? Xin hãy giúp đỡ em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.188889,
+         "id": "1135375",
+         "field_search": "question",
+         "question": "cho em hỏi, em dùng điện thoại iPone 5. em sạc vào thì nó vẫn báo đang sạc rồi pin nó cứ tụt dần ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.170898,
+         "id": "862263",
+         "field_search": "question",
+         "question": "E bị lỗi giống như hình lúc trước vẫn sử dụng ứng dụng Facebook bình thường. Được một thời gian thì Fb bị lỗi e gỡ cài đặt rồi down về lại thì cứ bị như thế này hoài. Mong ad giúp e ( e đã reset factory hay khởi động lại máy rồi nhưng vẫn vậy )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.124699,
+         "id": "1159635",
+         "field_search": "question",
+         "question": "Khi tải file về được. Nhưng khi xuất excel thì báo lỗi. Tải game cũng k được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.109587,
+         "id": "1151606",
+         "field_search": "question",
+         "question": "mình dùng ss j4+ khi tải liên quân thử nghiệm qua apk đến lúc cập nhật thì bị báo \"Ứng dụng chưa được cài đặt\" là như thế nào ạ :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.085068,
+         "id": "845238",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em dùng laptop DELL 3542. Em mua cách đây không lâu. không hiểu tại sao lúc đầu sạc bình thường nhưng hôm nay sạc tới 88% thì đèn báo sạc nó chớp vài cái rồi lúc hiện đã đầy pin rồi lại quay lại 88%. có khi báo đầy em rút ra lại quay về 88%. nó cứ báo đang sạc rồi lại đã đầy rồi lại đang sạc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.057339,
+         "id": "774851",
+         "field_search": "question",
+         "question": "Mọi người giúp với ạ. Máy em là iPhone 4 không hiểu sao cứ vào ứng dụng camera 360 là bị out ra ngoài. Mặc dù em đã xoá rồi tải lại nhưng vẫn không được. Có ai biết lỗi ở đâu không ạ. Chỉ em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.047527,
+         "id": "823236",
+         "field_search": "question",
+         "question": " bqt cho e hỏi iphone của e cứ bị xanh màn hình rồi khởi động lại .như vậy là bị lỗi gì ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.037657,
+         "id": "906487",
+         "field_search": "question",
+         "question": " Có ai cao thủ giúp em vụ này với? em vào nó cứ báo thế này là sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.016222,
+         "id": "878059",
+         "field_search": "question",
+         "question": "Em mới mua máy 6plus ở cửa hàng về nhà dùng thỉnh thoảng máy đơ. tắt nút nguồn thì nó nháy màn hình cái rồi mấy tắt thế là máy bị lỗi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.966581,
+         "id": "871565",
+         "field_search": "question",
+         "question": " Vào mess cứ bị như vậy rồi tự thoát ra là sao ạ,vui lòng chỉ giúp em với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.919056,
+         "id": "1139688",
+         "field_search": "question",
+         "question": "Mình bị lỗi sao lưu trên Nokia x6, nó cứ hiện như vầy nhưng k tạo file sao lưu lên gg drive được   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.918652,
+         "id": "993742",
+         "field_search": "question",
+         "question": " Mấy a ơi cho e hỏi đây là lỗi gì ạ? Cứ nhấn zo ok là nó tự tắt kh cho install. Cách khắc phục lỗi này s ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.89122,
+         "id": "1009756",
+         "field_search": "question",
+         "question": "Mình đang dùng con itel 1516 plus, mấy hôm nay mình tải ứng dụng trên app về nhưng toàn thông báo thế này rồi treo thế luôn.cho mình hỏi cách khắc phục với ạ. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.86914,
+         "id": "1005306",
+         "field_search": "question",
+         "question": "Cho em hỏi TGDĐ có hỗ trợ sửa lỗi này ko ạ.  Chuyện là em xài con Zenfone5 dạo gần đây hay bị treo máy, cứ khi nào pin còn 70-50% thì sẽ bị treo máy bất ngờ. Muốn mở nguồn lại phải cắm sạc vào nó mới lên, ko thì nó cứ bị treo ở logo Asus rồi tự reset lại mãi. Lỗi này có sửa đc ko ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.819027,
+         "id": "1152129",
+         "field_search": "question",
+         "question": "Ad cho em hỏi: E dùng mới mua Sam Sung A9 2018 ởTGDĐ về cài đặt ứng dụng Uotlook để cài mail nội bộ công ty vào. Khi có mail thì chỉ đọc được file Excel còn các file như PDF, Hình ảnh đính kèm, Wor máy báo lỗi tải về không đọc được, Trước đó em dùng ứng dụng này trên Iphone vẫn xem bình thường. Chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.733192,
+         "id": "796158",
+         "field_search": "question",
+         "question": "Mình đang sữ dụng viber khoảng hơn 5 năm rồi, tự nhiên bị xoá mất, mình cài lại thì máy báo số điện thoại này không hợp lệ, mình xoá và cài lại nhưng đã 3 tháng rồi cũng cứ như vậy là sao? Nhờ hướng dẫn giúp. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.671665,
+         "id": "835992",
+         "field_search": "question",
+         "question": " Sao em tải game gta trên HiP4U về được mà khi cài đặt thì nó hiện len là không thể cài đặt vào lúc này như hình  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.66422,
+         "id": "808518",
+         "field_search": "question",
+         "question": "cho em hỏi em dùng win xp và tải liên minh huyền thoại về rồi nhưng sao em không chơi được ạ. mỗi lần vào game chỉ chọn đc tướng nhưng lại không vào được trận ạ. cho e hỏi giờ e phải làm thế nào mới chơi được ạ. em có thoát ra rồi kết nối lại nhưng vẫn không được ạ mong anh giải thích giúp em. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.66384,
+         "id": "1151998",
+         "field_search": "question",
+         "question": "Đt e là Sony XA1+ mấy bữa nay không biết gì mà cứ bị đơ màn hình rồi hiện lên quá trình system không phản hồi, 1 ngày bị hơn chục lần. Cho e hỏi máy bị gì và chữa làm sao ạ. Em cám mơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.663698,
+         "id": "821660",
+         "field_search": "question",
+         "question": "cho em hỏi, tại sao lại không tải ứng dụng từ store về máy laptop được vậy ad. nó cứ báo là đã hoàn thành nhưng lại vô thì lại không có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.612217,
+         "id": "801034",
+         "field_search": "question",
+         "question": "Cho em hỏi tí ạ. trong danh bạ của em không còn tên của người đó nữa, nhưng gửi tin nhắn, thì nó thông báo là hiện tại người này chưa dùng zalo có nghĩa là sao ạ, nhưng lúc sau nó vẫn ghi là đã gửi, bạn này đã nửa tháng không dùng zalo rồi ạ, giúp em với ạ, em đang cần gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.588932,
+         "id": "1015441",
+         "field_search": "question",
+         "question": " Em dùng lenovoa7000. Em vô fb nó bị vầy là ntn ạ. E có vô ngày giờ cài đặt lại rồi nhưng vẫn bị nữa   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.547281,
+         "id": "1133809",
+         "field_search": "question",
+         "question": "Cho em hỏi là em cài lại Win ở Thegioididong về thì mở This PC ra nó có Ổ đĩa D bị khóa như này là sau ạ. Có cách nào mở khóa không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.527206,
+         "id": "1006055",
+         "field_search": "question",
+         "question": "Em có mua 1 cái điện thoại j7prime dũo 3 tháng. Mới đầu chạy cũng mượt, gần đây máy nó bị lỗi wifi chập chờn lắm ạ, cứ 5s kết nối rồi mất kết nối liên tục trong khi mấy anh ngồi cạnh em chơi game không sao. Chỉ em với chị gái xài cái j7 2016 là bị ạ. Nhà em tiệm net nên đảm bảo wf k có vấn đề. Anh chị cho em hỏi cái này là do máy em hay do lỗi của phần mền để em còn biết đi sửa ạ. Mà lỗi này xuất hiện ngày càng nhiều từ lần cập nhật cuối ý. Em cám ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

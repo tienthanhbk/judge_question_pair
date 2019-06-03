@@ -1,0 +1,809 @@
+{
+   "id_query": "1156457",
+   "total": 31518,
+   "total_current": 100,
+   "max_score": 48.370396,
+   "origin_question": "Cho mình hỏi sam sung j6 có đèn led thông báo không ạ?",
+   "hits": [
+      {
+         "score": 48.370396,
+         "id": "1156457",
+         "field_search": "question",
+         "question": "Cho mình hỏi sam sung j6 có đèn led thông báo không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.5408,
+         "id": "1156611",
+         "field_search": "question",
+         "question": "Cho mình hỏi sam sung galaxy a50 bật đèn LED ở đâu vậy ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.376556,
+         "id": "1162451",
+         "field_search": "question",
+         "question": "Cho minh hỏi sam sung galaxy A9 2018 có đen led thông báo cuộc gọi nhỡ và pin yếu không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.225409,
+         "id": "1015273",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại samsung j3 pro có đèn led thông báo không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.24364,
+         "id": "1013499",
+         "field_search": "question",
+         "question": "Samsung Galaxy J7 Pro có đèn Led thông báo không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.666222,
+         "id": "1135206",
+         "field_search": "question",
+         "question": "Samsung galaxy A9 2018 có đèn led thông báo không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.45871,
+         "id": "1010451",
+         "field_search": "question",
+         "question": "Samsung galaxy j7pro có đèn led thông báo ko vậy ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.114779,
+         "id": "1164775",
+         "field_search": "question",
+         "question": "mình đang xài samsung j6 mà không thấy hiển thị led thông báo ở trước. k biết j6 có hổ trợ cái đó k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.862425,
+         "id": "1151630",
+         "field_search": "question",
+         "question": "Samsung j8 k có đèn led thông báo hả??  Sao mà em không tìm thấy cái đèn led để chỉnh ạ?? Chỉ cho em cách với ạ. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.606712,
+         "id": "1159250",
+         "field_search": "question",
+         "question": "Tôi muốn khôi phục lại đèn led trên bao da sam sung note 8 khi có điện thoại đến sẽ hiện đèn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.566832,
+         "id": "1138548",
+         "field_search": "question",
+         "question": "Nokia 3.1 có đèn led thông báo không ạVà chỉ em cách cài đặt đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.052568,
+         "id": "773490",
+         "field_search": "question",
+         "question": " Samsung A5 2016 có đèn led thông báo tin nhắn với miss call không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.902428,
+         "id": "1150417",
+         "field_search": "question",
+         "question": "Cho mình hỏi SS A6 bật đèn led thông báo pin tin nhắn đền đỏ xanh ở đâu v ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.007849,
+         "id": "862062",
+         "field_search": "question",
+         "question": " Samsung Galaxy A9 Pro có đèn led thông báo không và cách bật tắt thê nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.956451,
+         "id": "1013264",
+         "field_search": "question",
+         "question": "Mấy anh chị ơi. Trên j7 pro có đèn led thông báo đang sạc pin không ah.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.059977,
+         "id": "837140",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi đt samsung galaxy j3 có đèn led thông báo tin nhắn như dòng Samsung s4 k vậy qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.577436,
+         "id": "1004607",
+         "field_search": "question",
+         "question": "cho e hỏi máy ss a5 2017 có đèn led báo tin nhắn và cuộc gọi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.193483,
+         "id": "1162205",
+         "field_search": "question",
+         "question": "Cho mình hỏi realme C1 có thông báo đèn flash không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.016657,
+         "id": "1166104",
+         "field_search": "question",
+         "question": "Sam sung J6 bây giờ không thể tải ứng dụng được là sao ạ ?...........................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.960331,
+         "id": "1148383",
+         "field_search": "question",
+         "question": "Làm sao để bật đèn thông báo trc màn hjh v ad Samsung j6 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.296366,
+         "id": "855183",
+         "field_search": "question",
+         "question": " ad cho em hoi con Dell 143452 có đèn led không ạ, nếu có hướng dẫn dùm em cách mơr đèn led ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.278088,
+         "id": "1152477",
+         "field_search": "question",
+         "question": "Mình có mua đt sam sung galaxy j6 lavender ở TGDD. Trên hỗ thông tin có ghi là hỗ trợ sim 4g. Nhưng khi mình lắp sim 4g thì báo k nhận sim. Trong khi đó lắp vào đt khác vẫn nhận.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.112772,
+         "id": "1003616",
+         "field_search": "question",
+         "question": "Sao máy j7 prim của e mới mua.e cài đặt nhấp nháy đèn led cho các cuộc gọi và tin nhắn trên sim đến thì có cháy đèn. Còn các thông báo  cho tin nhắn đến hay cuộc gọi  wa ứng dụng facebook. Zalo thì đèn led ko nhấp nháy vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.076408,
+         "id": "1157000",
+         "field_search": "question",
+         "question": "hướng dẫn hiện thị thông báo có tin nhắn đến trên màn hình khóa sam sung A50",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.8437,
+         "id": "762401",
+         "field_search": "question",
+         "question": " Anh ơi cho em hỏi cái iPhone 5S của em mở đèn Led cảnh báo rồi mà sao có cuộc gọi nó không nhá đèn vậy ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.834103,
+         "id": "1018553",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi e bật tính năng Đèn báo LED trên Zenfone Live rồi mà khi có cuộc gọi đến đèn ko chớp ạ...  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.581219,
+         "id": "837153",
+         "field_search": "question",
+         "question": " Cho e hỏi laptop asus p550ld có đèn led bàn phím không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.255709,
+         "id": "1133727",
+         "field_search": "question",
+         "question": "shop cho mình hỏi, bên mình có bán sam sung s8 bản 99 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.244703,
+         "id": "1150440",
+         "field_search": "question",
+         "question": "Cho em hỏi là em tắt âm ở trên màn hình thông báo nhưng camera sam sung a5 năm 2016 của em vẫn bị kêu .Ad có thể giúp em được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.986092,
+         "id": "854756",
+         "field_search": "question",
+         "question": "tại sao mình cập nhật lên ios 10.0 r mà khi có cuộc gọi đến mình lại ko thấy đèn LED nháy trong khi mình đã bật chế độ đèn LED cảnh báo lên r",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.92591,
+         "id": "1133572",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em đang sài sam sung j6. Khi mà em có cuộc gọi. Trong lúc nghe điện thoại. Màn hình không sáng. Giờ khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.913944,
+         "id": "1149233",
+         "field_search": "question",
+         "question": "sam sung j6 co ho tro nhan bang tan 5ghz khong bn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.840704,
+         "id": "1154208",
+         "field_search": "question",
+         "question": "Em đang sử dụng sam sung  j6 làm sao để lưu ảnh vào thẻ được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.831032,
+         "id": "1151710",
+         "field_search": "question",
+         "question": "cho mình hỏi máy sam sung j4 báo gắn thẻ sim  máy bị như thế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.80138,
+         "id": "1016383",
+         "field_search": "question",
+         "question": " Sam sung j7 pro tại sao không có đèn sáng của phím đa nhiệm và phím trở về  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.5821,
+         "id": "1138071",
+         "field_search": "question",
+         "question": "e đang sai A9 2018 mà sao khi sạc không có đèn led báo sac z ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.309034,
+         "id": "767241",
+         "field_search": "question",
+         "question": " Cho em hỏi là laptop Dell vostro 3558 i5 có đèn led nguồn ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.139006,
+         "id": "1167725",
+         "field_search": "question",
+         "question": "Shop cho hỏi: Mình Galaxy A50, mua được nửa tháng rồi nhưng không tìm được chỗ nào để bật được đèn LED báo khi sạc và sạc đầy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.127085,
+         "id": "1159794",
+         "field_search": "question",
+         "question": "cho e hỏi sắp tới bên mình có bán sam sung M10 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.113487,
+         "id": "1145463",
+         "field_search": "question",
+         "question": "Đèn Led trên cảm biến.báo sạc báo cuộc gọi nhỡ.. hay tin nhắn chưa xem xiaomi mi 8 lite có mấy màu ạ... sao e thấy có 1 màu ạ.. màu trắng.. khi sạc đầy .máy vẫn sạc nhưng tắt led màu Trắng và k không có đèn led xanh nhu MOD nói ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.02904,
+         "id": "1139170",
+         "field_search": "question",
+         "question": "Máy nova 3i có đèn led màu báo tin nhắn ở phía trước ko???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.975292,
+         "id": "1022150",
+         "field_search": "question",
+         "question": "Trong mục Thông tin thiết bị của Sam Sung s7 edge của mình ko hiện số sim. Cho mình hỏi cách cập nhật số sim vào thông tin thiết bị ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.91015,
+         "id": "999085",
+         "field_search": "question",
+         "question": "tại sao j5 prime của mình sạc xong đầy 100 đèn led vẫn báo đỏ bình thường nó báo xanh ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.693787,
+         "id": "1146638",
+         "field_search": "question",
+         "question": "Cho e hỏi sam sung note 8 bên mình có cho trả góp bằng thẻ tín dụng không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.690317,
+         "id": "817031",
+         "field_search": "question",
+         "question": " Máy dell vostro 5480 có hỗ trợ đèn led bàn phím không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.402426,
+         "id": "828170",
+         "field_search": "question",
+         "question": "E đang dùng laptop Asus K501lb, dòng này không có led phím. Bây giờ e muốn lắp thêm đèn led hoặc là thay bàn phím có led có được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.360577,
+         "id": "1005012",
+         "field_search": "question",
+         "question": "J7 pro có đèn báo khi nhận dc tin nhắn ,thông báo hay lúc xạc pin không vây ? Và đẻ bật đèn đó ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.352585,
+         "id": "1152722",
+         "field_search": "question",
+         "question": "Xin hỏi giá sam sung note 9 giờ báo nhiêu tiền vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.341171,
+         "id": "1022967",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Laptop của mình tự nhiên không còn báo pin yếu khi sắp hết pin, đèn báo cũng không nháy. Trong khi trước đó mỗi lần sắp hết pin vẫn thông báo và đèn nháy bình thường . Máy của mình có bị làm sao không vậy. Mình dùng win10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.21373,
+         "id": "1163617",
+         "field_search": "question",
+         "question": "mình xin trợ giúp.mình dùng iphone 8 plus phiên bản 12.0 mình bật đèn led báo cuộc gọi nhưng có cuộc gọi lại không sáng.mình tắt màn hình cũng ko đk.nhưng bật đèn và chụp ảnh vẫn đk.ai biết bảo mình với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.126194,
+         "id": "1150562",
+         "field_search": "question",
+         "question": "Sam sùng j8 ko có đèn thôg báo mặt truoc hã anh ...............................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.976648,
+         "id": "1136665",
+         "field_search": "question",
+         "question": " shop có bán pin sam sung j3 không ạ. sho tư vấn giúp mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.944761,
+         "id": "797006",
+         "field_search": "question",
+         "question": " Cho em hỏi cách bật đèn led laptop hiệu Dell Inspiron 3558? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.9015,
+         "id": "1143541",
+         "field_search": "question",
+         "question": "em muốn mua điện thoại Sam sung Galaxy J6+ bằng hình thức trả góp. Thế giới di động ở Cổ Lễ - Huyên Trực Ninh - Tỉnh Nam Định có không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.90113,
+         "id": "917397",
+         "field_search": "question",
+         "question": " iphone 5 bật đèn led cảnh báo khi có điện thoại hay tin nhắn đến nhưng ko thấy chớp? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.823101,
+         "id": "1137201",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi sam sung a6 và a7 2018 có chống nước ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.63909,
+         "id": "1153670",
+         "field_search": "question",
+         "question": "Khi sạc, iphone 7 plus có hiền đèn led lên không.....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.618277,
+         "id": "1010370",
+         "field_search": "question",
+         "question": "Tại sao khi em bật led cảnh báo cuộc gọi khi nháy nhưng nó không có hiện đèn . E đang dùng iPhone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.60783,
+         "id": "1002907",
+         "field_search": "question",
+         "question": "cho em hỏi cách mở đèn led bàn phím trên laptop lenovo yoga 510 đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.479866,
+         "id": "1019167",
+         "field_search": "question",
+         "question": "nếu điện thoại có đèn led màu vàng thì có sao ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.463642,
+         "id": "1150008",
+         "field_search": "question",
+         "question": "Máy sam sung j6 2017 dùng thẻ nhớ micro SD 16g quay phim full hd được bao lâu vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.405964,
+         "id": "853621",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi Oppo neo 7 muốn cài đèn Flash led khi có cuộc gọi tới nháy đèn làm sao ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.379295,
+         "id": "1138983",
+         "field_search": "question",
+         "question": "Samsung j8 . Có chế độ chạm vào màn hình để mở đt lên mà không cần phải bấm nút nguồn không ạ ?Với em muốn cài đặt chế độ mỗi khi có thông báo từ messenger hoặc cái ứng dụng khác thì có nháy đèn led lên thì phải làm sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.321562,
+         "id": "997013",
+         "field_search": "question",
+         "question": "Cho mình hỏi là Asus TP501UB có tự ngắt sạc khi sạc đầy k ạ. Vì mình thấy sạc đầy 100 thì máy vẫn hiện đèn LED sáng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.274822,
+         "id": "1003915",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách bật đèn led của samsung j7 pro khi có cuộc gọi nhỡ hoặc khi có tin nhắn đến thì làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.272913,
+         "id": "869187",
+         "field_search": "question",
+         "question": " asus A540L có đèn led bàm phím k ad em thanks nh ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.240625,
+         "id": "1006674",
+         "field_search": "question",
+         "question": "tại sao máy sam sung j3 2016 có kiểu thiết bị là sam sung SMj320F ram chỉ có 1 gb ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.229095,
+         "id": "1013500",
+         "field_search": "question",
+         "question": " Cho mình hỏi muốn nhập số điện thoại vào danh bạ trên máy sam sung j7 prime máy báo như thế này là sao vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.212978,
+         "id": "1147332",
+         "field_search": "question",
+         "question": "Chị cho em hỏi bên chị có dán màn hình sam sung s8 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.121653,
+         "id": "1141200",
+         "field_search": "question",
+         "question": "bên mình có trả gop sam sung note 8 cũ k ạ......................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.076096,
+         "id": "1154794",
+         "field_search": "question",
+         "question": "E mới mua đt sam sung j6 mà thấy pin hơi nhanh hết,100 mà ko dùng đc 1 ngày.có cách nào khắc phục ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.0522,
+         "id": "1145620",
+         "field_search": "question",
+         "question": "e Hỏi là Đt Xiaomi mi 8 lite gắn sạc đang sạc 99% thì còn đèn led màu trắng trên gần camera trước ( Đèn báo sạc ). Khi sạc 100% thì đèn tắt.. k có đèn xanh khi sạc đầy 100% như MOD trước nói",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.023853,
+         "id": "1153612",
+         "field_search": "question",
+         "question": "Cho mình hỏi chútThe gioi di dong có ốp lưng của sam sung M20 khôg vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.936497,
+         "id": "1139772",
+         "field_search": "question",
+         "question": "Ép màn hinh sam sung bên mk hỗ trợ ko ạ em là sam sung j4 2018 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.874911,
+         "id": "1148087",
+         "field_search": "question",
+         "question": "Cho mình hỏi cách tắt rung bàn phím khi nhập ở sam sung A7 64gb ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.823521,
+         "id": "756589",
+         "field_search": "question",
+         "question": " Tự nhiên điện thoại iphone5 không rung và đèn led cũng không sáng. Cho e hỏi như vậy thì làm cách nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.816213,
+         "id": "1000876",
+         "field_search": "question",
+         "question": "Sao đt J5 Prime bật k lên màn hình ạ trong khi vẫn có đèn nháy thông báo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.81313,
+         "id": "1157947",
+         "field_search": "question",
+         "question": "Cho mình hỏi chuyển ứng dụng sang thẻ nhớ của ĐT sam sung c9pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.789815,
+         "id": "1135363",
+         "field_search": "question",
+         "question": "cho tôi hỏi điện thoại sam sung cứ hiện không xác định dialing.... là lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.761951,
+         "id": "1141471",
+         "field_search": "question",
+         "question": "Bên mình có bán dây đeo sam sung gear fit pro 2 không shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.692771,
+         "id": "1144170",
+         "field_search": "question",
+         "question": "cho e hỏi dán cường lực sam sung j8 hết bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.680299,
+         "id": "1007303",
+         "field_search": "question",
+         "question": "mình muốn hoi minh đang dung sam sung A5 2016. gio minh muon cài các tin nhan gui di có báo ve mail thì làm ntn ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.668337,
+         "id": "1150849",
+         "field_search": "question",
+         "question": "Cho e hỏi e vừa mua oppo a3s nhưng e ko biết cách cài đông hồ man hinh khóa và man hình chính tại sao không đúng giờ vs nhau ạ và e có vào thông báo bât lên thanh thông báo rồi sao may e vẫn không thông báo k sáng đèn và không có biểu tượng zalo và FB ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.616541,
+         "id": "1151631",
+         "field_search": "question",
+         "question": "hi adCho mình hỏi máy tính bản sam sung galaxy book có chạy dược phần mềm autocad k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.579727,
+         "id": "1144360",
+         "field_search": "question",
+         "question": "Đèn Led trên cảm biến.báo sạc báo cuộc gọi nhỡ.. hay tin nhắn chưa xem xiaomi mi 8 lite có mấy màu ạ... sao e thấy có 1 màu ạ.. màu trắng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.538422,
+         "id": "1134921",
+         "field_search": "question",
+         "question": "Làm sao để bật đèn Thông báo  notification trên iPhone xs max ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.4646635,
+         "id": "1133286",
+         "field_search": "question",
+         "question": "dạ cho hỏi sam sung a8 ở sài gòn con bao nhiêu máy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.428327,
+         "id": "1163366",
+         "field_search": "question",
+         "question": "Chao bạn.bạn cho mình hỏi mình muốn bán lại máy sam sung a6 plus.thi dc bn vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.4043455,
+         "id": "1148203",
+         "field_search": "question",
+         "question": "cho em hỏi máy sam sung j7 prime smg610f có mã quốc gia là bao nhiêu vậy ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.378668,
+         "id": "820177",
+         "field_search": "question",
+         "question": "dạ cho em hỏi em cài đặt đèn led khi nhận cuộc gọi đến rồi. Nhưng khi em gọi thử thì nó không chóp đèn là s ạ.. dạ em đang xài iphone5s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.2784195,
+         "id": "1024249",
+         "field_search": "question",
+         "question": "AC cho em hỏi với ạ samsung j5 prime em đang dùng bt nhưng em sạc đt bằng dây cáp qua cổng USB mà giờ bật nguồn không lên là sao ạ? lại còn nổi đèn led báo sạc nữa ạ :((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.222483,
+         "id": "1148772",
+         "field_search": "question",
+         "question": "Realme C1 ko có đèn thông báo khi sạc pin Phải làm sao đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.210355,
+         "id": "824198",
+         "field_search": "question",
+         "question": " Dell insporon 3458 có đèn led bàn phím k ạ.nếu có thì mở thế nào ạ e cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.155842,
+         "id": "1161224",
+         "field_search": "question",
+         "question": "samsung j6 của hình hiện thông báo cập nhật phần mềm thành công ( mà mình không biết phần mềm gì). sau đó thì liệt cảm ứng. cho mình hỏi dt đang bị gì, cách khắc phục ạ.  xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.101486,
+         "id": "1162543",
+         "field_search": "question",
+         "question": "alo . cho mình hỏi dt  sam sung a50 hiện có ưu đãi j k ạvà sắp tới có ưu đãi j k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.062426,
+         "id": "745844",
+         "field_search": "question",
+         "question": " Sam sung galaxy a8 có cài được định vị không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.06144,
+         "id": "1160339",
+         "field_search": "question",
+         "question": "Mình đang xài sam sung j4 core mình muốn đổi điện thoại qua hãng khác được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.057635,
+         "id": "825420",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi lenovo k5 plus mới mua thấy có mấy lỗi sau:1. âm lượng nhạc chuông set mức lớn nhất nhưng khi xem fim hay chơi game tăng giảm âm lượng ứng dụng thì nhạc chuông lại nhỏ đi2. tin nhắn zalo không thấy sáng màn hình và sáng led nên rất khó theo dõi3. đèn led thông báo của dòng máy này có nhấp nháy không?4. Nút đa nhiệm có cách nào nhấn 1 lần được luôn thay vì phải giữ lâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.027208,
+         "id": "1004336",
+         "field_search": "question",
+         "question": "Mấy a chị cho e hỏi máy sam sung j7 2016 của e có lên được android 7 ko... s trên thông tin thì có nằm trong danh sách nâng cấp... mà máy a7 của e đã lên lâu r.. s j7 chưa lên.. chưa có báo cập nhật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.01254,
+         "id": "1153665",
+         "field_search": "question",
+         "question": "E dung máy sam sung a7 cho e hỏi đồng hồ báo thức e kg cài nó cung hiện lên la lam sao vậy nhi",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

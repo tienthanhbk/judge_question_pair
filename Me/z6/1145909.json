@@ -1,0 +1,809 @@
+{
+   "id_query": "1145909",
+   "total": 32526,
+   "total_current": 100,
+   "max_score": 70.09212,
+   "origin_question": "chào ad e có cái máy sony bị khóa màn hình vs gmail k nhớ bh e phải làm sao để khắc phục ạ",
+   "hits": [
+      {
+         "score": 70.09212,
+         "id": "1145909",
+         "field_search": "question",
+         "question": "chào ad e có cái máy sony bị khóa màn hình vs gmail k nhớ bh e phải làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.361752,
+         "id": "1138852",
+         "field_search": "question",
+         "question": " Cho e hỏi máy của e mua về e quên k dán màn hình . giờ bị xước màn hình muốn khắc phục thì làm ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.22876,
+         "id": "1155961",
+         "field_search": "question",
+         "question": "Chào ad cho e hỏi trê S9 Plus, còn hỗ trợ chức năng nhấn 1 lần để nhận cuộc gọi thay vì vuốt màn hình k ạ? Máy e bị tình trạng cuộc gọi nhỡ và thông báo trên Viber không hiện thị trên màn hình, phải vô ứng dụng mới biết. Có cách nào khắc phục k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.400309,
+         "id": "1162652",
+         "field_search": "question",
+         "question": "Máy e sam sung j8 khi chơi game bị che khuất 1 phần màn hình và làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.398561,
+         "id": "1014898",
+         "field_search": "question",
+         "question": " Đt e là asus zenfone go nps bị sao vậy ạ e đặc khóa rồi bây giờ muốn để k khóa mà k được giúp e cách khắc phục ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.015583,
+         "id": "996523",
+         "field_search": "question",
+         "question": " Sao e k tải dk clash ò clans z ad cho e cái linh đk k. máy e bị lỗi đồng bộ google z có thể khắc phục đk k ad  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.8231,
+         "id": "922148",
+         "field_search": "question",
+         "question": "ad cứu em với ạ. e có nghịch dại tạo tk icloud mà h e k nhớ mk, h e phải làm tn ạ? h máy bảo e nhập apple ID vs pass mà e k làm đc ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.77518,
+         "id": "849723",
+         "field_search": "question",
+         "question": "Ad cho e hỏi.e tai cái thời khóa biểu trên fb về máy ý,mà sao k xem đc ạ,vào xem thì n cứ ra cái như hình này ạ,thế là như nào ạ,ad giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.70883,
+         "id": "873943",
+         "field_search": "question",
+         "question": "Ad cho e hỏi , tại sao mình tải app trên appstore mà cứ để \" không phải lúc này - Thử lại\" Hoài z á ?? K tải đa j hết , làm sao để khắc phục tải app đa đây ?! Giúp e vs , huhuhu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.54682,
+         "id": "1142405",
+         "field_search": "question",
+         "question": "Chào cac anh chị!Điện thoại  e dùng là Oppo f7 đó số y nên đt e bị khóa mật khẩu màn hình khóa... e lại k nhớ mat khẩu.... cần chạy chương trình lạiTGDĐ có hỗ trợ chạy chương trình lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.235847,
+         "id": "999195",
+         "field_search": "question",
+         "question": "chào ad hiện tại e đang sài con ip 6se để chế độ máy bay khi ngủ mai e mở lên sim nó hiện sim bị khóa không biết có khách khắc phục nào không ạ e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.1821,
+         "id": "770673",
+         "field_search": "question",
+         "question": " Mình quên mật khẩu khóa màn hình thì làm sao để mở máy? Sony Xperia C3 ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.998283,
+         "id": "998292",
+         "field_search": "question",
+         "question": "Màn hình Nokia xl của e có những đường kẻ sọc,  máy cũng hay bị nóng và đứng máy hoài.  Em phải làm sao ? có cách nào khắc phục ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.98386,
+         "id": "1007190",
+         "field_search": "question",
+         "question": "Ad giúp e cái này với. E mở khóa nhiều lần không được nên bị khóa. Em k nhớ tên đăng nhập của google",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.426643,
+         "id": "1009712",
+         "field_search": "question",
+         "question": "ad cho e hỏi vs ạ... e dùng máy sony xperia xa ultra lên androi 7.0 thì nó xuất hiện vạch đỏ phía bên phải màn hình... tắt máy khởi động lại thì nó mất đi... xog rồi một thời gian hiện lại.... vậy làm thế nào để tắt cái vạch màu đỏ đó đi ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.09211,
+         "id": "1138269",
+         "field_search": "question",
+         "question": "ad cho e hỏi, trong quá trình khôi phục cài đặt gốc, samsung note 3 của em bị khóa Samsung acoutn, mà em thì không nhớ? vậy em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.090755,
+         "id": "1162225",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi.  E xài nokia 8.1 . E có làm rơi nên h e muốn thay màn hình vs chỉnh lại khung máy thì bên mình sửa trong bao lâu vs giá bao nhiêu để e chuẩn bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.045315,
+         "id": "785912",
+         "field_search": "question",
+         "question": " máy ARBUTUS AR5 của e bị lỗi ko kết nối được vs máy ảnh làm sao để khắc phục. phần mềm chụp ảnh nào cũng vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.035572,
+         "id": "1164651",
+         "field_search": "question",
+         "question": "AD ơi e có cái laptop. Sáng nay e đn nghe nhạc tự nhiên nó không nghe đc nữa. E ms vô check thấy nó không còn cái speaker. Ad nhìn kĩ giúp e bên phải phía dưới màn hình nó có cái volume mà có đánh dấu X. e nghĩ là nó đã bị uninstall cái speaker. Vậy cho e hỏi làm sao để khôi phục lại và nghe lại bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.989601,
+         "id": "1001775",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao hình ảnh của e bị mất hết ạ. E đang dùng máy samsung galaxy j2 prime. E phải làm sao để khôi phục lại hình ảnh ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.921753,
+         "id": "993471",
+         "field_search": "question",
+         "question": "máy iphone5s của e bị vậy làm sao khắc phục vậy ạ. e mua máy này ơ chổ ad á ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.742916,
+         "id": "1022947",
+         "field_search": "question",
+         "question": "Chào TGDĐ ạ. E đang sử dụng đt J7 prime. E muốn hỏi là tại sao e chụp hình bằng cam trước khi cho hình nó bị ngược lại so với chiều mình chụp. Lỗi đó làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.713408,
+         "id": "1019713",
+         "field_search": "question",
+         "question": "E quên mật khẩu khóa màn hình medipad Huawei 8.0 rồi làm sao để mở máy ạ giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.630608,
+         "id": "1008800",
+         "field_search": "question",
+         "question": "cho em hoi khi khóa màn hình wifi tự động tắt ạ,làm sao khắc phục được lỗi đó ạ,e đang dùng dt meizu m5 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.58754,
+         "id": "1019278",
+         "field_search": "question",
+         "question": " Em muốn xóa cái khóa này để có từ xóa ghi nhớ ảnh đăng nhập trên fb phải làm sao ạ ??   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.573606,
+         "id": "923228",
+         "field_search": "question",
+         "question": " A ơi em lo có mk iCloud còn Apple và gmail của e bh đt đòi iCloud mà lo ko tìm đi bh e phải lm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.541239,
+         "id": "969487",
+         "field_search": "question",
+         "question": " Chào Ad, mình bị như thế này là sao ạ và làm sao để khắc phục được lỗi này ạ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.23758,
+         "id": "1161004",
+         "field_search": "question",
+         "question": "dạ Ad cho e hoi chút ạ!e dùng Samsung galaxy Note 8. Cuộc gọi đến từ zalo vẫn hiện thông báo trên màn hình khóa nhưng không cho phép nghe khi chưa mở khóa điện thoại. điều này có cách khắc phục k ạ!em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.222504,
+         "id": "1142340",
+         "field_search": "question",
+         "question": "  e dùng đth oppo A57 làm sao để tắt kiểu khóa màn hình này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.219593,
+         "id": "1137066",
+         "field_search": "question",
+         "question": "Chào ad!!Máy mình bị lỗi Bitlocker khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.213718,
+         "id": "1010140",
+         "field_search": "question",
+         "question": "QTV cho e hỏi làm để xóa khóa màn hình ạ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.155943,
+         "id": "810425",
+         "field_search": "question",
+         "question": " cái iphone5s của e bị đen phía dưới màng hình và hay bị đơ thì làm thế nào để khắc phục vậy qtv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.120985,
+         "id": "1009286",
+         "field_search": "question",
+         "question": "Ad cho e hỏi với ạ.. tại sao bộ nhớ máy 32Gb và e có thẻ nhớ 32Gb mà máy cứ báo bộ nhớ đầy khi e tải phim  hoặc trò chơi về ạ..e chuyển các ưnga dụng qua thẻ nhớ thì bảo k đủ dung lượng trong khi e tháo thẻ nhớ ra thì tất cả hình ảnh video và ứng dụng đều nằm trên bộ nhớ thiêta bị. Ad cho e hỏi e phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.116302,
+         "id": "1151799",
+         "field_search": "question",
+         "question": "cho e hỏi ip6s của e quên pass màn hình khóa mà e còn nhớ icoul thì lấy lại đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.067797,
+         "id": "897478",
+         "field_search": "question",
+         "question": "Ngày trước e đã từng đăng ký sđt vào nick icloud cũ. Bh đổi máy k nhớ icloud cũ phải đăng kí icloud mới. E muốn đăng ký = sđt của mình nhưng k được bây phải em phải làm sao.                ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.91521,
+         "id": "872267",
+         "field_search": "question",
+         "question": " Sao e zo facebook ko đc messenger cũng ko đc AD khắc phục giùm e vs  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.897043,
+         "id": "969785",
+         "field_search": "question",
+         "question": " Cho e hỏi e dùng ip 5s ,chụp hình bằng camera360 8.3.4 cam trước bị ngược ảnh là sao ạ?cho e cách khắc phục vs ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.8644,
+         "id": "795035",
+         "field_search": "question",
+         "question": "e mua máy tinh asus được vài ngày nhưng khi tắt máy thường bị cheo k tắt được rồi màn hình tối lại.lam thế nào để khắc phục được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.760672,
+         "id": "779544",
+         "field_search": "question",
+         "question": "Làm sao để xóa ảnh này trong màn hình khóa ạ? Mình đã Refreshing máy mà vẫn không hết. Mong quản trị viên chỉ cách khắc phục! Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.75343,
+         "id": "1139821",
+         "field_search": "question",
+         "question": "facebook của e e quên mật khẩu mà số điện thoại xác minh thì số đó e bị mất, gmail thì em dùng yahoo mà k nhớ mật khẩu nên k lấy lại được. bây giờ làm sao để lấy lại mk ạ??? giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.688793,
+         "id": "1167690",
+         "field_search": "question",
+         "question": "Cho e hỏi tgdd có thay màn hình sony xperia xa1 ultra ko ạ. Máy của e bị sọc màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.666325,
+         "id": "828760",
+         "field_search": "question",
+         "question": " Bây gìơ phải làm sao ạ máy bị ntn hôm qa tới bây gìơ gíup e khắc phục vz ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.62737,
+         "id": "1023282",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Muốn khắc phục lỗi kẻ màn hình trên samsung galaxy s6 edge thì phải làm sao ạ? Cứ ấn mạnh vào chữ samsng trên đỉnh thì lại hết. E cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.605616,
+         "id": "870824",
+         "field_search": "question",
+         "question": "E xài lumia 730 tự nhiên zalo bị lỗi này.đang nt vs bạn bè nhấn trở về màn hình trống trơn.báo có tin nhắn đến nhưng mở ra màn hình trống rỗng.cho e hỏi bị lỗi gì và khắc phục sao ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.60492,
+         "id": "1138942",
+         "field_search": "question",
+         "question": "Cho e hỏi e xài dt A5 2017 đt e hay bị tắt đen màn hình nhưng khi có ai gọi thì vẫn nghe đổ chuông nhưng k bấm nghe đc vì màn hình bị tắt đen e có bấm đồng thời phim giảm âm lương +phim nguồn để mở lên nhưng 1 lát vẫn bị tiếp có cách nào để khắc phục cho nó k bị nữa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.588678,
+         "id": "896819",
+         "field_search": "question",
+         "question": " QTV ơi cho e hỏi thư viện ảnh của e bị z là sao ạ Làm sao để khắc phục ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.54735,
+         "id": "1019193",
+         "field_search": "question",
+         "question": "Chào ad...em mới mua laptop dell inspiron 3467 ở tgdđ... Máy e mỗi lần mở lên nó cứ hiện cái review settings không tắt được phải tắt máy mở lại... giờ phải khắc phục sao ak...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.48842,
+         "id": "844671",
+         "field_search": "question",
+         "question": "Màn hình laptop em bị chập chờn rồi tự động tắt vs chế độ sleep, cơ mà máy cũng tự động mở màn hình lại luôn, nếu mở lên thì trong khoảng 30s nó lại tắt, có khi thì 1 tiếng sẽ bị tắt. Em đem ra tiệm sửa mà chủ tiệm bảo không tìm thấy lỗi. Admin cho e hỏi máy e bị lỗi gì và làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.436169,
+         "id": "931775",
+         "field_search": "question",
+         "question": "Ad ơi! Cho e hỏi xíu ạ . laptop của e là dell vostro 3458 để máy ở chế độ sleep sau đó bật lại thì bị mất âm thanh. restart thì lại có tiếng bình thường. e muốn khắc phục lỗi này thì phải làm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.42515,
+         "id": "996801",
+         "field_search": "question",
+         "question": "E mua đt trong tgdd màn hình vỡ vậy bh e đem sửa tại tgdd dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.4211,
+         "id": "906567",
+         "field_search": "question",
+         "question": "tài khoản icloud bị khóa nhưng giờ muốn khôi phục thì phải vào email khôi phục nhưng không nhớ chỉ nhớ email chính là id thôi thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.275429,
+         "id": "1156121",
+         "field_search": "question",
+         "question": "Cho e hỏi cái khóa màn hình 1 chạm ở đâu ạ Có chổ nào khác ở bóng điều khiển k ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.258099,
+         "id": "1141188",
+         "field_search": "question",
+         "question": "E đang sd mây coolpad e561. E cài đặt mật khẩu màn hình nhưng giờ e ko nhớ mk. V giờ muốn mở khoá màn hình thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.223452,
+         "id": "1024027",
+         "field_search": "question",
+         "question": "e dùng mobiistar lai 504, máy bị lỗi cứ vào ứng dụng 1 lúc thì máy tự thoát ra màn hình chính, ad cho e xin cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.143616,
+         "id": "1021927",
+         "field_search": "question",
+         "question": "Ad oi cho em hỏi máy iphone em bản LL/A sao chụp hình có tiếng v ạ lúc trước k có bị v ạ. Có cách nào khắc phục k ạ máy e bản quốc tế ạ Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.110262,
+         "id": "1016350",
+         "field_search": "question",
+         "question": "E xài đt a37. Khi tải video ngoại tuyến cứ để lỗi đọc/ghi đĩa là sao ạ? Làm cách nào để khắc phục? E đã kiểm tra thẻ nhớ rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.091415,
+         "id": "1159763",
+         "field_search": "question",
+         "question": "Mình dùng galaxy tab e 9.6 nhưng mình không thể mở khóa màn hình vì bàn phím samsung tự động dừng. Mình đã khởi động lại máy nhưng ko khắc phục đc. Cho em hỏi làm thế nào để mở khóa màn hình mà ko cần xóa dữ liệu điện thoại???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.997135,
+         "id": "1015275",
+         "field_search": "question",
+         "question": "Ad giúp em gấp với ,, điện thoại mobiistar b247 màn hình bị chia đôi ,,, làm sao em khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.944508,
+         "id": "1009723",
+         "field_search": "question",
+         "question": "Chào quản trị viên , oppo f3 của e bị mất máy ảnh, e không biết làm thế để đưa ra màn hình được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.842402,
+         "id": "752355",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e có cái điện thoại ip 4s mà cái id apple(cloud) e đã quên và bây giờ không thể nhớ đc. Làm sao để xoá cái icloud và lập lại cái mới ạ.. E chân thành cảm ơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.782408,
+         "id": "1158617",
+         "field_search": "question",
+         "question": "Anh/chị cho e hỏi, e đang sử dụng ssj4 và hiện đang gặp vấn đề về thẻ nhớ, máy báo là thẻ nhớ bị lỗi vậy làm thế nào để khắc phục mà không bị mất dữ liệu trong thẻ ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.76899,
+         "id": "1007755",
+         "field_search": "question",
+         "question": "Xin chào! Chỉ cho tôi cách làm sao để hủy mật khẩu khóa màn hình oppo a37f",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.761326,
+         "id": "914730",
+         "field_search": "question",
+         "question": " Cho e hỏi zalo của e chỉ 2 ngày k vào,khi vào thì lạ thông báo bị khóa, h e phải làm sao khi sim e bị khóa lâu rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.705969,
+         "id": "1008449",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏiĐiện thoại samsung galaxy j3 của e bị rơi, rồi ở bên dưới góc trái màn hình hiện chế độ an toàn. Thì bây giờ e phải làm sao để nó không hiện nữa ạ ? E khôi phục cài đặt gốc vs tắt nguồn và khởi động lại vẫn không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.699072,
+         "id": "1140535",
+         "field_search": "question",
+         "question": "Ad ơi, e dùng samsung j6, đôi lúc e ấn mở màn hình thì sau 5s màn hình mới hiện, e phải làm sao đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.620512,
+         "id": "1007060",
+         "field_search": "question",
+         "question": "Từ lúc e lắp thẻ nhớ vào máy là máy e bị hay khởi động lại, rồi 2 ứng dụng messenger và VSCO cứ bị như kia khi mở màn hình lên để 1 vài giây thì mới hiện hình lên bình thường, có khi còn mất luôn ở màn hình chính, có lúc thẻ nhớ còn bị tháo đột ngột xong vài giây sau là lại đã lắp thẻ nhớVậy máy e bị làm sao ạ? e dùng máy samsung galaxy j2 prime ạ, e mới mua máy được mấy ngày thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.553635,
+         "id": "1159756",
+         "field_search": "question",
+         "question": "Hiện e đg dùng galxy tab e 9.6 nhưng e ko thể mở khóa màn hình vì bàn phím đã tự động dừng. E phải làm sao đây ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.54369,
+         "id": "876900",
+         "field_search": "question",
+         "question": "cho e hỏi là khi e bật voiceover của iphone 5 lên mà màn hình bị tối đen không hiện lên thì phải làm sao ạ. chụp ảnh màn hình vẫn kêu. người gọi đến nhạc chuông vẫn có nhưng tại sao màn hình lại không sáng. mà từ khi e bật voiceover lên thì màn hình mới thế ạ. xin cho e  biết là tại sao lại như vậy và cách khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.52114,
+         "id": "956354",
+         "field_search": "question",
+         "question": " Ac cho e hỏi laptop của e bị vậy là bị làm sao vs cách khác phục ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.479197,
+         "id": "1013331",
+         "field_search": "question",
+         "question": "E đi học 6 tháng k đc sử dụng đt, như vậy đt e có bị chai pin k ạ, có cách nào để khắc phục k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.465807,
+         "id": "1136061",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại Zenphone 3 Max 5.5 Khi xem trên kính thực tế ảo thì màn hình bị nghiêng sang bên phải, làm sao để khắc phục về màn hình thẳng bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.450876,
+         "id": "996885",
+         "field_search": "question",
+         "question": "cho e hỏi e mới cài lại win máy tính.khi máy lên màn hình thì 1 bên bị viền đen,1 bên bị mất 1 chút màn hình,cho e cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.436127,
+         "id": "826284",
+         "field_search": "question",
+         "question": "máy tính dell của em nút nguồn cứ bị nhấp nháy đỏ có cách nào để khắc phục không ạ?nếu k khắc phục được thì e phải mua pin mới phải không ạ?nếu mua pin mới vậy pin máy tính dell là bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.401604,
+         "id": "1002334",
+         "field_search": "question",
+         "question": "e muốn đổi mât khẩu khóa màn hình oppo neo7 thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.40091,
+         "id": "944178",
+         "field_search": "question",
+         "question": "các bạn cho mình nhờ 1 tý dk k ạ hwa mjh mất 1 cái dt mà đến bh mjh biết là máy đã đăng xuất icloud 2 đã xđ đk mục tiêu nhưng bh e muốn nhờ ng nào xem hộ e để biết cái icoud lúc mấy h ai giúp dk e k ạ e sẽ có cẩm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.392056,
+         "id": "1144310",
+         "field_search": "question",
+         "question": "A oi cho e hỏi e chay lại chuong trinh cho samsung j7 prim mà e k nhớ gmail khi đăng nhập mấy h e phải lm sao ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.389618,
+         "id": "896139",
+         "field_search": "question",
+         "question": "em bị khóa màn hình. còn icloud ko nhớ mk. bjo e muốn dùng emei để check lại tên email icloud. sau e sẽ liên lạc icloud ý xin lại mk sau thì làm cách nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.33413,
+         "id": "873465",
+         "field_search": "question",
+         "question": " cho e hỏi máy của e bị khóa cắm vào tunes ma ko kich hoat đk phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.324589,
+         "id": "1134791",
+         "field_search": "question",
+         "question": "Mình có chiếc đt OPPO NEO 5 bị sọc dọc màn hình 1 thời gian bây giờ đã đen luôn nửa màn hình, làm sao để khắc phục ạ, Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.310144,
+         "id": "909852",
+         "field_search": "question",
+         "question": " Ad cho e hỏi là mấy cái hình e xóa khỏi iphone có phục hồi lại đc k a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.25684,
+         "id": "1015264",
+         "field_search": "question",
+         "question": "Chào tgdd....!Em đang sử dụng máy samsung j5 prime ạ..Gần đây máy em có chút vấn đề về màn hình. Xuất hiện 1 vệt màu trên màn hình và 1 khoảng màu đen ở góc màn hình...Cho em hỏi cách khắc phục và phải làm như nào để giảm hiện tượng này ạ ???Mong sớm nhận được phản hồi của các ad !❤",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.223652,
+         "id": "1147629",
+         "field_search": "question",
+         "question": "Chào ad ạ!E có máy htc 10 evo..qua đi chơi đút túi quần như bình thường thôi..k hiểu sao nó bị đen mất 1 nửa màn hình..mà lạ la cái phần đen đấy vẫn cảm ứng bình thườngMong ad tư vấn giúp ạE cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.21237,
+         "id": "892580",
+         "field_search": "question",
+         "question": "ad cho em hỏi?e dùng laptop dell inspirion 3559CPU: core i5 6200U - RAM:4GB DDR3L - Đĩa cứng:500 GB - Màn hình:15.6 inch HD/VGA 2GB mà sao e dùng các tác vụ của máy phản hồi chậm ...mà e chơi game liên miinh huyền thoại khi tap ra tap ở ngoài là máy giật giữ lắm.....cho e hỏi máy e bị sao cách khắc phục vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.210018,
+         "id": "1005269",
+         "field_search": "question",
+         "question": "ad ơi...chiếc j7 của e khi giảm độ sáng xuống thấp thì nó bị giật màng trắng ở màng hình...chướp nháy liên tục...xin hỏi ad máy e bị làm sao vậy...và khắc phục nó ntn?thanks ad ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.18525,
+         "id": "811075",
+         "field_search": "question",
+         "question": " Em sài mobiistar Lai Yuna mà quên cái mật khẩu khóa màn hình thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.171066,
+         "id": "778849",
+         "field_search": "question",
+         "question": " Máy em bị khóa iCloud phải làm sao đây ạ? Nó bắt nhập iCloud của máy nhưng em không nhớ nữa phải làm sao đây? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.16716,
+         "id": "820090",
+         "field_search": "question",
+         "question": " Máy của tôi bị khóa màn hình mà tôi quên mật khẩu vuốt thì phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.130411,
+         "id": "1131793",
+         "field_search": "question",
+         "question": "Cho e hỏi đt cũ của e bị bể e thay đt mới cũng hãng samsung luôn. Em nhớ tk samsung account của máy cũ thì e vào có thấy hình ảnh máy bên kia còn trong samsung cloud nhưng k sao lưu đc. Vậy làm sao để lưu hình về lại v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.086271,
+         "id": "1137101",
+         "field_search": "question",
+         "question": "Máy em bị lỗi nhập khóa Bitlocker xin ad cgir cách khắc phục ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.06963,
+         "id": "909876",
+         "field_search": "question",
+         "question": "Cho e hỏi: e mua laptop hiệu sony vaio cách đây 3 năm của shop ! Dùng rất okNhưng bỗng sao đang dùng thì xuất hiện 1 đường như chỉ đỏ nằm ngang màn hình , lúc mờ lúc sáng ! máy vẫn dùng rất ok k bị vấn đề gì hết nhưng hơi ức chế cái đường đó ! vậy cho e bik cách khắc phục ....xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.045467,
+         "id": "858363",
+         "field_search": "question",
+         "question": "cho e hỏi máy bị như này thì sao ạ,em đặt lại máy xog nó như j quài mà 2 tiếng rồi chưa lên nguồn có cách khắc phục ko chỉ e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.034964,
+         "id": "780178",
+         "field_search": "question",
+         "question": "QTV ơi .. máy em chạy ios 9.2.1 thỉnh thoảng mở khóa màn hình thì máy rung lên . cho e hỏi thế là bị sao không ạ :) thanks AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.031733,
+         "id": "1139882",
+         "field_search": "question",
+         "question": "Dạ ad cho e hỏi tí Máy e là máy itel it 1508 , e mới mua 1 cái thẻ nhớ 8 GB Samsung mà bỏ vào máy thì máy không nhận thẻ vậy phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.981667,
+         "id": "1168800",
+         "field_search": "question",
+         "question": "Cho e hỏi làm sao để khắc phục lỗi này ạ bên instagram  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.981327,
+         "id": "1166530",
+         "field_search": "question",
+         "question": "Chào adiPhone 6 plus của mình bị chảy mực màn hìnhCho mình hỏi cách khắc phục và nếu phải thay màn hình thì giá khoảng bao nhiêu ạCảm ơn ad nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.978062,
+         "id": "1134416",
+         "field_search": "question",
+         "question": "Cho e hỏi đt e dùng là ss j2 prime hết pin sập nguồn e cắm sạc vào nó lên màn hình khóa nhưng vuốt để mở lại bị đứng màn hình. E tắt đi khởi động lại nhưng k ăn thua. Nó cứ sáng màn hình suốt e ấn nút tắt màn hình k đc. Sạc lâu nóng máy mà k đầy pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.93334,
+         "id": "1006139",
+         "field_search": "question",
+         "question": " Điện thoại galaxy j5 prime của em cứ để màn hình tối là cái góc lại đỏ như vậy. Cái này khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.908834,
+         "id": "1008816",
+         "field_search": "question",
+         "question": "E đang sử dụng sony Z2 dc vài tháng, bây giờ e vô game nào nó cũng bị đơ màn hình, e cũng sử dụng cách bấm nút nguồn với + âm lượng để rs. Vô lại game nó cứ như v mãi. Giúp e khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.856838,
+         "id": "957120",
+         "field_search": "question",
+         "question": " E tạo id mới mà l có visa vs matster card phải làm sao ad  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.799316,
+         "id": "873517",
+         "field_search": "question",
+         "question": "đt của e tắt nguồn,khi bật lên nó hỏi mật khẩu mở máy, e bấm sai nhiều lần gioừ vô hiệu hóa. e nhớ tài khoản icloud và gmail, giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

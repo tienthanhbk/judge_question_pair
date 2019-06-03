@@ -1,0 +1,809 @@
+{
+   "id_query": "907546",
+   "total": 33878,
+   "total_current": 100,
+   "max_score": 246.13577,
+   "origin_question": "việc là thế này.lúc trước thì vẫn dùng bình thường nhưng từ khi em reset cài đặt thì k vào được mạng nữa. máy báo k có kết nối. thoát sim lắp lại bật chuyển vùng dữ liệu các kiểu rồi không vào được. em lắp thử 1 sim vina vào iphone của em thì vẫn vào bình thường. nhưng em lắp sim viettel vào thì k đc nữa . lấy sim viettel đó lắp vào 1 máy khác thì lại vào bình thường nhưng lắp vào iphone của em lại không vào được. k hiểu gì luôn",
+   "hits": [
+      {
+         "score": 246.13577,
+         "id": "907546",
+         "field_search": "question",
+         "question": "việc là thế này.lúc trước thì vẫn dùng bình thường nhưng từ khi em reset cài đặt thì k vào được mạng nữa. máy báo k có kết nối. thoát sim lắp lại bật chuyển vùng dữ liệu các kiểu rồi không vào được. em lắp thử 1 sim vina vào iphone của em thì vẫn vào bình thường. nhưng em lắp sim viettel vào thì k đc nữa . lấy sim viettel đó lắp vào 1 máy khác thì lại vào bình thường nhưng lắp vào iphone của em lại không vào được. k hiểu gì luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 135.36157,
+         "id": "1012779",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em j7 2016. Máy lắp 2 sim viettel và vina. Nhưng báo chỉ sim có vina. Sim viettel không có thẻ sim, nhưng vẫn nhận được cuộc gọi đến sim viettel. Tháo sim viettel ra khỏi máy nhưng vẫn nhận được cuộc gọi đến sim viettel, em lắp vào máy thêm 1 sim vina nhưng vẫn gọi đến sim viettel vẫn nhận được trên máy. Tức là máy chỉ lắp 2 sim nhưng  3 sim nghe được cuộc gọi đến. Sim viettel được tháo ra lắp vào máy khác vẫn báo không có thẻ sim.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 131.09097,
+         "id": "839070",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mua sim vina bùm nano khi lắp vào sim ghép ip 5 lock kddi báo chua cài đặt thẻ sim, khi thao ra lắp vào sim cũ của mình thì lên sóng bình thường là làm sao ạ( sim vina bùm vẫn bình thường(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 127.06434,
+         "id": "1157054",
+         "field_search": "question",
+         "question": "Em xài máy ip 6s lắp sim viettel, máy samsung lắp sim vina. Hôm trước em tắt máy samsung và gọi vào số vina thì thấy máy ip đổ chuông trong khi máy ip lắp sim vina. Khi bật nguồn lên thì máy samsung vẫn đổ chuông bình thường. Ai giải thích vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 118.104904,
+         "id": "1159377",
+         "field_search": "question",
+         "question": "tại sao samsung A50 sau khi cắt sim lắp vào gọi cho người khác thì bình thường nhưng khi người khác gọi vào số mình thì lại thành gọi vào máy khác mặc dù số vẫn là sim mình ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 117.30868,
+         "id": "743269",
+         "field_search": "question",
+         "question": "Có ai không giúp mình với . Mình đang sử dụng máy ip5 bản qt . Máy mình gặp lỗi 3G . Khi mình lắp sim viettel để vào mạng thì không được . Nhưng khi mình thay sim mobie vào lại vào đc mạng như bình thường là sao . A bik giúp mình với . Cảm ơn m.n",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 114.793106,
+         "id": "1140232",
+         "field_search": "question",
+         "question": "Sao máy em bật dữ liệu di động nhưng không hiển thị chữ 3G và không thể vào mạng được vậy ạ? Em đã reset máy và thử lắp sim khác vào nhưng vẫn không đươc ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 113.24593,
+         "id": "1149496",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi, e sài samsung j3pro, mạng sim 4g vẫn chạy bình thường nhưng khoảng 1 tuần nay thì mạng đột nhiên kh vào dc các ứng dụng như fb, tiktok, zalo thì chỉ gửi được tin nhắn thường kh gửi được hình ảnh nhưng khi lắp sim vào máy khác thì mạng vẫn chạy nhanh bình thường. Chỉ e cách khắc phục với ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 112.38624,
+         "id": "1023170",
+         "field_search": "question",
+         "question": "Em có sim Vina nhưng lâu ngày k sử dụng, hôm nay e lắp vào máy nhưng lại báo k đăng kí nhà mạng. Là sao vậy các anh, chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 105.75332,
+         "id": "962707",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 7 ios 10.2.1Hôm qua khởi động lại máy thì máy báo không kích hoạt được imessage và facetime. Mình làm đủ cách không được. Sau đó lắp sim 10 số vào thay sim 11 số trong máy ip thì lại kích hoạt đc ngay. Lắp lại sim 11 số vào thì lại báo không kích hoạt đc. Ad chỉ cách cho m xử lý trường hợp này với. M dùng mạng viettel.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 105.69023,
+         "id": "1153104",
+         "field_search": "question",
+         "question": "Tại sao máy mình k gọi được đi. Người khác gọi cũng k nhận được trong khi mấy vẫn báo sim có sóng đầy đủ. Nhưng lắp sim sang máy khác thì lại dùng bình thường. Mình dùng Sony XP XA1 ultra",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.01417,
+         "id": "779942",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Mình có một chiếc iphone 6 trước có dùng sim của Mobi và lưu số vào sim. Trước khi rút sim ra mình đã lưu danh bạ vào máy. Tuy nhiên khi lắp sim quốc tế (Mỹ AT&T) vào máy thì tin nhắn chuyển thành dạng số và k có tên (ấn vào xem details của message thì vẫn hiển thị tên). Tháo sim at&t ra và lắp lại mobi thì lại hiện tên. Vậy đấy là lỗi gì và giúp mình khắc phục. Mình xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.721344,
+         "id": "1152477",
+         "field_search": "question",
+         "question": "Mình có mua đt sam sung galaxy j6 lavender ở TGDD. Trên hỗ thông tin có ghi là hỗ trợ sim 4g. Nhưng khi mình lắp sim 4g thì báo k nhận sim. Trong khi đó lắp vào đt khác vẫn nhận.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.91937,
+         "id": "1137771",
+         "field_search": "question",
+         "question": " Làm sao để lắp được sim vào máy mobistar x vậy.E vừa mua nhưng không lắp được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.19731,
+         "id": "1007159",
+         "field_search": "question",
+         "question": "Sao xiaomi redmi 4a lắp sim vào lại không  có danh bạ.  Bỏ vào máy cũ thì lại có.  Máy em mới mua hôm qua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.79097,
+         "id": "828292",
+         "field_search": "question",
+         "question": "Lỗi không vào được bất kì trang nào của facebook bằng 3GQTV, tình trạng là lúc sáng thì vẫn bình thường, đến 12h30 là không vào được facebook nữa, messenger thì cứ \"Đang kết nối\". E thử xóa hết ứng dụng rồi cài lại vẫn không được. Truy cập facebook bằng trình duyệt cũng không được. Trong khi đó vẫn vào được các trang khác bình thường. Dùng Wifi thì vô lại bình thường là sao? Giúp e với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.17575,
+         "id": "1138946",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại samsung galaxy A7 2018 dùng loại thẻ nhớ gì? Mình có 2 thẻ nhớ lắp vào máy khác vẫn nhận bình thường mà khi lắp vào A7 2018 thì máy không nhận. Điện thoại mình mua được 2 tháng rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.143074,
+         "id": "961426",
+         "field_search": "question",
+         "question": " Nếu như lắp sim vào máy ip nhưng hiện k có dịch vụ như thế có khởi động được máy k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.12712,
+         "id": "1150591",
+         "field_search": "question",
+         "question": "anh/chị cho em hỏi, hiện tại em đang dùng điện thoại galaxy s9 +64gb. em muốn lắp thêm 1 sim vào máy thì có được không. bên cửa hàng TGDĐ có hỗ trợ em lắp sim không?em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.93145,
+         "id": "929864",
+         "field_search": "question",
+         "question": " Mình mới mua iphone 5s nhưng khi lắp sim vào thì mất hế danh bạ. giờ làm sao để lấy lại danh bạ được nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.63145,
+         "id": "959974",
+         "field_search": "question",
+         "question": "Chào ad. Máy ip của em bố mới cho, em lắp sim của em vào nhưng danh bạ và các thứ nó vẫn là của bố em thì em phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.518105,
+         "id": "931286",
+         "field_search": "question",
+         "question": "E mới mua samsung j7 prime nhưng e lắp sim sai cách không bỏ sim vào khay sim mà lại lắp trực tiếp vào khe sim nên sim bị kẹt không lấy ra dc. Bây giờ e phải làm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.48203,
+         "id": "1015466",
+         "field_search": "question",
+         "question": "Máy e samsung s4 mini gt i9190 lắp sim viettel sau đó đăng kí mạng thành công,sau đó kiểm tra tài khoản thì bị lỗi mmi không hợp lệ, nhưng đôi khi lại kiểm tra tài khoản bình thường và gọi ok,1 hồi thì sim trở về chế độ chỉ gọi đc các cuộc SOS,e có thử đủ cách đăng kí nhà mạng lại thì sim về chữ Viettel bt nhưng 1 hồi sau lại bị SOS,trong khi đem qua máy khác thì không bị trục trặc gì và sử dụng bình thường, vậy đây có phải là lỗi khe sim của máy hay không?Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.92271,
+         "id": "765882",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi là mình có active em 6s nhưng không gắn sim (vẫn active được bình thường), vậy sau này gắn sim vào thì có sóng sánh bình thường hay không vì mình nghe nói iPhone phải gắn sim trước thì mới active được. Tks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.896706,
+         "id": "1160781",
+         "field_search": "question",
+         "question": "làm sao để gỡ chặn danh bạ trên đt j7+ ???  mình lắp sim sang máy khác vẫn gọi bình thường. nhưng khi lắp quay lại máy thì số vẫn bị chặn- dù đã gỡ. làm cách nào được đây ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.547714,
+         "id": "837818",
+         "field_search": "question",
+         "question": " iPhone SE của e lỗi k vào đc face vào web khác thì vẫn bình thường dùng 3g cũng k đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.44705,
+         "id": "1003264",
+         "field_search": "question",
+         "question": "em xài huawei y6II nhưng khi lắp sim vào điện thoại , thì điện thoại không hiện lên đã nhận sim vậy máy bị gì v ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.23331,
+         "id": "614581",
+         "field_search": "question",
+         "question": " Mình lắp sim vào dt mà mất hết danh bạ thì làm thế nào để lấy lại  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.37579,
+         "id": "1133895",
+         "field_search": "question",
+         "question": "Em sài oppo f5 youth lắp sim Vẫn có sóng bình thường nhưng mà hay bị người khác điện thì thuê bao, đang mở 3g thì không có kết nối như vậy là sao?????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.27597,
+         "id": "999773",
+         "field_search": "question",
+         "question": "Cho em hỏi máy J5 2015 khi em tháo thẻ nhớ ra lúc lắp vào lại thì ko nhận thẻ nhớ nữa , thẻ nhớ đó lắp vào máy khác cũng ko nhận nữa . Hư luôn thẻ nhớ ! Mong sớm dc câu trả lời ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.212616,
+         "id": "1017937",
+         "field_search": "question",
+         "question": "khi lắp sim vinaphon vào điện thoai lenovo A7000 thì báo sóng quá yếu, nhưng lăp sim dố vào máy nokia thì báo sóng cực khỏe có tới 5 cột sóng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.82137,
+         "id": "1143873",
+         "field_search": "question",
+         "question": "Alô ạ. ĐT cua e là sony X. Nhưng hiện tại lắp sim vào thì máy cứ báo KHông có dịch vụ. E lắp di lap lại mà ko DC. Sim lap sang máy khác thì lại dùng OK. Liệu máy của e giờ gửi lên tgdd thi sửa lâu ko. Mất nhiều tiền ko ạE cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.765884,
+         "id": "1009449",
+         "field_search": "question",
+         "question": "Ad cho em hỏi với ạ. Tại sao điện thoại j5 của em đang vào facebook thì không vào đc nữa. Mà trong khi đó em vào google vẫn vào bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 93.23384,
+         "id": "1004555",
+         "field_search": "question",
+         "question": "Máy của em khi vào mạng wifi thì có dấu chấm than là sao vậy ạ vào wifi khác vẫn đc và bố mẹ em vào wifi vẫn bình thường nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.432755,
+         "id": "1022004",
+         "field_search": "question",
+         "question": "ngày trước e có mua một sim vina ở tgdd nhưng lâu k dùng giờ lắp vào thì hiện không có dịch vụ như thế là bị khóa 2 chiều phải k ạ giờ e muốn mở khóa lại sim thì tgdd có hỗ trợ k và mất phí như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.86013,
+         "id": "999359",
+         "field_search": "question",
+         "question": "Em mới mua máy Samsung glaxy j2 , e đọc hướng dẫn cách lắp thẻ nhớ vào máy rồi nhưng khi em lâp thì k thể ấn nó chặt vào đc , có cách nào k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.60605,
+         "id": "912052",
+         "field_search": "question",
+         "question": " QTv cho em hỏi ! Laptop của em kết nối mạng vẫn bình thường nhưng khi truy cập trình duyệt vào không được . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.152306,
+         "id": "886559",
+         "field_search": "question",
+         "question": " Khi vào facebook messenger thì hay báo là do lỗi mạng nhưng trong khi đómáy khác vẫn vào bình thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.955505,
+         "id": "1013705",
+         "field_search": "question",
+         "question": "Cho mình hỏi: khi mình lắp sim vào sony verizon D6708 thì nó lại báo thẻ sim không từ verizon và khi click vào thì nó hiện ra như hình...vay có thể chỉ mình cách khắc phục được không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.72965,
+         "id": "999394",
+         "field_search": "question",
+         "question": "Hiện em đang dùng sony  Zultra. Cho em hỏi là từ khi em cập nhật Facebook cách đây 2 ngày  . Ngày đầu tiên thì bình thường nhưng đến ngày thứ 2 là bị lỗi không thể vào được và điện thoại báo không thể khởi động Facebook. Nếu muốn vào Facebook thì phải vào phần cài đặt ứng dụng và xoá hết bộ nhớ cache và dữ liệu đi thì mới vào được. Nhưng cũng chỉ vào được 1 lần nếu thoát ra thì lại không vào được. Cho em hỏi thế là bị làm sao ạ..Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.65355,
+         "id": "761113",
+         "field_search": "question",
+         "question": "Em nhặt được 1 máy iPhone 5s. Nhưng tài khoản icloud đã bị khóa. Mà lắp sim khác vào thì nó cần tài khoản icloud để kích hoạt nhưng mà không có. Bây giờ mà phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.1728,
+         "id": "1011696",
+         "field_search": "question",
+         "question": "- mình dùng máy sony xperia xa khi lắp 2 sim vào cài đặt mạng chỉ dùng được ở 1 sim. tắt 3g ở sim 1 bặt 3g sim 2 nhưng nó vẫn lên 3g ở sim 1 là sao. - Làm sao để cài đặt giới hạn cuộc gọi dưới 10 phút ở máy sony xperai XA",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.09567,
+         "id": "1138676",
+         "field_search": "question",
+         "question": "Chào ad, ad cho mình hỏi về điện thoại asus zenphone 2, mình bị vấn đề như sau, Khe cắm Sim 1 cho phép bật 2,3,4G và khe cắm Sim 2 không hỗ trợ 2,3,4G, mình đang sử dụng Sim Viettel mình cắm ở khe Sim 1 thì bật 2,3,4G vào internet bình thường, nhưng khi mình cắm Sim Mobifone vào khe Sim 1 thì điện thoại mình hoàn toàn không nhận Sim cũng như không bật được 2,3,4G (Sim mobile mình đã test ở điện thoại khác thì vẫn hoạt động vào internet bình thường) không biết tình trạng này là như thế nào bạn và có cách nào khắc phục không bạn. Chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.07129,
+         "id": "808765",
+         "field_search": "question",
+         "question": "​Máy tính em sài vẫn bình thường mà hôm nay mở thì có lỗi vẫn có wifi bình thường nhưng lại không có thông báo cột sóng (chi tiết xem hình) sau đó em vào mục :\" Device Manager \" sau đó vào : \" Network Adapters \" thì vẫn k có lỗi j xảy ra như vậy là máy bị sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.90652,
+         "id": "823784",
+         "field_search": "question",
+         "question": "ad cho mình hỏi mạng nhà mình kết nối bt, máy tính vẫn vào facebook đc mà sao đt mình k vào đc. Dùng 3g cũng không vào đc. đt báo \" chúng tôi đang gặp sự cố khi nhận dữ liệu\". Trong khi đó mình thử kết nối mạng wifi khác thì lại vào bt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.536995,
+         "id": "1135835",
+         "field_search": "question",
+         "question": "Hiện tại mình đang dùng Huawei Y9 khi xài sim viettel thì được nhưng khi lắp sim mobo để lên mạng không biết chuyển đổi truy cập dữ liệu sang sim mobi nên không mở được. Làm sao để mở 2 sim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.31997,
+         "id": "773675",
+         "field_search": "question",
+         "question": "Mình mới sử dụng iPhone 5S. Lắp sim sang máy khác thì vẵn có danh bạ của sim. Nhưng lắp sang iPhone thì lại không có. Ad giúp mình khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.30443,
+         "id": "1005303",
+         "field_search": "question",
+         "question": "Máy itel s11 plus của em lắp 2 sim vào thì máy cứ nóng lên. Cho e hỏi máy bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.24008,
+         "id": "782344",
+         "field_search": "question",
+         "question": "Iphone 4S của em em mới cài đặt Asphalt vào, ( trước vẫn chạy như trâu và chắc chắn vẫn chạy được) rồi bị đơ một lúc do em bật nhiều chương trình quá, sau đó em tắt màn hình rồi bật lại nhập mật khẩu bình thường thì thấy máy treo, như bình thường vẫn làm em lại tắ màn hình để nhập lại tuy nhiên máy không hiện lên gì nữa, cắm vào máy tính vẫn hiện bình thường như thế này là xung đột phần mềm đúng không ạ, em cần phải làm gì để thoát khỏi tình trạng này, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.16666,
+         "id": "781431",
+         "field_search": "question",
+         "question": "Em dùng iPhone 4 wifi tại nhà dùng mạng các trang bình thường nhưng tự nhiên vào fb hằng ngày vẫn đc tự nhiên hôm nay không được.. sang mạng nhà khác lại vào được về nhà lại không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.16608,
+         "id": "802401",
+         "field_search": "question",
+         "question": "Máy tính của em kết nối Wifi được nhưng em không thể truy cập Internet bằng Microsoft Edge được. Nhưng khi em sử dụng trình duyệt Cốc Cốc thì vẫn vào được bình thường là bị lỗi gì ạ? Xin chỉ em cách sửa. (Đặc biệt khi em sử dụng mạng có dây thì Edge mới vào được bình thương).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.03165,
+         "id": "875256",
+         "field_search": "question",
+         "question": "A ới sao e vào meseger bằng wifi k được...nhưng vào bằng 3g lại được ...wifi vẫn vào f.b xem phim bình thường.....chỉ mỗi meseger là k vào được thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.00667,
+         "id": "755742",
+         "field_search": "question",
+         "question": "Em có cái Iphone 4s 100% pin  để không xài từ tối tới tầm trưa (không xài còn 37% là có bị chai pin ko ạ ) Với lại khi em lắp sim vào lúc gọi được lúc không gọi được. Lúc mất mạng lúc có mạng  thường mất mạng nhiều thì sữa sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.92176,
+         "id": "855318",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tại sao mình dùng ip6 lại không vào được Bxh AppStore??? Các thư mục khác của AppStore vẫn vào được bình thường nhưng riêng BXH là không vào được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.70801,
+         "id": "777874",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy mình từ hôm qua đến giờ không nhận sim. Máy cứ báo đang tìm kiếm or là không có dịch vụ. Lắp sim vào máy khác vẫn bình tthuòng. Mình đã cài đặt gốc rồi vẫn không được. Máy mình là iPhone 6 plus. Cho hỏi máy mình bị sao vậy. Sửa có lâu không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.287285,
+         "id": "835952",
+         "field_search": "question",
+         "question": " Mình không thể lắp sim vào máy oppo F1 hướng dẫn cho mình được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.81922,
+         "id": "1166440",
+         "field_search": "question",
+         "question": "em dg xài chiếc nokia 8.1, mấy hôm nay ko piết sao khi xài wifi thì vào mang đc tầm 2 giờ thì máy ngưng kết nối vào báo mạng không có internet dù các máy khác xài vẫn bình thường,em đã thử nhiều cách khắc phục nhưng máy vẫn như vậy, mong ltv có thể giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.012054,
+         "id": "758770",
+         "field_search": "question",
+         "question": "Em mới mua iPhone 4S được 2 hôm nay lắp sim, lấy máy khác gọi vào không hiển thị số, bên công ty giúp em khắc phục với , em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.95325,
+         "id": "828364",
+         "field_search": "question",
+         "question": "Tại sao em dùng iphone 5s khi dùng dữ liệu di động lại không vào được messenger vs facebook nhưng mà dùng wifi thì lại được mà dùng dữ liệu để chạy ứng dụng khác vẫn bình thường ( mới bị hôm nay thôi mọi ngày vẫn bt )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.44721,
+         "id": "1161840",
+         "field_search": "question",
+         "question": "Lap của em win 10 nhưng mỗi lần vào start hay vào wifi thì keyboard lại không hoạt động nhưng vào chrome thì hoạt động bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.42203,
+         "id": "808375",
+         "field_search": "question",
+         "question": "Em đăng nhập facebook bằng máy tính thì phải nhập mật khẩu 2 lần mới vào được, còn trên điện thoại thì báo lỗi không thể đăng nhập, nhưng đăng nhập bằng ních khác thì vẫn vào bình thường. Em đã thử xóa ứng dụng và tải lại rồi vẫn không được. Cho em hỏi làm thế nào để khôi phục lại bình thường ạ. Em cảm ơnđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.241035,
+         "id": "1021688",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là sao con iphone 5 của em chạy bản 10.3.3 đang dùng bình thường tự nhiên hôm qua em vào appstore, icloud và cài đặt trong máy không phản hồi gì hết nó cứ xoay như vậy mãi .Em vào reset cũng không được     Luôn ạ.Máy em mất kết nối với apple hết trong khi mạng vẫn bình thường .Ad giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.18064,
+         "id": "755072",
+         "field_search": "question",
+         "question": "Em đang bên china bên đó có mạng 4g sao em mua sim và đăng kí lắp vào sao không dùng được. 3g cũng không có luôn chỉ hiện E là sao ạ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.904854,
+         "id": "1009779",
+         "field_search": "question",
+         "question": "Em đã vào Cài đặt Xóa dữ liệu rồi Khởi động lại nhưng khi vào Ứng dụng để thanh toán thì nó vẫn hiện như vậy em không hiểu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.86617,
+         "id": "840675",
+         "field_search": "question",
+         "question": "     Tại sao iphone 5 lock lại ntn a. Nó ko lắp sim thì dùng đc lắp sim là nó báo vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.554565,
+         "id": "752729",
+         "field_search": "question",
+         "question": "Admin giúp em , em mua lại  iphone 5 mà sao gắn sim viettell vào thì có sóng nhưng người khác không gọi được , em lấy máy khác gọi vào củng không được , gọi và nhận đều không được . ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.42316,
+         "id": "1163799",
+         "field_search": "question",
+         "question": "mình đang dung htc desire 728 dual sim nhưng lắp sim vào lại ghi là dịch vụ giới hạn là vì sao vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.41486,
+         "id": "846506",
+         "field_search": "question",
+         "question": "moi nguoi oi giúp em với ~ chuyện là thế này thằng em của em nó làm sao lỡ xóa cái nvidia driver trong . nó bảo khởi động lại ! lúc khởi động lại thì bình thường tới chỗ vào windows thì đứng yên luôn ( trong khi đó tiếng vào windows vẫn bình thường ) nó ở tư thế đó ko vào windows luôn à mong ae giúp đỡ em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.22565,
+         "id": "1142698",
+         "field_search": "question",
+         "question": "Mình mua A7 2018 ở TGDD . Có sử dụng 2 sim. Khi lắp vào sim 1 bị hụt sóng. Sim 2 thì ok. Mình đã thử đổi sim qua lại mà vẫn bị. Gắn qua dt khác thì ko sao. Add cgir cách khắc phục với. Thank you",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.14931,
+         "id": "999564",
+         "field_search": "question",
+         "question": "Hồi trc tôi vẫn vào trag web này bình thường nhưng gần đây tôi vào thì nó bảo vầy cho dù tôi xài các trình duyệt khác cũng k đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.14421,
+         "id": "1001927",
+         "field_search": "question",
+         "question": "Ad cho em hỏi sao YouTube em đang xem bình thường xong em thoát ra vào lại thì YouTube  vấn chạy bình thường  nhưng lại không có tiếng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.787575,
+         "id": "1156948",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, em có đang dùng iphone 5s block sim ghép.  Hôm trước có nghịch tháo sim ra, h bỏ vô sim báo k nhận. Em có mang ra tiệm thì họ bảo phải  bắt buộc đăng xuất ra icloud ( ,em quên pass mất rồi ) ,nhưng theo em tìm hiểu thì hình như lắp sim ghép k liên quan tới icloud phải k ạ. Và cho em hỏi bên thế giới dy động các anh có hỗ trợ lắp sim ghép k ạ và có cần phải đăng xuất icloud như họ nói k. Em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.46658,
+         "id": "1007947",
+         "field_search": "question",
+         "question": "TGDD cho tôi hỏi cách lắp sim vào đt mobell M328?                                                                                                                                                              ..............................................................................................................................................................................................................................................................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.41983,
+         "id": "1021865",
+         "field_search": "question",
+         "question": "cho tôi hỏi Galaxy A9 pro của tôi dạo gần đây đang dùng tự nhiên cột sóng hiện dấu tròn báo không nhận sim (2 sim, 1 sim nghe gọi, 1 sim dữ liệu 4G), khi khởi động lại hoặc tháo khay sim lắp lại thì bình thường trở lại liền, rồi dùng khoảng thời gian chưa đầy 1 ngày thì bị như vậy trở lại. cho hỏi do lỗi kỹ thuật hay do sim ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.21918,
+         "id": "1161284",
+         "field_search": "question",
+         "question": "em sử dụng đt samsung j1. khi cắm tai nghe vào thì chỉ nghe được 1 bên mà khi lấy tai nghe đó cắm vào máy khác thì nghe bình thường là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.215385,
+         "id": "785570",
+         "field_search": "question",
+         "question": "add cho hỏi sao e check imei trên các trang thì toàn za là máy e lock. Nhưng mà e lắp sim nào vào cũng dùng dc vậy máy e ls",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.12931,
+         "id": "1017383",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình sử dụng 2 mail. Email 1 là mình đã đăng nhập được vào app gmail rồi, nhưng khi vào thì nó lại báo như thế này \" Gmail đã dừng \". Chỉ có mỗi email 1 đó thôi. Email 2 thì vào thì k bị văng ra. Lúc trc thì xài 2 email vẫn bình thường. Cho mình hỏi nguyên nhân được không ạ.  Mình cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.94794,
+         "id": "809604",
+         "field_search": "question",
+         "question": "cho em hỏi là iphone của em kết nối wifi vào FB IG bth mà vào zalo lại hiện không kết nối trong khi 3G thì vẫn vào đc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.81042,
+         "id": "1014424",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi, số đt mình lưu trên sim nhưng khi lắp vào máy nokia 3 thì không hiển thị số đt ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.75234,
+         "id": "1019228",
+         "field_search": "question",
+         "question": "sp mình mua là samsung j5 đã qua sử dụng khi đưa sim cho bạn nhân viên lắp k biết bạn ấy có quên k nhớ lắp thẻ sd vào khay giúp mình k ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.48917,
+         "id": "797110",
+         "field_search": "question",
+         "question": "Thế giới di động cho mình hỏi,mình có cái máy 4s từ Mỹ về lắp sim vào không nhận,mật khẩu icloud không có thì làm sao xài được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.14196,
+         "id": "1145658",
+         "field_search": "question",
+         "question": "mk mới mua con XIAOMI A2 lite đến giờ chắc 3 -4 tháng j đó . hôm qua đến hnay máy mk có 1 vấn đề đó là lắp sim vào( cả 2 sim) có sóng,nghe gọi ok.Nhưng  cả hai sim đều ko có dịch vụ ( có dấu x chỗ vạch sóng ) ,ko dùng đc mạng dữ liệu.MK đã thử tắt nguồn tháo sim lau nhẹ qua cồn lắp lại ,bật chế độ máy bay 1 lúc r tắt,khởi động lại vẫn ko khắc phục được .     CHO MK HỎI CÓ CÁCH NÀO KHÁC PHỤC KO ?( khoảng 1 tháng trc mk cũng bị như này nhưng để 1 lúc là nó hết. nhưng laanf này thì hơn 1 ngày r)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.01056,
+         "id": "805672",
+         "field_search": "question",
+         "question": "Anh ơi cho hỏi May laptop của em loại dell ở nhà không vào được wifi nhưng đến công ty vẫn vào wifi bình thường. Vậy em cần cài đặt thế nào để kết nối wifi ở nhà ạ ?. Thanks Anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.91557,
+         "id": "1150150",
+         "field_search": "question",
+         "question": "Làm sao lắp sim điện thoại vào điện thoại itel a32f",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.871475,
+         "id": "997914",
+         "field_search": "question",
+         "question": "Điện thoại em là zenfone 5 bị lỗi hệ thống khi không bỏ sim thì báo không có thẻ sim, khi lắp sim thì lại không có dịch vụ. Sim thì vẫn xài ok không bị gì hết. Xin ad giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.769295,
+         "id": "1010290",
+         "field_search": "question",
+         "question": "mình mới mua sim 3g bên bạn được gần nửa tháng nhưng sao lúc vào  mạng được lúc  yếu k vào được là sao? sim 3g mà k vào nổi mạng ...thất vọng qá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.56389,
+         "id": "828793",
+         "field_search": "question",
+         "question": "Không vào được facebook là sao, messenger thì cứ \"Đang kết nối\". thử xóa hết ứng dụng rồi cài lại vẫn không được. Truy cập facebook bằng trình duyệt cũng không được. Trong khi đó vẫn vào được các trang khác bình thường.Giúp e với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.542625,
+         "id": "823069",
+         "field_search": "question",
+         "question": "iPhone của mình vào messenger thì bị lỗi kết nối, trong khi mạng khỏe xem phim lướt web vẫn bình thường, tối qua safari còn không vào được Facebook nữa, làm sao để khắc phục vậy, chỉ giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.24909,
+         "id": "801200",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi 1 chút là em đang dùng con 5s lock nhật. em dùng itunes, restore lại máy.xong và bắt đầu chọn lại từ đầu là ngôn ngữ đến vùng rồi wifi rồi tiếp theo nó bắt lắp sim mà em không có sim và không đi tiếp được nữa là sao ạ? Trước em vẫn dùng không có sim chỉ dùng wifi vẫn được màEm cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 81.09516,
+         "id": "1145903",
+         "field_search": "question",
+         "question": "Cho em hỏi em dùng 5s đạo này máy cứ dùng được 1-2 phút thì tắt nguồn rồi tự bật lại lúc lên ngồn pin 1% cắm vào thì lân bình thường nhiều lúc pin ảo đùng88%cắm vào còn77% là sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.99589,
+         "id": "1138061",
+         "field_search": "question",
+         "question": "mình mới mua máy J4+ bỏ sim Vietnam vào xài được 2 ngày thì máy báo không kết nối Bị MMI.mà bỏ sim vietnam vào máy khác thì xài đươc,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.94961,
+         "id": "1012417",
+         "field_search": "question",
+         "question": "Cho mình hỏi: máy mình Gr5 2017, mình nắp 2 sim viettel  sử dụng bình thường, bỗng sáng nay sim 1 gọi hay nhận cuộc gọi chỉ cần 1 bên nhấc máy thì tự cúp máy kiểu máy bận, mà nhắn tin vẫn bình thường, sim còn lại thì gọi bình thường, như vậy là tại sim hay máy, và khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.840126,
+         "id": "911040",
+         "field_search": "question",
+         "question": "E mới mua 1 đt iphone 5s tại TGDD nhưng sử dụng mạng 3g quá chậm e gắn cái sim đó vào 1 đt khác thì lại sử dụng 3g bình thường vấn đề này có phải lổi do máy không ạ giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.8251,
+         "id": "999944",
+         "field_search": "question",
+         "question": "thiết bị nhớ của e k biét tại sao sau khi e rút ra khỏi máy tính xong lắp lại máy tính thông báo phả format thẻ nhớ. e bấm vào format thì lại hiện thông báo thẻ nhớ được bảo vệ. hiện tại e lắp vào điện thoại thì k nhận thẻ. e phải làm thế nào ạ. mong anh chị giúp đỡ e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.796715,
+         "id": "770152",
+         "field_search": "question",
+         "question": "Cho em hỏi vào icloud của máy thì không có em đăng nhập id bình thường khi vào kiểm tra imei thì thấy kích hoạt bật. Reset máy thì không có mật khẩu giới hạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.752426,
+         "id": "1141617",
+         "field_search": "question",
+         "question": "dạ em có mua điện thoại Nokia 213hiện tại em vẫn đang còn lưu lượng GB nhưng tại sao em không thể lên mạng được?em đã bật dữ liệu di động lên rồi. Hồi trước vẫn bình thường nhưng 2 hôm nay không vào được??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.62763,
+         "id": "1160082",
+         "field_search": "question",
+         "question": "Sin hỏi. Tôi mua ĐT xiaomi ở tgdđ còn bảo hành khi cài đặt lại máy k biết tại sao lại k đăng nhập được vào mi acc nữa. số điện thoại đăng ký mua ĐT và đk mi acc là của tôi. Dùng ĐT khác đăng nhập vẫn vào được bình thường là sao vậy. Có thể nhờ tgdđ giúp k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.60498,
+         "id": "998482",
+         "field_search": "question",
+         "question": "Em mới mua samsung j2 prime, máy bộ nhớ ít nên e lắp thêm thẻ nhớ, vào file của bạn thì thẻ nhớ gắn được rồi. Nhưng e vào cài đặt-> ứng dụng, ấn vào ứng dụng muốn chuyển sang thẻ nhớ nhưng nó ko có mục chuyển sang thẻ SD ạ, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.347725,
+         "id": "1150188",
+         "field_search": "question",
+         "question": "Mk dùng ss a5. Sau khi gắn thẻ nhớ 16gb vào vẫn chụp ảnh bình thường nhưng khi xem lại thì k xem được ảnh. File ảnh vẫn còn nhủng k xem được là vì sao và có cách nào đê lấy lại ảnh k? Cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 80.24275,
+         "id": "1017750",
+         "field_search": "question",
+         "question": "Em có ý định mua sim 3g Mobifone giá ghi trên Web là 75k . Vậy là em mua xong lắp vào máy xài hay phải đăng ký thủ tục hay nạp tiền vào gì nnữa không vậy ????",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

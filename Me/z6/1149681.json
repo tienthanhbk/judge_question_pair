@@ -1,0 +1,809 @@
+{
+   "id_query": "1149681",
+   "total": 27879,
+   "total_current": 100,
+   "max_score": 55.34572,
+   "origin_question": "Bên thế giới di đông mình có hỗ trợ bẻ khóa iphone 7 không",
+   "hits": [
+      {
+         "score": 55.34572,
+         "id": "1149681",
+         "field_search": "question",
+         "question": "Bên thế giới di đông mình có hỗ trợ bẻ khóa iphone 7 không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.266455,
+         "id": "766106",
+         "field_search": "question",
+         "question": "Mình nhặt được 1 chiếc iPhone 5 .. mà mình mở khóa quá nhiều lần nên bây giờ nó hiện báo kết nối itunes... bên thế giới di động mình bẻ khóa được không để mình đi bẻ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.54869,
+         "id": "771936",
+         "field_search": "question",
+         "question": " Bên cửa hàng thế giới di dộng có hỗ trợ gỡ jailbreak không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.288532,
+         "id": "924983",
+         "field_search": "question",
+         "question": " Cho e hỏi bên thế giới di động có thể bẻ khóa tài khoản icloud iphone 4s không vì e quên mật khẩu máy và giá bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.178371,
+         "id": "1153655",
+         "field_search": "question",
+         "question": "Chào ad.cho Mình hỏi Thế Giới Di Động có hỗ trợ cài win 7 cho laptop ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.138515,
+         "id": "1155591",
+         "field_search": "question",
+         "question": "Bên thế giới di động có hỗ trợ dán màn hình cho laptop không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.6419,
+         "id": "1156609",
+         "field_search": "question",
+         "question": "cho e hỏi đt iphone5 của mình bị khóa iclou thì beeb thế giới di động có bẻ khóa không và gia slaf bao nhiêu vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.053934,
+         "id": "1137767",
+         "field_search": "question",
+         "question": " Bên thế giới di động còn hỗ trợ cài ứng dụng tube mate không ạk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.01751,
+         "id": "879682",
+         "field_search": "question",
+         "question": " ad cho hỏi thế giới di đông có lắp sim ghép ko?hiện tại địa điểm mường ẳng điện biên có hỗ trợ lắp sim ghép ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.926073,
+         "id": "1149819",
+         "field_search": "question",
+         "question": "cho mình hỏi thế giới di động có hỗ trợ cài đặt win10 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.382866,
+         "id": "1157482",
+         "field_search": "question",
+         "question": "alocho mình hỏimình muốn bẻ khóa mật khẩu Nokia 3310thì bên mình có hổ trợ ko ạ?.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.255371,
+         "id": "1003924",
+         "field_search": "question",
+         "question": "Cho mình hỏi thế giới di động có hỗ trợ mua game trên apptore không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.167553,
+         "id": "903070",
+         "field_search": "question",
+         "question": " Thế giới di động có hỗ trợ mở tài khoản icloud không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.133268,
+         "id": "1146921",
+         "field_search": "question",
+         "question": "Chào bạn.Cho mình hỏi đt asus mình mua bên thế giới di động,nhưng hiện tại máy đang bị lỗi màn hình cảm ứng,theo mình biết thì thế giới di động không hỗ trợ thay thế màn hình cảm ứng.Vậy cho  mình hỏi co cách nào thế giới di động hỗ trợ mình thay thế không nhỉ?thời gian mất bao lâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.089579,
+         "id": "783083",
+         "field_search": "question",
+         "question": " Bên thế giới di động có hổ trợ jailbreak cho thiết bị iphone không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.616474,
+         "id": "1161101",
+         "field_search": "question",
+         "question": "Thế giới di động có hỗ trợ dán kéo nokia 8.1 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.518366,
+         "id": "1007570",
+         "field_search": "question",
+         "question": "mình mua lại con samsung a9 pro bên  thế giới di động. hôm rồi reset cứng lại giờ không có tài khoản samsung để mở. bên mình hỗ trợ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.355667,
+         "id": "1117063",
+         "field_search": "question",
+         "question": " thế giới di đông có bán laptop ASUSVivoBookFlip14TP412UA không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.26682,
+         "id": "1154030",
+         "field_search": "question",
+         "question": "Thế giới di động mình có hỗ trợ chạy chương trình của laptop k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.099953,
+         "id": "860544",
+         "field_search": "question",
+         "question": " thế giới di động có hỗ trợ cài lại win 10 bản quyền không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.06015,
+         "id": "1023950",
+         "field_search": "question",
+         "question": " em mới mở cửa hàng điện thoại muốn nhập hàng bên thế giới di động có hỗ trợ ko ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.916534,
+         "id": "1159143",
+         "field_search": "question",
+         "question": "cho mình hỏi thế giới di đông ở Kon Tum có bán thẻ funcard không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.718287,
+         "id": "1140573",
+         "field_search": "question",
+         "question": "Bên thế giới di động có hỗ trợ cài bản quyền vĩnh viễn không ah. Máy mới mua còn thời gian bảo hành ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.714993,
+         "id": "1164910",
+         "field_search": "question",
+         "question": "Admin ơi, cho mình hỏi bên thế giới di động có hỗ trợ khách cài đặt app không ạ tại mình không biết cách để cài đặt app Wechat với Weibo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.566656,
+         "id": "922429",
+         "field_search": "question",
+         "question": " thế giới di động còn hỗ trợ cài win miễn phí không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.463242,
+         "id": "1155713",
+         "field_search": "question",
+         "question": "Thế giới di động có hỗ trợ root máy sony Android khong ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.337885,
+         "id": "1010227",
+         "field_search": "question",
+         "question": "máy lenovo s1 up rom bị lỗi không lên nguồn bên thế giới di động có hỗ trợ kỹ thuật về vấn đề này không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.08131,
+         "id": "925586",
+         "field_search": "question",
+         "question": " Ở thế giới di động có hỗ trợ hạ cấp ios 10.1.1 xuống 10.1 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.071735,
+         "id": "781686",
+         "field_search": "question",
+         "question": " Thế giới di động có hỗ trợ khách hàng nâng cấp phiên bản ios 9.2.1 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.943132,
+         "id": "1024327",
+         "field_search": "question",
+         "question": "Cho e hỏi thế giới di động có hỗ trợ lỗi không truy cập được facebook không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.90851,
+         "id": "1155588",
+         "field_search": "question",
+         "question": "Mình mua máy mobell s60 ở thế giới di động, bảo hành còn hơn 10 tháng không có bất kì lỗi nào thì giờ thế giới di động có hỗ trợ mua lại ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.850376,
+         "id": "811550",
+         "field_search": "question",
+         "question": "Cho em hỏi là Thế Giới Di Động có hỗ trợ việc nâng cấp ram cho Laptop không ạ.Em đang dùng máy Dell Inspiron 14 3421RAM có sẵn là 2GB em muốn nâng cấp lên, vậy Thế Giới Di Động có hỗ trợ nâng cấp không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.815205,
+         "id": "1162482",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở thế giới di động có thay pin cho iphone 7 không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.778124,
+         "id": "1008630",
+         "field_search": "question",
+         "question": "cửa hàng thế giới di đông có sửa dieenh thoại kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.721457,
+         "id": "1134909",
+         "field_search": "question",
+         "question": "thế giới di động hiện nay 30/11/2018 có chương trình khuyến mãi hay hỗ trợ cho sinh viên khi mua laptop tại thế giới di động không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.590387,
+         "id": "926007",
+         "field_search": "question",
+         "question": " thế giới di động có hỗ trợ nâng cấp update cho laptop win10 ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.458958,
+         "id": "1160194",
+         "field_search": "question",
+         "question": "cho em hỏi bên Thế giới di động có hỗ trợ khách hàng chạy lại ip khi bị vô hiệu hóa bằng iturn ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.43798,
+         "id": "743990",
+         "field_search": "question",
+         "question": " Admin ơi ! Cho e hỏi bên mình có bẻ khóa iCloud của iPhone 6 ko? Giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.292639,
+         "id": "750505",
+         "field_search": "question",
+         "question": " thế giới di động có hỗ trợ cài game Liên minh miễn phí vào laptop cho em không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.196014,
+         "id": "821172",
+         "field_search": "question",
+         "question": "Mình mua laptop Lenovo G470 tại Thế-giới di động, bây giờ máy bị vỡ vỏ, bên mình có hỗ trợ thay vỏ mới k ạ? Giá là bao nhiêu vậy a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.06704,
+         "id": "1000009",
+         "field_search": "question",
+         "question": "Thế giới di động ở Ấp 3 Xã Tắc Vân có hỗ trợ root máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.05789,
+         "id": "997350",
+         "field_search": "question",
+         "question": "Thế giới di động có thay màn hình iphone 7 plus không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.050575,
+         "id": "1007672",
+         "field_search": "question",
+         "question": "Mình mua laptop tại Thế giới di động. Thời gian gần đây,  màn hình laptop của mình thường bị đổi màu và xuất hiện sọc màu,  bên bạn có hỗ trợ sửa chữa lỗi này không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.006687,
+         "id": "1140065",
+         "field_search": "question",
+         "question": "Bữa trước mình có mua lap ở bên thế giới di động và có mua win bản quyền kèm theo máy luôn. Nhưng đợt trước mình có cài lại win nên giờ nó chưa được Active. Bên bạn có thể hỗ trợ mình không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.99353,
+         "id": "806942",
+         "field_search": "question",
+         "question": "Cho hỏi em đang xài windows 7, em muốn nâng cấp lên windows 10 có activate, cho hỏi thế giới di động có hỗ trợ làm không? Nếu có thì giá khoảng bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.919264,
+         "id": "1137921",
+         "field_search": "question",
+         "question": "Mình quên mất mật khẩu giới hạn trên iphone không restore được bên kĩ thuật có hỗ trợ trường hợp này không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.763298,
+         "id": "781605",
+         "field_search": "question",
+         "question": " Bên thế giới di động mình không thay màn hình iphone 4? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.72392,
+         "id": "790838",
+         "field_search": "question",
+         "question": " Bên thế giới đi động có hỗ trợ chạy lại chương trình cho ip4 ko vậy ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.72371,
+         "id": "1135855",
+         "field_search": "question",
+         "question": "Nokia 5 của mình bị vỡ màn hình, vẫn sử dụng cảm ứng bình thường. máy mình mua từ tháng 9 năm 2017. Cho mình hỏi bên thế giới di động có hỗ trợ thay màn hình không? Giá thế nào? Cám ơn...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.543291,
+         "id": "1022168",
+         "field_search": "question",
+         "question": "em mua máy bên mình mà nhân viên kỹ thuật cài đặt chưa bẻ khóa excel, word với powerpoint. giờ e vào tìm office để bẻ khóa mà không thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.371014,
+         "id": "881839",
+         "field_search": "question",
+         "question": " anh ơi em muốn bẻ khóa win 7 anh hổ trợ em với tại em chư rành về công nghệ cho lắm akkkkkkkkkkk  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.344265,
+         "id": "1001797",
+         "field_search": "question",
+         "question": "Mình muốn thay pin cho điện thoại xiaomi mi4 thế giới di động có hỗ trợ được không ạ .. nếu được thì thay vào khoảng bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.30146,
+         "id": "738942",
+         "field_search": "question",
+         "question": "iPhone xách tay của nhật mang về Việt Nam có nhất thiết phải bẻ khóa không quản trị viên? Nếu không bẻ khóa thì có sử dụng được lâu không? Ở thegioididong.com có bẻ khóa không? Mất khoảng bao lâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.13112,
+         "id": "1003976",
+         "field_search": "question",
+         "question": "Ad ơi ở thế giới Di động có hỗ trợ thay màn hình Samsung galaxy s3 2014 không vậy .và giá bao nhieu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.014877,
+         "id": "1165763",
+         "field_search": "question",
+         "question": "Ở các cửa hàng thế giới di động trên toàn quốc thì có hỗ trợ root máy xiaomi redmi 5 plus không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.002144,
+         "id": "1004631",
+         "field_search": "question",
+         "question": "Chào Thế giới di động, Tôi muốn mua 1 chiếc điện thoại dành cho người cao tuổi, có hỗ trợ video call,Xin hỗ trợ tư vấn,Xin cảm ơn,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.73195,
+         "id": "893939",
+         "field_search": "question",
+         "question": "Cho mình hỏi, thế giới di động bên hỗ trợ kĩ thuật có cài window không ạ? Tại mình cài lại xuống window 7 từ window 8, win 8 khó sài, và mình hỏi một điều là cài window có phí bao nhiêu hay là cài bằng cách crack, tại mình sợ cài window bằng cách có rủi ro cho máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.695492,
+         "id": "1143885",
+         "field_search": "question",
+         "question": "Máy iphone 5 nhà mình mới được tặng mà bị khóa iCloud mà không biết tài khoản mật khẩu và không thể liên lạc được với chủ máy, bên bạn có thể bẻ khóa iCloud giúp mình được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.642857,
+         "id": "997323",
+         "field_search": "question",
+         "question": "EM CÓ MUA GÓP MỘT GALAXY J7 PRIME MÀ BỊ MẤT TRỘM VẬY CO ĐỊNH VỊ LẠI ĐƯỢC KHÔNG VẬY nếu định vị đc bên thế giới di động có hỗ trợ e lấy đt về",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.514061,
+         "id": "1161508",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi . không biết ở thế giới di động có hỗ trợ thay vỏ mới cho samsung j7 pro không ạ . e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.486885,
+         "id": "862845",
+         "field_search": "question",
+         "question": " The giới di động có hỗ trợ hạ cấp máy từ iOS 10 xuống iOS 9.3.3 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.427816,
+         "id": "761004",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6 gold ngày 7/12/2015 ở viễn thông a hôm nay muốn mua con 6s bên thế giới di động vậy bên mình có mua lại máy cũ không và giá cả sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.365204,
+         "id": "1136417",
+         "field_search": "question",
+         "question": "cho mình hỏi cửa hàng thế giới di động có dán cường lực của iphone 7 không?Nếu có thì giá như thế nào ạ?Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.356024,
+         "id": "805254",
+         "field_search": "question",
+         "question": "windows 10 cho laptop ổn định không ah. và bênh thế giới di động có hỗ trợ cài windows 10 bản quyền cho tất cả laptop không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.356024,
+         "id": "744438",
+         "field_search": "question",
+         "question": "Zenphone bị lỗi không thể  bật được wifi, máy em mua qua tay của 1 người khác, có được thế giới di động hỗ trợ không nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.089695,
+         "id": "1153718",
+         "field_search": "question",
+         "question": "iphone 5s giờ không xài được, bên mình có hỗ trợ ko? 0967238973 số đt của mình!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.945938,
+         "id": "766831",
+         "field_search": "question",
+         "question": " Em có thể qua thế giới di đông để có thể nhờ nhân viên kĩ thuật tạo tài khoản ID Apple được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.92073,
+         "id": "916467",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi em quên mã giới hạn trên iphone? Thế giới di động có thể hỗ trợ cài lại giúp em được không ah? Vì máy tính của em ko tải dc itune nên ko làm dc ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.865871,
+         "id": "1022285",
+         "field_search": "question",
+         "question": "CHÀO BẠNCHO MÌNH HỎI BÊN THẾ GIỚI DI ĐỘNG CÓ BÁN BOX TIVI KHÔNG ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.823313,
+         "id": "996089",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại samsung galaxy s5 bên nước ngoài đem về không có hỗ trợ tiếng việt mà em nghe người ta nói đem lên thế giới di động người ta cài sang tiếng việt được .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.80494,
+         "id": "867998",
+         "field_search": "question",
+         "question": "Mình có iphone 5c mua tại thế giới di động tuy nhiên đã hết hạn bảo hành, nay bị hỏng ổ sim và khay sim (Không nhận sim và không lấy khay sim ra được) vậy cho mình hỏi bên bạn hỗ trợ gửi lên hãng fpt sữa được không và phí hết bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.748825,
+         "id": "1016110",
+         "field_search": "question",
+         "question": "mình mua iphone bên thế giới di động mà thấy mã là LLA chứ không phải VNA dạy bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.68487,
+         "id": "765170",
+         "field_search": "question",
+         "question": " Bạn ơi. Cho mình hỏi bên thế giới di động mình có hạ ios không bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.636703,
+         "id": "1003571",
+         "field_search": "question",
+         "question": "máy mình bị vỡ mặt kính góc trái màn hình cho mình hỏi ở thế giới di động có hỗ trợ thay mặt kính ip6 ko và giá thay là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.588919,
+         "id": "996792",
+         "field_search": "question",
+         "question": "Thế giới di động có nhận thay pin ko ạ. Tại thế giới di đông uy tin hàng chất lượng nên muốn thay ở đó. Ra các quán  sợ ko đảm bảo về chất lượng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.57319,
+         "id": "1158788",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động, Mình muốn được tư vấn về iPhone 7 Plus thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.504162,
+         "id": "883116",
+         "field_search": "question",
+         "question": " Mình có iPhone 5 lock nhật muốn biết nó là hàng chính hãng, bên thế giới di động có thể kiểm tra được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.495098,
+         "id": "749162",
+         "field_search": "question",
+         "question": " Cho e hỏi e có ip4s bị khóa mạng ra thế giới di động có mở khóa giúp e không ạ. tks ad  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.387144,
+         "id": "1153423",
+         "field_search": "question",
+         "question": "Mình ko mở được khay sim của iphone 7 plus, có lẽ bị kẹt. Cho mình hỏi Thế giới di động có sửa ko? Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.310978,
+         "id": "830916",
+         "field_search": "question",
+         "question": " bên thế giới di động có nhận thay màn hình của iphone ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.289621,
+         "id": "1011583",
+         "field_search": "question",
+         "question": "Cho hỏi bên thế giới di động của mình face là j . Do mình thấy có 1 số trang face dg chao giải thưởng i phone 7 . Ths ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.280937,
+         "id": "1152329",
+         "field_search": "question",
+         "question": "Bên mình có hỗ trợ jailbread cho ios 12.1.4 không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.274973,
+         "id": "1015785",
+         "field_search": "question",
+         "question": "xin chao cho e hoi thế giới minh có hỗ trợ cho vay tiền mawht không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.260672,
+         "id": "793104",
+         "field_search": "question",
+         "question": " bên TGDD có hỗ trợ hướng dẩn cài đặt smartwacth với iPhone không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.221561,
+         "id": "836408",
+         "field_search": "question",
+         "question": " Hiện tại thế giới đi động có hỗ trợ Hạ từ ios 9.3.2 xuống 9.3.1 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.20869,
+         "id": "1021196",
+         "field_search": "question",
+         "question": "Thế giới di động hỗ trợ onl như... họ rứa ad.nhân viên đang bận khang là sao? Mà cho e hỏi miếng dán màn hình điện thoại ở thế giới di động bảo hành sao z ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.190346,
+         "id": "764802",
+         "field_search": "question",
+         "question": " Ngày mai bên thế giới di động mình mở đợt bán iPhone 5s giá 8.490.000đ hả Ad. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.187445,
+         "id": "994988",
+         "field_search": "question",
+         "question": "Xin cho hỏi , tôi có mua bên cửa hàng thế giới di động một ipad air. bây giờ tôi muốn hỏi bên thế giới di động có thu mua lại ipad air cũ không? Ipad   air này là tôi mua bên thế giới di động. Vì hiện tại tôi muốn mua đổi sang Ipad New 2017 wifi 32G của bên thế giới di động luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.168129,
+         "id": "1160991",
+         "field_search": "question",
+         "question": "Mình có mua macbook ở thế giới di động. Giờ bàn phím bị hỏng, không biết bên mình có sửa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.165474,
+         "id": "1131697",
+         "field_search": "question",
+         "question": "máy samsung của mình bị khôi phục về cài đặt gốc mình bị mất dữ liệu, máy mình kh nhớ rõ địa chỉ email. bên bạn có thể hỗ trợ lại thông tin email cho mình được không (máy mua tại thế giới di động email do nhân viên thiết lập hộ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.110723,
+         "id": "1160446",
+         "field_search": "question",
+         "question": "Bên Thế giới di động có thay pin oppo f1s không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.059284,
+         "id": "1150546",
+         "field_search": "question",
+         "question": "A ơi giúp e với.Chiếc iPhone của e e lỡ quên mật khẩu khóa màn hình. Có cách nào mở được không ạTai khoản icloud thì e vẫn nhớ đầy đủ ạVà ra thế giới đi động có hỗ trợ e k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.04784,
+         "id": "802285",
+         "field_search": "question",
+         "question": "Xin hỏi , thế giới di động có bán iphone 6 của nhật bản phải không , anh mình cũng có mua 1 cái như vậy ở thế giới di động , giá chỉ khoảng 3 triệu mấy à , thế giới di động có bán không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.041618,
+         "id": "960608",
+         "field_search": "question",
+         "question": " Chào a chị bên thế giới di độnge muốn hỏi là bên mình có nhận rết lại máy iphone5s không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.976707,
+         "id": "1023197",
+         "field_search": "question",
+         "question": "Bên thế giới di động còn mua lại đt oppo neo 7 đã qua sdụng khoảng 1 năm ko ạ,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.971478,
+         "id": "911953",
+         "field_search": "question",
+         "question": " làm thế nào để bẻ khóa icloud khi bị lock màn hình vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.97065,
+         "id": "1018810",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi  IPhone 6s bên Thế giới di động có hàng trôi ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.958809,
+         "id": "991887",
+         "field_search": "question",
+         "question": "cho mình hỏi bên cửa hàng có hỗ trợ jailbreak không v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.952423,
+         "id": "1018762",
+         "field_search": "question",
+         "question": "Thế Giới Di Động có bán dây sạc điện thoại Oppo Neo 7 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.935616,
+         "id": "779892",
+         "field_search": "question",
+         "question": " Em mua iphone 6s plus  ở TGDD em muốn tải nhạc chuông vậy bên mình có hỗ trợ không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,809 @@
+{
+   "id_query": "1010447",
+   "total": 31928,
+   "total_current": 100,
+   "max_score": 112.98884,
+   "origin_question": "Sim bùm 3g vina mình mua bên bạn mà h mình làm mất rồi thì mình tới tgdd làm lại hay tới chi nhánh vinafone? Và 3g free 1 năm của mình có còn k?",
+   "hits": [
+      {
+         "score": 112.98884,
+         "id": "1010447",
+         "field_search": "question",
+         "question": "Sim bùm 3g vina mình mua bên bạn mà h mình làm mất rồi thì mình tới tgdd làm lại hay tới chi nhánh vinafone? Và 3g free 1 năm của mình có còn k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.352165,
+         "id": "1008404",
+         "field_search": "question",
+         "question": "bên anh chị có làm lại sim vina bùm ko nhỉ .em mua tại tgdd mà bị mất.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.9547,
+         "id": "686327",
+         "field_search": "question",
+         "question": " mình bật mạng 3g rồi mà k thấy chữ 3g H hoặc H hiện mình phải làm thế nào.điện thoại mình là sony m4 nhá ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.559784,
+         "id": "1010327",
+         "field_search": "question",
+         "question": "mình vừa mất sim bùm  mà thời gian sử dụng còn 3 tháng mình có được cấp lại hay mua thêm sim bùm không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.88849,
+         "id": "1018775",
+         "field_search": "question",
+         "question": "Mình vừa mua 1 chiếc sim vina bùm 150k. Cho mình hỏi sim có 4G không? Sao sim của mình máy vẫn k thấy 4G vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.829525,
+         "id": "1016304",
+         "field_search": "question",
+         "question": "Ngày 24/08/2017 mình co mua 2 cái đt nokia 3 và samsung đập đá mà chỉ mua 1 sim vina bùm giơ mình o thê mua thêm 1 sim vina bùm đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.73699,
+         "id": "1016523",
+         "field_search": "question",
+         "question": "Chào ad ... Cho mình hỏi là mình có mua 1 sim vina và có đưa cmnd cho người bán xác nhận nhưng 1 thời gian sau thẻ sim lại báo mình cần đk lại cmnd nếu ko thì sẽ khóa sim ... Ad làm cách nào để khắc phục giùm mình vì đây là sim thứ 2 mình mua rồi và mình rất bực ... Nếu như chỗ mình gần vina thì mình đã không ghé qua tgdd mua làm gì mà mình qua thẳng bên đó cho tiện rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.455624,
+         "id": "1017735",
+         "field_search": "question",
+         "question": "Trước mình có mua sim bùm xài chưa đc 1 năm. Giờ sim bị hư ko lên sóng được. Tgdd có làm lại cho minh dc ko. Sim số 01226755397",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.261948,
+         "id": "861030",
+         "field_search": "question",
+         "question": "Cho mình hoi máy của mình dang nhắn tin SMS cho bạn mình thì máy chuyển sang nhắn tin FaceTime nhưng tin nhắn không tới bạn mình mà lại tới số lạ khác và mình kiểm tra chi tiết tin nhăn gửi cho bạn trên may mình vân có còn bạn mình thì FaceTime khổng kích hoạt ma tin nhắn vẫn đến số lạ là bị làm sao vậy mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.044704,
+         "id": "839070",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình mua sim vina bùm nano khi lắp vào sim ghép ip 5 lock kddi báo chua cài đặt thẻ sim, khi thao ra lắp vào sim cũ của mình thì lên sóng bình thường là làm sao ạ( sim vina bùm vẫn bình thường(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.967346,
+         "id": "946854",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi khi mình dùng 3g sim vina thì fb messenger không kết nối được còn dùng 3g viettel thì lại kết nối được. Có cách nào khắc phục không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.872128,
+         "id": "1134264",
+         "field_search": "question",
+         "question": "Chào bạn,Mình xài note 9 nhưng mình không biết làm cách nào để chuyển mạng 3g từ sim 1 qua sim 2. Mình ko muốn sử dụng 3g trên sim 1 nhưng nếu mở dữ liệu di động lên để xài sim 2 thì 3g sim 1 vẫn bị tính tiền mặc dù đã hủy gói cước.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.710358,
+         "id": "1010290",
+         "field_search": "question",
+         "question": "mình mới mua sim 3g bên bạn được gần nửa tháng nhưng sao lúc vào  mạng được lúc  yếu k vào được là sao? sim 3g mà k vào nổi mạng ...thất vọng qá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.69718,
+         "id": "987153",
+         "field_search": "question",
+         "question": "Mình đang xài sim vina bùm, chưa được 1 tháng nhưng đã xài hết 2.5 gb lưu lượng, nếu tiếp tục sử dụng 3g thì trừ vào tk góc hay sao ạ? Và nếu muốn tiếp tục có lưu lượng thì như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.458252,
+         "id": "1134917",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có mua oppo f9 ở bên tgdd dc gần 3 tháng mà bh máy có hiện tượng đơ mh mà mình dùng k hề làm rơi hay tác động nào tới máy vậy bên tgdd có xử lí được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.65633,
+         "id": "1006535",
+         "field_search": "question",
+         "question": "Cho e hỏi bên mình có chính sách thu mua lại máy cũ k ạ !Hiện e có đang dùng máy Sony Xperia XA hàng chính hãng còn bảo hành tới 05/11/2017.Nếu bên mình có thu mua lại thì e đem ra chi nhánh để đc định giá ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.634525,
+         "id": "1005430",
+         "field_search": "question",
+         "question": "Mình mới mua điện thoại j5 prime được 15 ngày. Mà sao điện thoại mình để qua đêm từ 11 giờ tới 6h sáng k bật wifi 3g mà xuống tới 16% pin lận vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.453384,
+         "id": "1007434",
+         "field_search": "question",
+         "question": "Hôm nay mình có ra mua một cáp chuyển đổi của bên mình nhưng mua nhầm sang loại dùng cho loa ngoài, giờ mình muốn đổi lại sang loại dùng cho máy tính thì có đổi được không? Với chi nhánh mua và chi nhánh đổi có bắt buộc phải cùng chỗ không? Vì mình check thì chỗ mình mua lại không còn mà chỗ khác thì còn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.985298,
+         "id": "1022406",
+         "field_search": "question",
+         "question": "cho em hỏi em làm mất sim 3g mua ở TGDD vậy em có thể làm lại ko ạ? và mất bao lâu và phí như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.541594,
+         "id": "1155760",
+         "field_search": "question",
+         "question": "Chào các bạn bên tgđ, mình muốn đặt điện thoại mà mình k thể thanh toán online, mình có Internetbanking không biết có thể chuyển khoản trực tiếp tới tgdd k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.487911,
+         "id": "1021506",
+         "field_search": "question",
+         "question": "E mới mua con dt tại điện máy xanh..mak xài k hài lòng muốn đem đổi trả.cho hỏi phải đem tới chổ mình mua hay tại chi nhánh tgdd nào kung dk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.38356,
+         "id": "1017600",
+         "field_search": "question",
+         "question": "ad cho mình hỏi..mình mua máy ở tgdđ dc khoảng 3 tháng. v còn ưu đãi mua sim vina bùm ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.341856,
+         "id": "998182",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, mình đang xài sim viettel và cài dịch vụ mimax 3G. Giờ mình định đổi sang sim 4G viettel thì có bị mất dịch vụ mimax và phải bỏ tiền đăng ký lại cho sim 4G k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.284721,
+         "id": "1161108",
+         "field_search": "question",
+         "question": "Bên tgdd mk ko còn bán sim vina 4g 250k dùng trog 1 năm ko . Mk đang có nhu cầu mua sim đó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.205418,
+         "id": "1001402",
+         "field_search": "question",
+         "question": "Hiện tại mình đang sử dụng sim 3g của viettel. Nếu mình muốn đổi sang sim 4g. Lúc đến TGDD mình có cần mang theo những gì ko ạ? Và lúc đổi sim dữ liệu sim của mình có bị mất không ? Cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.126057,
+         "id": "1158382",
+         "field_search": "question",
+         "question": "Cho mình hỏi cái ? nếu mình đặt mua trên web thegioididong thì nếu muốn bảo hành đổi trả gì thì mình tới chi nhánh tại nơi mình sống có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.101667,
+         "id": "1023901",
+         "field_search": "question",
+         "question": "Tại sao máy ss j5 2016 mình dùng 2 sim. 1 sim gọi và 1 sim 3g. Nhưng đang dùng 3g thì có cuộc gọi dénd hoặc gọi đi thì máy báo mất kết nối mạng ở sim 3g nhỉ. Add có cachs nào chỉ giúp mìn với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.004944,
+         "id": "1014992",
+         "field_search": "question",
+         "question": "Mình muốn mua sim vina Bum50 của TGDD co máy điện thoại của mình mua 12 tháng rồi tại TGDD có được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.817081,
+         "id": "806589",
+         "field_search": "question",
+         "question": " Mình xài iphone4s nhưng đã cập nhật tới iOS 9.3 rồi mà mình mất mật khẩu giới hạn giờ phải làm sao?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.760267,
+         "id": "986012",
+         "field_search": "question",
+         "question": "Cho hỏi .  TGDD có bán sim 3G MoBi không giới hạn dung lượng 1 năm k .  Và Giá là bao nhiêu ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.745455,
+         "id": "1164424",
+         "field_search": "question",
+         "question": "Bạn ơi mình vào khôi phục tin nhắn trên zalo mà sao khi mình kiếm tra lại thì một số tin nhắn mới gửi tới lại bị mất luôn nhỉ? Hay do mình quên sao lưu. Bạn bày cách giúp mình với dc k? Thank bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.704353,
+         "id": "1012480",
+         "field_search": "question",
+         "question": "Cho e hoi luc truoc e co mua 1 may f1s nhung chua mua sim km vina 3g 1 năm bjo e co the đến cửa hang mua dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.626343,
+         "id": "1152944",
+         "field_search": "question",
+         "question": "bên mình có sim vina miễn phí gọi nội mang 1 năm ko????? giá bao nhieu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.548649,
+         "id": "1000548",
+         "field_search": "question",
+         "question": "Cách đây 1 năm mình có mua bên tgdd 1 chiếc sim để vào mạng 1 năm đến bây giờ đã hết hạn và mình muốn đăng kí lại có được ko ? Sđt là 01298691623",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.44794,
+         "id": "967223",
+         "field_search": "question",
+         "question": "Mình có một người bạn bị mất mk zalo,bạn ấy nhờ mình lấy lại mk zalo cho bạn ấy nhưng mà bằng điện thoại của mình vì điện thoại bạn ấy bị hỏng,vậy cho mình hỏi khi có tin nhắn mã xác nhận zalo thì mã đó được gửi tới điện thoại của mình hay của bạn đó,mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.424711,
+         "id": "1022878",
+         "field_search": "question",
+         "question": "mình có mua 1 loa bluetooth heo hồng hồi tháng 3 , bây h sao bị hư cáp sạc rồi , bây h cắm vô ko sạc dc nữa . trước mua mấy chị nv có nói bh 1 đổi 1 đúng ko ? bây h mình đem ra chi nhánh trước mình mau thì có đổi cho mình ko ạ ? mong tgdd phản hồi sớm giúp mình nhé . cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.353172,
+         "id": "1157495",
+         "field_search": "question",
+         "question": "mình có mua dell inspiron 7460 còn bảo hành. cho mình hỏi là pin bị chai thì mang tới bên mình bảo hành cho ạ. nếu thay pin có mất phí k. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.279728,
+         "id": "756908",
+         "field_search": "question",
+         "question": "Chào TGDĐ em đã tới 1 số chi nhánh khu vực Tân Bình - Phú Nhuận thì báo mẫu ốp lưng Cococ Stylish ( Đen ) này đã hếtNhưng phía chi nhánh Lê Đức Thọ thì còn 3 cái, không biết là admin có thể kiểm tra giúp em chi nhánh đó còn mẫu màu đen không ạ ? tại nhà em hơi xa nếu chạy tới chi nhanh mà không có thi chết em mất T_TCảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.235052,
+         "id": "1138168",
+         "field_search": "question",
+         "question": "Cho mình hỏi j5 prime đang bt tự nhiên sập nguồn rồi bật không lên nữa thì bị làm sao ạ, mà máy mình mới mua bên TGDD cách đây 1 năm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.23496,
+         "id": "1151216",
+         "field_search": "question",
+         "question": "Mình có mua sp oppo f9 bên tgdd tháng 10 năm ngoái h máy có những lỗi này bên bạn có bảo hành khắc phục k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.171322,
+         "id": "999317",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi, mình có mua Sim Bùm Vina 150k, Đk phát sinh sms/call trong tháng là phát sinh cước hay sao ạ? mình phát sinh SMS, call (đã được tặng miễn phí trên Sim) có được không ạ? Lúc mua tháng 5 và hỏi chị nhân viên thì bảo đấy là sim 4G rồi, nhưng  sao mình bỏ sim vào ĐT 4G vẫn chỉ hiện là 3G ạ (điện thoại hổ trợ 4G,thao tác cài đặt  đúng hết) ? mong admin hồi âm sớm ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.120745,
+         "id": "995420",
+         "field_search": "question",
+         "question": "Mình muốn mua onl thì bên tgdd sẽ giao hàng tại địa chỉ hay mình phải tới kho đó lấy hàng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.815205,
+         "id": "745204",
+         "field_search": "question",
+         "question": "Mình vừa mất điện thoại iPhone 5 vào ngày 21/11/2015, nay muốn tìm lại nó, vui lòng giúp mình với! Trước khi mất trong máy có sẵn sim 3G đang bật, và hiện tại, mình vẫn còn lưu lại số seri của máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.805128,
+         "id": "876275",
+         "field_search": "question",
+         "question": "Cho mình hỏi: cả nhà mình bố mẹ và mình đều dùng chung 1 tk icloud, mỗi khi máy mình có cuộc gọi nhỡ của bạn mình gọi tới thì cả máy bố và mẹ mình đều hiện số của bạn mình và ngược lại. Cho hỏi làm sao để tắt chức năng này đc ạ? Cảm ơn ad và mọi người nha!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.801899,
+         "id": "1014167",
+         "field_search": "question",
+         "question": "Cửa hàng còn bán sim vina bùm không ạ?Có phải mua bất cứ điện thoại nào cũng đều có thể mua sim vina bùm không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.69268,
+         "id": "934501",
+         "field_search": "question",
+         "question": "Iphone 7 của mình đang dùng bình thường thì bị mất 3g, mình đã tắt và bật lại,cài đặt lại mạng, khởi động lại máy đều không được,phai làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.668797,
+         "id": "1008264",
+         "field_search": "question",
+         "question": " Sim bùm vina hiển thị tốc độ mạng 4g hay h vậy. Em dùng oppo f1s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.419865,
+         "id": "928448",
+         "field_search": "question",
+         "question": "Admin . Cho mình hỏi xí . Mình đang dùng iphone 4. Máy mình đang bị lổi là .\" Tắt mạng 3g đi thì có cột sống ,nghe gọi bth. Còn bật mạng 3g lên thì mất cột sống luôn,ko nghe gọi đc , chỉ duy còn chử 3G , vô mạng bthuong\" . Mình ko bt lỗi sao luôn . Giờ 1 là dùng 3 g thì mất nghe gọi , mà nghe gọi thì ko dùng đc 3G . Mong Ad giúp mình với. Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.25605,
+         "id": "1159579",
+         "field_search": "question",
+         "question": "Mình sử dụng 2 sim tren máy mobistar. 1 sim mobi và 1 sim vina. Có cài chế độ chờ. Nhưng nếu gọi sim mobi mà có cuộc gọi là mobi gọi đến thì có báo. Còn sim vina gọi đến thì tút..tút..Ngược lại sim vina đang gọi mà có cuộc gọi vina đến thì báo có cuộc gọi đến, còn sim mobi gọi đến thì tút..tút. Nhờ nv kĩ thuật hướng dẫn dùm minh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.193068,
+         "id": "786848",
+         "field_search": "question",
+         "question": "Xin chào Thế Giới Di Động,Mình có IPhone 5s mua tại bên bạn được hơn 1 năm, gần đây mình update lên iOS 9.2.1 thì chỉ bật được lên sóng 2G, cứ ON 3G lên là báo no service, bên bạn có thể cho mình biết nguyên nhân và cách khắc phục được ko?Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.062521,
+         "id": "1011346",
+         "field_search": "question",
+         "question": "cho mình hỏiMình có mang máy đi sửa và họ thay phần cứng icolud của mình bị mất mình ko bật lại đc máy bên bạn có cách nào khắc phục hộ mình không,H máy mình không làm đc j hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.024813,
+         "id": "1166511",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có chiếc xiaomi note 6 pro còn bảo hành tới 20 tháng 7 năm 2020 giờ nếu đổi trả thì mất bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.982758,
+         "id": "1010015",
+         "field_search": "question",
+         "question": "Sim nge gọi có 3g vina phone loại 75k, 120k và 300k sd 3g sẽ như thế nào ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.936886,
+         "id": "1006341",
+         "field_search": "question",
+         "question": "Em đang dùng máy sony xa. Hiện đang dùng sim vina. Mỗi khi bật dữ liệu di động thì k hiện 3g hay h+ gì đó. Phải bật tắt chế độ máy bay mới hiện. Qua đêm lại trở lại trạng thái như đầu. Giờ cũng chỉ hiện đc 3g chứ k phải h+  mong ad trả lời giúp 2 câu hỏi trên và cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.921097,
+         "id": "996506",
+         "field_search": "question",
+         "question": "Tôi có mua 1 sim bùm vina data ở tgdd, sao mới dùng được 4,5 tháng nmà lại bị cắt mạng di động vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.794489,
+         "id": "999553",
+         "field_search": "question",
+         "question": "Bạn ơi cho hỏi, mình mua dt tgdd ở chỗ này mà bảo hành bị lỗi ở chỗ khác được ko. ĐT mình còn bảo hành tới 31/7/2017. mà dt mình mua cũ nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.675861,
+         "id": "1006167",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi bên mình có USB 3g để bỏ sim dùng cho máy tính latop ko ah? nếu có giá bao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.606558,
+         "id": "1017077",
+         "field_search": "question",
+         "question": "Vợ mình vừa mua con oppo F3 mới tinh. Nhưng mình thử chơi game lỗi kinh khủng.  Vừa vào game thì lỗi. Bị ddis ra. Rồi sim2 vina k bắt được 3g nghĩa là sao???????.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.428963,
+         "id": "988845",
+         "field_search": "question",
+         "question": "bạn mình mới mua cho mình tai nghe có cái hộp xoắn dây vô cho khỏi bị rối, mà mình làm mất cái hộp rồi, bên bạn có bán cái hộp không không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.417948,
+         "id": "1003990",
+         "field_search": "question",
+         "question": "Cho hỏi mình muốn mua sim nghe gọi 3g .là học sinh thì cước 3g sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.404163,
+         "id": "1160159",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình mua máy laptop ở tgdd được hơn 1 năm rồi (hết bảo hành ) ,có đợt mình bị lỗi win và nhờ bạn cài win khác không bản quyền ,giờ mình còn cài lại được bản win lúc trước không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.351883,
+         "id": "1146230",
+         "field_search": "question",
+         "question": "cho minh hỏi ip8+ của mình chỉ hiện mỗi chữ 3g không hiện 4g hay lte gì hếtphiên bản ios 11.4.1 làm sao để hiện hay do sim và máy ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.26497,
+         "id": "1144418",
+         "field_search": "question",
+         "question": "Mình đang sài samsung j6+ mạng vina ( đã đăng kí 3g ) nhưng mình không mở mạng lên được .mở lên được thì lúc sài được lúc thì không.đôi khi lên chữ \"h\" ( h+ thì sài được ) còn h bình thường vân không sài được luôn ạ trung tâm hỗ trợ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.225325,
+         "id": "991723",
+         "field_search": "question",
+         "question": "Admin cho em hỏi,mình mới mua sim Vina Bum 150k,,e bảo chị ấy 4G cho e mà chị nhân viên ns Sim này la sim 4G va trên mặt sim cũng ghi 4G speed,,,nhưng khi bỏ vào đt 4G thì chỉ là H+ 3G ạ? Vay la sao a,,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.178259,
+         "id": "1155711",
+         "field_search": "question",
+         "question": "mình được tặng 1 dt real me 2 3g màu đen mua ở tgdd ngày 22/1/2019 nhưng k có sạc cáp hoặc hộp. mình có thể đổi trả lại được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.152803,
+         "id": "1009446",
+         "field_search": "question",
+         "question": "Sim 3g vina phone 75000 gia hạn 30000 1 tháng sd hết 3gb data có còn truy cập đc nữa ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.082546,
+         "id": "774457",
+         "field_search": "question",
+         "question": "Em bị mất iPhone 6. Máy em có dùng tài khoản iCloud và mật khẩu mở máy, nhưng em lại không bật 3g. Em có đi làm lại sim rồi. Em có bật tìm ip rôi, giờ em làm sao để có thể lấy lại được máy mình không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.946774,
+         "id": "927774",
+         "field_search": "question",
+         "question": " Shop cho mình hỏi mình muốn chạy mạng 3g cho laptop A540 thì mình phải mua thêm usb 3g phải k ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.866798,
+         "id": "770163",
+         "field_search": "question",
+         "question": "Mình bị mất iPhone 5 nhưng mình không bật 3G bây giờ mình làm thế nào để khóa máy đây liệu tên đó có mở được khóa và dùng máy của mình được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.820684,
+         "id": "1134660",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi bên mình còn điện thoại oppo A83 Ram 3G k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.809385,
+         "id": "1006934",
+         "field_search": "question",
+         "question": "em vừa mua sim vina bùm 250k ở TGDD kich hoat xong rồi xài dc mạng nhưng sao mạng tốc độ cao lại yếu thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.71968,
+         "id": "1014984",
+         "field_search": "question",
+         "question": "cho mình hỏi . mình muốn mua sim bên tgdd , bên bạn có đăng ký sim luôn hộ được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.713387,
+         "id": "870617",
+         "field_search": "question",
+         "question": "mình có mua sản phẩm laptop bên TGDD kh biết bên TGDD có hổ trợ cài đặt autocad cho laptop của mình đc không, mình mua được 3 năm rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.685846,
+         "id": "1011696",
+         "field_search": "question",
+         "question": "- mình dùng máy sony xperia xa khi lắp 2 sim vào cài đặt mạng chỉ dùng được ở 1 sim. tắt 3g ở sim 1 bặt 3g sim 2 nhưng nó vẫn lên 3g ở sim 1 là sao. - Làm sao để cài đặt giới hạn cuộc gọi dưới 10 phút ở máy sony xperai XA",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.644613,
+         "id": "996275",
+         "field_search": "question",
+         "question": "mình mua sim bùm hơn một tháng mà chưa kích hoạt. bây giờ gọi hay nhắn tin đều báo \" số máy bị chặn\" vậy sim này còn dùng được nữa k ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.623037,
+         "id": "1159463",
+         "field_search": "question",
+         "question": "Mình có mua 1 điện thoại Mobistar s2 dual tại TGDD minh khai năm ngoái. Điện thoại mình đg bị hỏng microphone thu. Mình vẫn còn tin nhắn bảo hành từ lúc mua máy. Giờ vẫn trong thời gian bảo hành. Nhưng giấy tờ lúc mua máy mình làm mất rồi. Vậy thì muốn hỏi TGDD là:+ Mình có thể bảo hành máy không ?+ Nếu vẫn được thì giờ mang máy ra chỗ mình đã mua, hay tại TGDD gần nhà cũng được?+ Mình sửa microphone đc bảo hành miễn phí hay mất phí?Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.594717,
+         "id": "1150559",
+         "field_search": "question",
+         "question": "mình có mua 1 máy Dell bên tgdd, mà máy k có ssd, mình mua ssd bên ngoài r đem lại cho tgdd lắp vào dùm mình được không v?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.543453,
+         "id": "863770",
+         "field_search": "question",
+         "question": " làm ntn nào để lấy lại mk zalo ,mà sim đk là sim 3g ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.510529,
+         "id": "1135495",
+         "field_search": "question",
+         "question": "mình mua máy được hơn 1 năm rồi và giờ mình có nhu cầu chạy cài lại window nhưng mình không thấy product key window của máy mình ở đâu hết mong AD chi mình biết nó ở đâu ạSĐT : 0834017530",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.50904,
+         "id": "1007306",
+         "field_search": "question",
+         "question": "mình mua ip7 tại tgdd cũng được 1 tháng.mấy ngày hôm nay, cứ để đt từ tối tới sáng là bị tụt mất 10-12% pin.vậy có phải pin đt mình bị lỗi rồi ko? mình đã tắt hết các app và để chế độ tiết kiệm pin rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.452215,
+         "id": "871203",
+         "field_search": "question",
+         "question": " mình mua iphone 5s bỏ sim vina bùm nhưng bỏ vào mạng hiện chữ E truy cập mạng rất chậm? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.397503,
+         "id": "1009853",
+         "field_search": "question",
+         "question": "Sim 3g vina phone 75000 gia hạn 30000 1 tháng sd hết 3gb data sẽ hạ băng thông xuống còn bn ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.3187,
+         "id": "1022106",
+         "field_search": "question",
+         "question": "cho mình hỏi, mình óc mua 1 con acer aspire e5 573g bên tgdd, h nó bị hư 1 cái phím này, cho mình hỏi bên tgdd có thể thay cho mình phím đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.246758,
+         "id": "1133931",
+         "field_search": "question",
+         "question": "Galaxy Tab E bật mạng k hiện H tắt đi khởi động lại cũng k được ? Sim mua thế giới di động 1 năm vẫn còn mạng mà tại sao k hiện H",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.200447,
+         "id": "1143152",
+         "field_search": "question",
+         "question": "Mình bị mất điện thoại ngày 5/1/2019 và bản sao lưu trên itunes của mình từ ngày 20/11/2018 cơ. Tuy nhiên trên Apple Watch của mình vẫn còn tin nhắn và ảnh tới lúc mình mất điện thoại cơ. Vậy mình có thể lấy lại tin nhắn và ảnh từ Apple Watch sang điện thoại mới được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.179539,
+         "id": "1140801",
+         "field_search": "question",
+         "question": "Cho mình hỏi 2 tháng trước mình mua máy ở tgdd bây giờ mình mua sim bùm có được giảm giá không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.129171,
+         "id": "1006285",
+         "field_search": "question",
+         "question": "Mình mua điện thoại mobistar được vài tháng thôi . Nhưng sài chỉ được gần 1 tháng điện thoại ko nhận được sim 1 nữa thì mình ra thế giới di động bên kỹ thuật hỏi thì nói là gửi lên bảo hành sẽ bị mất phí , vậy tại sao bói bào hành máy cho mình 1 năm , mình ko làm gì hết tự nó nhận sim không được thì tại sao mình lại bị mất phí .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.119337,
+         "id": "828951",
+         "field_search": "question",
+         "question": "Sao mình đăng nhập ko được hom qua mình dùng wifi ko được nên chuyển sang 3g và đăng nhập được hôm nay đăng xuất ra rồi vào lại bằng wifi hay 3g đều ko được wifi nhà mình là VNPT",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.101336,
+         "id": "1018593",
+         "field_search": "question",
+         "question": "Ở TGDD có hỗ trợ cắt sim hoặc đổi sim nano không vậy? Vì mình cò mua dthoai ở TGDD . Mà h mình đổi sim khác nhưng to quá. Đút vào k vừa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.088884,
+         "id": "1001554",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên tgdd có mua đt cũ lại k .lúc trước mình mua ở tgdd mà giờ mất hóa đơn rùi .máy sonyT2 utra .với lại cho mình bjt giá lun đc k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.069727,
+         "id": "1017964",
+         "field_search": "question",
+         "question": "Em bị mất điện thoại . Vì sim số đẹp nên em muốn làm lại. Ở chi nhánh Bình Chánh có hỗ trợ làm lại sim không ạ ? Nếu có thì cần như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.039604,
+         "id": "1002930",
+         "field_search": "question",
+         "question": "Cho mình hỏi, máy mình là samsung galaxy j2. Từ lúc mua tới giờ mình không thể gọi video qua mess hay zalo đc, mỗi lần gọi video đều bị mất mạng, mất cả sóng đt vì mình xài 3g. Trong khi đó cùng loại nhưng máy bạn mình lại có thể gọi video bình thường. Ngoài ra tất cả đều sử dụng được bình thường. Vậy tại sao và phải khắc phục nó như thế nào để mình có thể gọi video bình thường? Cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.006992,
+         "id": "1006289",
+         "field_search": "question",
+         "question": "Mình mua điện thoại mobistar được vài tháng thôi . Nhưng sài chỉ được gần 1 tháng điện thoại ko nhận được sim 1 nữa thì mình ra thế giới di động bên kỹ thuật hỏi thì nói là gửi lên bảo hành sẽ bị mất phí , vậy tại sao nói bảo hành máy cho mình 1 năm , mình ko làm gì hết tự nó nhận sim không được thì tại sao mình lại bị mất phí .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.98311,
+         "id": "1000618",
+         "field_search": "question",
+         "question": "E mún tư vấn về lợi ích của sim vina data bùm, tổng dung lượng x12 tháng là bao nhiu , mua online hay tại tgdd lợi hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.970057,
+         "id": "1006699",
+         "field_search": "question",
+         "question": "Điện thoại sony XA của mình k phát đc loa ngoài. Chuông cuộc gọi tới và chuông báo thức k kêu. Mình khởi động lại thì bình thường 1 ngày lại bị lại. Hình như cứ sạc điện thoại là bị như thế. Giờ phải làm ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.941177,
+         "id": "1155648",
+         "field_search": "question",
+         "question": "mình có mua laptop  bên TGDD , mình bị mất win 10, bên bạn có hỗ trợ cài win 10 lại không ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.873003,
+         "id": "788770",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 5lock nhật dùng sim ghép bên mình có fix lỗi 3g và kiêm tra tài khoản và lỗi phải có thêm +84 mới gọi được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.870384,
+         "id": "896138",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình vào trang chủ khôi phục tk iCloud thấy báo đang chờ xử lý mất vài ngày và sẻ được gửi đến số đt mà mình cung cấp như thế chỉ việc chờ thôi là được ạ. Do vợ chồng mình dung chung tk iCloud mà mình đăng xuất rồi còn ck mình thì chưa. Máy ck mình mới mua ở bên bạn 6 Plus như vậy chờ khôi phục nó có ảnh hưởng gì tới máy không, mà thấy báo chỉ máy mình mới dùng xác minh (iPhone 5) tk còn máy 6 plus ck mình thì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.796371,
+         "id": "1143684",
+         "field_search": "question",
+         "question": "usb 3g khác gì usb phát wifi? laptop acer windown 10 muốn xài 3g thì mua mobi,vina...gì cũng đc hay sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.776993,
+         "id": "1006630",
+         "field_search": "question",
+         "question": "em vua mua sim 3g vina bum 01257440704 ma sao ko sài dc vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

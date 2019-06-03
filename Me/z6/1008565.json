@@ -1,0 +1,809 @@
+{
+   "id_query": "1008565",
+   "total": 31086,
+   "total_current": 100,
+   "max_score": 98.21478,
+   "origin_question": "E mua j7 đc 2 tháng dùng thấy vào face xem ảnh có lúc đơ chơi liên quân giật . E đã đổi 1 lần ùi giờ đổi nữa đc ko ạ",
+   "hits": [
+      {
+         "score": 98.21478,
+         "id": "1008565",
+         "field_search": "question",
+         "question": "E mua j7 đc 2 tháng dùng thấy vào face xem ảnh có lúc đơ chơi liên quân giật . E đã đổi 1 lần ùi giờ đổi nữa đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.79994,
+         "id": "1142801",
+         "field_search": "question",
+         "question": "E vừa mua con vivo v11i đc gần 2 tháng dùng cảm giác nó đơ k đc mượt giờ e muốn đổi sang ss a7 mất phí là bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.691223,
+         "id": "1159616",
+         "field_search": "question",
+         "question": "Cho em hỏi...e mua A50 khi chơi liên quân bằng 4g hay bị giật lag ping rất cao không thể chơi được.trong khi vẫn lướt web xem phim bằng 4G bình thường.e cũng đã thử chuyển đổi sang mạng khác nhưng vẫn bị giật lag khi chơi liên quân",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.485348,
+         "id": "1002725",
+         "field_search": "question",
+         "question": "e mới mua j7 pr tgdd đc 2 tháng.e trả góp 4 tháng nhung trả đc 2 tháng rồi.giờ em muốn đổi sang xài iphon z e có đc đổi hay k.nếu đc thì e đổi tính phí như thế nào.mong anh chị tư vấn giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.481632,
+         "id": "1134861",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình mua trả góp đt samsung j4 đc khoảng 1 tuần nhưng về dùng thấy đơ đơ. Mình có thể đổi đc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.316566,
+         "id": "998129",
+         "field_search": "question",
+         "question": "E mua góp samsung j7 prime .và góp đc 1 tháng r .giờ e muốn đổi đt khác thì fai làm sao vậy ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.113564,
+         "id": "1022620",
+         "field_search": "question",
+         "question": "Laptop của e lúc mua về đc gần 1 tháng bắt đầu có dấu hiệu bắt đc wifi nhưng không vào đc mạng. Lúc đó em có xem trên đây nhiều ng bảo vào cái Lan Setting trong cài đặt của chrome rồi bỏ chọn cái proxy đi, và vào mạng như bình thường. Dùng đến bây giờ là đc 6 tháng e vẫn liên tục làm như vậy mới vào đc mạng. Tự nhiên 2 hôm nay vào setting, phần Lan Setting bị mờ đi và có dòng \"Some settings are managed by your system administrator\". Làm e không chỉnh đc để vào mạng đc nữa. E đã cài lại driver mạng, đổi IP từ auto sang tự điền, vẫn không được. Có bác nào có cao kiến gì không giúp em với ạ. Điện thoại vẫn dùng wifi bình thường đc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.631752,
+         "id": "1136781",
+         "field_search": "question",
+         "question": " E có mua 1 cái điện thoại trả góp được 2 tháng giờ e muốn đổi lại điện thoại khác ở cửa hàng đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.531303,
+         "id": "1147929",
+         "field_search": "question",
+         "question": "Dạ e mới mua j6 đc 2 tuần .giờ e muốn đổi lên j6 và thêm tiền đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.966858,
+         "id": "1165791",
+         "field_search": "question",
+         "question": "E mua máy f9 trả góp đc 2 tháng rùi giờ e muốn đổi máy f9 phụ thêm tiền lấy máy oppo f11 có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.812304,
+         "id": "1157723",
+         "field_search": "question",
+         "question": "Mình mua đt samsung galaxy A50 bản 64G đc 1 tuần, màn hình bị giật giật rồi tự động tắt, double tap 2 lần ko lên (chờ khoảng 5 giây mới lên). Bị khoảng 5 6 lần trong 1 ngày. Vậy mình có đc áp dụng 1 đổi 1 ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.709288,
+         "id": "1003841",
+         "field_search": "question",
+         "question": "a chị cho e hỏi đt w e10 chơi đc liên quân cf mobile được k có giật lag  k e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.574192,
+         "id": "1158732",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi. Đt e mua đc 1 tháng 10 ngày, Giờ bị lỗi camera và lỗi vân tay thì e có được 1 đổi 1 ko ạ iphone 6s plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.502167,
+         "id": "1167956",
+         "field_search": "question",
+         "question": "Cho e hỏi e mua con realmi 2 đc 6 ngày e đổi realme 3 đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.906414,
+         "id": "1152779",
+         "field_search": "question",
+         "question": "Xin chào mnE mới mua 1 con huawei y7 pro 2019 mới mua thì chơi liên quân bt mà sài khoản nữa tháng e thấy nó bị chậm lại khoản 2 giây mà WiFi full thằng kế bên vẫn bình thường mà sau e bị khựng lại ko biết có phải do máy ko e xin giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.873564,
+         "id": "1159173",
+         "field_search": "question",
+         "question": "Ss A50 e lâu lâu mở máy bị tối màn hình và giật giật như tivi bị lỗi giờ ra tgdd xem mà nó ko bị gì thì e có thể đổi lại máy a50 khác đc ko ? Hiện e đag trả góp chưa đc 10 ngày",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.495693,
+         "id": "1021010",
+         "field_search": "question",
+         "question": "Đth nokia 3 em mua chưa đc 1 tháng nhưng nó bị sập nguồn ko kở lên đc 2 lần rồi , máy em nó cũng bị nứt màn hình rồi nên ko đổi đc cái mới đúng ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.445265,
+         "id": "1153953",
+         "field_search": "question",
+         "question": "Là 1 tín đồ samsung. Tuần trước e mua 1 chiếc samsung m20. Trong 1 tuần sử dụng e thấy k hài lòng lắm vì đã đổi máy 1 lần (vì lỗi máy) . hiện e k muốn sử dụng nữa máy ss m20 nữa nên e muốn đổi lại 1 sản phẩm samsung khác bằng tiền hoặc cao hơn đc k. Và e có bị mất phí gì k ạ. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.224676,
+         "id": "987678",
+         "field_search": "question",
+         "question": "e mới mua 1 chiếc điện thoại dùng đc gần 1 tháng bjo e muốn đổi máy khác thì phải chịu phí bn ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.819908,
+         "id": "805595",
+         "field_search": "question",
+         "question": "E ms mua dây sạc ip5 trong tgdd. Hnay trong lúc sạc e có chạm vào đt thì bị giật.ko giật quá mạnh nhưng cũng ko phải là hơi tê tê. Cho e hỏi có phải do sạc ko và có đc đổi trả ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.813381,
+         "id": "1012835",
+         "field_search": "question",
+         "question": "Chào shop. Cho e hỏi nếu e mua 1 sp trị giá 20tr. Và sau 1 time sử dụng e muốn đổi 1 sp và chịu phí 20% nhưng e có được đổi sp giá thấp hơn sp đổi ko ạ? Ví dụ e mua samsung s7 edge 15tr490k. E đổi chịu phí 20%. Còn 12tr392k. E đổi xuống j7 pro 6tr990k. Như vậy có đc ko ạ? E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.74451,
+         "id": "988085",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em ip6s plus mới mua đc 2 hôm sao lúc chơi liên quân lại bị lag máy nhiều ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.70443,
+         "id": "1136494",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua máy redmi6 cách đây 1 tháng giờ sạc của em không vào nữa thì có được đổi sạc mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.552765,
+         "id": "1022067",
+         "field_search": "question",
+         "question": "e mua s8+ trả góp tại tgdd mà chưa đc 1 tháng bây giờ em muốn đổi qua ip7plus dc k ạ và đổi qua thì như thế nào vậy bác hướng dẫn giùm e đc k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.52237,
+         "id": "1149162",
+         "field_search": "question",
+         "question": "Cho e hỏi e sài xiao mi 8 lite khi e chơi game liên quân bupg thì bị quang cáo liên tục trong lúc chơi ad có cách khắc phục tắc hết quãng cáo đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.508091,
+         "id": "998220",
+         "field_search": "question",
+         "question": " Làm sao để thay đổi chủ đề màn hình khoá vậy ad? Lúc trước thấy có mục chủ đề, vào đó đổi đc, h không thấy đâu nữa ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.469122,
+         "id": "1001520",
+         "field_search": "question",
+         "question": "E mới mua đt J7 Prime cỡ 1 tháng. Lúc mua có dán mặt trước sau của đt luôn. Giờ e có thể dán lại mặt sau đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.356403,
+         "id": "1020935",
+         "field_search": "question",
+         "question": "E đã mua 1 củdây cáp ở thế giới di độngMấy hôm nay sạc tự nhiên ko đcLiệu e có đc đổi cái khác ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.244034,
+         "id": "994663",
+         "field_search": "question",
+         "question": "E mua ĐT A37fw chưa được 1 tháng thấy màng hình không được tốt.  Giờ e muốn đổi mới nhưng e có thể đổi lấy ĐT A37 được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.129591,
+         "id": "1146860",
+         "field_search": "question",
+         "question": "E có mua 1 cái iphone 7 plus 32g hàng đổi trả lúc mới mua pin là 100% nhung sau 10 ngày thì còn 99% z cho e hỏi là e có thể yêu cầu đổi máy mới đc ko ạ còn 9 tháng bảo hàng chính hãng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.102816,
+         "id": "996836",
+         "field_search": "question",
+         "question": "Chào ad, e nhờ tí ad có thể tư vấn cho em chút dc ko ạ, bây giờ em đang cần mua 1 chiếc điện thoại giá dao động khoảng 6-7 triệu nhưng em cần điện thoại chơi game phải mượt, tốt, ko giật lag, e hay chơi các game mobile như liên quân mobile, phục kích,... thì ad xem có chiếc điện thoại 6-7 triệu nào chơi game mượt ko giật lag để e chơi các game mobile như kia ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.048306,
+         "id": "878462",
+         "field_search": "question",
+         "question": "Em mới mua 6s ở tgdđ lạc long quân dùng đc hơn 2 tuần thôi .Vừa xong đang dùng máy tự nhiên bị đơ .ko thoát ra đc màn hình chính nữa .1 lát sau chuyển sang màu đen luôn .thế là bị như nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.045893,
+         "id": "1010446",
+         "field_search": "question",
+         "question": "add xem giúp mình dây sạc đt m mua cho đt lg k10 k nhớ tháng mấy giờ lại bị lỗi có đc đổi theo chính sách 1 đổi 1 k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.028952,
+         "id": "1142926",
+         "field_search": "question",
+         "question": "Ad cho hỏi máy ip6 32g m mua đc 1 năm rồi dùng thì rất ok mà 2 tháng nay minh chơi ứng dụng liên quân thì chơi đc mưới mấy phút là bị ai ra khỏi ứng dụng muốn vào mà k vào lại thế xin hỏi à m mình có bị vấn đề gì thế nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.0261,
+         "id": "1010658",
+         "field_search": "question",
+         "question": "anh ơi cho e hỏi máy e dùng chưa đc 1 tháng muốn đổi xang máy khác thì thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.002087,
+         "id": "997046",
+         "field_search": "question",
+         "question": "Tôi mua máy j7 từ tháng 3 năm 2016 giờ muốn đổi máy khác tại tgdd thì đc thu lại máy j7 ko.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.833052,
+         "id": "1008503",
+         "field_search": "question",
+         "question": "Mình dùng lenovo k5 plush mà sao chơi game liên quân giật quá trời vậy. Cho hỏi máy này có cách nào khắc phục để chơi liên quân ổn định hơn ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.815926,
+         "id": "946872",
+         "field_search": "question",
+         "question": " Laptop e ms mua về dùng bị lag, bị vài lần r, trường họp này có đc đổi k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.768383,
+         "id": "998179",
+         "field_search": "question",
+         "question": "Đt samsung j2 prime e ms mua đc 2 tuần mà tự nhiên nhìu lúc đâng chơi nó đưnga đơ 1 hồi rùi tắt nguồn luôn bh phải lm sao ạ😔",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.761244,
+         "id": "1018525",
+         "field_search": "question",
+         "question": "Ad e vừa mua sim vinaphone 250k dùng mạng 2 năm ms dùng đc 2 tháng sao bh k vào đc mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.673653,
+         "id": "828727",
+         "field_search": "question",
+         "question": "Ad ơi rại sao e máy ip 5s tại của hàng khi về lại thấy chạy ios 9.2.1 giờ e muốn dùng ios thấp hơn e có đc đổi máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.605082,
+         "id": "1148192",
+         "field_search": "question",
+         "question": "iPhone 7 plus 32G có vừa chơi liên quân và chơi pubg đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.489204,
+         "id": "993571",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Mấy tháng trước e có mua j7 prime nhưng giờ e muốn đổi lấy j7pro thì có dc hỗ trợ ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.363338,
+         "id": "1167050",
+         "field_search": "question",
+         "question": "Mình đã mua máy xiaomi note 7 4/64 vào ngày 4-5 đã mua máy về dùng lỗi wiffi tự động mất rồi tự động kết nối lai..đã làm đủ cách rồi như vẫn ko thấy đổi...sau đó tới tgdd đổi 1 máy nữa vào ngày 8-5 đến 15-5 máy về dùng vẫn bị ...2 máy đều nv bây giờ còn cách nào ko ạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.296015,
+         "id": "1165393",
+         "field_search": "question",
+         "question": "Em mới mua samsung galaxy j6+ được ba tháng, em đã trải nhiệm máy và cảm thấy nó chơi game giật, lácXin hỏi bây giờ có thể đổi máy khác bằng cách bán nó cho công ty được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.280195,
+         "id": "1019147",
+         "field_search": "question",
+         "question": "Cho mình hỏi là điện thoại mình mua hơn 2 tháng có đổi mẫu khác đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.260626,
+         "id": "1014824",
+         "field_search": "question",
+         "question": "chào ad. e muốn đổi điện thoại ss j7 prime mua đc 1 năm qua ip6 32gb có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.201077,
+         "id": "1141249",
+         "field_search": "question",
+         "question": "Cho e hỏi có máy nào khoảng 1tr chơi đc lien quân ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.060007,
+         "id": "1142338",
+         "field_search": "question",
+         "question": "Mình mua chiếc realme 2 pro đc 2 tháng góp... Giờ mình mua đổi đơi máy thì có đc k ak... Và giá trí ntn ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.995548,
+         "id": "1134953",
+         "field_search": "question",
+         "question": "Một lúc mua góp 2 máy đã sử dụng một lần có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.982903,
+         "id": "786466",
+         "field_search": "question",
+         "question": " Mjnh mua 5s đổi trả ở tgdd chưa được 1 tháng, giờ máy bị lỗi là mật khẩu wifi ko đúng, vậy có đc đổi máy khác ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.953455,
+         "id": "1161003",
+         "field_search": "question",
+         "question": "Oppo a3s chơi liên quân không nhạy ... Nếu như e muốn đổi lại reamle c1 được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.945484,
+         "id": "1134876",
+         "field_search": "question",
+         "question": "em mua realme 2 còn 1 đổi 1 trong 1 tháng nếu e muốn đổi qua máy khác e mất khỏang bao nhiêu phí ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.87917,
+         "id": "986607",
+         "field_search": "question",
+         "question": "Tại sao tôi dùng ip6 lọck nhật khi chơi game cf mobile hay liên quân đc vài game rùi sau vào xem youtube thì lại ko đc vẫn load bình thường và bị đứng hình ko chạy tý gì? Ai biết trả lời giúp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.874998,
+         "id": "1023205",
+         "field_search": "question",
+         "question": "Cho e hỏi, e mua máy asus zenphone live ngày 12/8/2017. Sau 1 khoảng thời gian sử dụng e cảm thấy ko phù hợp nên e muốn đổi trả lại có đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.863129,
+         "id": "1158080",
+         "field_search": "question",
+         "question": "E mua chiếc oppo a83 hồi tháng 2 năm 2018. Giờ e muốn đổi 1 chiếc khoảng hơn 2 triệu dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.793776,
+         "id": "1023230",
+         "field_search": "question",
+         "question": "Xin chào add. Lần trước em có mua máy tính. Add thử kiểm tra hộ e xem em đã mua máy gì đc ko ạ. Số đt e dùng đăng kí mua là 0984812704",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.789192,
+         "id": "1147351",
+         "field_search": "question",
+         "question": "e mới mua huawei y6 prime đc 1 tuần nhưng máy bị giật e muốn đổi sang nova 3e thì thủ tục tnao ạ? E ở Hạ Long, Quảng Ninh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.770578,
+         "id": "1166749",
+         "field_search": "question",
+         "question": "Mua dây sạc bảo hành 1 năm mà chưa đc mây tháng đã hỏng thì có dc đc đổi hay ntn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.759125,
+         "id": "914535",
+         "field_search": "question",
+         "question": "e mới mua iphone 5s bên mình khoảng 3 tháng đã phải đi bảo hành loa ngoài 1 lần rồi. nhg bh loa ngoài lại k nghe được. ko biết bên mình có xem xét trường hợp này đổi máy giúp e ko ? máy dùng nhẹ nhàng và cẩn thận lắm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.699787,
+         "id": "1138103",
+         "field_search": "question",
+         "question": "Cho em hỏi e dùng samsung j4 dt e ko bt s mà e chơi liên quân vừa vào dc game thì máy tắt nguồn nhưng e chơi các game khác thì không bị j cứ khi chơi liên quân thì bị tắt nguồn là s z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.66743,
+         "id": "1021624",
+         "field_search": "question",
+         "question": "Cho em hỏi Samsung galaxy E7 có chơi đc Liên Quân ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.648987,
+         "id": "870926",
+         "field_search": "question",
+         "question": "Em đã mua trả góp 1 Laptop. Em mới đóng được 2 tháng. Giờ em muốn mua trả góp nữa đc k? Hộ khẩu đứng tên ba của em thì có đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.632843,
+         "id": "998778",
+         "field_search": "question",
+         "question": "Máy e là mobell tab 7c mua bên tgdd nhưng dùng đc 2 tháng thì hỏng giờ muốn sửa thì vào tgdd sửa đc k à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.59387,
+         "id": "1000023",
+         "field_search": "question",
+         "question": "Mình mua đt galaxy A520 nhưng bị lỗi do nhà sản xuất. Đã đổi 3 lần nhưng vẫn bị lỗi đấy. Bây giờ mình muốn đổi sang model khác (galaxy j730) có đc ko ạ. Đkien đổi ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.581947,
+         "id": "997000",
+         "field_search": "question",
+         "question": "Chào ad, e nhờ tí ad có thể tư vấn cho em chút dc ko ạ, bây giờ em đang cần mua 1 chiếc điện thoại giá dao động khoảng 6-7 triệu nhưng em cần điện thoại chơi game phải mượt, tốt, ko giật lag, e hay chơi các game mobile như liên quân mobile, phục kích,... thì ad xem có chiếc điện thoại 6-7 triệu nào chơi game mượt ko giật lag để e chơi các game mobile như kia ko ạem muốn mua SamSung mà ko biết chọn cái nào ko bị lag, nhờ ad tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.509375,
+         "id": "999121",
+         "field_search": "question",
+         "question": "E vừa mua j7 đc 1 tháng nhưng khi sạc đt lúc ăn lúc k có phải lổi hệ thông xin hỏi cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.469488,
+         "id": "1133636",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi nếu hiện tại e đang dùng j7 pro mà muốn đổi sang j4 thì có đc bù tiền j7 k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.457682,
+         "id": "994985",
+         "field_search": "question",
+         "question": "Bây giờ mình dùng iphone 5 để chơi liên quân và 1 số game nhẹ có ổn ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.448803,
+         "id": "1011875",
+         "field_search": "question",
+         "question": "cho em hỏi e mới mua máy J7 Pro đc 2 ngày. hôm nay vào xem youtobe thì lại ko nghe đc âm thanh mặc dù em đã mở âm lượng to rồi ạ. loa trong loa ngoài vẫn bình thường ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.396694,
+         "id": "1014333",
+         "field_search": "question",
+         "question": "Mình mua một chiếc tai nghe  Bluetooth của cửa hàng mình,nhưng dùng đc khoảng 2 thàng thì sạc không vào điện đc, nên mình hỏi xem sản phẩm của mình có đổi đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.345171,
+         "id": "882063",
+         "field_search": "question",
+         "question": "Mk mua iphone 5s ở tgdd mk cắm sac pin đầu tiên thấy vào sau1 lúc k thấy vào nữa có đổi đầu cắm lại cáp cắm sang ổ điện khác mà vẫn k đc 1 lúc sau cắm lại đc. Liệu sạc có vấn đề j k ạ. Pin chưa hiển thị 100% máy báo đầy pin là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.329115,
+         "id": "1019537",
+         "field_search": "question",
+         "question": "Bộ nhớ e đã gắn nhưng nó cứ hiện thế này e ko lưu đc ảnh vào bộ nhớ ngoài đc nữa hãy chỉ cho e cách khắc phục, e cảm ơn nhìu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.298706,
+         "id": "1155404",
+         "field_search": "question",
+         "question": "Mình dùng ss M20. Bị lỗi như này: khi xem video(chỉ những video trên face và trong kho ảnh mới bị, video trên youtube thì lại bình thường) đc khoảng 30s thì bị giật hình 1 phát xing video lại tiếp tục chạy bt. 1 video 3phút bị 2 hay 3 lần). Chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.272217,
+         "id": "1135267",
+         "field_search": "question",
+         "question": "Dạ e mua iphone 6 vào tháng 4 năm nay máy không có lỗi gì lúc mua với giá 7t rưỡi giờ e muốn đổi iphone 6s plus thì phải bù thêm bao nhiêu nữa ạh ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.234375,
+         "id": "1166823",
+         "field_search": "question",
+         "question": "Tai nghe kanen e bảo hành 1 lần r, nhưng bh lại hỏng thì có đc bảo hành lần nữa ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.165775,
+         "id": "1148266",
+         "field_search": "question",
+         "question": "Ad cho e hỏi xíu... giờ e đặt mua 1 chiếc smatphone đc giảm giá 10% nhưng khi e xem hàng thấy k thích và mua 1  chiếc khác thì có đc hưởng khuyến mãi trên k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.014736,
+         "id": "878208",
+         "field_search": "question",
+         "question": " Cho e hỏi..ip 5s 16GB e mua đc 6 tháng r..h e mún đổi mua ip 5se..v có trả góp đc k v ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.978941,
+         "id": "1146259",
+         "field_search": "question",
+         "question": "E mua máy oppo f9 đc hơn tháng Lúc Giá còn 7.690kGiờ e mún đổi f9 này thành cái f9 màu khác thì bù bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.964426,
+         "id": "999248",
+         "field_search": "question",
+         "question": "cho mình hỏi chút. mình vừa mua cái đồng hồ trả góp  sam,sung gear s3 frontier, chưa đc 1 tháng mà dùng nó đơ, vs thỉnh thoảng mất tiếng lúc nghe nhạc, giờ mình muốn các thêm để đổi sang con iphone 7 được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.927208,
+         "id": "1162056",
+         "field_search": "question",
+         "question": "Cho e hỏi E dùng oppoa3s aS h máy chs liên quân lại giật lag v a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.867714,
+         "id": "1012783",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua laptop   Acer Aspire E5 575 525G i5 7200U/4GB/500GB/Win10/(NX.GE6SV.007) mà e thấy máy hoạt động k tốt. nhiều lúc e thấy máy khá đơ và giật, hay bị lỗi ứng dụng. e muốn đổi trả thì phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.826065,
+         "id": "1153841",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi là đt của e là j7 prime Đây là video tự quay ạCác lần trc e xem đc nhưng mới đây lại ko xem đc và nó hiện ntn là bị sao và có khắc phục đc ko ạE cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.792994,
+         "id": "988619",
+         "field_search": "question",
+         "question": "Mình mới mua củ sạc xmobi 1 cổng đc 1 ngày giờ mình muốn đổi củ sạc xmobi 2 cổng đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.783031,
+         "id": "1165103",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ e mới mua con ip 6s plus. Mà còn trả góp 2 tháng nữa. Nhưng bây giờ em muốn lên đổi 6s plus lấy con 7 plus trả góp tiếp thì có được ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.572794,
+         "id": "1167086",
+         "field_search": "question",
+         "question": "E mới mua  oppf11 pro 64 gb chưa đc 1 tháng ê muốn đổi sang Oppo f11 pro 128 gb có cần bù thêm giá ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.54115,
+         "id": "862661",
+         "field_search": "question",
+         "question": "E đang dùng 6 plus bt thì máy sập nguồn rồi bật không lên đc. Để lâu lâu thì nó lại lên cắm sạc vào bt nhưng dùng ít lâu lúc thì đc 1 ngày lúc thì đc vài tiếng và có thể là lên đc 1 lúc rồi lại sập. E bị 5 6 lần như vậy rồi, mấy lần đầu thì e nó khởi động lên luôn mà bh thì e nó lúc nào lên đc thì báo hết pin và hiện màn hình chờ cắm sạc. Nhưng e cắm sạc vào thì nó lại mất nguồn. Bây giờ e đang lo quá k biết ntn, k biết là do pin hay do nguồn nữa mong add chỉ giúp ạ.Thank!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.401812,
+         "id": "1007804",
+         "field_search": "question",
+         "question": "tại sao oppo f3 e mới mua chưa đc 1 tháng mà đơ màn hình rồi,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.355078,
+         "id": "1020004",
+         "field_search": "question",
+         "question": "em dùng ip 6s ạ mà sạc báo vào mà k vào điện là bị sao ạtrước thì e rất hay hỏng cáp mua cáp zin cũng chỉ đc hơn 2 tháng thôiad xem máy e bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.346405,
+         "id": "817647",
+         "field_search": "question",
+         "question": "E dùng zalo rất lâu rồi,ambum ảnh e nhiều, nhưng 2hôm nay e mới đổi điện thoại mới,e tải phần mềm zalo và đăng nhập lại vào thì nhật kí vẫn còn,nhưng ambum ảnh hiển thị 0 ảnh và k vào ambum đc,mặc dù trước đó e vừa đăng 3 ảnh,e đã gỡ và tải zalo khac về nhưng vẫn tình trạng trên,e tìm kiếm cài đặt mà k thấy cài đặt nào liên quan..mong a chị giúp đỡ! Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.343506,
+         "id": "1012295",
+         "field_search": "question",
+         "question": "Em có 1 cái j7 prime mua ở tgdd hồi tháng 1 đến giờ nó hay bị chậm có nâng cấp phần mềm 1 lần thế bên đem ra bên tgdd sửa được không ạ + em muốn đổi j7 prime thành j7 pro với note 2 thành s8 hoặc j7 pro được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.271997,
+         "id": "1001929",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới dùng điện thoại f3 plus được 3 tháng muốn đổi sang iphone 6 plus cũ có đc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.26669,
+         "id": "1150242",
+         "field_search": "question",
+         "question": "máy em cứ dùng đc 1 lúc là đơ với lại có sọc xanh15s khởi động lại cũng ko đc thì phải làm sao ạ ip5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.199516,
+         "id": "1159366",
+         "field_search": "question",
+         "question": "xin hỏi e đã đặt cọc oppo f11 giờ tới khi có hàng đổi thành f11 pro đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.188223,
+         "id": "1164968",
+         "field_search": "question",
+         "question": "e mới mua f11 pro chưa đc 1 tháng nhưng trong quá trình sử dụng đt hay bị đơ, nhiều lúc k nhận được cuộc gọi thì e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.126167,
+         "id": "1133805",
+         "field_search": "question",
+         "question": "Ad cho e hỏi .e đg xài A7 2017 giờ muốn đổi A9 thì có đc ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.108671,
+         "id": "1004159",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính bảng cink có chơi đc liên quân và cf mobile k e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.063606,
+         "id": "1011901",
+         "field_search": "question",
+         "question": "E mua máy ss a5 2017 đc hơn 1 tháng rồi giờ bán lại đc bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.03182,
+         "id": "1158259",
+         "field_search": "question",
+         "question": "Mình mới mua j4 core tại cầu ngang trà vinh đc 1 tuần giờ mình thấy hok thích muốn đổi hawei y6 premi đc hok ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.028046,
+         "id": "1138807",
+         "field_search": "question",
+         "question": "QTV cho em hỏi đây là thư mục gì mà nặng thế ạ? Nó có ghi lần sửa đổi cuối cùng là 1/1980. Định dạng png nhưng mở thì kh xem đc ảnh",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

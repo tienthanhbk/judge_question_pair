@@ -1,0 +1,809 @@
+{
+   "id_query": "921497",
+   "total": 29643,
+   "total_current": 100,
+   "max_score": 50.983692,
+   "origin_question": " Cho hỏi tôi coi video trên safarimaf bị như thế này thì sao sửa?  ",
+   "hits": [
+      {
+         "score": 50.983692,
+         "id": "921497",
+         "field_search": "question",
+         "question": " Cho hỏi tôi coi video trên safarimaf bị như thế này thì sao sửa?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.203154,
+         "id": "1013176",
+         "field_search": "question",
+         "question": " Cho tôi hỏi máy như thế này bị lỗi gì vậy . Cho tôi xin luôn giá sửa chữa nha  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.660082,
+         "id": "1138831",
+         "field_search": "question",
+         "question": "Tại sao coi video trên facebook bị ngắt quãng mà coi không liên tục được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.711838,
+         "id": "830589",
+         "field_search": "question",
+         "question": " Điện thoại samsung galaxy j2 sao coi video trên facebook coi 1 chúc nó đứng là bị gì vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.40737,
+         "id": "1018227",
+         "field_search": "question",
+         "question": "Mình bị như thế này k biết cách khắc phục như thế nào. Tại chiều nay máy tự cập nhật HTC Input rồi thì vào như thế này. Vào setting coi thì đã tắt tiên đoán từ rồi mà vẫn như thế này là bị sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.193958,
+         "id": "999015",
+         "field_search": "question",
+         "question": "Thegioididong ơi cho tôi hỏi mỗi khi xem video trên youtube thì các nút tua dừng video đều hiện lên như thế là bị vấn đề gì vậy? Hãy khắc phục dùm tôi. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.996002,
+         "id": "758925",
+         "field_search": "question",
+         "question": "Sao máy minh bấm vào xem video trên facebook hay youtube đều không coi được?  Bấm vào video trên face thì để \"rất Tiếc đã xảy ra lỗi không xác định khi cố Phát video này\" 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.963896,
+         "id": "987356",
+         "field_search": "question",
+         "question": "iphone 7 bị thế này thì làm sao vậy ad .vào email trên máy thì hiện như thế này  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.247875,
+         "id": "824282",
+         "field_search": "question",
+         "question": "Vì sao máy tôi mỗi khi muốn xem video thì đều ko xem được và đều hiện ra chữ như trên ảnh, giờ phải làm thế nào để xem được video",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.122335,
+         "id": "789350",
+         "field_search": "question",
+         "question": " cho mình hỏi video người khác gửi cho mình qua zalo. sau 1 thời gian ko coi được cách khắc phục như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.970121,
+         "id": "1134957",
+         "field_search": "question",
+         "question": "  Cho hỏi máy htc one me của e cứ báo lỗi như thế này là bị gì và sửa như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.740883,
+         "id": "806760",
+         "field_search": "question",
+         "question": " ID Apple tôi bị quên mật khẩu sửa như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.664389,
+         "id": "872000",
+         "field_search": "question",
+         "question": " Nick Zalo của em bị như thế này làm sao để sửa ad. Em cám ơn!   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.608686,
+         "id": "1147851",
+         "field_search": "question",
+         "question": "em xem video trên fb rồi trở lại newfeed thì bị như này em đang xài IP X  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.25929,
+         "id": "770790",
+         "field_search": "question",
+         "question": " Máy ảnh trên Samsung J5 khi em vào thì bị lỗi như thế này phải làm sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.100197,
+         "id": "1155404",
+         "field_search": "question",
+         "question": "Mình dùng ss M20. Bị lỗi như này: khi xem video(chỉ những video trên face và trong kho ảnh mới bị, video trên youtube thì lại bình thường) đc khoảng 30s thì bị giật hình 1 phát xing video lại tiếp tục chạy bt. 1 video 3phút bị 2 hay 3 lần). Chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.996549,
+         "id": "1136631",
+         "field_search": "question",
+         "question": "Tại sao đăng video lên fb thì video coi bị mờ k thấy mặt người . E chỉnh đăng video ảnh fb lên HD rồi vẩn bị mờ có phải là lỗi chương trình k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.874012,
+         "id": "1020201",
+         "field_search": "question",
+         "question": "Màn hình của em bị vạch kẻ màu cuối màn hình như thế này  thì phải sửa tn ạ.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.759984,
+         "id": "858705",
+         "field_search": "question",
+         "question": " Coi video trrên dt asus zenfone go nó hay bị như này   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.758681,
+         "id": "948257",
+         "field_search": "question",
+         "question": " Add cho mình hỏi mình bị lỗi đăng nhập iCloud như thế này thì phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.666738,
+         "id": "1147392",
+         "field_search": "question",
+         "question": "Tôi đang dù điện thoại samsung j7 prime bị vỡ màn hình đã lâu Đến bây giờ thì có hiện tượng sọc màn hình tôi nghĩ không sau Nhưng hôm nay tôi đang coi một video trên youtube thì màn hình điện thoại chớp đen 2 ,3 cái rồi đột nhiên đen luôn  tiếng thì vẫn nghe mà màn hình thì đen thuiCho tôi hỏi là điện thoại tôi bị vấn đề gì ạ?Tôi cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.518482,
+         "id": "1020009",
+         "field_search": "question",
+         "question": " cho em hỏi word10 máy em bị lỗi sửa đổi này không được phép vì lựa chọn bị khóa khắc phục như thế nào ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.396552,
+         "id": "1152718",
+         "field_search": "question",
+         "question": " Ad ơi, liên kết như này thì sửa và bảo mật như thế nào ạ. Không chỉ google mà còn gmail e cũng bị như vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.361506,
+         "id": "1148800",
+         "field_search": "question",
+         "question": "Tại sao lên YouTube vivo y53 chỉ coi được video chất lượng 480p thôi vậyHay cấu hình nó thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.345298,
+         "id": "843476",
+         "field_search": "question",
+         "question": "QTV cho em hỏi con iPhone 6s của em nó bị như thế này thì sửa hết bao nhiêu tiền ạ,cảm ứng bình thường chỉ bị đổ mực vs bung nắp như v thoi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.342637,
+         "id": "907438",
+         "field_search": "question",
+         "question": "Tôi mua máy Lenovo Vibe P1 cách đây 7 tháng, trước đây máy vào Facebook và Phát video trực tiếp bình thường, nhưng cách đây nữa tháng thì khi tôi phát video trực tiếp trên Facebook thì sau 3 giây đếm ngược xong là Camera bị treo, lúc đầu tôi thử Cập nhật phiên bản Facebook về nhưng vẫn bị treo, tôi gỡ Ứng dụng ra và cài lại vẫn bị như vậy, tôi tiến hành phục hồi cài đặt gốc nhưng vẫn không phát được. Cuối cùng tôi đã Factory Reset lại máy nhưng kết quả vẫn như không!Tôi đăng câu hỏi này kính mong QTV hổ trợ phục hồi cho tôi. (*) Khi vào phát trực tiếp video trên Ứng dụng Bigo live thì máy hoạt động bình thường ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.310954,
+         "id": "1024100",
+         "field_search": "question",
+         "question": "tôi bị lỗi phím số bên phải.bị lỗi số 4 với lại nhiều khi tôi viết trên bàn phím,thì hiện ra phần như nut f12.đây có phải lỗi driver không và cách khắc phục lỗi này như thế nào, tôi xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.202405,
+         "id": "1023093",
+         "field_search": "question",
+         "question": "đăng nhập vào facebook thì nhận được thông báo như thế này. Em bấm mật khẩu ở trên giống ở dưới và bấm tiếp thì bị như thế nàyem bị cái này 2 ngày nay. Em thử đăng nhập trên đt nhưng vẫn bị như z Giúp em với ^_^",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.179953,
+         "id": "943650",
+         "field_search": "question",
+         "question": "6s plus đang sài ios 10.2 nhưng sao khi xem video . Nó không phát đc . E đã khởi động lại . Bật lên thì coi đc nhưng để lâu máy lại bị như cũ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.159798,
+         "id": "832221",
+         "field_search": "question",
+         "question": "Icloud em nó bị như thế này .. pass e vẫn đăng nhập được trên trình duyệt mà trong máy đăng nhập thì nó bị như thế này ai cứu em với...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.100113,
+         "id": "889860",
+         "field_search": "question",
+         "question": "Qtv chi mình hỏi vấn đề này xíu. Mình cài viber trên samsung a5 (2015) khi gọi trên viber bình thường ko sao, mà chuyển qua loa ngoài hay chế độ video thì có tiếng hú và nói vọng. Mình xài zalo hoặc các phần mềm gọi video khác thì ko bị lỗi như vậy. Mong Qtv cho mình câu trả lời ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.067003,
+         "id": "894341",
+         "field_search": "question",
+         "question": "Iphone 6 Plus của tôi bỗng dưng không quay Video phát trực tiếp trên Facebook được. Khi kết nối với loa máy trợ giảng thì các Video này không có tiếng? Hỏi : Lỗi gì hoặc máy bị hỏng ? Xin chỉ giúp . Các ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.923618,
+         "id": "1000981",
+         "field_search": "question",
+         "question": " Instgram của mình bị như thế này thì phải làm sao ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.903337,
+         "id": "1010452",
+         "field_search": "question",
+         "question": "Cho e hỏi sao máy samsung galaxy j2 prime của e nó hiện như z ạ lúc nào coi video 360 là nó như z ạ có cách nào khác phục ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.847004,
+         "id": "1023613",
+         "field_search": "question",
+         "question": "Xin chào. Cho tôi hỏi tôi đang dùng điện thoại samsung note 4 nhưng dạo này tôi sạc pin thì pin tới 90% thì ko lên nữa. Cho hỏi cách khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.816194,
+         "id": "817335",
+         "field_search": "question",
+         "question": "E xem video trên ứng dụng facebook của đt samsung s4 docôm thì bị mờ, k cho hình ảnh sắc nét. E xem trên đt khác thì nó vẫn nét ạ. Bây giờ thì e phải cài đặt như thế nào để xem video trên facebook được nét ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.781585,
+         "id": "997378",
+         "field_search": "question",
+         "question": "Cho tôi hỏi,lc tôi xem video thì điện thoại tơi thông báo là,lagoo không thể phát video vì 4 virut tấn công pin nghiệm trọng cần phải sửa chữa ngay, vậy có phải chiết điện thoại của tôi đã nhiễm virus không, nếu bị nhiễm virus thì hãy hướng dẫn toi cách diệt triệt để",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.7774,
+         "id": "1141456",
+         "field_search": "question",
+         "question": "TGGĐ cho e hỏi Máy e mua lại bị thế này sửa đc ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.684534,
+         "id": "813752",
+         "field_search": "question",
+         "question": "Tôi xài điện thoại Sony c4, xin cho hỏi loại này có con quay hồi chuyển không? Khi sử dụng kính thực tế ảo xem video vr thì lúc quay điện thoại thì không gian trên video không quay theo! Khi xài ip5 thì vẫn tốt hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.645102,
+         "id": "1165453",
+         "field_search": "question",
+         "question": "em sửa bo sạc ở thế giới di động mất 880 lúc mới về ko bị sao để qua 1 đêm lại lỗi y như lúc chưa sửa 2 hôm này phải làm thế nào shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.622519,
+         "id": "913446",
+         "field_search": "question",
+         "question": " Tại sao gọi video trên zalo thì nó bảo người này sử dụng phiên bản chưa hỗ trợ tính năng gọi video ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.591452,
+         "id": "989156",
+         "field_search": "question",
+         "question": "E muốn coi thời gian bảo hành thì làm như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.584209,
+         "id": "1014250",
+         "field_search": "question",
+         "question": "cho tôi hỏi ,  điện thoại samsung galaxy j7 pro tôi bị rớt nhẹ màn hình bị nhoe màu một chút  ở góc nhưng vẫn sử dụng bình thường tôi đi bảo hành xem sửa đc không trong lúc họ bảo hành nhân viên gọi điện cho tôi bảo không sửa được phải thay màn hình hết 1 triệu 7 , tôi bảo không thay dùng như thế cũng đc nhưng giờ về thế giới di động trả tôi điện thoại màn hình không lên được, họ bảo bị màn hình trong bị hư nên thời gian sau bị như thế, TÔI KHÔNG CHẤP NHẬN , VÌ LÚC TÔI BẢO HÀNH MÀN HÌNH VẪN SÁNG BÌNH THƯỜNG, NHOE MÀU RẤT NHẸ , KHÔNG VỠ. SAO MÀN HÌNH TỐI ĐEN  ĐÚNG LÚC THẾ, TÔI MUỐN HỎI RÕ RÀNG VỚI NGƯỜI ĐẠI DIỆN CHO HÃNG ĐT SAMSUNG THÌ LÀM THẾ NÀO Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.562373,
+         "id": "1008531",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi mình vào ứng dụng youtube thì nó hiện lên thế này và mình kiếm video nó cũng hiện lên như thế mong các bạn giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.558797,
+         "id": "929394",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi lỗi như thế này là bị sao ạ e k cắm tai nghe tự hiện lên thế này   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.554798,
+         "id": "998491",
+         "field_search": "question",
+         "question": "Cho em hỏi như này là bị sao ạ? Và em có thể tự khắc phục không hay phải mang đi sửa ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.519744,
+         "id": "1153583",
+         "field_search": "question",
+         "question": "Cho hỏi đăng ký id apple xong vào thì bị lỗi.báo số lượng tài khoản miễn phí trên đt này có hạn rồi.giờ làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.494975,
+         "id": "867309",
+         "field_search": "question",
+         "question": " Sao tải ứng dụng trên windown store lại bị như thế này, có cách nào khắc phục được không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.474242,
+         "id": "996723",
+         "field_search": "question",
+         "question": "Iphone xem youtube toàn màn hình mà bị lỗi như thế là sao ạ.Bên trên nó màu đen bên phải màu trắng video nào cx bị z ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.409441,
+         "id": "1138888",
+         "field_search": "question",
+         "question": "Cho tôi hỏi. Khi tôi gọi bằng messenger vào máy nokia 5 của gia đình thì nghe thấy tiếng của tôi vọng lại rất rõ, nghe rất khó chịu gọi vào máy khác thì không sao. Vậy cách chỉnh sửa cái nokia 5 mới mua như thế nào??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3988695,
+         "id": "998999",
+         "field_search": "question",
+         "question": " admin cho lỗi này thì sữa như thế nào ạ, sau khi bị mình đã reset lại máy nhưng vẫn bị như thế này mong ad giúp   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.395605,
+         "id": "991374",
+         "field_search": "question",
+         "question": "em bị nỗi như thế này thì phải làm sao ạ . giúp em với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.366575,
+         "id": "754406",
+         "field_search": "question",
+         "question": " Quản trị viên cho em hỏi, máy báo lỗi như thế này là bị sao vậy ạ ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.359085,
+         "id": "936240",
+         "field_search": "question",
+         "question": "  máy e bị như thế này thì phải làm như thế nào ạ ..?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.338804,
+         "id": "800097",
+         "field_search": "question",
+         "question": " Sử dụng line bị lỗi như vậy là sao a.cách sửa như thế nào ạ    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3017435,
+         "id": "1165861",
+         "field_search": "question",
+         "question": "Cho mình hỏi dòng Xiaomi note7 khi call video trên Zalo hay messenger bị mờ chất lượng thấp. Khi ra ngoài thử lại camera thì vẫn bình thường .cho hỏi cách khác phục như thế nào. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.262701,
+         "id": "836329",
+         "field_search": "question",
+         "question": " Máy mình bị như thế này là bị làm sao tự nhiên dùng bì như thế   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.26041,
+         "id": "902541",
+         "field_search": "question",
+         "question": " Bị như thế này thì phải làm sao ạ ...mọi người giúp mình đi  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.193861,
+         "id": "807182",
+         "field_search": "question",
+         "question": "Chào admin mmình vừa bị mất iphone 4 cho hỏi admin là mình tìm = cách lên find mà nó hiện ra như này :Tất cả các thiết bị ngoại tuyếnKhông thể hiện thị vị trí vì tất cả của bạn đều đang ngoại tuyếnad coi dùm nó sao bị thế này. định gửi ảnh mà bảo 1MB nên không gửi được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.19141,
+         "id": "1158353",
+         "field_search": "question",
+         "question": "Anh/chị ơi!  Điện thoại wiko của tôi bị hư phần cứng, nếu tới thegioididong mà gửi tới hãng sửa chữa thì tính tiền như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.185339,
+         "id": "1006637",
+         "field_search": "question",
+         "question": "cho mình hỏi la ngoài máy lenovo a7000plus của mình xem video nghe nhạc gọi thì lúc to lúc nhỏ lúc không nghe thấy gì. như thế là bị làm sao vậy. cách khác phục như thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.12368,
+         "id": "1006561",
+         "field_search": "question",
+         "question": "Tôi sài sam sung j2 prime làm sao để sửa lỗi này...................................................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.068662,
+         "id": "800977",
+         "field_search": "question",
+         "question": " Cho em hỏi gửi video mà đã tải trên youtube qua tin nhắn zalo như thế nào vậy...giúp e mvới... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.050586,
+         "id": "1009660",
+         "field_search": "question",
+         "question": "Cho tôi hỏi cách đồng bộ danh bạ trên J7 prime như thế nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.01633,
+         "id": "1009921",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại xa ultra của em tại sao lên youtube mở video có chất lượng là FULL HD 60FPS là chỉ cho coi HD 60FPS,mà video FULL HD ko có 60FPS thì xem dk vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.010838,
+         "id": "1152597",
+         "field_search": "question",
+         "question": "Ad giúp e vs ạ Em máy samsung j5 primeQuay video ở trong máy thì thấy bình thường gửi video lên mess thì thấy như hình ạEm đã cài mess lên bản mới nhất rồi ạ Em thấy nhiều máy samsung cg bị như thế này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.974268,
+         "id": "913930",
+         "field_search": "question",
+         "question": "Bắt đầu cuộc trò chuyện  4,3K người thích điều này Sửa chữa ô tô 16:17 cho tôi hỏi máy tính lapto của t bấm lưu văn bản là bị đen thế này. ở trang bảng tính exel. xin hỏi lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.958149,
+         "id": "991428",
+         "field_search": "question",
+         "question": "Cho em hỏi. Em đang dùng iphone5. Màng hình bị sọt khi máy nóng hoặc bât độ sáng trên 50%. Tắt nguồn mở lại thì bình thường, nhưng chỉ đc 1 lát thì lại sọt. Cho em hỏi nguyên nhân tại sao ạ? và sửa như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.934377,
+         "id": "1003353",
+         "field_search": "question",
+         "question": " Cho e hỏi điện thoại em bị rớt nhưng không bị bể màn hình. Nhưng nó bị như thế này là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.924139,
+         "id": "1010017",
+         "field_search": "question",
+         "question": "Tôi đang xài oppo F3 Khi tôi muốn tai video trên các trang mạng hoặc tai ảnh thì trên màn hình hiện ra chữ lưu nhưng bấm vào chữ lưu thì điện thoại vẫn không lưu đã Sao lưu và cài đặt lại thì nó vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.837921,
+         "id": "1003390",
+         "field_search": "question",
+         "question": " Cho mìh hỏi là tải ứng dụng trên ch play như thế này là lỗi j và cách khắc phục như thế nào.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.800516,
+         "id": "972815",
+         "field_search": "question",
+         "question": "Chưa kết bạn. Nếu bị chặn người lạ coi ảnh trên trang cá nhân của người chặn mình bấm vào mục ảnh trên trang cá nhân của người chặn thì nó báo như thế nào vậy? Cám ơn bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.781083,
+         "id": "869459",
+         "field_search": "question",
+         "question": "sao máy tôi lên youtibe coi phim dk một lúc thì hình ảnh đứng trong khi âm thanh vẫn bình thường ...có phải máy tôi bị lỗi gì không ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.738533,
+         "id": "1141776",
+         "field_search": "question",
+         "question": "ad cho em hỏikhi em xem video trên máy tính, ví dụ như trên facebook hay trên một số khóa học online thì nó hay bị nhòe nhòe chớp chớp tầm 1s rồi nó lại về bình thường. khi e xem trên youtube thì thỉnh thoảng cũng bị vậy nhưng ít hơn. Xem vid như vậy e thấy rất đau mắt và bất tiện ạ. cho e hỏi lỗi này là do đâu ạ và khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.72349,
+         "id": "796937",
+         "field_search": "question",
+         "question": "Xin chào! Tôi muốn hỏi là laptop của tôi mắc một số lỗi và hiện thông báo \"....has stopped working\". Vậy là như thế nào và làm sao để sửa lỗi đó ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.692553,
+         "id": "1162024",
+         "field_search": "question",
+         "question": "Điện thoại samsung A6 của em gọi video bị trái chiều của mình thì em phải sửa làm sao???mong giúp ạ, em cần sửa gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.672641,
+         "id": "909966",
+         "field_search": "question",
+         "question": "laptop của tôi là hp pavilion notebook seri lnumber 5cd5246hy4 sao tôi vào trang trữ hp tôi nhập lệnh như trên thì nó lại hiện ra làhp pavilion notebook-14-ab019tu vẬY CHO TÔI HỎI NHƯ VẬY LÀ NHƯ NÀO",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.642978,
+         "id": "807730",
+         "field_search": "question",
+         "question": "Chào QTV cho mình hỏi mình dùng ip6 mà trước kia xem video trên safari thì ko bị sao.đợt này xem một tẹo là nó tối màn hình đi rồi tự khoá phím là sao vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.528567,
+         "id": "927627",
+         "field_search": "question",
+         "question": "Em vừa mua con samsung J5 2015 cũng được gần 1 tháng rồi. Bình thường up video lên fb nếu có chèn nhạc bị vi phạm bản quyền thì chỉ cần xác định video của mình là sản phẩm của bản thân là được. Nhưng hôm nay khi up video fb lại thông báo như này. Cho em hỏi máy em bị gì thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.498585,
+         "id": "889728",
+         "field_search": "question",
+         "question": "Cho hỏi tại sao trên Ipad đang chạy iOS mới nhất lại bị lỗi gạch chân như thế này ạ? Có chữ bị gạch chân, có chữ không? Chỉ riêng trong Messenger Facebook thôi à, Zalo và Viber, SMS thì bình thường, em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.490175,
+         "id": "1013500",
+         "field_search": "question",
+         "question": " Cho mình hỏi muốn nhập số điện thoại vào danh bạ trên máy sam sung j7 prime máy báo như thế này là sao vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.4773855,
+         "id": "758914",
+         "field_search": "question",
+         "question": "Chào Ban Quản Trị,iphone 4s của em bị lỗi như thế này thì sửa sao ạ em đã dùng tất cả các cách rồi , bị lỗi wifi không lên được location accuracy is improved when wifi is turned on​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.425779,
+         "id": "763150",
+         "field_search": "question",
+         "question": " Cho mình hỏi khi mình vào phần nhạc mà nó cứ hiện mãi như thế này là bị làm sao vậy?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.420578,
+         "id": "1148999",
+         "field_search": "question",
+         "question": " cho e hỏi tại sao e muốn kết nối với fb thì lai bị như này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.403667,
+         "id": "783110",
+         "field_search": "question",
+         "question": "Cho mình hỏi ipad mini 2 của mình bỗng nhưng xài thì bị loạn cảm ứng. Khóa máy mở lại thì hết nhưng 1 thời gian lại bị như cũ.Trước có bị 1 thời gian nhưng sau đó hết và giờ lại bị lại. Ko biết lỗi này là sao nhỉNếu cần sửa chữa thì TGDĐ sửa dc ko ?Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.401772,
+         "id": "1147167",
+         "field_search": "question",
+         "question": " máy coolpad max A8 bị vỡ màn hình như thế này, thì trung tâm cho e hỏi thay bao nhiu ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.325671,
+         "id": "750275",
+         "field_search": "question",
+         "question": " Cho tôi hỏi khi đang đàm thoại video trên viber hoặc tango,tôi muốn chụp ảnh người đang đàm thoại bằng cách nào??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.325289,
+         "id": "1144622",
+         "field_search": "question",
+         "question": " cho hỏi! Như thế này là sao ạ? Nó bị mất đi cái khung Wifi và Networks 2 rùi! Làm sao bật nó lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.266203,
+         "id": "793188",
+         "field_search": "question",
+         "question": " Ad cho em hỏi điện thoại mà bị như thế này là sao ạ.Có cách gì để khắc phục đây ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.215431,
+         "id": "1000775",
+         "field_search": "question",
+         "question": "Anh ơi, cho em hỏi em sài oppo neo 5 cũng đc một năm bây giờ em sử dụng facebook thì video ko chạy mặc dù youtube vẫn xem đc và em resert máy thì coi lại đc video trên facebook nhưng chỉ đc thời gian ngắn,  chỉ em cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.209194,
+         "id": "991986",
+         "field_search": "question",
+         "question": " máy e bị sọc như thế này ạ, và sử dụng thì nó càng lan rộng thêm. cho em hỏi nó bị gì vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.198327,
+         "id": "908913",
+         "field_search": "question",
+         "question": " Cho em hỏi như thế này là sao vậy? Em Xài wifi lên mà như vậy.    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.190607,
+         "id": "836263",
+         "field_search": "question",
+         "question": " Cho e hỏi cách tải video trên facebook cho oppo joy 3 thì ta phải làm sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.183526,
+         "id": "1144589",
+         "field_search": "question",
+         "question": "Cho em hỏi là, sam sung j7 pro của em bị vết đen 1 chỗ, sau đó lan dần ra màn hình thì bị làm sao ạ? Và muốn sửa thì như thế nào ạ, mang đến đâu để sửa ạ? Em đang ở Hà Nội ạ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.181449,
+         "id": "890679",
+         "field_search": "question",
+         "question": " Apstore của e bị như thế này là bị sao à ae giúp e     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.1536045,
+         "id": "846779",
+         "field_search": "question",
+         "question": " mình dùng laptop gọi video trên face mình thì nghe được tiếng còn họ thì ko?sửa bằng cách nào?thanks! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.116421,
+         "id": "767600",
+         "field_search": "question",
+         "question": "Trên Laptop có phần mềm iTools rồi mà khi cắm jack vô để tải dữ liệu như hình ảnh, video hay xóa dữ liệu mà sao không truy cập vô File được, cũng không coi được hình ảnh luôn, nhờ add chỉ dùm?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.104188,
+         "id": "1139133",
+         "field_search": "question",
+         "question": "Máy iphone 5s của mình bị dính nước xong nó thế này sửa thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.081589,
+         "id": "1142515",
+         "field_search": "question",
+         "question": "Ad coi giúp em, em lo làm việc để máy cho bé xài mà hồi không biết nó bấm gì mà bị thế này nè. Ad giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.079025,
+         "id": "991815",
+         "field_search": "question",
+         "question": "Năm ngoái  tôi có mua laptop Lenovo ở TGDD, giờ vừa mới hết bảo hành.Nay màn hình laptop bị lỏng, hình không cử động. nếu tôi ấn nhẹ vào màn hình thì màn hình làm việc bình thường, buông tay ra thì hình bị đứng.Cho hỏi có thể sửa laptop cho tôi vấn đề này mà không tính phí ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

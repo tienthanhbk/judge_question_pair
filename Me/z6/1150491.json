@@ -1,0 +1,809 @@
+{
+   "id_query": "1150491",
+   "total": 24279,
+   "total_current": 100,
+   "max_score": 89.7088,
+   "origin_question": "Mình xài samsung j3 pro. Tự dưng ghi âm rè rè. Cắm tai nghe vẫn bình thường, làm sao để khắc phục?",
+   "hits": [
+      {
+         "score": 89.7088,
+         "id": "1150491",
+         "field_search": "question",
+         "question": "Mình xài samsung j3 pro. Tự dưng ghi âm rè rè. Cắm tai nghe vẫn bình thường, làm sao để khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 40.371365,
+         "id": "908796",
+         "field_search": "question",
+         "question": "Mình muốn hỏi là: Tự nhiên laptop của mình không phát ra âm thanh, cắm tai nghe vào vẫn không nghe thấy gì, mình đã cài đặt lại drive thì laptop đã nghe được nhưng tai nghe thì bị rè, mình đã kiểm tra tai nghe ở máy khác thì không bị rè. Mình muốn hỏi là làm sao để khắc phục tình trạng này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.261578,
+         "id": "997334",
+         "field_search": "question",
+         "question": "Cho em hỏi em Sài iPhone 7 và chỉ sử dụng tai nghe beat em cắm tai beat vào Jack chuyển đổi 3.5mm khi ghi âm thì nó bị rè em có thử lại với ipad thì cắm tai nghe (không Jack ) thu âm ko bị gì và cắm tai nghe + Jack thu âm bị rè vậy cho em hỏi lỗi do Jack hay tai nghe không tương thích ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.019333,
+         "id": "1149680",
+         "field_search": "question",
+         "question": "mình cắm dây samsung vào với ổ cắm iphone thì sạc có làm sao không?mà lúc mình sạc thì nó lại phát ra âm thanh rè rè ấy,mà sạc thì vẫn vào pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.436607,
+         "id": "897725",
+         "field_search": "question",
+         "question": "adm cho e hỏi. lap top của e đang sài bình thường. hôm qa e nghe nhạc thì cắm tai nghe vô, rồi e rút tai phone ra tự nhiên h lap của e bị rè loa. h phải làm sao ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.80822,
+         "id": "1024328",
+         "field_search": "question",
+         "question": "em đang sử dụng điện thoại dòng samsung A5 2017. Thông thường các dòng khác em thấy khi cắm tai nghe có thể nói hoặc ghi âm được nhưng với điện thoại này em không thể ghi âm qua tai nghe. Cho em hỏi lý do tại sao và làm như nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.524284,
+         "id": "755905",
+         "field_search": "question",
+         "question": " Tại sao khi cắm tai nghe vào laptop mà âm thanh ở laptop vẫn nghe được bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.958931,
+         "id": "1020460",
+         "field_search": "question",
+         "question": "Điện thoại tôi mặc dù không cắm tai nghe nhưng phần âm thanh media lại tự động chuyển thành âm lượng khi cắm tai nghe, xin hỏi cách khắc phục??? Samsung GalaxyA5 (2016)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.25958,
+         "id": "1146287",
+         "field_search": "question",
+         "question": "Em dùng j7prime. Loa ngoài vẫn nghe bình thường . Hôm nay tự nhiên rè , là bị gì ạ ? Điện thoại em vẫn còn bảo hành ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.961111,
+         "id": "1021292",
+         "field_search": "question",
+         "question": "Cho mk hỏi vs ạ. Mk dùng ASUS zenfone 3 max đk gần 1 nămDạo này tự dưng xuất hiện loa bị rè khi xem video hay phim. Nhưng nghe nhạc lại k bị rè. Chỉ rè 1 lúc mk thoát ra xong vào lại thì thấy bt nhưng đk lúc lại bị rè tiếp. Cho mk hỏi như vậy là bị làm sao và khắc phục như nào . Thank 😂😂😂",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.910553,
+         "id": "869442",
+         "field_search": "question",
+         "question": "Máy của em là iPhone 5s tự dưng bây giờ không phát ra âm thanh, cắm tai nghe vào thì lại hoạt động như bình thường, điều chỉnh phở nút âm lượng thì lại hiển thị âm lượng của tai nghe. Em đã khởi động lại máy, chỉnh các nút rìa nhưng vẫn không được vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.779354,
+         "id": "989668",
+         "field_search": "question",
+         "question": "Cho mình hỏi là hiện tại có loại tai nghe có mic tốt không rè không ạ   ? mình tham khảo để thỉnh thoảng mang cắm đt laptop hát :33 và kèm âm thanh tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.745296,
+         "id": "1152984",
+         "field_search": "question",
+         "question": "Làm thế nào để khắc phục loa bị rè, nghe không rõ trên máy mobiistar LAI YUNA 1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.51393,
+         "id": "837108",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao điện thoại iphone của mình khi cắm tai nghe vào thì vẫn nghe nhạc bình thường mà mình rút ra để nghe loa trong điện thoại thì lại không nghe được mình nhấn nút âm lượng thì cứ bảo là âm lượng tai nghe như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.058084,
+         "id": "1157949",
+         "field_search": "question",
+         "question": "cho em hỏi cách đây 1 tháng em có mua ip7 plus bên mình . hiện h em quay video cam sau lại nghe tiếng rè rè em không biết có sao kh nữa . làm cách nào để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.03545,
+         "id": "875898",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình đang sài cái obi. Ghi âm trong máy ổn. Nhưng ghi âm trên zalo và messages thì bị rè. Mạng ổn định, và đã xóa cài lại zalo và messages nhưng vẫn bị. Có cách nào khắc phục được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.684568,
+         "id": "1135410",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi chút ạ. Mình dùng samsung j7 pro khi cắm tai nghe vào nghe nhạc lúc mình rút tai nghe ra thì điện thoại bị mất loa ngoài. Cắm tai nghe vào thì vẫn nghe được tai nghe, loa thoại bình thường mỗi loa ngoài là ko kêu gì hết. Mong TGDĐ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.527637,
+         "id": "998934",
+         "field_search": "question",
+         "question": "Ad ơi, laptop mình mới cập nhập lên win 10, và khi thu âm thì chỉ  nghe tiếng rè rè mà không nghe được âm thanh giọng nói thu vào, trước kia thì vẫn tốt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.42508,
+         "id": "1155275",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e xài ip 7plus , mà ngay logo táo e đưa tai vào thì nghe có tiếng rè rè v có bị sao không ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.333576,
+         "id": "1015708",
+         "field_search": "question",
+         "question": "em dùng ip5s loa dùng bình thường nhưng cứ vào youtube mà em tải về điện thoại là ko nghe được tiếng nó cứ rè rè ấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.078165,
+         "id": "996581",
+         "field_search": "question",
+         "question": "Em dùng điện thoại samsung galaxy tab 4. đang nghe tai nghe bình thường tự nhiên nó nhỏ đi? em có đổi tai nghe khác mà vẫn không nghe lớn như bình thường được? em có gắn cái tai nghe đó sang điện thoại khác tai nghe đó vẫn nghe bình thường? em muốn hỏi cách khác phục ạ. cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.02055,
+         "id": "1015526",
+         "field_search": "question",
+         "question": "E xài đt samsung j7 pro , e đi mưa rồi loa bị vào nước..giờ nó bị rè rè..bây giờ mang ra tgdd tháo để sấy được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.62508,
+         "id": "1150692",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy pocophone F1 của mình mới mua tầm gàn 2 tuần mà lúc mình đang xem phim thì cái tai nghe của mình nghe bị chập chờn lúc đc lúc không xong rè như radio luôn cắm đi cắm lại vẫn rè xong mình phải khởi động lại máy thì mới dúng đc không biết còn lặp lại tình trạng đó không(mình có thử với tai nghe khác rồi nhé)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.540104,
+         "id": "998729",
+         "field_search": "question",
+         "question": "Em đang dùng sámung j5 2016 máy bị đơ và tự khởi động khi cắm tai nghe sau khi rút tai nghe ra vẫn bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.527388,
+         "id": "1001382",
+         "field_search": "question",
+         "question": "E sài zenfone 2 .. quay phim hoặc ghi âm đều được nhưng khi cắm tai nghe .. quay phim vẫn có tiếng mà sao ghi âm lại không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.450693,
+         "id": "770594",
+         "field_search": "question",
+         "question": "Máy tính em đang hoạt động tốt, nhưng không hiểu tại sao âm thanh khi nghe bằng tai nghe lại nhỏ hơn bình thường rất nhiều dù em đã bật 100% âm lượng (em dùng usb sound nhưng vấn nghe bình thường không hiểu tại sao lại bị như vậy), khi nghe bằng loa vẫn bình thường? Cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.431149,
+         "id": "1134394",
+         "field_search": "question",
+         "question": "E đang xài j3 pro, cho e hỏi s mỗi khi e vào game đang xài bình thường  thì máy lại tự reset ạ, cho e xin cách khắc phục vs hicc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.718433,
+         "id": "889677",
+         "field_search": "question",
+         "question": "qtv cho mình hỏi pc của bình tự nhiên micro không hoạt động cắm tai nghe vô và nói trên micro tai nghe người khác vẫn không nghe được là lỗi do đâu ạ và cho mình xin cách khắc phục với ạ .........thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.36891,
+         "id": "780650",
+         "field_search": "question",
+         "question": " iphone 6 plus . Khi cắm tai nghe vào chỉ nghe được 1 bên. 1 bên thì rè.. là lỗi gì vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.000132,
+         "id": "1141566",
+         "field_search": "question",
+         "question": "có ứng dụng hoặc cách nào để ghi âm màn hình mà có cả âm thanh khi đeo tai nghe trên samsung j7 prime không ạ? Em xài DU recorder nhưng đeo tai nghe thì khi ghi lại video đang phát lại không có âm thanh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.983692,
+         "id": "819206",
+         "field_search": "question",
+         "question": "Em có con 5s sao khi em cắm tai nghe vào vẫn nghe bình thườngkhi rút tai nghe ra bấm tăng giảm âm lượng nó vẫn hiển thị tai nghe và loa ngoài không nghe được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.96566,
+         "id": "1161284",
+         "field_search": "question",
+         "question": "em sử dụng đt samsung j1. khi cắm tai nghe vào thì chỉ nghe được 1 bên mà khi lấy tai nghe đó cắm vào máy khác thì nghe bình thường là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.883263,
+         "id": "1022536",
+         "field_search": "question",
+         "question": "Cho e hỏi.e mới mua samsung galaxy a7 được vài ngày.lúc đầu cắm tai nghe vào vẫn bình thường nhưng hôm nay lại không cắm vào được.phải cắm mạnh vào mới nghe được nhưng bắt buột phải giữ chặt tai nghe. Nếu không giữ chặt thì tai nghe không thể ghim sát được. Cho e hỏi phải khắc phục như thế nào ạ?E cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.868446,
+         "id": "799057",
+         "field_search": "question",
+         "question": " IPad air quay video không có âm thanh mà chỉ có tiếng rè rè. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.849548,
+         "id": "752310",
+         "field_search": "question",
+         "question": "Có ai giúp e vs. Con iPhone 4 của em tự dưng bị khởi động lại khi e cắm nhầm dây av nghe nhạc loa vi tính. Khi khởi động lại thì máy bị nghe rè và nhỏ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.50166,
+         "id": "1017343",
+         "field_search": "question",
+         "question": "ad cho mình hỏi mình có con samsung j3 bị rè loa trong mua tai tgdd nhưng hết bảo hành rồi cho hỏi sửa bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.333696,
+         "id": "1158437",
+         "field_search": "question",
+         "question": "Cho e hỏi Làm sao khắc phục lỗi android.process.acore cho samsung j3 pro ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.309813,
+         "id": "1143112",
+         "field_search": "question",
+         "question": "Máy Nokia 6.1 plus mình mới mua bị âm lạ tiếng rè rè khi gọi video",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.275944,
+         "id": "1138524",
+         "field_search": "question",
+         "question": "Chiếc Oppo f9 em mới mua ko biết là sao mà mỗi lần quay màn hình hay ghi âm lại thì âm thanh rất rè",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.130194,
+         "id": "761732",
+         "field_search": "question",
+         "question": "Mình có mua 1 iPad mini ở TGDĐ tự nhiên loa ngoài của mình không nghe đc nhưng khi cấm tai nghe vào thù nghe bình thường. Cho hỏi máy mình bị gì vậy? Làm sao để trở lại bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.0778,
+         "id": "1159017",
+         "field_search": "question",
+         "question": "cho e hỏi e dùng con samsung j4 lúc cắm tai nghe vào vẫn nghe bình thường nhưng mic nói thì k nói đc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.74655,
+         "id": "811714",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi. Mình mới mua 1 cái tai nghe iphone. Mình dùng ip4s cắm vào chỉ nghe dc 1 bên tai. Còn cắm vào các máy lhzcs thì nghe dc cả 2. Làm thế nào để khắc phục dc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.715961,
+         "id": "760149",
+         "field_search": "question",
+         "question": "Ad ơi iphone4 của e bị mất âm thanh của nhạc và game khi ở loa ngoài .Nhưng khi cắm tai nghe thì vẫn nghe nhạc với cả tiếng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.701376,
+         "id": "975136",
+         "field_search": "question",
+         "question": "Bạn ơi giúp mình với. File ghi âm dài hơn 2 tiếng của mình ở ip5 bị lỗi ko chạy, ko nghe được, trong khi các file mình ghi trước và sau file này vẫn nghe bình thường. Mình thử chia sẻ file sang thiết bị khác để nghe nhưng không được. Đây là file ghi âm quan trọng, có cách nào làm nó chạy được không?Mình cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.527464,
+         "id": "766644",
+         "field_search": "question",
+         "question": "Mình sử dụng máy iPhone 5s và sử dụng zalo,mình muốn ghi âm bài hát mình nghe ở phần mềm nghe nhạc nhưg khi ăn vào ghi âm trên zalo để chia sẻ nhưng ko đc vì mỗi lần ăn ghi âm là nhạc tự tắt ko hay nữa,bạn cho mình hỏi phải làm sao để ghi âm đc.xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.46582,
+         "id": "918123",
+         "field_search": "question",
+         "question": "cho e hỏi .. máy em 4s , có khi nghe dc có khi không ( nhac+ video ) cắm tai nghe thì đôi khi tự tắt .... còn nghe gọi, chuông vẫn bình thường ... nguyên nhân và cách giải quyết sao ạ ...?\\",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.345444,
+         "id": "1023338",
+         "field_search": "question",
+         "question": "E mới mua con j7pro 2 tuần.mới mua cắm tai nghe nghe bình thường nhưng giờ cắm k nghe nữa.k hiển thị tai nghe luôn.tai nghe vẫn hoạt động tốt ở máy khác",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.267063,
+         "id": "1133840",
+         "field_search": "question",
+         "question": "Máy em là samsung J3 Pro đang sài bình thường tự nhiên bị liệt nút nguồn , có cách nào giúp mình không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.208197,
+         "id": "754541",
+         "field_search": "question",
+         "question": "Cho mình hỏi chiếc iphone 4 của mình không nghe nhạc bằng loa ngoài được nhưng cắm tai phone vào thì nghe bình thường. chuông báo cuộc gọi tới củng bình thường. xin thế giới di động hướng dẫn mình cách khắc phục lỗ trên.mình củng đã restore lại máy rồi những vẫn không được.xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.946596,
+         "id": "1145919",
+         "field_search": "question",
+         "question": "Samsung j7 pro tự nhiên mất rung, cho dù có bật chế độ rung...Làm sao để rung lại bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.79861,
+         "id": "830138",
+         "field_search": "question",
+         "question": " Samsung j3 vào camera nó để Máy ảnh bị lỗi là sao vậy? làm sao để khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.41114,
+         "id": "878888",
+         "field_search": "question",
+         "question": " Sao điện thoại samsung a9 pro của e cắm tai nghe vào không nhận vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.211866,
+         "id": "1152157",
+         "field_search": "question",
+         "question": "Em sử dụng nokia 7 plus dạo gần đây e sử dụng tai nghe là điện thoại tự giảm âm lượng.E cắm vào máy khác thì bình thường còn máy mình vẫn bị điện thoại e mới mua hàng qua sử dụng chưa được 1 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.15889,
+         "id": "793968",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua Samsung Galaxy J4 của Thế giới di động nhưng khi em cắm tay vào máy thì không hiển thị tai nghe và không nghe được, còn cắm sạc thì bình thường. Mong anh chị giải thích cho em hiểu và tìm cách khắc phục..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.93728,
+         "id": "1155330",
+         "field_search": "question",
+         "question": "Mình dùng j7 pro. Hôm nay cắm tai nghe vào máy không nhận, mình tưởng tai nghe hỏng nhưng không phải, cắm tai nghe vào máy tính vẫn nghe tốt. Vậy là máy điện thoại mình có vấn đề phải không ạ? mình cần đem máy đến đâu để kiểm tra ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.914633,
+         "id": "781608",
+         "field_search": "question",
+         "question": "Mình vừa mua iPhone 5S ở TGDĐ được 3 ngày nhưng loa máy khi phát được hai phần ba âm lượng có rè rè. Vậy có sao không và có được đổi máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.895237,
+         "id": "1117031",
+         "field_search": "question",
+         "question": "Tại sao tivi vào xem youtube không được nên tôi đã vào cài đặt nhà máy để cài lại và giờ tivi bị rè mà vẫn xem không được? Khắc phục sớm giúp tôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.859896,
+         "id": "994225",
+         "field_search": "question",
+         "question": "Điện thoại Iphone thường bị giảm âm thanh nghe nhạc để ưu tiên chuông báo tin nhắn, zalo, viber. Làm sao khắc phục tình trạng này?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.688158,
+         "id": "1152353",
+         "field_search": "question",
+         "question": "Cho em hỏi huawei 3i mới mua nghe nhạc loa rè với nhỏ hơn note 6 pro đúng k ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.622656,
+         "id": "763912",
+         "field_search": "question",
+         "question": "  Lenovo A6010 mà quay phim bị tiếng rè rè không nghe rõ. điện thoại em mới mua , được ngày? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.601646,
+         "id": "1160415",
+         "field_search": "question",
+         "question": "E sài Samsung j4 plus . lúc cắm dây phone. Thì loa trong vẫn bình thường. Nge vẫn tốt. Mà mỗi khi có cuộc gọi tới thì loa ngoài phát ra tiếng. E ko thik v . lm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.517962,
+         "id": "988939",
+         "field_search": "question",
+         "question": "máy tính của em cắm tai nghe vào thì tai nghe không nghe được mà máy vẫn phát nhạc máy vẫn hát . em đã thử nhiều tai nghe rồi nhưng tất cả tai nghe em thử đề vậy . vậy nguyên nhân là do đâu và biện pháp khắc phục phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.505627,
+         "id": "794878",
+         "field_search": "question",
+         "question": "mình mới mua 1 chiếc iphone 5s tại thế giới di động Giao Thủy. Mang về sử dụng thì tai nghe trong có vẻ có vấn đề gọi 900 thì vẫn nghe rõ nhưng nghe hay gọi cuộc gọi của mọi người thì bị rè và âm thanh rất nhỏ. Cho mình hỏi là có bị lỗi cài đặt hay là lỗi loa trong để ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.320248,
+         "id": "1143054",
+         "field_search": "question",
+         "question": "Em lỡ tay xóa mất phần mềm ứng dụng ghi âm trên Samsung J4, làm sao để khôi phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.273825,
+         "id": "1019124",
+         "field_search": "question",
+         "question": "Chào ad, Em dùng Samsung C9 Pro. Từ trước giờ em dùng ghi âm bình thường nhưng hôm nay lại ghi âm lại báo lỗi ghi âm khi đang gọi. Trong khi em không có thực hiện cuộc gọi nào cả? Ad hỗ trợ giúp em nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.102835,
+         "id": "891564",
+         "field_search": "question",
+         "question": "CHo hỏi cách tải ghi âm tự Ghi Âm pro vào máy tính a! Ghi âm rồi nhưng không biết tại vào máy tính từ Ghi âm Pro. Cảm ơn các bạn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.002602,
+         "id": "1160903",
+         "field_search": "question",
+         "question": "Mình có 1 máy samsung galaxy grand prime không nhận tai nghe, cắm 1 tai nghe khác vào lại nghe được bth, tai nghe kìa cầm sang máy khác cũng vẫn nghe được ,thế là bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.95265,
+         "id": "842386",
+         "field_search": "question",
+         "question": "Mọi người cho e hỏi, laptop asus của e khi xem video trên youtube thường hay bị đơ màn hình trong khi âm thanh vẫn nghe bình thường thì khắc phục thế nào ạ! (voducthuan0903)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.85855,
+         "id": "1166516",
+         "field_search": "question",
+         "question": "Hiện tại thì có đang dùng M20. nhưng tự nhiên loa thoại Loa trong nó bị rè, giờ khắc phục tại nhà như thế nào ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.762625,
+         "id": "1144602",
+         "field_search": "question",
+         "question": "Mình dùng máy Huawei nova 3i nghe một số bài nhạc thì loa bị rè, như thế loa cí bị làm sao không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.710115,
+         "id": "1159082",
+         "field_search": "question",
+         "question": "Hi. Mình mới mua Samsung M20 cách đây 1 tuần, mình bật bluetooth lên thì tìm kiếm và kết nối được với các điện thoại khác nhưng không thể tìm kiếm được tai nghe (mình dùng WI C400 của sony). Trong khi tai nghe của mình vẫn hoạt động bình thường (kết nối với các thiết bị khác bình thường). Làm ơn cho mình hỏi làm sao kết nối với Samsung M20 với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.649942,
+         "id": "959960",
+         "field_search": "question",
+         "question": "Chào bạn.máy iphone6s plus của mình k hiểu sao tự dưng hnay bị rơi vào chế độ tai nghe.k nghe được loaMình đã khởi động lại máy và vệ sinh tai nghe nhưng vẫn k đc.Cho mình hỏi bjo phải làm cách gì a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.52248,
+         "id": "1004927",
+         "field_search": "question",
+         "question": "Điện thoại Ip6s của em vừa mới bị rớt xuống nước.Em có lấy lên liền và reset lại máy.Mọi thứ thì bình thường còn loa thì bị rè rè ấy ạ ;-; Em có cần phải đưa ra ngoài store để kiểm tra không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.395155,
+         "id": "1010383",
+         "field_search": "question",
+         "question": "Điện thoại của mình là J7 prime, nếu bây giờ jack cắm bị lỗi chỉ nghe được 1 bên head phone thì mình dùng tai nghe bluetooth thì có bị ảnh hưởng ko hay xài bình thường ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.38143,
+         "id": "1165511",
+         "field_search": "question",
+         "question": "Cho mình hỏi.Mình mới mua samsung A30 tại sao ghi âm cuộc gọi xả lại ko nghe đc âm thanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.353973,
+         "id": "1024242",
+         "field_search": "question",
+         "question": "Cho mình hỏi sasung Galaxy j7 2016 mà loa ngoài bị rè và nhỏ thì là do nguyên nhân nào và khắc phục ra sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.336466,
+         "id": "1138179",
+         "field_search": "question",
+         "question": "Màn hình đt samsung j3 pro tự nhiên bị mờ như này là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.299969,
+         "id": "1168413",
+         "field_search": "question",
+         "question": "Em dùng iPhone 6s plus máy còn 99% thì sập nguồn bật lại ko lên, cắm sạc vào thì máy chạy bình thường. Nhưng rút sạc ra là máy lại sập dung lượng pin vẫn ghi 100% Máy em bị làm sao và cách khắc phục là gì ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.267427,
+         "id": "1011438",
+         "field_search": "question",
+         "question": "Điện thoại em khi cắm tai nghe nghe nhạc và khi tăng âm lượng thì máy báo UI hệ thống đã dừng là sao ạ? Điện thoại em là xong xperia c4 dual, à chỉ cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.247126,
+         "id": "1139249",
+         "field_search": "question",
+         "question": "Loa của điện thoại nova 3i nghe ngoài thì bình thường, sao cắm tai nghe với cắm vào loa to ngoài thì rất nhỏ. Có phải loa nó như v không, hay điện thoại mình cố vấn đề?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.12409,
+         "id": "1141787",
+         "field_search": "question",
+         "question": "Em vừa mua tai nghe bên tdgd mình. Em đã thử device manager, sound, restart nhưng vẫn ko dùng đc trên laptop. Tai nghe vẫn nghe được trên điện thoại bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.116585,
+         "id": "1013703",
+         "field_search": "question",
+         "question": "hiện nay em đang xài samsung j3 2016.. khi em chơi liên quân,wifi full mà tự dưng bị ngắt kết nối và tự động kết nối lại.  Nó cứ xuất hiện liên tục. Em không biết điện thoại em bị sao hết ! Ad giúp em khắc phục lỗi này với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.816248,
+         "id": "1158740",
+         "field_search": "question",
+         "question": "Mấy anh cho e hỏi máy Max pro m2 của e lâu lâu nó có bị rè âm e có dc đổi máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.77646,
+         "id": "1162485",
+         "field_search": "question",
+         "question": "Mình xài oppo a3s khi mình gọi zalo mà để qua đêm vs bạn thì khoảng 3,4h  gì thì tự động ngắt kết nối bên mình ko thấy đc thông tin cuộc gọi dù đã bật rồi, trước đó mình xài samsung j2 pro gọi như thế vẫn bình thường, người đó cũng để thế ko có tắt cuộc gọi nhưng vẫn ngắt kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.774296,
+         "id": "956426",
+         "field_search": "question",
+         "question": " Cho em hỏi laptop em mới mua sao nó kêu rè rè khi đang chạy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.718771,
+         "id": "1010734",
+         "field_search": "question",
+         "question": "Sao note 5 của e không gọi được messager chỉ cắm tai nghe   vô mới nghe được. Khắc phục như thế nào ạ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.71397,
+         "id": "798815",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 4s của em khi cắm tai nghe thì có thanh điều chỉnh âm lương và rút ra thì không có? Cho e cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.604265,
+         "id": "801220",
+         "field_search": "question",
+         "question": "em co iphone 5 chạy ios 9.2 bản quốc tế . máy thì em ghi âm ,nghe gọi vẵn bình thường nhưng em mở siri lên và nói vài câu thì siri không nhận được giống nhưng mic bj hư vậy nhưng em vào ghi âm thì mic vẵn hoạt động bình thường . nhưng mở siri mic không hoạt động . em đã restore lại và lên ios 9.2.1 bản mới nhất nhưng cũng không khắc phục được . admin và mọi người có thể chỉ cách khắc phục được không a . em cam ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.556236,
+         "id": "1007821",
+         "field_search": "question",
+         "question": "E đang dùng đt samsung j5(6). Từ trước nay e cắm tai nghe vào máy vẫn nghe nhạc bt mà từ hôm qua tới giờ mỗi lần cắm tai nghe ấy vào là đt tự sập nguồn hoặc bị đơ. Rút tai nghe ra máy lại bt. Thế là thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.456322,
+         "id": "1134510",
+         "field_search": "question",
+         "question": "Ac cho mình hỏi. Mình đang xài con Lenovo k6 note mua của TGDD. Khi quay video và coi lại thấy âm thanh bị rè. Cho hỏi nguyên nhân do đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.41758,
+         "id": "838946",
+         "field_search": "question",
+         "question": "Chào anh chị.Chiếc iphone 4s em đanv dùng thỉng thoảng loa ngoài không nghe được. Cả khi dùng tai nghe cũng có tình trạng tương tự, phải rút ra cắm lại tai nghe thì mới nghe được cứ 30s thì bị.Em cần làm gì để khắc phục điều này ạ? Bên anh chị có hỗ trợ em sửa chữa trực tiếp được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.387432,
+         "id": "1016442",
+         "field_search": "question",
+         "question": "Cho mình hỏi với . Cách khắc phục đt iphone 5s bị rè loa , sôi  . Khi mình nhấn phím hay gọi , hay nhận cuộc gọi đều  bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.33546,
+         "id": "753777",
+         "field_search": "question",
+         "question": " Iphone 5S  đang xài bình thường màn hình tự nhiên đen thui . Cắm sạc trái táo cứ nhái nhái là sao vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.322319,
+         "id": "801187",
+         "field_search": "question",
+         "question": "Em có iphone 5 chạy ios 9.2 bản quốc tế . máy thì em ghi âm ,nghe gọi vẵn bình thường nhưng em mở siri lên và nói vài câu thì siri không nhận được giống nhưng mic bj hư vậy nhưng em vào ghi âm thì mic vẵn hoạt động bình thường . nhưng mở siri mic không hoạt động . em đã restore lại và lên ios 9.2.1 bản mới nhất nhưng cũng không khắc phục được . admin và mọi người có thể chỉ cách khắc phục được không a . em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.276829,
+         "id": "914530",
+         "field_search": "question",
+         "question": "Ipad của e sau khi tắt nguồn thì hiển thị ntn. Làm sao khắc phục ạ. E không cài mk hay gì cả. Bình thường vẫn xạc pin xong tự động mở nguồn. 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.275702,
+         "id": "1157581",
+         "field_search": "question",
+         "question": "Sao mình đi bơi đeo apple ưatch sẻies 3 bật tính năng chống nước mà khi lên thì loa của apple watch bị rè tại sao vậy và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.16148,
+         "id": "1154584",
+         "field_search": "question",
+         "question": "Cho em cách khắc phục laptop em không tìm thấy thiết bị tai nghe bluetooth awei a930bs. Em có thử laptop của bạn em vẫn không tìm ra được nhưng điện thoại thì vẫn tìm thấy và kết nối bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.156404,
+         "id": "1017027",
+         "field_search": "question",
+         "question": "Samsung A3 2017 tự khởi động lại liên tục nhưng cắm sạc thì hoạt động bình thường?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.09199,
+         "id": "1155021",
+         "field_search": "question",
+         "question": "Thưa QTV, mình đang dùng điện thoại SS J4, máy vẫn đang bình thường nhưng tự dưng mình không mở khóa màn hình được, mỗi lần mở khóa máy báo sai mật khẩu. Vậy cho mình hỏi máy mình đang bị lỗi gì ạ? và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.043741,
+         "id": "1160535",
+         "field_search": "question",
+         "question": "cho hỏi sao iphone 7 plus mình chạy ios 10 . khi quay video camera trước không có âm thanh mà chỉ nghe đc xoè xoè . khi dùng app khác quay video camera trước lại nhận âm thanh bình thường . mình đã test 3 mic trên đt nghe gọi và ghi âm bình thường , và đã reset như mới mà vãn z / k biết đay là lỗi gì ạ . cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

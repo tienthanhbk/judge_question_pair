@@ -1,0 +1,809 @@
+{
+   "id_query": "826987",
+   "total": 30672,
+   "total_current": 100,
+   "max_score": 118.525475,
+   "origin_question": "Tại sao zalo của tôi không tìm được vị trí để gắn kèm. Trong khi đó facebook thì gắn kèm được. Hãy giúp tôi. Cảm ơn! dòng điện thoại oppo neo3 r831k",
+   "hits": [
+      {
+         "score": 118.525475,
+         "id": "826987",
+         "field_search": "question",
+         "question": "Tại sao zalo của tôi không tìm được vị trí để gắn kèm. Trong khi đó facebook thì gắn kèm được. Hãy giúp tôi. Cảm ơn! dòng điện thoại oppo neo3 r831k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.350395,
+         "id": "873645",
+         "field_search": "question",
+         "question": " Vì sao khi chuyển vùng zalo của tôi trên điện thoại sam sung A5 không cập nhật được vị trí ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.70958,
+         "id": "919418",
+         "field_search": "question",
+         "question": "Sao sim của tôi gắn vào đt khác thì gọi được còn gắn đt tôi đang dùng thì không được. Gắn sim khác vào đt vẫn gọi được. Iphone 5s nha giúp tôi cái tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.140846,
+         "id": "1161894",
+         "field_search": "question",
+         "question": "Chào adminBạn vui lòng hướng dẫn giúp cách đồng bộ danh bạ từ oppo A83 lên gmail,  tại vì tôi làm mà chưa được,  bên gmail chỉ hiện có 3 liên lạc,  trong khi danh bạ trên điện thoại thì hơn 200 liên lạc(file đính kèm) Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.04753,
+         "id": "1155180",
+         "field_search": "question",
+         "question": "Tôi mua đt A13 ở cửa hàng TGDĐ, cho hỏi đt này có kiểm tra được định vị vị trí điện thoại không? Nếu có xin hướng dẫn cho tôi. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.133263,
+         "id": "1165417",
+         "field_search": "question",
+         "question": "Chào adTôi đã mua 1 chiếc đt oppo f5 tại cửa hàng mang tên tôi.Hiện tại đt của tôi bị trộm, có cách nào để tìm kiếm vị trí chiếc đt đó thông qua thông tin tôi đã đăng ký ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.816608,
+         "id": "687704",
+         "field_search": "question",
+         "question": "Tôi dùng 1 số điện thoại để đăng kí 2 facebook. Giờ facebook củ không mở được mà vẫn nhận được tin nhắn. Tôi đã đổi số điện thoại ở facebook mới rồi mà vẫn không vào được facebook củ.gio tôi phải làm sao?xin hãy giúp đỡ. Xin cam on.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.739807,
+         "id": "1138542",
+         "field_search": "question",
+         "question": " Em gắn thẻ nhớ vào vị trí gắn thẻ nhưng mở máy lên vẫn báo chưa gắn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.164696,
+         "id": "1018017",
+         "field_search": "question",
+         "question": "Tôi bị mất điện thoại oppo A57 chưa cài đặt định vị, mới cài đặt gmail thì làm cách nào tìm điện thoại. tôi kiểm tra email máy đã đồng bộ dữ liệu lần cuối rồi, các bạn giúp tôi với, cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.457506,
+         "id": "836564",
+         "field_search": "question",
+         "question": "Khi nhập số điện thoại vào để đăng nhập zalo tôi nhập các số nhưng không thấy hiển thị (không nhập được) vậy thì phải làm sao?Trước khi có trường hợp trên zalo của tôi vẫn đang hoạt động bình thường nhưng khi nhập kí tự viết tin nhắn thì không nhập được, sau đó tôi gỡ zalo và cài lại thì không nhập được số điện thoại vào để đăng nhập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.261591,
+         "id": "997308",
+         "field_search": "question",
+         "question": "Tôi đang xài oppo neo7.. Cho hỏi tại sao chỉ mỗi điện thoại của tôi là không tìm thấy wifi đó. Hôm qua vẫn còn dò được và sử dụng wifi đó bình thường..nhưng hôm nay chẳng những không xài được mà còn không tìm thấy mạng wifi đó nữa??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.148182,
+         "id": "1154611",
+         "field_search": "question",
+         "question": "Em bị mất cây Oppo f9 không mở định vị nhưng em có Đăng nhập Google Facebook Zalo và cả số điện thoại thì mình có cách nào để tìm được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.952152,
+         "id": "837771",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng điện thoại Lumia 525. Tại sao lúc thì fb vào được còn có lúc thì lại không vào được , trong khi đó zalo và google t vẫn truy cập bình thường...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.915731,
+         "id": "903476",
+         "field_search": "question",
+         "question": "Tôi không gởi được messenger trên Facebook cho 1 người.còn tất cả các bạn khác mình đều gởi được.và người bạn đó cũng vậy chỉ có mình tôi là bạn đó không gửi được thôi.xin hãy cho tôi biết lý do và giúp tôi với.cám ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.839605,
+         "id": "1152888",
+         "field_search": "question",
+         "question": "Add ơi ! Tôi sử dụng điện thoại vivas lotus s3 lte bị gặp vấn đề nhắn tin không hiễn thị tiếng việt có dấu và không đính kèm được file ảnh trong thư viện lên facebook được? Nhờ Add chỉ hộ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.753954,
+         "id": "819770",
+         "field_search": "question",
+         "question": "Tại sao khi tôi cài viber vào điện thoại thì danh bạ chỉ dùng được một số người còn lại ko dùng đc. Trong khi đó tại điện thoại trước tôi vẫn sử dựng bình thường? hiện tại tôi đan dùng iPhone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.585413,
+         "id": "816285",
+         "field_search": "question",
+         "question": "tôi dùng 1 sđt để đăng ký 2 nick facebook giờ nick cũ không vào được nên tôi muốn xóa nick đó thì phải làm sao???? xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.561644,
+         "id": "838902",
+         "field_search": "question",
+         "question": "Tại sao IPhone 5s của tôi lại không gửi ti nhắn được, mặc dù tôi đã làm đủ mọi cách giống như trên mạng, nhưng vẫn không được, giờ phải làm sao để nhắn tin đc đây? Tôi cần nhắn gấp trong 1 ngày nữa nên hãy trả lời nhanh nhé! Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.438574,
+         "id": "1016586",
+         "field_search": "question",
+         "question": "Tôi dùng sam sung trend lus tôi muốn hỏi tại sao dung lượng trong bộ nhớ của tôi cứ tăng dần tư từ trong khi đó tôi không dùng một dung lượng nào hãy chĩ cách khắc phục giúp . Với lại tôi hỏi sam sung trend lus có tải được tập kick hay liên quân không . Và chĩ tôi cách xóa ram",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.328133,
+         "id": "860196",
+         "field_search": "question",
+         "question": "Tôi dùng điện thoại nokia lumia 525, do sử dụng facebook bị hack quá nhiều nên tôi cài đặt bảo mật 2 lớp bảo mật và cài đặt chỉ điện thoại của tôi mới dùng đc facebook. Bây giờ tôi đăng nhập facebook và các thiết bị khác không được . Các bạn có thể giúp tôi gỡ không ? có thì xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.271946,
+         "id": "1163404",
+         "field_search": "question",
+         "question": "ad cho tôi hỏi củ sạc của đế sạc đôi không dây tặng kèm note 9 có thể cắm sạc trực tiếp cho điện thoại note 9 dc ko. xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.228966,
+         "id": "1165051",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại galaxy J7 prime, phụ kiện có kèm tai nghe và sạc pin. Giờ sạc pin của tôi không vào pin nữa không biết có được bảo hành không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.227255,
+         "id": "1156245",
+         "field_search": "question",
+         "question": "Tôi dùm dt ss A6 lúc trước vào zalo định vị vị trí quét xung quanh dc sao giờ vào quét định vị vị trí k dc vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.095346,
+         "id": "917873",
+         "field_search": "question",
+         "question": "tôi quên mật khẩu mở khóa ip5s của mình thì giờ tôi phải làm thế nào để khắc phục được lỗi nói trên? xin hãy giúp tôi! tôi xin cảm ơn1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.690031,
+         "id": "1001275",
+         "field_search": "question",
+         "question": "oppo neo3 R831K chơi dc liên quân không?không mượt cũng dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.602003,
+         "id": "1140594",
+         "field_search": "question",
+         "question": "Khi mua điện thoại Oppo 3s tại chi nhánh Long An, người bán yêu cầu tôi phải xoá ứng dụng thegioididong gì đó để không phải bị trừ tiền, nhưng tôi tìm không biết nằm đâu nên không xoá được. Mong mau chóng trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.50818,
+         "id": "1019770",
+         "field_search": "question",
+         "question": "tối qua mình bị mất điện thoại oppo s1, sau đó mình gọi thì điện thoại tắt máy. vậy mình làm sao định vị được điện thoại đã mất, hay bằng cách nào để tìm được điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.368214,
+         "id": "1006455",
+         "field_search": "question",
+         "question": "tôi có thể mở pin điện thoại oppo A37 như thế nào vui lòng chỉ giúp cho tôi để tôi lắp sim cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.32133,
+         "id": "1145494",
+         "field_search": "question",
+         "question": "Xin chào.Cho tôi hỏi shop có bán loại ốp lưng trong của samsung s9 ko ạ, tôi có hình đính kèm. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.184662,
+         "id": "999644",
+         "field_search": "question",
+         "question": "ad cho em hỏi là em bị kẻ gian lấy mất điện thoại,điện thoại em là huawei y6 II ,có liên kết gmail,onedrive,và theo em được biết thì hình như là điện thạoi này có chức năg tìm vị trí j j đó phải ko ạ?ad cho em hỏi là có cách nào giúp em xác địh được vị trí của điện thoại bị mất ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.166096,
+         "id": "922676",
+         "field_search": "question",
+         "question": "Tại sao không thể đăng nhập zalo, facebook trên điện thoại của em. Trong khi đó có thể đăng nhập trên một thiết bị khác ạ. Xin giúp đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.005983,
+         "id": "1164507",
+         "field_search": "question",
+         "question": "Tôi muốn định vị điện thoại oppo f11 pro bằng icloud được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.882822,
+         "id": "1134481",
+         "field_search": "question",
+         "question": "XIN CHÀO! E XÀI DT OPPO F9, KHI E TẢI PHẦN MỀM ĐỊNH VỊ VỀ MÁY OPPO THÌ KHI XÀI 3G, NO K TỰ ĐỘNG CẬP NHẬT VỊ TRÍ , CHỈ KHI NÀO VÀO ỨNG DỤNG ĐỊNH VỊ ĐÓ THÌ MỚI HIỂN THI VỊ TRÍ , MÀ KHI XEM TRÊN THIẾT BỊ KHÁC THÌ NO ĐỂ KHÔNG CÓ TÍNH HIỆU 3G HOẶC LÀ ĐT OPPO ĐÓ K  TRUY CẬP.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.84039,
+         "id": "1013672",
+         "field_search": "question",
+         "question": "Tôi đã 11 không đăng xuất, nhưng tại sao tôi vẫn không thể nào đổi được số điện thoại. Hiện tại tôi đang dùng điện thoại oppo f3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.690235,
+         "id": "998510",
+         "field_search": "question",
+         "question": "tôi có mua điện thoại trả góp tại tgdd .hàng thàng tôi có đóng và trong đó có 1 số tiền gọi là tiền bảo hiểm .vậy tôi đã trả đúng hạn và đúng quy định vậy số tiền bảo hiểm đó tôi có được hoàn lại không? tôi cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.410454,
+         "id": "1154835",
+         "field_search": "question",
+         "question": "tôi có chiếc điện thoại nokia N gage. tôi đang tìm loại pin có dung lượng tốt để đảm bảo máy hoạt động không bị hết pin. tgdd tư vấn giúp tôi. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.359396,
+         "id": "1160127",
+         "field_search": "question",
+         "question": "Mình đang sử dụng điện thoại realme2 lần trước mình có cài chức năng không khoá điện thoại ở vị trí tin cậy(nhà riêng). Giờ mình k biết làm sao để tắt chức năng đó và khi đi khỏi vị trí đó hàng cây số mà điện thoại vẫn chưa khoá.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.282864,
+         "id": "1019740",
+         "field_search": "question",
+         "question": "Thưa add! Em mới bị mất một chiếc Oppo F1s ạ! Em có bật GPS nữa ạ! Sau khi thử nhiều cách để dò điện thoại bằng tài khoản Google thì em được biết máy của mình đang bắt một Wifi có tên là Khanhnguyen! Rồi sau đó khi dò thì em nhận được máy nữa, liệu add có thể dò vị trí số điện thoại của em hay giúp em cách nào đó được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.168112,
+         "id": "884174",
+         "field_search": "question",
+         "question": "Tôi muốn tải phần mềm gọi về ipad của tôi nhưng không tìm thấy được ipad của tôi là 4.2.2 giúp tôi lf sao tải được phần mềm nghe và gọi trong ipad 4.2.2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.146242,
+         "id": "1163903",
+         "field_search": "question",
+         "question": "làm sao để bật được quyền truy cập ứng dụng khi hiện ra câu \"àm sao để tắt nếu hộp thoại yêu cầu quyền bị chặn bởi một ứng dụng nào đó, hãy di chuyển hoặc đóng ứng dụng đó\"? tôi đã cố gắng tìm cách giải quyết nhưng không thành, thậm chí rết cả điện thoại vẫn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.852076,
+         "id": "1161737",
+         "field_search": "question",
+         "question": "Khi tôi đăng nhập tài khoản Facebook trên điện thoại ,( được đăng ký bằng số điện thoại, và tôi chưa sử dụng tài khoản này trên bất cứ điện thoại nào khác ) thì hệ thống thông báo rằng :\" Chưa xác thực danh tính . Chúng tôi không thể xác thực danh tính của bạn. Vui lòng thử lại sau.\" Sự việc xuất hiện bất ngờ sau 1 ngày oi bức. Tôi chẳng thể làm gì tiếp theo, để có thể sử dụng tài khoản. Trong khi đó, tài khoản đăng ký bằng số sim của tôi . Vậy tôi phải làm gì ở trường hợp nay? Hi vọng nhận được sự hỗ trợ của các bạn. Chân thành cảm ơn !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.839434,
+         "id": "1148342",
+         "field_search": "question",
+         "question": "Hiện mình có đang sử dụng một con Nokia 3. Mua và sử dụng từ năm ngoái đúng ra là tháng 12/2017. Lúc đấy thẻ SD 4GB cũ của mình vẫn còn sử dụng bình thường, chỉ gắn vào là nhận thẻ, đọc ghi bình thường. Nhưng hiện mình cần sử dụng thêm nhiều ứng dụng nữa nên đã mua một con SD 32GB khi gắn vào thì thẻ không tự nhận, kèm theo đó là mình không định dạng thẻ thành bộ nhớ trong của máy được, thêm cái nữa, sau khi mình gắn lại thẻ SD 4GB thì nó không nhận luôn. Mọi người cho mình xin hướng dẫn để sử dụng được thẻ SD với ạ, mình chật vật vài ngày nay với chuyện này rồi ạ. Xin cảm ơn.......",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.795933,
+         "id": "1007271",
+         "field_search": "question",
+         "question": "Tại sao gắn sim trên Xperia m4 rồi mà điện thoại không nhận sim v ad.... e gắn đúng chiều rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.775568,
+         "id": "1163538",
+         "field_search": "question",
+         "question": "A7 2018 của tôi không tìm được wifi tại nhà của tôi, muốn có wifi lại phải khởi động lại, trong khi các mạng wifi bên cạnh vẫn tự cập nhật, cho hỏi tại sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.704855,
+         "id": "831438",
+         "field_search": "question",
+         "question": " tôi muốn tìm zalo của bạn tôi đã lật mặt từ lâu tìm lại được không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.690332,
+         "id": "876221",
+         "field_search": "question",
+         "question": " Tại sao điên thoại lumia 730 của tôi lại không coppy được đoạn văn trên Facebook được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.621614,
+         "id": "998636",
+         "field_search": "question",
+         "question": "Điên thoại samsung s7 edge có hiện ký hiệu được khoanh tròn mầu vàng như ảnh kèm theo. Ký hiệu trên là gì? Làm thế nào để gỡ bỏ được? Giúp tôi nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.588013,
+         "id": "1141951",
+         "field_search": "question",
+         "question": "Sau khi tôi chạy lại chương trình của điện thoại , thì khi tải Instagram thì lại là thiểt bị không tương thích , vậy giờ tôi phải làm sao để tải app về máy thế shop ? ( Tôi dùng dòng Android )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.463497,
+         "id": "1016975",
+         "field_search": "question",
+         "question": "Zalo của tôi gọi điện thoại, nhắn tin được nhưng không đăng ảnh và gửi được ảnh mặc dù tôi đã làm các thao tác như kiểm tra kết nối mạng, đăng suất nhập lại tài khoản zalo, vào ứng dụng xóa bộ nhớ, đăng nhập lại ảnh nhiều lần ,kiểm tra đồng hồ giờ nhưng vẫn không được. Xin hãy giúp tôi  !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.299252,
+         "id": "959972",
+         "field_search": "question",
+         "question": " Tại sao tôi không thể xem được các tin nhắn trong nhóm zalo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.238909,
+         "id": "992240",
+         "field_search": "question",
+         "question": " Tại sao tôi bỏ sim vào điện thoại thì không điện được? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.218187,
+         "id": "928819",
+         "field_search": "question",
+         "question": "Vui lòng cho hỏi tại sao bỗng nhiên samsung E7 của tôi không hiển thị ảnh khi muốn gửi lên facebook và zalo ? Xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.12162,
+         "id": "796148",
+         "field_search": "question",
+         "question": "Tôi quên mật khẩu Apple id của mình. Tôi tìm lại thì họ bắt nhập mã khôi phục nhưng tôi không lưu lại. Bay giờ phải làm thế nào xin hãy giúp tôi :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.121334,
+         "id": "878035",
+         "field_search": "question",
+         "question": " Tại sao tôi dùng facebook để vào hội quán 52 không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.07254,
+         "id": "998746",
+         "field_search": "question",
+         "question": "Ứng dụng facebook trên điện thoại Oppo Neo7 không thể truy cập vào chức năng kết bạn được (như trong hình). Mọi người giúp em được không ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.010948,
+         "id": "1022647",
+         "field_search": "question",
+         "question": "Dt samsung j2 prime của tôi khi ko lắp sim và lắp sim dùng được một lúc thì lại yêu cầu nhập mã pin là bị sao vậy ? Trog khi đó tôi đã chạy hardreset lại rùi ? Xin chuyên gia giúp tôi .tooi xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.979883,
+         "id": "1136043",
+         "field_search": "question",
+         "question": "sử dụng điện thoại a5 2017 có định vị được vị trí của người khác qua điện thoại của mình đăng sử dụng k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.978123,
+         "id": "1157002",
+         "field_search": "question",
+         "question": "Điện thoại tôi là oppo A33W cứ điện là để mẹo bạn không thể gọi đi khi hạn chế cuộc gọi được bật mà tôi không biết tắc mong mn chỉ giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.958406,
+         "id": "1147855",
+         "field_search": "question",
+         "question": "Điện thoại philips w6610 có gắn được thẻ nhớ 32gb không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.903149,
+         "id": "1152106",
+         "field_search": "question",
+         "question": "tại sao Facebook của tôi không like trang fan page được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.827776,
+         "id": "1148759",
+         "field_search": "question",
+         "question": "Mình có điện thoại xiaomi redmi 5 plus, hôm qua mình gắn tai nghe vào điện thoại thì nghe được, mà hôm nay gắn vô lại không nghe được, trước đó không hề rơi, rớt gì cả, vậy là lỗi của nhà sản xuất hay sao ạ, và sửa lại được không, có mất tiền không ạ, nếu mất tiền thì mất khoảng bao nhiêu. Mong được trả lời chi tiết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.72028,
+         "id": "1142473",
+         "field_search": "question",
+         "question": "Điện thoại Xiaomi Mi8 lite của tôi khi chụp bằng chế độ thủ công thì máy đơ ra sau đó ảnh không xem được xin hỏi phải khắc phục như thế nào ạ. Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.629412,
+         "id": "878278",
+         "field_search": "question",
+         "question": " Tại sao trên thanh trạng thái facebook của tôi không có phần tìm bạn bè  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.572859,
+         "id": "766976",
+         "field_search": "question",
+         "question": "Chào anh/chị!Tôi đang xài iPhone 6s plus nhưng không thể tải được hình từ Facebook về máy. Tôi đã vào cài đặt -> quyền riêng tư -> ảnh ... Và tìm mọi cách khác nhưng không thể nào lưu được hình. Khi nhấp và giữ tay vào hình thì nó chỉ hiện ra mỗi chữ \" sao chép \" Vui lòng hướng dẫn giúp tôi!Trân trọng cảm ơn!Mail tôi: anhduong0903@yahoo.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.537691,
+         "id": "1012130",
+         "field_search": "question",
+         "question": "Gửi TGDD. Tôi Tên là Nguyễn Văn Quang, là khách hàng thường xuyên của TGDD, nay xin được mạn phép hỏi vấn đề về khách hàng VIP của bên TGDD. Tháng 7-2017 tôi có mua hàng tại TGDD và được biết tôi là 1 khách hàng VIP, và VIP này có liên quan đến số điện thoại của tôi. Nay tôi viết lên đây vài dòng mong TGDD cho tôi được biết VIP đó như thế nào và khi tôi tiếp tục có giao dịch với TGDD sẽ được những ưu đãi hay khuyến mại gì hay không. Và muốn kiểm tra về tài khoản VIP đó ở đâu. Mong được hỗ trợ. xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.49486,
+         "id": "1134000",
+         "field_search": "question",
+         "question": " tại sao tôi tìm thấy vidio trên zalo của máy lumia 630      ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.454313,
+         "id": "1019390",
+         "field_search": "question",
+         "question": "Cho tôi hỏi màn hình điện thoại tự động cảm ứng tại 1 điểm mình không nhấn: Tôi không chạm vào màn hình mà nó cũng tự cảm ứng, tôi chạm chỗ khác nó cũng cảm ứng chố đó. Vậy tôi có thể khắc phục nó được không hoặc vô hiệu hóa điểm tại đó, còn nếu phải đem sửa thì giá bao nhiêu vậy!  Điện thoại LENOVO P1ma40",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.412907,
+         "id": "787682",
+         "field_search": "question",
+         "question": "Tôi có mua lại một máy iPhone 5s đã qua sử dụng tại thegioididong ngày 12/2. Sau khi về sử dụng được 4 ngày thì camera trước của máy bị lệch vị trí so với ban đầu. Tôi sử dụng không làm rơi hay va đập vậy lỗi này có được đổi trả không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.397844,
+         "id": "1013520",
+         "field_search": "question",
+         "question": "admin cho em hỏi tại sao điện thoại của em vào google nhập tìm kiếm một từ khóa bất kì nào đó và khi mở trang lên nó báo không tìm thấy ứng dụng nào để mở url làm sao để khắc phục ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.327957,
+         "id": "1160113",
+         "field_search": "question",
+         "question": "Máy SS J5 PRO, bị xóa mất biểu tượng facebook, tìm trong ch Play cũng không thấy, nhờ chỉ giúp tôi. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.315004,
+         "id": "805184",
+         "field_search": "question",
+         "question": " Tôi bị khóa zalo hướng dân tôi mở và dùng lại được . Cảm ơn! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.313242,
+         "id": "794996",
+         "field_search": "question",
+         "question": " Tại sao tôi sạc pin điện thoại oppo neo 7 mà khi sạc tôi cầm điện thoại mà pin không vô lại còn bị giật điện ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.28991,
+         "id": "821786",
+         "field_search": "question",
+         "question": " Tại sao tài khoản Zalo .01225964xxx1 của tôi không đăng nhập được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.226128,
+         "id": "1009122",
+         "field_search": "question",
+         "question": "Ad cho em hỏi: Em sử dụng samsung j2 prime nhưng không hiểu sao khi có thông báo tin nhắn comment facebook hay được gắn thẻ hoặc bài viết quan tâm không hiển thị lên màn hình khóa.Ad giúp em khắc phục ạXin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.085606,
+         "id": "1161711",
+         "field_search": "question",
+         "question": "Sau khi tôi xóa tài khoản zalo của mình . Bạn bè có còn xem lại được những tin nhắn chúng tôi đã trò chuyện ko . Cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.066023,
+         "id": "1146981",
+         "field_search": "question",
+         "question": "Cho hỏi tôi làm rơi điện thoại redmi note trong nhà tắm, ngay sau đó điện thoại có vấn đề là bị mất tiếng loa ngoài, tôi đã thử lau chùi và reset máy nhưng không được, xin được giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.924803,
+         "id": "1011926",
+         "field_search": "question",
+         "question": "Xin chào,Tôi mua samsung A7 2017 được 2 tháng. máy đi kèm sạc có chế độ xạc nhanh. Nhưng khi tôi xạc thì lúc thấy hiển thị \"sạc nhanh\" lúc thì không hiển thị gì sau khi kết nối xạc. Là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.906775,
+         "id": "1155484",
+         "field_search": "question",
+         "question": "Tài khoản của tôi up ảnh lên thì 1s sau tự dưng bị xoá. Tôi đã xoá app và tải lại. Nhưng ko đc. Tôi cũng đã tắt đth và mở lại nhưng cũng thế. Hãy giúp tôi. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.89032,
+         "id": "1141429",
+         "field_search": "question",
+         "question": "Tôi muốn xem nội dung trong ICloud của bạn tôi nhưng tôi được biết khi dùng chung vậy thì khi nghe gọi thì hay máy đều hiện lên hết. Vậy làm cách nào để cho máy tôi hiện nội dung của bạn tôi thôi  nhưng máy bạn tôi thì ko hiện lên ( đại loại là xem trộm ); nếu tôi không dùng sim nữa chỉ để máy xem iCloud có thành công ko. Cảm ơn!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.82545,
+         "id": "1140790",
+         "field_search": "question",
+         "question": "Tôi quay video bằng điện thoại Asus, vì muốn âm thanh trong trẻo,  tôi thu âm qua 1 soundcard V10,  và  khi phát lại, thì âm thanh ồn như quay trực tiếp bên ngoài. Thay bằng điện thoại Samsung thì  âm thanh rõ ràng trong trẻo như ý muốn. Tôi muốn hỏi có phải dòng Asus không thu được âm thanh qua soundcard hay là tại tôi chưa chỉnh đúng điều gì trên điện thoại Asus. Xin giải thích và hướng dẫn. Xin cám ơn trước.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.631655,
+         "id": "842506",
+         "field_search": "question",
+         "question": "tại sao điện thoại e gửi ảnh qua zalo cho người khác không được ạ. nhấn nút gửi k được trong khi gửi ảnh qua facebook vsf các ứng dụng khác thì bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.61273,
+         "id": "652991",
+         "field_search": "question",
+         "question": " tại sao tôi không vào được youtube trên điện thoại? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.597616,
+         "id": "995681",
+         "field_search": "question",
+         "question": "Mình lỡ tháo sim từ iphone 5s gắn sang iphone 7 (chưa sao lưu danh bạ). Bây giờ gắn sim lại thì có tìm lại được danh bạ ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.577614,
+         "id": "1159742",
+         "field_search": "question",
+         "question": "dạ cho em hỏi điện thoại của em là iphone Xs max em đã tháo sim và tắt định vị tắt tìm iphone vậy người khác có thể định vị được em không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.54888,
+         "id": "1157119",
+         "field_search": "question",
+         "question": "Tôi mới mua SamSung A50 ngày 23/3/2019. Tại sao tôi set mật khẩu máy là vân tay, trước đó tôi cũng set mật mã thêm Nhưng tại sao sang nay tôi mở máy k mở được bang vân tay mà máy yêu cầu mở bang mật mã. Nhưng tôi không nhớ mật mã. Làm cách nào tôi có thể unclock mà các dữ lieu đã cài không bị mất. có thể gọi điện hay hướng dẫn online giúp tôi được không vì tôi không thể trực tiếp đến cửa hàng được. Xin cám ơn ( Số điện thoại tôi: 0985249447)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.518097,
+         "id": "1136082",
+         "field_search": "question",
+         "question": "Sao facebook em vào bảo mật và đăng nhập để xem vị trí đăng nhập mỗi phiên thì nó không đúng vậy khi thì tỉnh này khi tỉnh khác,  vậy sao em làm sao biết có người khác vào trộm nịck facebook của em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.493927,
+         "id": "1164433",
+         "field_search": "question",
+         "question": "Tôi mới mua Oppo f9 muốn nhân bản ứng dụng messenger mà không được. Chỉ nhân bản được facebook, zalo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.469177,
+         "id": "941636",
+         "field_search": "question",
+         "question": "Tôi mua 1 iphone 5s tại cửa hàng. Sau khi dùng 1 thời gian. Chiếc điện thoại của tôi hay bị loạn cảm ứng. Vậy xin hỏi tôi có được đổi lại không. Tôi còn đầy đủ phiếu bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.44369,
+         "id": "807933",
+         "field_search": "question",
+         "question": " Tài khoản App store của tôi bị vô hiệu hoá bây giờ tôi muốn tạo một tài khoản mới mà không được xin hãy giúp tôi với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.427547,
+         "id": "832819",
+         "field_search": "question",
+         "question": "thẻ nhớ ngoài của mình bị gì mà khi gắn qua laptop rồi gắn lại điện thoại vài lần tự nhiên nó mất hết hình ảnh, giờ có cách nào để khôi phục lại không, mình phải đi phượt mới chụp được mà giờ mất ngang thì uổng phí quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.389048,
+         "id": "827316",
+         "field_search": "question",
+         "question": "Xin chào!Tôi đã dùng viber được một thời gian, nhưng hiện tại tôi đang sống ở nước ngoài. Tôi muốn hỏi làm thế nào để giữ được thông tin và số điện thoại đã đăng ký để đăng nhập cho lần cài đặt mới lần sau, vì đôi khi điện thoại của tôi bị trục trặc và tôi phải cài mới lại từ đầu, nhưng vì ở nước ngoài nên không thể dùng đăng ký theo số điện thoại cũ được. Xin hướng dẫn làm cách nào để tôi có thể lấy lại thông tin tài khoản la số điện thoại cũ để đăng nhập cho lần cài đặt mới? Xin giải đáp cho tôi theo email: hanhbanmai@yahoo.com. Xin chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.347584,
+         "id": "1000257",
+         "field_search": "question",
+         "question": "Tôi hiện tại đang sử dụng thiết bị Samsung galaxy j5 prime. Mặc dù tôi đã tắt hết các ứng dụng trong điện thoại, kể cả những ứng dụng chạy ngầm trên máy, nhưng nó vẫn bị hao pin, để qua đêm thì ít nhất máy bị hao đến 15% pin.Tôi mới mua chiếc điện thoại này được 1 tháng. Anh chị có thể tìm cách giải quyết giúp tôi được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.328918,
+         "id": "916272",
+         "field_search": "question",
+         "question": " tại sao facebook tôi đăng nhập trên các điện thoại được mà trên máy tính, laptop lại ko đc? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.281107,
+         "id": "1013148",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại samsung j7 pro có kết nối hdmi được không vậy ? vì khi mình mua mình có hỏi nhân viên của thế giới di động thì nói là được , nhưng khi mình mua cáp hdmi về gắn vào thì không có tính hiệu gì hết ? trước khi mua tôi có hỏi đàng hoàng ,  nói là có hỗ trợ kết nối hdmi tôi mới mua . giờ thì mua cáp về kết nối không được !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.261648,
+         "id": "1153448",
+         "field_search": "question",
+         "question": "Hãy chỉ tôi cách sài điện thoại đúng để tăng tuổi thọ của pin, cũng như cách sạc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.23955,
+         "id": "1136150",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng điện thoại Galaxy note FE và ba tôi cũng thế. Vì sử dụng cùng 1 dòng điện thoại nên tôi nghĩ có thể lấy dây sạc của đt ba tôi để sạc cho đt của tôi. Nhưng khi cắm vào nó lại hiện thông báo là hãy sử dụng sạc đi theo máy do nhà cung cấp. Tôi ko hiểu có thể giải thích thêm cho tôi đc ko. Vì 2 chiếc đt đều giống nhau",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.213705,
+         "id": "1138404",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại oppo a3s 16gb tại thế giới di động giờ tôi muốn đổi oppo a3s 32gb cáp thêm tiền được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.183075,
+         "id": "989359",
+         "field_search": "question",
+         "question": "tôi mới mua cục sạc dự phòng, nhưng không có kèm theo dây cáp điện thoại, không biết là do thiếu hay là cục sạc không được cấp theo cáp sạc vậy the gioi di dong. do khi đi về không để ý về mới biết là ko có.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.134684,
+         "id": "761383",
+         "field_search": "question",
+         "question": " Máy điện thoại iPhone của tôi không trượt để mở máy được là sao nhỉ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.114973,
+         "id": "779395",
+         "field_search": "question",
+         "question": " Chào bàn tại sao trên điện thoại iphone 5 của tôi không cài đặt được cydia ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

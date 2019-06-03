@@ -1,0 +1,809 @@
+{
+   "id_query": "1143803",
+   "total": 30056,
+   "total_current": 100,
+   "max_score": 87.71706,
+   "origin_question": "Mình mới mua Nokia 8.1 nhưng bị lỗi danh bạ. Nó cứ tự liên kết các số với nhau vào 1 người trong khi mình không yêu cầu.",
+   "hits": [
+      {
+         "score": 87.71706,
+         "id": "1143803",
+         "field_search": "question",
+         "question": "Mình mới mua Nokia 8.1 nhưng bị lỗi danh bạ. Nó cứ tự liên kết các số với nhau vào 1 người trong khi mình không yêu cầu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.89752,
+         "id": "1141644",
+         "field_search": "question",
+         "question": "Lúc mình mới tạo Zalo, thì sđt của người ấy không ở trong danh bạ zalo của mình, và mình vs người ấy cũng không phải là bạn trên zalo. Nhưng khoảng 1-2 tuần sau, người ấy xuất hiện trong danh bạ và là bạn trong zalo của mình, mặc dù mình và người ấy không kết bạn vs nhau. Tại sao vậy ah?_MÌnh chỉ lưu sdt người ấy trong điện thoại thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.53915,
+         "id": "1158965",
+         "field_search": "question",
+         "question": "Danh bạ điện thoại vẫn còn nhưng chỉ hiện kết nối zalo khi người trong danh bạ gọi mình không hiện tên nữa chỉ hiện số. Vô danh bạ ấn tên thì mấy mấy icon nhắn tin gọi điện là như nào nhỉ thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.147823,
+         "id": "1135095",
+         "field_search": "question",
+         "question": "Mình dùng ip7 mua mới và sd đc 1 năm, tự nhiên danh bạ của mình bị mất hết số điện thoại mà có cùng 1 cụm từ mình lưu và lại xuất hiện một số tên lạ trong danh bạ. Như vậy là sao nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.192057,
+         "id": "1140713",
+         "field_search": "question",
+         "question": "Mình dùng máy A7 2018 mà sao tự dưng lại bị mất số điện thoại trong danh bạ. Máy có bị lỗi gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.180204,
+         "id": "1153867",
+         "field_search": "question",
+         "question": "chào bạn ! Mình mới mua Nokia 8.1, nhưng ko biết cách hiển thị danh bạ từ sim cũ, nhờ bạn chỉ giúp nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.423122,
+         "id": "1164489",
+         "field_search": "question",
+         "question": "Add cho mình hỏi ạ: Mình dùng 2 ip chung 1 icloud nhưng anr và danh bạ 2 máy khác nhau nhưng khi vk mình mua ip khác thì khi nhập vào icloud ko thấy có ảnh và danh bạ ở máy cũ của vk mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.067785,
+         "id": "876966",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao máy lenovo của mình sau khi lưu danh bạ xong.khi có người trong danh bạ gọi điện tới lại không hiện tên người gọi mặc dù đã đc lưu trong danh bạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.052963,
+         "id": "1144219",
+         "field_search": "question",
+         "question": "Danh bạ đt của mình tự nhiên mất hết số liên lạc để gọi để nhắn tin giờ chỉ còn lại như trong hình thôi. Ad chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.598022,
+         "id": "738523",
+         "field_search": "question",
+         "question": "Cho mình hỏi với ạ, chỗ gợi ý kết bạn trong zalo hiển thị 1 zalo khác mà ghi là Từ danh bạ, nghĩa là tài khoản zalo danh bạ ngta có số điện thoại của mình hả QTV.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.339796,
+         "id": "1156525",
+         "field_search": "question",
+         "question": "Mình hiện xài ip7 plus! Nhưng danh bạ trong mess k hiện lên danh sách người đang onl! Chỉ hiện lên số ng đang onl thôi! Chỉ mình cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.158655,
+         "id": "1163685",
+         "field_search": "question",
+         "question": "Không thể gửi yêu cầu kết bạn . Danh sách yêu cầu của bạn đã bị đầy.31  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.823612,
+         "id": "849213",
+         "field_search": "question",
+         "question": "Mình muốn xóa 1 số bạn bè trong danh bạ tango (danh bạ trên sim không có những người này). mình cũng đã vào danh bạ tango và nhấn chọn tên người muốn xóa nhưng ko hiển thị thông tin nào để mình chọn xóa. Mình muốn xóa hoàn toàn khỏi tango chứ ko muốn ẩn hay chặn. Mong bạn tra loi som cho minh. minh sd ssung j5 nhưng phần cài đặt ko có \"Manager Block list\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.534681,
+         "id": "1014405",
+         "field_search": "question",
+         "question": "Cho e hỏi e dùng đt itel it1508 plus tại sao các số trong danh bạ toàn bị mất thế vậy. Cứ phải tắt nguồn bật lại mới dc nhưng cũng chỉ 1 lúc là lại mất thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.448006,
+         "id": "929864",
+         "field_search": "question",
+         "question": " Mình mới mua iphone 5s nhưng khi lắp sim vào thì mất hế danh bạ. giờ làm sao để lấy lại danh bạ được nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.402195,
+         "id": "922763",
+         "field_search": "question",
+         "question": "Danh bạ trên iphone của tôi bị ẩn toàn bộ. khi bấm số thì vẫn hiện tên, seach tại danh bạ vẫn có. những ko hiện toàn bộ danh bạ lên. vào danh bạ ghi là không có liên hệTôi đang dùng iphone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.27339,
+         "id": "830881",
+         "field_search": "question",
+         "question": "Em và người thân đang xài cùng icloud nên h danh bạ của e có vài số điện thoại của người thân e, danh bạ của cho cùng 1 số nhưng lại hiện tên đc lưu trong một máy khác. Làm sao để k bị vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.245914,
+         "id": "1141852",
+         "field_search": "question",
+         "question": "mình quên mk fb nhưng yêu cầu mã xác nhận nhiều lần giờ không vào đc nữa, vào nó hiện yêu cầu mã nhiều lần, admin giúp minh với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.175097,
+         "id": "1150541",
+         "field_search": "question",
+         "question": "Cho em hỏi làm sao để người mà em muốn kết bạn zalo có số điện thoại của em trong danh bạ của họ, nhưng em kết bạn thì em muốn họ không thấy số điện thoại của em,và em không muốn trong danh bạ của người hiện sđt của e lên khi e gửi kết bạn và e không muốn cho họ biết đó là em? Thì phải làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.14618,
+         "id": "946270",
+         "field_search": "question",
+         "question": " Sao zalo của em khi người ta gửi yêu cầu kết bạn em nhận được thông báo mà không vào trả lời yêu cầu đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.789341,
+         "id": "1147268",
+         "field_search": "question",
+         "question": "Dear TGDDMình mua con Vsmart active 1+ và nhờ nhân viên kỹ thuật của của hàng TGDD sao chép giúp danh bạ từ máy cũ sang máy mới. Nhân viên sử dụng Bluetooth để chuyển danh bạ sang. Sau khi kiểm tra trên danh bạ thì thấy có đầy đủ, tuy nhiên khi kích vào để gọi thì nút gọi bị ẩn, số người quen đã lưu khi gọi vào cũng không hiển thị tên. Kiểm tra kỹ thì mình thấy danh bạ chỉ trên zalo (được đồng bộ từ danh bạ). Mình đã xóa danh bạ ở máy cũ nên giờ không biết xử lý thế nào. Nhờ TGDD hỗ trợ. SDT 0919459778.Xin chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.770346,
+         "id": "1000719",
+         "field_search": "question",
+         "question": "Mình đang dùng sam sung J7 prime. giờ máy mình tự nhiên nhật ký điện thoại không hiển thị các cuộc gọi nhỡ hay gọi đến và đi trong ngày nữa. Và số mình liên lạc nhiều nhất lưu trong danh bạ không hiển thị, trừ khi gõ hẳn tên trong mục tìm kiếm mới hiển thị. Giờ khắc phục tn m.n hướng dẫn giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.29825,
+         "id": "1154827",
+         "field_search": "question",
+         "question": "Mình đang sử dụng điện thoại Nokia 6.1 Plus nhưng có một vài số điện thoại có trong danh bạ nhưng khi gọi đến mình không hiện tên. Nhờ bạn tư vấn cách khắc phụp dùm nhé. Cảm ơn bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.281641,
+         "id": "1019513",
+         "field_search": "question",
+         "question": "Cho em hỏiE dùng Sony M5Khoảng 1 tuần nay khi cuộc gọi đếnThì xuất hiện 1 thông báo . Trong đó hiện tên danh bạ khác với danh bạ e đã lưuNhư vậy là bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.956892,
+         "id": "1152002",
+         "field_search": "question",
+         "question": "Chào TGDĐ. Mình mới mua Nokia 8.1 trong chưa tới một tuần nhưng bị lỗi. Mình có ra TGDĐ để đổi thì được một máy khác. Nhưng về thì máy này lại bị lỗi là nút bấm tăng giảm âm lượng bị lỏng có dấu hiệu khác thường so với các máy có cùng dòng và trên cảm nhận so với máy trước. Vậy thì trong trường hợp này mình có được tiếp tục đổi mới không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.916805,
+         "id": "790783",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 4s, mình cũng dùng xem phim lướt web bt thôi. nhưng hôm qua đang nt tự nhiên máy đơ đơ. sau đấy mình không mở các ứng dụng khác cũng không mở đk. mà cứ nhấn vào lệnh nào máy lại nói gì đó bằng tiếng anh.bây h máy tự khóa màn hình mà mình không thể mở dk. cứ chạm vào màn hình là máy lại tự nói tiếng anh gì đó, có vẻ như các số lưu trong danh bạ gọi đến không còn đk lưu nữa.cho mình hỏi máy mình bị sao the ạ? liệu có phải bị virus hay không? Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.826532,
+         "id": "1164490",
+         "field_search": "question",
+         "question": "Mình và vk mình đều dùng ip6 và chung 1 icloud nhưng danh bạ và ảnh thì 2 máy là khác nhau nhưng khi vk mình dùng ip7 thì nhập lại icloud để lấy dữ liệu từ máy cũ của vk mình thì không thấy mà chỉ thấy ảnh va danh bạ của máy mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.811668,
+         "id": "769400",
+         "field_search": "question",
+         "question": "Mình kg gửi lời kết bạn zalo với người khác, nhưng tại sao trên danh sách zalo của mình lại có nick zalo người đó ? Do người đó lưu số đt của mình rồi tự đồng bộ zalo hay là lý do gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.81115,
+         "id": "808631",
+         "field_search": "question",
+         "question": " các bạn cho mình hỏi tại sao khi gõ vào tìm kiếm laptop nó cứ hiện lên một dãy số 6 liên tiếp không dừng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.735277,
+         "id": "1163804",
+         "field_search": "question",
+         "question": "Mình dùng Samsung S8 Plus.  Mặc dù đã lưu tên trong danh bạ nhưng khi gọi đến không hiển thị tên người gọi.  Tuy nhiên,  trong list cuộc gọi đến/đi lại hiển thị tên sau khi cuộc gọi kết thúc.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.59756,
+         "id": "755672",
+         "field_search": "question",
+         "question": "Máy Samsung A5. Khi đã chọn hiển thị danh bạ trên thiết bị nhưng khi bật danh bạ vẫn hiện cả danh bạ trên Sim và thiết bi (mỗi một số điện thoại là có hai tên giống nhau, lưu ở sim và trên thiết bị cùng hiển thị).Vậy muốn chỉ hiện thị danh bạ trên thiết bị thì làm thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.575846,
+         "id": "870403",
+         "field_search": "question",
+         "question": "Không thể yêu cầu kết bạn, danh sách bạn của người này đã đầy. Cho e hỏi ad em không gửi được lời mời kết bạn cho người khác và mọi người cũng không gửi được cho em. Ad giúp em với ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.269033,
+         "id": "902458",
+         "field_search": "question",
+         "question": "Khi đăng nhập Instagram yêu cầu xác minh tài khoản, xác minh xong nó ra BAD REQUEST 400 không vào được , cả điện thoại lẫn laptop  😭Trong khi tài khoản IG trên vẫn hoạt động bình thường , không bị ẩn cũng không bị khóa trên các trang mạng Mọi người giúp em với ạ !!!Mọi😱",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.259956,
+         "id": "801076",
+         "field_search": "question",
+         "question": " Mình copy danh bạ từ sim vào iphone 6s có một số liên hệ không hiện tên. Quản trị viên cho mình hỏi phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.118542,
+         "id": "814660",
+         "field_search": "question",
+         "question": "Chào mọi người mình có cái iphone 5, mày yêu ccaucap nhật chương trình sau khi mình nhấn ok để cập nhật, máy yêu cầu nhập mật khẩu 6 số? Mình ko hiểu vì sao giúp mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.941187,
+         "id": "1021436",
+         "field_search": "question",
+         "question": "cho mình hỏi. mình đang dùng điện thoại oppo a37. tự nhiên không kết nối wifi được. trong khi mình ấn dò các mạng vẫn hiện căng đét. nhưng khi ấn kết nối nó chỉ quay quay rồi tự động thoát luôn. không kết nối được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.864182,
+         "id": "1013703",
+         "field_search": "question",
+         "question": "hiện nay em đang xài samsung j3 2016.. khi em chơi liên quân,wifi full mà tự dưng bị ngắt kết nối và tự động kết nối lại.  Nó cứ xuất hiện liên tục. Em không biết điện thoại em bị sao hết ! Ad giúp em khắc phục lỗi này với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.851044,
+         "id": "806908",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi, trong danh bạ điện thoại em không lưu số của người này và họ đã add em trong zalo. Nhưng sau 1 thời gian em không còn thấy tên người này trong danh bạ zalo nữa. Vậy thì có phải người này đã không chơi zalo nữa phải không ạ? hay em đã bị người đó chặn nên không còn thấy tên người này nữa. Mong ad giải đáp giùm. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.841015,
+         "id": "1157072",
+         "field_search": "question",
+         "question": "Cho em hỏi. Trong tin nhắn zalo với 1 người trong danh bạ. Hiện  bạn đã xem hoạt động của người đó là sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.778635,
+         "id": "1160970",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi mình có Phân Loại tất cả bạn bè trong danh bạ Zalo của mình, nhưng giờ mình đăng nhập bằng 1 máy tính khác thì tất cả phân loại đều mất, vào danh bạn bấm vào từng bạn để tag phân loại lại thì không hiện lên biểu tượng tag lun là sao bạn? Chỉ vào phần trò chuyện mới tag phân loại được nhưng vào Danh bạ thì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.73814,
+         "id": "1161585",
+         "field_search": "question",
+         "question": "cho mình hỏi với ạ, mình mất tài khoản line cũ giờ mình muốn lấy lại line nhưng khi yêu cầu gửi mã xác nhận mình không nhận được , còn khi ấn vào đăng nhập vào fb thì yêu cầu chuyển tài khoản? mình phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.690355,
+         "id": "1139706",
+         "field_search": "question",
+         "question": "Em mới mua chiếc Vsmart Joy 1, vào liên quân màn hình nó cứ giật giật, em không biết bị gì, có phải là lỗi của máy không,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.563663,
+         "id": "1156356",
+         "field_search": "question",
+         "question": "em sử dụng Nokia 8.1 android 9 tự nhiên không kết nối được wifi trong khi laptop em để kế bên vẫn kết nối đươc thì máy em bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.554531,
+         "id": "1005297",
+         "field_search": "question",
+         "question": "mình vừa mua iphone 7plus ,khi vào tạo ID apple mới, mọi thứ xong hết rồi, vào xac minh email nhưng cứ báo lỗi là Itunes không thể xử lý yêu cầu của bạn vào lúc này. vui lòng thử lại sau.mình đã khởi động lại,thử lại vẫn không đuọc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.433601,
+         "id": "1159082",
+         "field_search": "question",
+         "question": "Hi. Mình mới mua Samsung M20 cách đây 1 tuần, mình bật bluetooth lên thì tìm kiếm và kết nối được với các điện thoại khác nhưng không thể tìm kiếm được tai nghe (mình dùng WI C400 của sony). Trong khi tai nghe của mình vẫn hoạt động bình thường (kết nối với các thiết bị khác bình thường). Làm ơn cho mình hỏi làm sao kết nối với Samsung M20 với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.305096,
+         "id": "999756",
+         "field_search": "question",
+         "question": "Bạn ơi, máy của mình là Samsung J3, mình bỏ sim vào máy nhưng máyKhông hiển thị danh bạ cũng như không lưu được số điện thoại vào danh bạ, bật danh bạ thì luôn luôn là \"upgrading contacts\" mặc dù mình đã tắt đồng bộ dữ liệu. Có cách nào khắc phục không ạ? 😂",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.271421,
+         "id": "911405",
+         "field_search": "question",
+         "question": "Máy tôi đang chạy iOS 8.4 . Mình muốn chặn các số ngoài danh bạ nên vào Cài Đặt -> Không Làm Phiền -> Cho phép cuộc gọi từ -> tôi chọn Tất cả danh bạ . Xong . Mình lấy số khác ngoài danh bạ mà tôi lưu trên iphone để gọi , thì ... gọi được tuốt ! Không biết tại sao vậy ? Mong cao thủ chỉ giùm . Nếu ko thì có app nào cho iPhone CHƯA JAILBREAK dùng để chặn cuộc gọi NGOÀI DANH BẠ , KO PHẢI LOẠI CHẶN TỪNG SỐ ko ? Mong mọi người chỉ giúp !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.246735,
+         "id": "1134842",
+         "field_search": "question",
+         "question": "Điện thoai của tôi hiện tại bị ẩn một số danh bạ, khi bấm số thì hiện tên nhưng khi tìm danh bạ thì k thấy, tôi đang sử dụng iphone x",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.239649,
+         "id": "905599",
+         "field_search": "question",
+         "question": "Cho mình hỏi: mình cho bạn mượn id iPhone để tải trò chơi. Bạn mình có đồng bộ hoá danh bạ. Giờ điện thoại mình mất hết số liên lạc. Đồng thời toàn bộ danh bạ của bạn mình lại hiện ở máy mình. Làm thế nào để lấy lại danh bạ đã bị mất của mình ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.063715,
+         "id": "819334",
+         "field_search": "question",
+         "question": "Em dùng iphone5 danh bạ của em tự cập nhật những số từ facebook vào danh bạ cho em hỏi làm thế nào để xoá mà ko ảnh hưởng đến danh bạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.046127,
+         "id": "1155096",
+         "field_search": "question",
+         "question": "Điện thoại là asus sao mình cứ vào danh bạ gọi là nó hiện ra vậy. Làm sao để xóa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.003855,
+         "id": "1162247",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Hiện tại facebook của mình chỉ đăng nhập được trên ipad mà không đăng nhập được trên các thiết bị khác. Khi đăng nhập vào các thiết bị khác facebook yêu cầu mã xác nhận 2 yếu tố nhưng mình không nhận được mã đó. Cho mình xin hướng giải quyết với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.929602,
+         "id": "1005975",
+         "field_search": "question",
+         "question": "AD Cho e hỏi cách cập nhật các phần mềm và nâng cấp phiên bản hệ điều hành của máy samsung galaxy c9 pro vs ạ, với lại cho e hỏi e đặt tên sdt trong danh bạ sao nó lại ghi là đã vượt quá số ký tự tối đa cho tên danh bạ trong thẻ SIM là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.917553,
+         "id": "1139128",
+         "field_search": "question",
+         "question": "Mình sd đt samsung j2 pro 2018 mình sd zalo để đổi sdt từ 11 sang 10 số nhưng 1 thời gian thì danh bạ mình lại tự động chuyển thành 11 số như cũ là tại sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.837223,
+         "id": "577513",
+         "field_search": "question",
+         "question": "Dien thoai của tôi hiện tại bị ẩn một số danh bạ, khi bấm số thì hiện tên nhưng khi tìm danh bạ thì k thấy, tôi đang sử dụng đt gionee ps2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.796291,
+         "id": "816695",
+         "field_search": "question",
+         "question": " nếu như mình đã xoá sđt người đó khỏi danh bạ thì trong zalo còn lưu người đó lại không ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.777985,
+         "id": "1135873",
+         "field_search": "question",
+         "question": "quyền riêng tư chặn kết bạn hết mọi thứ thứ mà người đó có lưu sdt của mình trong danh bạ của họ nên họ vẫn còn thấy nick của mình và kb với mình ? ?tại sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.755737,
+         "id": "1014944",
+         "field_search": "question",
+         "question": "Cho mình hỏi làm sao xóa được  số thẻ sim của mình trong danh bạ rùi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.715794,
+         "id": "786249",
+         "field_search": "question",
+         "question": "cho mình hỏi khi tải 1 ứng dụng hay trò chơi nào đó trong appstore về máy thì vào phần nhận-> cài đặt load một lúc thì yêu cầu dùng ID Apple hiện có hoặc ID mới. Mình đăng nhập ID hiện có ko đc còn tạo cái mới thì nó cứ có phần Mã quà tặng Itunes và mã thư tín nhưng mình ko biết mã nó là gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.686354,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.56028,
+         "id": "753926",
+         "field_search": "question",
+         "question": " Các bác cho em hỏi tí, em vừa nâng lên 9.1 bây giờ trong danh bạ có hết tên rồi nhưng khi tìm kiếm nó lại không ra? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.46925,
+         "id": "1143970",
+         "field_search": "question",
+         "question": "Đt ss j7 prime cứ yêu cầu lắp thẻ sim hoài trong khi e đã lắp rồi thì đt e nó bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.34157,
+         "id": "1001778",
+         "field_search": "question",
+         "question": "Mình có mua 1 điện thoại Samsung J7 ở cửa hang Thegioididong. Hiện giờ nó đang bị lỗi khi vào mạng wifi của văn phòng minh. Mạng wifi ở nhà thì ok nhung mạng ở văn phòng thì nó cứ kết nối rồi ngắt kết nối rồi lại kết nối. Cứ liên tục như vậy. Bạn có thể chỉ cho minh cách chỉnh được ko?Cảm ơn rất nhieuLinh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.2664,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.239819,
+         "id": "1154572",
+         "field_search": "question",
+         "question": "Chào bạn.Mình đang dùng Note 9, mình thử dùng Samsung Pay, khi yêu cầu mình quét móng mắt và dùng mã pin mình làm theo. Nhưng khi thoát khỏi phầm Samsung pay thì khi khóa màn hình và mở lại nó yêu cầu nhập mã pin. Mình nhập đúng 4 số mà không được. Mình không hiểu lắm, đã khởi động lại rồi mà không mở được? ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.21642,
+         "id": "1151948",
+         "field_search": "question",
+         "question": " No bị như vậy à, mỗi số danh bạ hiện 7,8 số, mỗi lần tìm số để liên lạc rất khó khăn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.213034,
+         "id": "1159279",
+         "field_search": "question",
+         "question": "Dt e cứ báo chặn cuộc gọi từ 1 số nhưng e xem trong danh bạ lại k có thông báo chặn thì lm như nào để số bên kia gọi đk ạk. E đang dùng a7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.212446,
+         "id": "975995",
+         "field_search": "question",
+         "question": "cho mình hỏi. hôm nay mình có khôi phục lại cài đặt gốc. trước khi khôi phục lại cài đặt gốc mình đã sao lưu lại mọi thứ trên máy lại. giờ mình khôi phục lại dữ liệu mấy lần trong samsung cloud thì thấy bị mất 1 số hình ảnh, số điện thoại trong danh bạ, với theme mình tải về. không biết giờ mình có lấy lại được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.179668,
+         "id": "753229",
+         "field_search": "question",
+         "question": "iCloud ở iPhone của tôi ( iphone 4s) đăng nhập vào 2 máy, sau tự nhiên bây h 2 danh bạ cháo đổi cho nhau, làm thế nào để khôi phục danh bạ cho cả 2 máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.159725,
+         "id": "1145739",
+         "field_search": "question",
+         "question": "Mình mua điện thoại nokia 8810 thấy có thể đồng bộ danh bạ android nhưng khi đồng bộ thì điện thoại báo tạm thời bị vô hiệu hóa. Mong được giải đáp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.145844,
+         "id": "1159130",
+         "field_search": "question",
+         "question": "Tại sao những số này mình không hề lưu mà danh bạ tự động lưu rồi có ký hiệu của google? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.107666,
+         "id": "1013142",
+         "field_search": "question",
+         "question": "cho mình hỏi mình lỡ xóa mất danh bạ trên máy samsung galaxy S7, và tài khoản samsung cloud lại tự động sao lưu danh bạ mới, vậy có thể khôi phục được danh bạ của mình không vậy? Nếu có thì làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.087053,
+         "id": "1013815",
+         "field_search": "question",
+         "question": "minh đã đồng bộ tất cả danh bạ trên icloud. Nhưng lúc tìm kiếm danh bạ lại không hiển thị kết quả tìm kiếm. Như vậy là lỗi j ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.98783,
+         "id": "786273",
+         "field_search": "question",
+         "question": " em có thể xin 1 TK apple được không ?Khó lập quá ,nó cứ yêu cầu VISA ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.96622,
+         "id": "764939",
+         "field_search": "question",
+         "question": "Máy mình là iPhone 5S màu vàng mà bị dính iCloud mình có hỏi cửa hàng này nọ họ nói là cứ dùng đến khi nó trục trặc thì tính sau. mà bây h nó cứ gửi liên tục yêu cầu đăng nhập thì mình phải làm sao để tắt thông báo đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.953157,
+         "id": "758634",
+         "field_search": "question",
+         "question": "Cho hỏi cái ad mình mới đổi iPhone mình lắp sim vào thì thấy có cả danh bạ người khác làm thế nào để xóa danh bạ của người ấy đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.938005,
+         "id": "762197",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4s có tải vivavideo về nhưng quay xong và lưu rồi nhưng khi vào xem lại không xem được. Yêu cầu bật truy cập trong thiết đặt mà mình tìm mãi không thấy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.875942,
+         "id": "822645",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi máy mình bị treo cap iTunes mình cứ kết nối điện thoại với máy tính cái là hiện 1 bảng có ghi (có sự cố iphone yêu cầu phải cập nhật hoặc khôi phục thiết bị ) thế là như nào ad có cách nào giúp mình vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.870752,
+         "id": "1015134",
+         "field_search": "question",
+         "question": "Tôi bị mất điện thoại lẫn số điện thoại. Khi tôi đăng nhập gmail trên điện thoại mới thì nó yêu cầu làm như hình bên dưới. Tôi phải làm gì để có thể đăng nhập vào gmail của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.71268,
+         "id": "1019053",
+         "field_search": "question",
+         "question": "Mình dùng xiaomi redmi note4 sau khi cập nhật lên android 7.0 và miui8.5 máy mình bị lỗi vào wifi k tự động bắt, phải vào cài đặt đợi 1 lúc mới tìm đc wifi và chạm vào thì mới kết nối đc, thêm cái ứng dụng fb rất hay bị dừng( k bị out nhưng đơ và phải đợi 1 lúc).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.707281,
+         "id": "846016",
+         "field_search": "question",
+         "question": "IP 5s của mình là hàng unlock Nhật ko sử dụng sim ghép, nhưng khi số điện thoại nước ngoài nhắn tin qua Whatsapp hay gọi điện đến đều ko hiển thị tên như mình đã lưu trong danh bạ. SĐT trong nước thì ko sao.Như vậy là bị lỗi gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.657433,
+         "id": "1145750",
+         "field_search": "question",
+         "question": "Mình đang dùng Nokia 3.1 ram 3gb.máy cứ bị lỗi restart liên tục là sao vậy Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.647026,
+         "id": "759326",
+         "field_search": "question",
+         "question": " iPhone 6, 6 Plus copy danh bạ từ sim vào máy không hiển thị tên , chỉ toàn số????Xin hỏi bị lỗi gì vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.559788,
+         "id": "876186",
+         "field_search": "question",
+         "question": "Ở gợi ý kết bạn trên zalo của mình hiện: ... muốn kết bạn không phải từ tìm quanh đây, hay từ danh bạ như thường thấy vậy người này sao biết mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.551615,
+         "id": "1161112",
+         "field_search": "question",
+         "question": "Điện thoại của e redmi 5 plus khi vào nhắn tin chọn số xong nó không hiện số 0 hoặc +84 ở đầu mà phải vào danh bạ tìm đến số đó xong bấm gửi tin nhắn mới thì mới hiện đầy đủ. mong được hỗ trợ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.533564,
+         "id": "1024475",
+         "field_search": "question",
+         "question": "Hi Ad, Samsung A5 2017 của mình không hiện thị hết được tên danh bạ dài khi có cuộc gọi đến. Nó chỉ hiện vài ký tự đầu thôi.VD: Tên danh bạ: ABCDEFGH, khi có cuộc gọi đến nó chỉ hiện thị ''ABCD...\" vậy thôi. Lúc trước mình xài Iphone thì nó tên danh bạ nó sẽ chạy hàng ngang hoặc thu nhỏ tên để hiện thị hết tên theo danh bạ.Ad có biết cách tuỳ chỉnh như vậy không? Giúp với.Cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.529812,
+         "id": "776017",
+         "field_search": "question",
+         "question": " Mình vào danh bạ trong Zalo thì bị đẩy ra ngoài màn hình chính là sao ạ? Máy iPhone 5 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.507278,
+         "id": "905521",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua ip6s pl 16g hôm qua 26/10/2016 sau khi kiểm tra máy tại cửa hàng thì mình thấy ko có vấn đề gì, sau khi về nhà mình mở icloud ra thì lại có cả tên đăng nhập và mât khẩu rồi, đăng xuất ra cũng ko đc, với còn cả đống hình ảnh trong album với danh bạ thì số đt quá chừng trong khi đó mình chưa đụng chạm gì vào hết.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.4922,
+         "id": "914538",
+         "field_search": "question",
+         "question": " E mới mua ip7plus nhưng kh cập nhật danh bạ đc, nhưng máy bạn e mua bên mỹ lại cập nhật đc ,bị lỗi gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.455797,
+         "id": "811250",
+         "field_search": "question",
+         "question": "Mình sài iphone 5S. Khi sạc pin, mình kiểm tra tài khoản *101# thì điện thoại báo là \"lỗi khi thực hiện yêu cầu, lỗi không xác định\". có ai gặp trường hợp tương tự như mình không? có thể giúp mình không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.419292,
+         "id": "1022412",
+         "field_search": "question",
+         "question": "Cho mình hỏi, trong phần số bị chặn ở facetime của mình có rất nhiều số lạ nhưng máy mình mua là máy mới. Mình nghĩ là:1- Khi bạn mình đăng nhập tài khoản icloud của nó vào máy mình, nên những số bị chặn còn lưu lại ( mặc dù đã log in icloud của mình lại rồi)2- Máy mình mua không phải là máy mới ( nhưng lúc mua mình chính tay mở hộp và active máy) 😩Vậy xin cho mình hỏi, khả năng nào là lớn nhất ạ. Hic hoang mang quá!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.409302,
+         "id": "803807",
+         "field_search": "question",
+         "question": " Danh bạ còn, nhưng khi tìm kiếm một tên nào đó thì báo không tìm thấy kết quả...?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.371353,
+         "id": "757935",
+         "field_search": "question",
+         "question": "Em dùng ipad 2. Em vào setting em kết nối wifi thì ok. Nhưng nó không hiện cột sóng wifi và bị lỗi kết nối các anh chị giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.354675,
+         "id": "1135141",
+         "field_search": "question",
+         "question": "E dùng ip5s ios7, messenger yêu cầu cập nhật thì e xoá tải lại nhưng vô nó vẫn yêu cầu cập nhật, bấm vô appstore thì mess không có chỗ cập nhật mà chỉ có chữ open để mở ứng dụng thôi ạ, giờ e không thể vào xem tin nhắn được vì nó cứ yêu cầu cập nhật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.336811,
+         "id": "1154708",
+         "field_search": "question",
+         "question": "Cho hỏi mình sử dụng a7 2018 mới mua chưa được 1 tháng nó bị có wifi kết nói được  có wifi không kết nối được .nó tự động bật tắt như hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.313244,
+         "id": "938959",
+         "field_search": "question",
+         "question": "Tài khoản zalo của mình khi đăng nhập bị lỗi số lượng yêu cầu vượt quá mức cho phép là sao? Cách khắc phục như thế nào? Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.308407,
+         "id": "806519",
+         "field_search": "question",
+         "question": "Ipad mini của mình bị vỡ màn hình, hoàn toàn không hiển thị bất cứ cái gì nữa, màn hình cũng không sáng. nhưng khi có người gọi đến thì máy vẫn đổ chuông. như vậy là bộ nhớ trong không bị ảnh hưởng phải không? mình muốn hỏi làm thế nào để lấy dữ liệu từ bộ nhớ trong ra vì khi cắm dây liên kết vào máy tính thì máy tính không nhận.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.188232,
+         "id": "1157660",
+         "field_search": "question",
+         "question": "cho e hỏi là laptop e mới mua dùng win10 bản quyền 1 năm nhưng sao vào word k dùng đc và yêu cầu mua ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.129208,
+         "id": "938962",
+         "field_search": "question",
+         "question": "Tài khoản zalo của mình khi đăng xuất bị lỗi số lượng yêu cầu vượt quá mức cho phép là sao? Cách khắc phục như thế nào? Cảm ơn admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.119213,
+         "id": "1139051",
+         "field_search": "question",
+         "question": "Samsung galaxy a7 2018 của mình khi mua về nhập danh bạ từ google vào máy thì bị mất hết số chỉ còn tên. Bị như vậy xử lý thế nào. Mong nhận được hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

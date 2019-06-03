@@ -1,0 +1,809 @@
+{
+   "id_query": "828785",
+   "total": 27070,
+   "total_current": 100,
+   "max_score": 101.88953,
+   "origin_question": " Hai mẹ con xài chung một tài khoản Microsoft ,bây giờ 2 mẹ con không ai truy cập Facebook được hết,giờ phải làm sao??? ",
+   "hits": [
+      {
+         "score": 101.88953,
+         "id": "828785",
+         "field_search": "question",
+         "question": " Hai mẹ con xài chung một tài khoản Microsoft ,bây giờ 2 mẹ con không ai truy cập Facebook được hết,giờ phải làm sao??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.480108,
+         "id": "1164932",
+         "field_search": "question",
+         "question": "bây giờ mình không nhận được mã xác thực 2 yếu tố thì phải làm sao đề vào tài khoản icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.498487,
+         "id": "1022189",
+         "field_search": "question",
+         "question": "Thế giới di dộng cho mình hỏi sao khi mình cài lại windows 8.1 trên laptop khi tới bước thiết lập tài khoản Microsoft thì hiện ra thông báo \"Tài khoản của bạn Có sự cố và chúng tôi không thể thiết lập tài khoản Microsoft của bạn. Bây giờ bạn có thể tạo một tài khoản cục bộ. Chúng tôi sẽ giúp bạn thiết lập tài khoản Microsoft của bạn sau.\" mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.496511,
+         "id": "1159905",
+         "field_search": "question",
+         "question": "Cho em hỏi mẹ em dùng ip7+. Mẹ k có cài vân tay. Nhưng mẹ em cài mật khẩu 6 số , nhưng mẹ cài đặt bị sao giờ bấm mật khẩu nó báo sai miết. Em có hỏi mẹ em icloud mẹ còn nhớ mật khẩu không thì mẹ nói không. Vậy có cách nào gỡ giúp mẹ e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.104979,
+         "id": "810968",
+         "field_search": "question",
+         "question": " Máy iphone của mẹ em mà em chơi xong đổi mật khẩu bây giờ không nhớ mấy anh giúp em được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.093363,
+         "id": "858158",
+         "field_search": "question",
+         "question": "mình có con 4s, có tài tài khoản icloud, nhưng ko nhớ mk, và tài khoản giờ cũng bị out ra khỏi mail rùi, bây giờ thi thoảng máy yêu cầu xác nhận id icloud,làm sao để tắt được cái thông báo yêu cầu đó?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.64324,
+         "id": "916959",
+         "field_search": "question",
+         "question": "Đt mình là 5s, mà bây giờ cứ muốn cập nhật cái gì trong App Store thì nó cứ hiện ra cái tài khoản nào nhưng không phải của mình. Bây giờ thì phải làm sao đây ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.616804,
+         "id": "1165648",
+         "field_search": "question",
+         "question": "Em đăng ký 2 tài khoản facebook bằng 1 sđt ạ. Nếu bây giờ em xóa 1 tài khoản đi và đặt lại mật khẩu cho tài khoản còn lại được không ạMong nhận được phản hồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.147572,
+         "id": "1145615",
+         "field_search": "question",
+         "question": "Mình có 2 tài khoản facebook xài song song, đã cập nhật messenger bản mới nhất nhưng mình log in thì chỉ có 1 tài khoản đã cập nhật còn 1 tài khoản ở phiên bản cũ. Ai biết cho mình xin cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.002134,
+         "id": "750675",
+         "field_search": "question",
+         "question": " Máy em yêu cầu xác minh tài khoản iCloud. Nhưng tài khoản đó không tồn tại. Bây giờ em muốn thoát ra phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.690216,
+         "id": "850131",
+         "field_search": "question",
+         "question": " Zalo của mình bị khóa tài khoản bây giờ mình đăng nhập lại được nhưng không nhận được tin nhắn thì phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.64687,
+         "id": "750831",
+         "field_search": "question",
+         "question": "Mình mua máy lại của một người bạn vẫn dùng tài khoản icloud cũ nhưng bây giờ mày tự nhiên bất nhập mật khẩu icloud, mình đã nhập nhưng không được giờ không biết làm thế nào có ai giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.556437,
+         "id": "994588",
+         "field_search": "question",
+         "question": " Mẹ mình đang vay ngân hàng Mà giờ muốn mua đt trả góp được ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.190847,
+         "id": "1007988",
+         "field_search": "question",
+         "question": "Em mới mua con Asus A570UP chưa được một tháng thì bây giờ em muốn đổi qua con Asus A556UR thì có cần làm gì ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.108522,
+         "id": "826625",
+         "field_search": "question",
+         "question": "Mình dang dùng Iphone6Plus 64gb nhưng máy báo có 7 con Virus, bây giờ phải làm cách nào để diệt đây? Mình bối rối lắm, mình làm hoài không được. Ai ơi cứu với!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.108215,
+         "id": "801244",
+         "field_search": "question",
+         "question": "Cho em hỏi 1 chút ạ. Hôm trước em backup dữ liệu của mẹ em vào macbook. Đến hôm nay mẹ em chuyển sang dùng samsung. Em muốn hỏi là bây giờ phải làm thế nào để lấy lại dữ liệu trong phần backup kia khi không có iphone ạ? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.085388,
+         "id": "1166147",
+         "field_search": "question",
+         "question": "AD cho e hỏi iphone 6 của mẹ e bị quên mật khẩu mà mở bằng máy tính bảo nhập icloud mà mẹ e lại ko nhớ. Giờ làm sao có thể mở đc ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.027834,
+         "id": "1143034",
+         "field_search": "question",
+         "question": "(Em có 1 vấn đề này cần giải quyết mong mấy ông ad giúp cho ạ)  Một hôm em tạo 1 tài khoản trên Vk ( Vkontakte), vào mục tạo em bấm đăng nhập Vk bằng Facebook và nó cho em1 cái tài khoản luôn   Giờ em không nhớ mật khẩu và tên tài khoản giờ phải làm sao đây ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.018398,
+         "id": "785396",
+         "field_search": "question",
+         "question": " Máy mình hết lượn tạo tài khoản icluod rôi ai tao hộ một tài khoản với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.861013,
+         "id": "1023504",
+         "field_search": "question",
+         "question": "Tôi đang cập nhật iphone ios11 thì con tôi vào bấm reset lại máy (vì tưởng máy hỏng), bây giờ máy hiện lên hình iTune và đường xạc, bây giờ phải làm ntn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.773289,
+         "id": "918251",
+         "field_search": "question",
+         "question": " Em khôi phục lại cài đặt gốc nhưng quên không nhớ tài khoản icloud nữa. Bây giờ phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.752295,
+         "id": "872337",
+         "field_search": "question",
+         "question": "Cho hỏi con có 1 tài khoản iCloud nhưng nó đã bị mất rồi mà trong tàu khoản con có mua 1 app tính phí, giờ con tạo tài khoản iCloud mới, ứng dụng tính phí vẫn còn trong màn hình chính của con. Con muốn đưa app tính phí đó vào tài khoản mới mà không phải tốn tiền nếu sau này cần sử dụng! Có cách nào giúp không ạ? Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.66184,
+         "id": "807933",
+         "field_search": "question",
+         "question": " Tài khoản App store của tôi bị vô hiệu hoá bây giờ tôi muốn tạo một tài khoản mới mà không được xin hãy giúp tôi với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.649628,
+         "id": "883089",
+         "field_search": "question",
+         "question": " bây giờ em muốn một con lap chơi ngon gta V ad có thể tư vấn con nào giá cả hợp lí không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.61681,
+         "id": "1014415",
+         "field_search": "question",
+         "question": "Mn chomình hỏi là tại sao tài khoản google play của mình bị reset mất phải làm sao bây giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.544563,
+         "id": "1003944",
+         "field_search": "question",
+         "question": " Bây Giờ Mình Muốn Đăng Xuất Tài Khoản Này Thì Làm Sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.345524,
+         "id": "807476",
+         "field_search": "question",
+         "question": "Mình có con Iphone 4, nếu mình mua một cái Iphone 5S đã qua sử dụng của thegioididong thì khi đó nếu mình đăng nhập cùng tài khoản facebook, instagram trên cả 2 máy thì chuyện gì sẽ xảy ra? Có thể dùng 1 tài khoản Icloud trên cả 2 máy được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.254124,
+         "id": "807456",
+         "field_search": "question",
+         "question": "Mình có con Iphone 4, nếu mình mua một cái Iphone 5S đã qua sử dụng của thegioididong thì khi đó nếu mình đăng nhập cùng tài khoản facebook, instagram trên cả 2 máy thì chuyện gì sẽ xảy ra? Có thể dùng 1 tài khoản Icloud trên cả 2 máy được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.066044,
+         "id": "994580",
+         "field_search": "question",
+         "question": " Mẹ e đang vay ngân hàng Mà giờ muốn mua điện thoại trả góp được ko?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.055828,
+         "id": "1144094",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao máy Nokia 2 của mình bây giờ cứ bị hiện nhiệt độ vượt quá giới hạn bây giờ phải làm sao cho hết ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.845549,
+         "id": "915430",
+         "field_search": "question",
+         "question": "em lập tài khoản gmail 1 tháng trước làm id apple song rùi nhưng bây giờ mới xác nhận ko dk ad à . nó hiện lên Không Thể Xác Minh Địa Chỉ Chúng tôi rất tiếc là đã không thể xác minh liên kết bạn đang sử dụng để truy cập trang này. --> bây h em phải làm sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.825808,
+         "id": "1165986",
+         "field_search": "question",
+         "question": "Mình có một thắc mắc. Mình thấy Zalo của gấu cứ ngày nào cũng hoặc Mới truy cập hoặc Truy cập vài phút trước đó cho đến khoảng trên dưới 2 g sáng. Bắt đầu từ khoảng 2 g sáng trở đi thì Zalo của gấu lúc đó mới hiển thị Truy cập 1 giờ trước, 2 giờ trước, 3 giờ trước, v.v… Có lúc mình giả vờ nói với gấu rằng mình thấy gấu hay thức đêm, nhưng không cho gấu biết rằng mình theo dõi Zalo của gấu thì gấu trả lời là gấu hay để nhạc Facebook lúc ngủ đến khi giật mình thấy trễ thì tắt. Không lẽ gấu đêm nào cũng giật mình thức dậy lúc tầm 2 g sáng. Có phải khi Zalo hiển thị mới truy cập hay truy cập trước đó vài phút có nghĩa là gấu đang hoặc mới nói chuyện, nhắn tin?  Mình nên làm gì bây giờ? Cám ơn QTV.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.751104,
+         "id": "797180",
+         "field_search": "question",
+         "question": "em muốn hỏi tại sao lúc đầu em sài bằng tài khoản microsoft nhưng khi đổi lại làm tài khoản cá nhân thì lại không được ạ.nhấp vào sign in with microsoft accoutn instead nhiều lần mà không hiển thị gì hết.!!và không đăng nhập được store luôn ạ!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.620031,
+         "id": "1139426",
+         "field_search": "question",
+         "question": "E mới mua cái j8 nhưng đănh kí tài khoản samsung icloud không bây giờ phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.524418,
+         "id": "761113",
+         "field_search": "question",
+         "question": "Em nhặt được 1 máy iPhone 5s. Nhưng tài khoản icloud đã bị khóa. Mà lắp sim khác vào thì nó cần tài khoản icloud để kích hoạt nhưng mà không có. Bây giờ mà phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.519615,
+         "id": "845774",
+         "field_search": "question",
+         "question": "Máy tính của mẹ em hiện thế này là sao ạ? Mẹ em chuyển thư mục Program Files từ ổ C sang ổ D nó cứ báo lỗi như thế này là sao ạ? Ai chỉ giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.389677,
+         "id": "946095",
+         "field_search": "question",
+         "question": " tại sao không thể đồng bộ được tài khoản microsoft. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.298466,
+         "id": "841972",
+         "field_search": "question",
+         "question": " Em lỡ su dụng 1SĐT cho cả 2 tài khoản facebook, không đăng nhập được làm sao đây ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.272005,
+         "id": "986022",
+         "field_search": "question",
+         "question": "trường hợp của em như sao : bạn em có mua lại con iphone 5 của một ngừoi bạn, sao đó nó chạy chương trình lại máy thì máy bảo phải mập tài khoản ai cờ lao củ của máy, đến khi hỏi lại tài khoản củ của máy thì người chủ củ của máy bảo là không nhớ. thế em phải làm gì đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.163635,
+         "id": "814271",
+         "field_search": "question",
+         "question": "Bác em cho ipad 2 năm rồi em cài đặt lại giờ nó bắt itune để kich hoat mà bác em không nhớ giờ có cach nào không em sợ bố mẹ chửi :v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.146544,
+         "id": "842589",
+         "field_search": "question",
+         "question": "Cho e hỏi là hôm qua e mới cài lại windows mà bây giờ lên mạng toàn không được, toàn báo về là số lượng truy cập vượt qua giới hạn vậy thì e phải làm gì để truy cập mạng đc ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.143305,
+         "id": "889733",
+         "field_search": "question",
+         "question": "iPad của tôi khi mua ở cửa hàng cài đặt tất cả, bây giờ sau 2 năm sử dụng muốn cài thêm trò chơi thì bị hỏi password của Icloud. Cửa hàng bán ngày trước đã dẹp bây giờ phải làm sao đây? Xin chỉ giúp cách xóa tài khoản cũ để thiết lập tài khoản Icloud mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.136356,
+         "id": "1135477",
+         "field_search": "question",
+         "question": "Cho em hỏi reset máy xong nó yêu cầu nhập tài khoản google mà phải nhập một trong các tài khoản của chủ sở hữu mà giờ em quên mất tài khoản thì phải làm sao ạ (điện thoại j2 pro nha ad)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.049932,
+         "id": "775612",
+         "field_search": "question",
+         "question": "Cho em ? Em muốn mua gói trả góp 0% iphone 5s mà e sn96 chưa đủ tuổi...bây giờ em lấy cmnd + hktt của mẹ em đăg kí được không ạ adđ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.999825,
+         "id": "993057",
+         "field_search": "question",
+         "question": "Nếu reset Windows 10 thì nó sẽ xóa luôn tài khoản Microsoft trên máy và khi máy khởi động lại thì mình phải tạo lại một tài khoản mới phải không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.953903,
+         "id": "998062",
+         "field_search": "question",
+         "question": "Chào a mẹ em mới mua cho e 1 chiếc đt bây jo e muốn bán mà e hk bt mẹ e mua ở đâu mà bán đc hk a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.641773,
+         "id": "1165103",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ e mới mua con ip 6s plus. Mà còn trả góp 2 tháng nữa. Nhưng bây giờ em muốn lên đổi 6s plus lấy con 7 plus trả góp tiếp thì có được ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.561563,
+         "id": "898637",
+         "field_search": "question",
+         "question": " khi mua máy có office16 và bitdefender nhưng bây giờ không nhớ tài khoản thì phải làm s ạ e mới mua máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.472654,
+         "id": "1142415",
+         "field_search": "question",
+         "question": "xin chào thegioididong hiện nay mình đang có con j7 pro cũ bây giờ  muốn đổi qua ip6 plus cũ thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.470858,
+         "id": "926164",
+         "field_search": "question",
+         "question": "cho em hỏi. zalo của em vẫn dùng được bình thường như ở trang cá nhân hiện lên dòng chữ : tài khoản bị khóa . bây giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.463093,
+         "id": "743934",
+         "field_search": "question",
+         "question": "Tôi bị treo táo iPhone 4 nhưng tôi đã quên tài khoản ID Apple. Khi chạy chương trình lại thì không mở được máy vì không nhớ tài khoản iCloud.Cho hỏi bây giờ tôi phải làm sao? Mong anh chị hướng dẫn giúp tôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.461256,
+         "id": "843683",
+         "field_search": "question",
+         "question": " Tài khoản ID Apple bị vô hiệu hoá rồi giờ phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.458899,
+         "id": "1020279",
+         "field_search": "question",
+         "question": "a ơi e bị mất điện thoại samsung j5 e ko nhớ tài khoản chplay và mk vậy bây giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.41351,
+         "id": "1162322",
+         "field_search": "question",
+         "question": "Khi em mới mua dt thì có tạo một tài khoản như vậy. Samsung account nếu bây giờ em muốn thay đổi sang tài khoản gmail khác thì có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.409983,
+         "id": "760573",
+         "field_search": "question",
+         "question": "Em bị hết phiên tạo tài khoản iCloud miễn phí, bây giờ em muốn dùng 1 iPhone khác đang còn số lượt đăng kí tài khoản iCloud để lập iCloud nhưng máy đó đã có iCloud rồi thì phải làm sao để lập thêm iCloud nữa ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.277082,
+         "id": "1015563",
+         "field_search": "question",
+         "question": "Tại sao trên máy mẹ em lại có 2 cái ứng dụng này? Em nói luôn chúng là 2 ứng dụng hệ thống nhé. Một cái tải Facebook về còn cái kia thì \"Quản lý ứng dụng Facebook\"! Mà tốt hơn thì anh chị nào biết tiếng anh thì làm ơn đăng lên XDA dùm em nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.245296,
+         "id": "838512",
+         "field_search": "question",
+         "question": "Em đang xài ipad thì tự nhiên nó tắt nguồn trong khi pin ở mức 80%. Em mở nguồn lên lại thì nó bảo cần kích hoạt bằng tài khoản Icloud mà bây giờ em quên mất tài khoản icloud ban đầu rồi thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.185423,
+         "id": "767624",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là em mới mua lại điện thoại iPhone, giờ em muốn thoát tài khoản iCloud đó ra để tạo một tài khoản mới có được không ạ? Em nghe nói là mỗi máy chỉ dùng được một tài khoản thôi, thế giờ em tạo cái mới có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.999323,
+         "id": "886031",
+         "field_search": "question",
+         "question": "Cho mình hỏi dùng 1 điện thoại mà truy cập vào hai tài khoản Zalo sau khi nhắn tin bằng tk Zalo 1 đọc xong xóa đi luôn thì có khôi phục lại những tin nhắn đã xóa bằng tài khoản zalo thứ 2 ko?(trên cùng 1 điện thoại)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.992058,
+         "id": "1161472",
+         "field_search": "question",
+         "question": "Chào Thế Giới Di Động. Mình có mua 1 con samsung j4+ vào tháng 2 và bây giờ mình muốn đổi lại con redmi note 7 thì mình phải bù thêm bao nhiêu nữa vậy 😭😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.977472,
+         "id": "840944",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình cũng đăng ký 2 tài khoản fb bằng 1 cái gmail bây giờ face cũ ko vào đc nếu bây giờ xóa vĩnh viễn tài khoản mới đi có lấy lại đc nicks cũ ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.912888,
+         "id": "758895",
+         "field_search": "question",
+         "question": "Ad hướng dẫn mình cách đăng ký tài khoản fifa 2016 trên điện thoại Note 4 bằng tài khoản Facebook với. Lần trước mình đăng nhập được nhưng giờ làm tương tự không vào được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.877644,
+         "id": "994522",
+         "field_search": "question",
+         "question": "Cho em hỏi. E đaq xài iphone 5s. Hiện tại facebook máy em đang bị lỗi ( viết status không có phông nền màu). Bây giờ em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.827875,
+         "id": "939194",
+         "field_search": "question",
+         "question": "Mình chơi hayday trên ipad, có đăng nhập gamecenter, icloud, Facebook đầy đủ, sau này bị mất facebook, và không còn đc chơi trên ipad nữa, giờ mình đang chơi trên ANDROID, muốn lấy lại tài khoản đó thì phải làm thế nào? Làm sao để lấy lại tài khoản HAYDAY ĐÓ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.731712,
+         "id": "1147908",
+         "field_search": "question",
+         "question": "tôi chót xóa tài khoản samsungaccount trên note 4 giờ muốn thêm vào phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.715265,
+         "id": "846456",
+         "field_search": "question",
+         "question": " Lập hai tài khoản zalo trên một điện thoại như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.676989,
+         "id": "1014820",
+         "field_search": "question",
+         "question": "cho hỏi về chương trình đổi máy , tôi mới mua một con mobistar X1 ( trả góp ).bây giờ muốn đổi một loại máy khác được không ?giá bằng hoặc cao hơn chút.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.673744,
+         "id": "1162043",
+         "field_search": "question",
+         "question": "Em đăng ký 2 Facebook bằng một số điện thoại và một Gmail và cùng một mật khẩu . Giờ em chỉ đăng nhập được vào Facebook mới tạo còn Facebook cũ thì không thấy đâu nữa. Vậy làm sao em có thể đăng nhập vào Facebook cũ được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.654753,
+         "id": "806718",
+         "field_search": "question",
+         "question": "AD ơi.em có 2 tài khoản Facebook làm sao để có thể đăng xuất tài khoản này rồi xuất hiện ảnh để đăng nhập vào tài khoản kia vậy AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.643297,
+         "id": "1006132",
+         "field_search": "question",
+         "question": "có cách nào biết được ai đang dùng chung tài khoản icloud với máy mình ko ạ .em cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.614864,
+         "id": "787140",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình đăng ký tài khoản icloud của iphone nhưng bây giờ vào tìm lại mật khẩu nó báo về lài không phải tài khoản icloud là sao ạ ? @icloud.com",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.601643,
+         "id": "770720",
+         "field_search": "question",
+         "question": " Ad ơi cho em hỏi là máy laptop của em, sau con chuột trong máy không xài được, vậy rồi làm sao giờ. em xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.588842,
+         "id": "837769",
+         "field_search": "question",
+         "question": " Máy em cập nhật phần mềm iPhone mới sau đó truy cập Facebook thì lại không vào được làm sao để khắc phục ad?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.575727,
+         "id": "798408",
+         "field_search": "question",
+         "question": " mình đang xài iphone nhưng khi đăng nhập vào facebook thì bị lỗi 1202 và không kết nối được giờ phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.554567,
+         "id": "1147337",
+         "field_search": "question",
+         "question": "Mình muốn xoá tài khoản trên dt vivo y55 sao ko dk, tại vì mình đăng nhập 2 tk bây giờ muốn xoá 1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.538301,
+         "id": "1163019",
+         "field_search": "question",
+         "question": "IPhone của ông mình do nhờ người khác cài đặt tài khoản icloud nên bây giờ bị khóa kích hoạt và khòn mở đc mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.515717,
+         "id": "940003",
+         "field_search": "question",
+         "question": "Ac cho e hỏi là : e có một ngừoi bạn xài icloud cua e. Giờ e ko muốn nó xài chung nữa thì phải làm s ạ. Trong ứng dụng Tìm iphone nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.349024,
+         "id": "1160959",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ , bây giờ em có con iphone 6 plus nhưng bị dính icloud em muốn xoá tài khoản luôn phải làm cách nào ? Mail thì cũng không có nên em không lấy lại mật khẩu được Mà điện thoại lại phiên bản cũ ios 9.0.2 Nếu em lên tgdđ sữa chửa phải mất bao nhiêu tiền ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.34702,
+         "id": "816982",
+         "field_search": "question",
+         "question": " làm sao để đăng xuất tài khoản microsoft trên laptop win 10 khi mở máy mà không cần nhập mật khâu microsoft ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.33041,
+         "id": "840722",
+         "field_search": "question",
+         "question": " QTV ơi sao Facebook báo là tài khoản của rm bị vô hiệu hóa vậy ? Phải làm sao thì mới lại tài khoản ạ ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.330252,
+         "id": "816981",
+         "field_search": "question",
+         "question": " có cách nào đăng xuất tài khoản microsoft trên laptop xài win 10 không mọi người ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.303371,
+         "id": "1157855",
+         "field_search": "question",
+         "question": "Mình bị mất điện thoại nên mất cả sđt đăng kí tài khoản lineBây giờ mình muốn lấy lại tài khoản thì phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.293941,
+         "id": "918137",
+         "field_search": "question",
+         "question": " iPhone 5 khôi phục cài đặt gốc nhưng phải có tài khoản. Mình ko có giờ phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.274647,
+         "id": "965738",
+         "field_search": "question",
+         "question": "Em có mua laptop dell tại thế giới đi dộng được một năm và mua bộ office bản quyền giá 1 triệu 2 nhưng được khuyến mãi còn 600 nghìn.Sử dụng được 1 năm và bây giờ không sử dụng được,bây giờ em phải làm sao để có thể tiếp tục xài nữa ạ và nếu phải mua lại thì với giá bao nhiêu ạ.Mong nhận được câu trả lờ sớm nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.250027,
+         "id": "1017054",
+         "field_search": "question",
+         "question": "Mẹ em muốn mua đt trả gópnhưng trước đó mẹ e có mua 1 cái trả góp rồi vẫn chưa trả xong nếu bây h muốn mua thêm 1c trả góp nữa liệu có được hỗ trợ k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.219088,
+         "id": "1163302",
+         "field_search": "question",
+         "question": "Mình mới bị mất 1 cái Galaxy Note 8, nhưng tìm định vị theo tài khoản Samsung account và email vẫn ko thể truy cập được. Vậy giờ mình có thể định vị theo EMEI được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.203213,
+         "id": "1154586",
+         "field_search": "question",
+         "question": "con dell vostro i5 3568 của em khi mở máy ngốn rất nhiều ram mặc dù em đã tìm nhiều cách khắc phục. Bây giờ phải làm sao ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.183857,
+         "id": "1154366",
+         "field_search": "question",
+         "question": "E có một phần mềm trên máy tinh bây h e mún lock nó lại có mật khẩu để không ai truy cập vô đc. AD chỉ cho e nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.146862,
+         "id": "802619",
+         "field_search": "question",
+         "question": " Em mua máy cũ mà tài khoản itunes chưa thoát giờ phải làm sao để xóa thưa a. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.116613,
+         "id": "765620",
+         "field_search": "question",
+         "question": "Mình đang xài cái iphone 4s mình mới cập nhật phần mềm lên ios 9.2 cập nhật xong thì đang nhập ID Apple không được giờ mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.113941,
+         "id": "917690",
+         "field_search": "question",
+         "question": " Cho mình xin hỏi .Mình mua lại iphone 4 nhưng mất tài khoản icloud thì làm sao sử dung bây giờ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.085426,
+         "id": "1005323",
+         "field_search": "question",
+         "question": "Máy mình không thể truy cập vào một vài ứng dụng trên máy, một thời gian sau đó thì máy lại không thể kết nối được với thẻ nhớ. Máy mình bị làm sao vậy? Ai cho mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.060148,
+         "id": "806264",
+         "field_search": "question",
+         "question": "Mình đang sử dụng iPad 2 phiên bản iOS 9.2.Sau khi cập nhật iOS 9.3 thi Không kích hoạt được nữa. Bây giờ phải làm gì? Giup Minh voi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.052053,
+         "id": "1006966",
+         "field_search": "question",
+         "question": "ah ơi  sao máy của em khi mở tab mới côc côc thì hiện lên một loạt số 2 em phải  xóa mới truy cập trang muốn truy cập. Vậy là sao ạ và phải sửa nhủ thế nào ạ? em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.04341,
+         "id": "913207",
+         "field_search": "question",
+         "question": " Mình đang trong thoi gian chờ xóa tài khoản zalo, nhưng giờ miình không muốn xóa nữa thì phải làm sao vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.03613,
+         "id": "842024",
+         "field_search": "question",
+         "question": "cho mình hỏi: tại sao 2 máy sử dụng 1 tài khoản trên Zalo. Nếu 1 trong 2 máy đăng nhập, thì máy kia y/c đăng nhập lại. 2 máy đăng nhập cùng 1 tài khoản không được sao?. Mình thấy trên Messenger của Facebook thì 2 máy đăng nhập được 1 tài khoản cùng lúc, không hề gì và không y/c 1 trong 2 máy phải đăng nhập lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.034595,
+         "id": "792278",
+         "field_search": "question",
+         "question": "Em đang xài iphone nhưng mà hình em bị bong mặt kính lên một xíu khỏi viền nhựa bên trái. Bây giờ phải làm sao để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.992727,
+         "id": "758651",
+         "field_search": "question",
+         "question": "  Ai giúp với không tạo được tài khoản là sao? ai giải thích với. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.98278,
+         "id": "787754",
+         "field_search": "question",
+         "question": "Em dùng chung tài khoản icloud vs 1nguoi bây h e muốn đổi nhung e chua có tài khoản khac muốn lập thì phải lập ở dâu và như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.939283,
+         "id": "1156053",
+         "field_search": "question",
+         "question": "Tài khoản facebook chờ xác minh lâu ai help mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

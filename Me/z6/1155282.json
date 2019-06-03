@@ -1,0 +1,809 @@
+{
+   "id_query": "1155282",
+   "total": 32766,
+   "total_current": 100,
+   "max_score": 270.9237,
+   "origin_question": "cho e hỏi. e xài samsung j1 mini. e lưu ảnh vào bộ nhớ máy và cả thẻ sd. nhưng khi e xóa ảnh trong bộ nhớ máy thì ảnh đó trong thẻ sd cũng tự xóa luôn dù e ko xóa. ví dụ e lưu ảnh A trong cả bộ nhớ máy và thẻ. khi e xóa ảnh A trong bộ nhớ máy thì ảnh A trong sd cũng tự xóa. vậy là do đt e hư hay do samsung là vậy. cảm ơn",
+   "hits": [
+      {
+         "score": 270.9237,
+         "id": "1155282",
+         "field_search": "question",
+         "question": "cho e hỏi. e xài samsung j1 mini. e lưu ảnh vào bộ nhớ máy và cả thẻ sd. nhưng khi e xóa ảnh trong bộ nhớ máy thì ảnh đó trong thẻ sd cũng tự xóa luôn dù e ko xóa. ví dụ e lưu ảnh A trong cả bộ nhớ máy và thẻ. khi e xóa ảnh A trong bộ nhớ máy thì ảnh A trong sd cũng tự xóa. vậy là do đt e hư hay do samsung là vậy. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 270.6764,
+         "id": "1155278",
+         "field_search": "question",
+         "question": "cho e hỏi. e xài samsung j1 mini. e lưu ảnh vào bộ nhớ máy và cả thẻ sd. nhưng khi e xóa ảnh trong bộ nhớ máy thì ảnh đó trong thẻ sd cũng tự xóa luôn dù e ko xóa. ví dụ e lưu ảnh A trong cả bộ nhớ máy và thẻ. khi e xóa ảnh A trong bộ nhớ máy thì ảnh A trong sd cũng tự xóa. vậy là do đt e hư hay do samsung là vậy. cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 132.29901,
+         "id": "1148867",
+         "field_search": "question",
+         "question": "E dùng oppo a3s và e muốn chọn vị trí bộ nhớ ( bộ nhớ trong/ thẻ nhớ ) lưu tệp ảnh từ máy ảnh hay các ứng dụng chụp hình thì phải làm ss ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 120.07124,
+         "id": "1002664",
+         "field_search": "question",
+         "question": "ad cho e hỏi điện thoại samsung J2 khi e chuyển hình ảnh từ bộ nhớ qua thẻ SD thì điện thoại yêu cầu giấy phép trụy cập thẻ SD và k cho chuyển hình ảnh là seo ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 119.81993,
+         "id": "1164634",
+         "field_search": "question",
+         "question": "Thẻ nhớ mình bị gì ák? Điện thoại mình là Samsung J2 PrimeLúc đầu mình chuyển ảnh với ứng dụng vào trong thẻ nhớ cho máy nó nhẹMình xài được khoảng một thời gian thì thẻ nhớ nó xóa tất cả ứng dụng ra ngoài hết không còn ứng dụng nào trong thẻ nhớ cả làm máy nặng quá trời cái mình chuyển vào lại thì nó để là không đủ dung lượng lưu trữ nhưng thẻ nhớ mình tới 8gb lận mới dùm 2gb mà còn ảnh thì nó không thoát ra nhưng chuyển ảnh vào thì không được còn xóa ảnh trong thẻ nhớ thì nó để là có lỗi khi xóa file. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 114.371254,
+         "id": "1009286",
+         "field_search": "question",
+         "question": "Ad cho e hỏi với ạ.. tại sao bộ nhớ máy 32Gb và e có thẻ nhớ 32Gb mà máy cứ báo bộ nhớ đầy khi e tải phim  hoặc trò chơi về ạ..e chuyển các ưnga dụng qua thẻ nhớ thì bảo k đủ dung lượng trong khi e tháo thẻ nhớ ra thì tất cả hình ảnh video và ứng dụng đều nằm trên bộ nhớ thiêta bị. Ad cho e hỏi e phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 114.03463,
+         "id": "1017645",
+         "field_search": "question",
+         "question": "Cho e hỏi ảnh chụp màn hình, ảnh tải từ zalo, f...s lại lưu trong bộ nhớ thiết bị.Có cách nào chuyển vị trí lưu sang thẻ nhớ k...E đang dùng j2 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 112.981995,
+         "id": "1006301",
+         "field_search": "question",
+         "question": "E mới mua samsung j2 prime nhưng điện thoại luôn báo bộ nhớ đầy e mua thẻ nhớ 8g lắp vào nhưng sao khi e vào ch phay tải ứng dụng về nó vẫn báo là bộ nhớ đầy cần xóa bớt để tải trong khi e đã lắp thẻ nhớ còn mới chưa dùng vào điện thoại rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 112.17256,
+         "id": "1002974",
+         "field_search": "question",
+         "question": "E mới mua đt ss galaxy j2 prime, em mua cả thẻ nhớ 16gb ùi ạ. E có chụp ảnh. Nhưng khi e vào bộ sưu tập để xm ảnh thì máy cứ bảo là không thể mở bộ nhớ ùi bảo vào phần bộ nhớ ạ. Thẻ nhớ 16gb mà cn trống rất nhiều...tại sao máy lại nz ạ. M.n tư vấn cho e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 108.702194,
+         "id": "1146160",
+         "field_search": "question",
+         "question": "E dùng itel s11plus ạ. Đã để đĩa chép mặc định là thẻ SD. Nhưng khi tải ứng dụng về thì lại lưu ở bộ nhớ trong là sao ạ. Và e muốn chuyển ứng dụng sang thẻ SD thì làm ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 107.6524,
+         "id": "1146194",
+         "field_search": "question",
+         "question": "Cho e hỏi các hình ảnh và nhạc e lưu trong thẻ nhớ đều không xem được ghi là lỗi tải phương tiện j j đó. Vậy là lỗi j hay là thẻ nhớ bị hơ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 106.75925,
+         "id": "1162148",
+         "field_search": "question",
+         "question": "Khôi phục ảnh đã xóa ở bộ nhớ trong của sam sung galaxy j7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 106.47889,
+         "id": "873128",
+         "field_search": "question",
+         "question": "E hiện dùng ip4. Trong lúc tải ảnh từ máy tình vào thì đồng bộ hóa đã xóa hết ảnh cũ trong máy thì có khôi phục lại được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 105.36198,
+         "id": "1006654",
+         "field_search": "question",
+         "question": "thẻ nhớ của mình bỗng nhưng không thể xóa ảnh hay là đưa ảnh vào thẻ nhớ được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.85629,
+         "id": "1136071",
+         "field_search": "question",
+         "question": "mình dùng máy nokia2 bộ nhớ trong 8GB. mình cài đặt lại điện thoại về chế độ ban đầu thì dung lượng bộ nhớ trong là 5,45Gb. sau khoảng 15 ngày mình dùng thì bộ nhớ trong là 7,98/8Gb. mình không lưu, tải hai chụp ảnh gì mà bộ nhớ tự đầy. Mình hỏi nguyên nhân và cách khắc phục tình trạng bộ nhớ trên. vì khi bộ nhớ đầy không nhận được ảnh trên zalo nữa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.80542,
+         "id": "1140505",
+         "field_search": "question",
+         "question": "chỉ hộ mình cách lưu ảnh chụp từ bộ nhớ của máy sang thẻ nhớ của j72016  va j2 prime với mình vào cài đặt máy ảnh chọn lưu vào thẻ nhớ rồi mà vẫn ko đc chup xong vẫn thấy lưu ở bộ nhớ máy xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 104.53414,
+         "id": "1134881",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại Nokia 1 của em chụp ảnh bảo Hãy lắm thẻ SD nhưng Bộ nhớ trong vẫn còn? Xin cảm ơn QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.825745,
+         "id": "996863",
+         "field_search": "question",
+         "question": "e dùng ip 6 plus. 64gb. máy e bị full bộ nhớ trong khi máy e có 500 ảnh và quay video tự quay khoảng 2 tiếng. k có game và chỉ có vài ứng dụng nhẹ. các bác biết tại sao máy e full bộ nhớ k ạ. chỉ e với. e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 103.020584,
+         "id": "1003420",
+         "field_search": "question",
+         "question": "Thứ nhất là em ko xóa đc hình trên thẻ nhớ nhưng gắn qa máy # thì xóa đc, em thử chuyển hình qa từ đt qa thẻ nhớ nhưng ko đc (ảnh 1)Thứ 2 là em định khôi phục lại máy nên cần sao dữ liệu nhưng đt thông báo lưu trữ có v.đề (ảnh 2)...Đt em đang sd là oppo f3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 102.06849,
+         "id": "1019537",
+         "field_search": "question",
+         "question": "Bộ nhớ e đã gắn nhưng nó cứ hiện thế này e ko lưu đc ảnh vào bộ nhớ ngoài đc nữa hãy chỉ cho e cách khắc phục, e cảm ơn nhìu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.799095,
+         "id": "1167288",
+         "field_search": "question",
+         "question": "Điện thoại samsung j4 của mình thông báo đầy bộ nhớ nên mình đã vào \"file của bạn\" trên máy và ấn xóa mấy cái ở bộ nhớ trong. Mãi sau mới biết bị mất hết ảnh ở thư viện máy ảnh. Vậy cho mình hỏi cách khôi phục lại ảnh với ạ. Ở thùng rác k có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 101.1279,
+         "id": "1156634",
+         "field_search": "question",
+         "question": "mình dùng oppof5 youth, mình tải ảnh vào thẻ nhớ rồi gắn vào đt, mình tìm trong file vẫn có ảnh nhưng vào bộ sưu tập lại bị ẩn một số ảnh, tuy làm đủ kiểu như format thẻ, khởi động máy, xóa cache... nhưng vẫn ko dc, giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.98465,
+         "id": "1018028",
+         "field_search": "question",
+         "question": "Chào anh/chị! E đang dùng j7 pro.Khi e gửi ảnh cho bn bè bằng zalo, người nhận đã xem. Sau đó, e xóa ảnh trong máy của e. Khi đó, tin nhắn xảy ra lỗi. Nếu dùng messenger thì hk xảy ra tình trạng như vậy, trái lại, e vẫn có thể xem và tải ảnh về khi e đã xóa ảnh trong máy trước đó r.Thân anh/chị!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.85834,
+         "id": "1007398",
+         "field_search": "question",
+         "question": "E muốn khi chup ảnh ở mọi ap tự đông lưu vào thẻ sd thì làm thế nào ạ. E dùng Samsung  j5 prime.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.75356,
+         "id": "1016495",
+         "field_search": "question",
+         "question": "AD cho em hỏi là ảnh trong bộ sưu tập tại sao e xóa mà không được vậy? Điện thoại Samsung J2 prime.Mong ad hồi đáp sớm. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.45145,
+         "id": "811999",
+         "field_search": "question",
+         "question": " Cách xóa bộ nhớ trong bộ nhớ trong hết dung lượng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.34449,
+         "id": "1156678",
+         "field_search": "question",
+         "question": "E sài oppo a7 e chụp ảnh bằng camera thường lm sao để ảnh tự lưu vào thẻ nhớ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 100.00144,
+         "id": "1014709",
+         "field_search": "question",
+         "question": "E sử dụng đt J3 2016. E cố xóa ảnh trog bộ sưu tập nhưng để 1 lúc lại hiện trở lại. E khôi phục cài đặt gốc. E định dạng thẻ mà vẫn k đc. Có phải thẻ nhớ e bị hư r k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.84579,
+         "id": "1137946",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ, hiện tôi đang sử dụng j7 prime. Khi tôi xóa ảnh trên google photo thì trong bộ sưu tập của tôi cũng bị xóa. Có cách nào để xóa ảnh trên google photo nhưng trong bộ sưu tập của tôi vẫn còn không vậy. Dù tôi đã tắt đồng bộ nhưng vẫn bị...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.611885,
+         "id": "1150287",
+         "field_search": "question",
+         "question": "Samsung j2 prime có hỗ trợ gộp chung bộ nhớ ngoài (thẻ sd) vào thẻ nhớ trong không ạ? Nếu không thì cho em hỏi những loại samsung nào gộp được bộ nhớ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.172554,
+         "id": "1017847",
+         "field_search": "question",
+         "question": "Cho e hỏi e xài zenphone 5 và muốn xóa bộ nhớ đệm (cacheimg) thì có mất dữ liệu hay bị ảnh hưởng gì không. (đa số máy e nặng hình của zalo, fb à). E k rành lắm, mong ad giúp ạ. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 99.10986,
+         "id": "1142827",
+         "field_search": "question",
+         "question": "Mình đang xài j8. Cho mình hỏi là làm sao để chuyển ảnh cũng như là ứng dụng từ bộ nhớ điện thoại sang thẻ sd vậy ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 98.94345,
+         "id": "1156456",
+         "field_search": "question",
+         "question": "Nhờ bạn hướng dẫn dùm cách chuyển dữ liệu, hình ảnh, video, ứng dụng,... từ bộ nhớ trog ra điện thoại samsung A6+ 2018 dùm nhé. và chuyển từ thẻ nhớ ngoài vào bộ nhớ trong của máy dùm. Cảm ơn,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 98.5861,
+         "id": "1156631",
+         "field_search": "question",
+         "question": "mình dùng oppof5 youth, mình tải ảnh vào thẻ nhớ rồi gắn vào đt, mình tìm trong file vẫn có ảnh nhưng vào bộ sưu tập lại bị ẩn đi. tuy làm đủ kiểu như format thẻ, khởi động máy, xóa cache... nhưng vẫn ko dc, giờ phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 98.2615,
+         "id": "1152050",
+         "field_search": "question",
+         "question": "Cách chuyển hình ảnh từ bộ nhớ máy sang thẻ sd trên điện thoại xiaomi redmi note 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 98.16392,
+         "id": "1014446",
+         "field_search": "question",
+         "question": "Sau khi em xóa ảnh thì máy báo đã lưu vào thùng rác của Samsung Could. Vậy thùng rác đó nằm ở đâu hay có cái nào để khôi phục ảnh đã xóa không ạ? Phần khôi phục trong máy em không có mục bộ sưu tập. Em dùng J7 Prime.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 98.01177,
+         "id": "1003686",
+         "field_search": "question",
+         "question": "Mình đang dùng máy galaxy a7 2015,tại sao tất cả ảnh trong bộ sưu tập ko hiển thị được,các file nhạc lưu trong máy cũng bị mất,máy ảnh chụp thì ko lưu ảnh vào máy được. Giúp mình với nhé. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.76362,
+         "id": "824512",
+         "field_search": "question",
+         "question": "Em dùng điện thoại Lenovo A7000. Bộ nhớ trong, thẻ nhớ của em đều còn trống rất nhiều. Thẻ nhớ trống 28GB. Nhưng bị báo bộ nhớ đầy. Em đã buộc dừng, gỡ 1 số apps ko cần, xóa cache nhưng vẫn bị. Em reset máy, thẻ nhớ cũng ko được. Em tháo thẻ nhớ, chùi sạch, lắp lại vẫn ko được. Một số apps em thường chuyển vào thẻ nhớ, nó \"tự\" chuyển lại bộ nhớ trong. Khi em chuyển lại thì hiện \"Couldn't move app. Not enough storage space.\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.63992,
+         "id": "1022799",
+         "field_search": "question",
+         "question": "Cho e hỏi với ạ Tháng 1 năm nay e có mua 1 cái Samsung galaxy j2 prime và 1 cái thẻ nhớ 16GĐến giờ khi sử dụng thì bộ nớ trong của máy e đã đầy nên nó ko cho phép tải thêm nữa mà trong khi đó bộ nhớ ngoài của e còn tận 15GVậy làm sao để e có thể tải trực tiếp các ứng dụng về bộ nhớ ngoài luôn ạ?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.54984,
+         "id": "1131793",
+         "field_search": "question",
+         "question": "Cho e hỏi đt cũ của e bị bể e thay đt mới cũng hãng samsung luôn. Em nhớ tk samsung account của máy cũ thì e vào có thấy hình ảnh máy bên kia còn trong samsung cloud nhưng k sao lưu đc. Vậy làm sao để lưu hình về lại v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 97.203415,
+         "id": "996635",
+         "field_search": "question",
+         "question": "samsung ace S5830 không có chia bộ nhớ trong và thẻ nhớ thì lsao để em chuyển nhạc zing mp3 vào thẻ SD được đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.91171,
+         "id": "815337",
+         "field_search": "question",
+         "question": "Cho mình hỏi , mình có mua điện thoại HTC One M8 Eye , và mua thêm thẻ nhớ 64g , nhưng khi mình down các Ứng dụng trên mạng về thì chỉ xài hết 16G bộ nhớ trong Đt mình, vậy nếu mình ra cửa hàng thegioididong và cài đặt Game + Ứng dụng thì có chuyển qua tất cả qua thẻ nhớ SD của mình không, hay chỉ tải về bộ nhớ trong, cảm ơn rất nhiều ^^",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.332016,
+         "id": "1157721",
+         "field_search": "question",
+         "question": "Dung lượng khác trong bộ nhớ của máy Pantech V950 nhiều quá, xin hỏi làm sao để xóa bớt dung lượng này, xóa đi có ảnh hưởng gì không ? thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.30317,
+         "id": "1164564",
+         "field_search": "question",
+         "question": "Sao cái thẻ nhớ của mình bị gì ák? Điện thoại mình Samsung J2 PrimeThẻ nhớ 8gb mà mới xài có 2gb thì bị rắc rối là: tất cả ứng dụng chuyển vào thì bị thoát ra hết bây giờ máy rất nặng phải xóa bớt còn ảnh thì k bị thoát ra nhưng chuyển ảnh vào thì đễ \"có lỗi khi chuyển file\" mà nó ảnh trong đó cũng k được luôn lúc xóa thì nó mất nhưng 1 lúc vào lại thì nó y như cũ k bị xóa ứng dụng chuyển vào thì nó nói: \"không đủ dung lượng lưu trữ\" dù ứng dụng 12mb nó vẫn để vậy. Là sao ạk giải thích với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 96.101456,
+         "id": "998482",
+         "field_search": "question",
+         "question": "Em mới mua samsung j2 prime, máy bộ nhớ ít nên e lắp thêm thẻ nhớ, vào file của bạn thì thẻ nhớ gắn được rồi. Nhưng e vào cài đặt-> ứng dụng, ấn vào ứng dụng muốn chuyển sang thẻ nhớ nhưng nó ko có mục chuyển sang thẻ SD ạ, giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.83016,
+         "id": "1151638",
+         "field_search": "question",
+         "question": "Ad ơi s đt real me 2 pro lúc mua e gắn thẻ nhớ vào thì nó hiện ảnh trong thẻ nhớ đến nó ko hiện nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 95.53733,
+         "id": "997424",
+         "field_search": "question",
+         "question": "Làm sao tải video xuống bộ nhớ của thẻ nhớ chứ không lưu trong bộ nhớ của máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.841644,
+         "id": "1001692",
+         "field_search": "question",
+         "question": "Ad cho e hỏi..điện thoại e bảo hành có bị mất hình ảnh hay các file nhạc trong bộ nhớ k ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.79985,
+         "id": "1140908",
+         "field_search": "question",
+         "question": "Cho em hỏi sao không thể di chuyển hình ảnh từ đt sang thẻ nhớ được . Với thẻ nhớ cũng không xóa hay di chuyển được ảnh ạ . Đt : ss galaxy a7 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.790634,
+         "id": "779746",
+         "field_search": "question",
+         "question": "Mình dùng điện thoại HKphone Revolead. Tất cả ảnh gửi qua viber đều được lưu vào thẻ nhớ. Nhưng lúc mình tháo thẻ nhớ ra đến khi lắp vào thì mất toàn bộ ảnh đã lưu của viber. Làm thế nào để lấy lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.7335,
+         "id": "1163654",
+         "field_search": "question",
+         "question": "cho mình hỏi ảnh và file tải về của samsung a10 lưu ở đâu vậy? minh tìm cả trong bộ sưu tập và cả trong file cũng k thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.704636,
+         "id": "918468",
+         "field_search": "question",
+         "question": "add ơi, cứu e với, e với con e em dùng chung tài khoảng icloud, tư dưng hình ảnh trong máy e ko còn cái nào,thay vào đó là toàn bộ hình ảnh trong máy nó qua máy e, chỉ e cách lấy lại ảnh trên máy e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.15325,
+         "id": "1157048",
+         "field_search": "question",
+         "question": "Em dùng máy samsung j3 (LTE 2016). Vì máy hết dung lượng nên em chuyển ứng dụng qua thẻ nhớ. Em đã làm cái này nhiều lần và thành công nhưng mấy ngày nay tự dưng lại không được và máy hiện lên dòng \"Không thể di chuyển ứng dụng. Không đủ dung lượng lưu trữ\" trong khi thẻ nhớ của em còn tận 13,53GB trống. Hơn nữa khi em thử xóa nhạc với ảnh sẵn trong thẻ nhớ thì lại bị hiện lỗi \"lỗi khi xóa\". Cho em hởi phải xử lí như thế nào trong trường hợp này ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 94.02872,
+         "id": "1009838",
+         "field_search": "question",
+         "question": "Cách  chuyển  file hình ảnh  từ bộ  nhớ  máy  qua  thẻ nhớ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.95226,
+         "id": "915147",
+         "field_search": "question",
+         "question": "- thegioididong giúp e với- e tò mò đi phần vùng thẻ nhớ trên PC bằng phần mềm miniTool Parition Wizard- thành công xong máy PC của e k nhận thẻ nhớ nữa e xóa thẻ SD bằng điện thoại bằng cách vô cài đặt dung lượng xóa thẻ SD và mất phân vùng rồi mà máy tính vẫn k nhận còn cắm vào điện thoại thì vẫn nhận cắm dây cáp từ điện thoại vào PC thì thẻ SD nó mất luôn phải khởi động lại mới nhận lại dc thẻ SD mong thegioididong giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.800476,
+         "id": "1002576",
+         "field_search": "question",
+         "question": "đt mình là huawei j5, thẻ nhớ 8gb nhưng lúc nào bộ nhớ cũng đầy, muốn chụp ảnh nhưng nó báo ko thể lưu, mình phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.63514,
+         "id": "1148216",
+         "field_search": "question",
+         "question": "Tình hình là máy em sắp hết dung lượng ở điện thoại. Và còn dư 7 gb trong thẻ sd. Nhưng em tải app thì về bộ nhớ đt chứ không sang thẻ sd. Làm sao có thể thay đổi vị trí lưu vậy ạ ?#Oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 92.02903,
+         "id": "1015695",
+         "field_search": "question",
+         "question": " Hình ảnh lưu trong thẻ nhớ mà mở ra xem lại bị vậy ạ? Nếu thẻ nhớ bị lỗi có lấy lại được hình ảnh không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.55661,
+         "id": "1000821",
+         "field_search": "question",
+         "question": "A/c cho e hỏi. E và chồng em đều dùng máy ss j2 prime. Nhưng máy e lúc nào cũng báo bộ nhớ đầy. Trong khi đó máy e k có nhiều trò trơi như của ck e. Với lại trò chơi e tải về e chuyển vào thẻ nhớ. Có những u.d như bản đồ máy e lên tới hơn trăm mb nhưng của ck e có hon 1 mb",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 91.186455,
+         "id": "1023774",
+         "field_search": "question",
+         "question": "mình lưu video và ảnh tải về trên thẻ nhớ và bây giờ mình xóa đi nhưng máy cứ ghi lỗi khi xóa file. Mình đã thử cắm vào máy tính thì có lỗi write-protected. Mình dùng J5 2016",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.580696,
+         "id": "1011367",
+         "field_search": "question",
+         "question": "Cho e hỏi e dg dung dt samsung j2 prime mà x thẻ nhớ của e k biết có bị hư hay không mà x những mục e lưu trong thẻ nhớ đều như thế nàyHay là e có thể là e ngắt kết nối vs thẻ nhớ r ta...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.408936,
+         "id": "1152885",
+         "field_search": "question",
+         "question": "Em muốn hỏi là máy em dùng icloud, em tắt đồng bộ ảnh icloud, sau đó xóa ảnh trên iphone thì khi bật đồng bộ ảnh icloud lên hoặc back up lại thì hình đã đồng bộ trước đó nhưng bị xóa ở iphone thì trên icloud còn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.140785,
+         "id": "824763",
+         "field_search": "question",
+         "question": "Em đang xài iphone5. Em xoá hết ảnh rồi mà kiểm tra bộ nhớ vẫn báo ảnh chiếm 7,2Gb bộ nhớ! E xoá cả mục đã xoá rồi mà máy vẫn báo thế! Cho em hỏi sửa lỗi này ntn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 90.04185,
+         "id": "1143927",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi về chuyển dữ liệu từ máy sang thẻ nhớ sd, em đang xài máy htc desire 620 dual sim, có khe thẻ nhớ và thông tin máy có hỗ trợ thẻ nhớ, nhưng e có làm theo hướng dẫn chuyển dữ liệu thì k có chức năng chuyển sang thẻ sd, cho e hỏi dòng máy này có hỗ trợ chuyển k ạ? bộ nhớ máy đã đầy rồi ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.81652,
+         "id": "1020841",
+         "field_search": "question",
+         "question": "cách chuyển dử liệu từ bộ nhớ trong sang thẻ SD của điện thoại samsung Galaxy J7 pro",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.2512,
+         "id": "1010034",
+         "field_search": "question",
+         "question": "Điện thoại có thẻ nhớ dùng hết bộ nhớ trong sao nó k chuyển qa thẻ nhớ sd vậy ad  Điện thoại Sony Xa Dual f3116",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 89.12746,
+         "id": "1168374",
+         "field_search": "question",
+         "question": "Ad cho em hỏi, em sd iphone 5S, bây giờ máy em sắp hết dung lượng, vậy nên em đã sao lưu và đồng bộ dữ liệu ảnh, .... vào icloud rồi, vậy em có thể hỏi là nếu em xóa hết hình bên app ảnh của iphone thì bên icloud có mất luôn không ạ? Em cảm ơn ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.83874,
+         "id": "1134936",
+         "field_search": "question",
+         "question": "Cho e hỏi  e dùng samsung j7 pro tải ảnh về mà tìm ở bộ nhớ trong file tải về không có ạ. Làm thế nào đề xem được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.83083,
+         "id": "1002241",
+         "field_search": "question",
+         "question": "Em dùng Vivo5 mà tự nhiên bây giờ ảnh lưu vào bộ nhớ máy, mà không biết chuyển vào thẻ nhớ như thế nào, thẻ nhớ 8G, mà dung lượng vẫn còn hơn 1G. Ad chỉ em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.76039,
+         "id": "1148781",
+         "field_search": "question",
+         "question": "Oppo A3s có hỗ trợ định dạng thẻ sd làm bộ nhớ trong không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.52,
+         "id": "862005",
+         "field_search": "question",
+         "question": "Dạo nàu fb e ko up ảnh lên được. Ko phải do nick e bị hack do e láy nick khác cũg ko up ảnh lên đuọc ạ. E tưởng fb e bị lỗi e xóa và tải lại nhưng cũng ko up lên được ạ. Mong a cj giúl đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.49163,
+         "id": "944887",
+         "field_search": "question",
+         "question": "Em muốn khôi phục lại ảnh đã xóa trên iphone 6 ( mới xóa 2 ngày và xóa cả trong mục hình ảnh mới xóa luôn rồi ) giờ có cách nào không vậy ad ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 88.25529,
+         "id": "1022657",
+         "field_search": "question",
+         "question": "Cho mình hỏi chút!Mình đang dùng máy J2 PrimeLúc mình ngắt kết nối thẻ SD xong mới tháo thì đến lúc lắp vào nó chỉ hiện các file lưu trên thẻ!Còn mục máy ảnh ko thấy đâu. Mục đó (ở thẻ nhớ) là mỗi khi chụp thì nó lưu vào luôn!Giờ cái hình nền của mình vẫn là 1 ảnh trong mục đó!!Bây giờ mình tìm mãi không thấy!!Giúp mình với !Tại có nhiều ảnh quan trọng lắm!!Huhuhu...!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.92761,
+         "id": "923131",
+         "field_search": "question",
+         "question": "Máy e là ip 4s ios 9.3.5. Sau khi e đồng bộ ảnh và video ở máy với google photos thì máy e không thể xoá cũng như save ảnh được. E phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.90395,
+         "id": "1019904",
+         "field_search": "question",
+         "question": "Chào anh chị, em đang dùng đt Samsung Galaxy J2, hiện máy của em bị lỗi gì đó mà em mới chụp ảnh xong mở ảnh ra xem lại thì không mở được và hiện thông báo \"Không có mục nào trong bộ sưu tập\".Em mở bộ sưu tập và cả thẻ nhớ ra xem cũng không thấy có ảnh mới chụp? Em muốn hỏi làm thế nào để sửa được ạ? Cám ơn anh/chị nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.8487,
+         "id": "998081",
+         "field_search": "question",
+         "question": "Em dùng Mobiistar Lai Yuna 1 , sử dụng thẻ nhớ 8G nhưng dữ liệu vẫn chỉ lưu vào bộ nhở của máy và k chuyển qua bộ nhớ ngoài là thẻ nhớ đc. Thẻ nhớ của e cũng dùng lâu r, nhưng vẫn tốt với những điện thoại khác. Vậy làm sao để khắc phục ạ? Mua thẻ nhớ mới có chuyển dữ liệu được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.32665,
+         "id": "1005307",
+         "field_search": "question",
+         "question": "Ad cho hỏi. mình dùng j5. bộ nhớ đầy nên mình có gắn thẻ nhớ 8g vào. khi chuyển ảnh từ điện thoại sang thẻ nhớ thì toàn bộ ảnh bị lỗi hết k mở lên được. nhạc mp3 cũng bị lỗi k phát được. Giờ phải làm sao ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.18953,
+         "id": "994731",
+         "field_search": "question",
+         "question": "Cho hỏi tại sao e gắng thẻ nhớ ngoài rồi mà đt cứ báo bộ nhớ đầy? E xài samsung j2 prime. E có đọc cái nội dung tương tự nhưng ko có như vậy. Làm ơn giúp em nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 87.12166,
+         "id": "943788",
+         "field_search": "question",
+         "question": "Hi, cho hỏi cách đồng bộ ảnh trong gmail sang iPhone như thé nào? do tất cả ảnh trong điện thoại cũ được lưu trong gmail (dt cũ sử dụng androi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.818726,
+         "id": "1021377",
+         "field_search": "question",
+         "question": "Cho em hỏi là có thể đổi ứng dụng tải về từ bộ nhớ trong sang tải ứng dụng về bộ nhớ ngoài( thẻ sd) được ko ạ em dùng htc 10 evo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.81577,
+         "id": "1021614",
+         "field_search": "question",
+         "question": "Em đang xài samsung J3 pro 2017. Em muốn chuyển hình ảnh và ứng dụng từ máy sang thẻ nhớ SD thì làm sao ạ. Em di chuyển hình thì cứ hiện \"không thể di chuyển\" còn chuyển ứng dụng thì lại ghi \"không đủ dữ liệu\" trong khi thẻ nhớ SD còn trống rất nhiều. Em cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.33439,
+         "id": "1143442",
+         "field_search": "question",
+         "question": "Em dùng Samsung j3 2017 vào có lắp thẻ nhớ 8GB sandisk.Bây giờ muốn cho thẻ nhớ làm bộ nhớ trong được không vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.312584,
+         "id": "811045",
+         "field_search": "question",
+         "question": "Mình có một số ảnh trên zalo chưa kịp lưu về máy. Trong quá trình sử dụng cũng không hề xóa. Nhưng mình đã xóa ứng dụng zalo và tải lại và mất hết ảnh trong cuộc trò chuyện. Bây giờ có cách nào khôi phục ảnh không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 86.130104,
+         "id": "1142976",
+         "field_search": "question",
+         "question": "Đt sam sung note 9 của tôi thi thoảng bị mất thư mục lưu ảnh camera trong bộ nhớ máy, làm sao để khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.6404,
+         "id": "998337",
+         "field_search": "question",
+         "question": "Đang sài con Samsung Galaxy J2 Prime em mua thẻ nhớ SD gắn vào khi vào Cài đặt > Ứng dụng > chọn ứng dụng > Thay đổi > Thẻ nhớ SD. Thì đang xuất qua nó ghi là \"Dung lượng lưu trữ không đủ\" trong khi thẻ nhớ còn dư hơn 10 GB :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.49795,
+         "id": "1021667",
+         "field_search": "question",
+         "question": "E đang dùng sam sung j7prime .trong ứng dụng ảnh của máy vẫn còn ảnh mà khi vào thư viện ảnh trong facebook và mesenger ko có ảnh ạ .e phải làm sao .giups e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.40028,
+         "id": "1164319",
+         "field_search": "question",
+         "question": "Em sài samsung m20, em lỡ xóa ảnh trong bộ sưu tập mà không biết khôi phục lại ntn ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 85.299904,
+         "id": "1149603",
+         "field_search": "question",
+         "question": "cho hỏi nokia 3 hệ điều hành Android 8.1 sao không thể sử dụng thẻ nhớ SD ngoài  làm bộ nhớ trong vậy .có phải là bị lỗi gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.94417,
+         "id": "1158596",
+         "field_search": "question",
+         "question": "Thẻ nhớ em bị làm sao ák. Bộ nhớ thiết bị hết dung lượng nên em chuyển qua thẻ nhớ mọi lần chuyển ảnh,ứng dụng đều được. Không hiểu sao gặp vấn đề gì mà bây giờ chuyển ứng dụng thì để là \"không đủ lưu trữ\" gì đó nhưng thẻ nhớ 8GB nhưng mới xài 2,3GB mà. Chuyển ảnh thì nó để \"có lỗi khi chuyển\". Máy em Samsung J2 Prime mong được hỗ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.53417,
+         "id": "1155239",
+         "field_search": "question",
+         "question": "Máy tính bảng Samsung Galaxy Tab E 9.6 SMT561 thì xài được thẻ nhớ sd nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 84.06323,
+         "id": "1016992",
+         "field_search": "question",
+         "question": "HTV cho e hỏi. E dùng máy glx j5. Trc vẫn cài đặt hình nền bằng ảnh trong bộ sưu tập bình thường. Nhưng sau khi cập nhật nâng cấp máy thì cài đặt hình nền bằng ảnh trong bộ sưu tập thì có bị như ảnh. Em vào cài đặt bật tắt thử mãi mà k được. Mong được giải đáp sớm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.99181,
+         "id": "1157393",
+         "field_search": "question",
+         "question": "QTV cho e hỏi, e xài đt J7 prime mới chụp hình xong nhưng lỡ tay xóa mất, ảnh chưa kịp đồng bộ với samsung Account, vậy có cách nào để lấy lại được tấm hình đó k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.90439,
+         "id": "1161795",
+         "field_search": "question",
+         "question": "Chào anh ạ! Máy Vivo Y91 này có hỗ trợ chuyển ứng dụng từ bộ nhớ trong của máy sang thẻ SD không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.62225,
+         "id": "1024566",
+         "field_search": "question",
+         "question": "Add ơi cho e hỏi e mới mua samsung j7 pro ở tgdd mà e ko coi dc file trên gmail cũng không dc, down bài về cũng không dc. Máy ghi là không thể lưu trữ mà không có quyền truy cập bộ nhớ bộ nhớ. Vậy h e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.57404,
+         "id": "1000032",
+         "field_search": "question",
+         "question": "Em sài samsung j2 prime khi chụp ảnh thì hình ảnh vẫn bình thường nhưng khi call video facebook thì hình ảnh lại bị tối và bên kia không thấy gì, dù em đã xóa và tải lại, khởi động lại máy nhưng vẫn không được. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.55556,
+         "id": "999952",
+         "field_search": "question",
+         "question": "E dung Samsung J5 Prime, hiện máy gần hết dung lượng rồi e có chuyển các ứng dụng sang thẻ nhớ để có thêm dl nhưng mỗi lần cập nhật máy vẫn báo k đủ dung lượng.. giống như mấy ứng dụng k có đc chuyển vào thẻ SD hay sao ấy... nên máy ms báo k đủ dung lượng bộ nhớ ngoài hoài... Mong mấy a chị giúp e vs... !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.090225,
+         "id": "1000616",
+         "field_search": "question",
+         "question": "Mình dùng ip5s trong phần cài đặt-> dung lượng& sử dụng icloud -> quản lý dung lượng. báo ảnh & camera 10,0 GB mà mình tìm mãi không biết dữ liệu đó nó nằm ở đâu. Trước đó mình kết nối iphon với máy tính và copy tất cả dữ liệu ảnh và video ra ngoài sau đó xóa hết đi rồi. Mình muốn xóa đi để nâng cao bộ nhớ thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.08663,
+         "id": "1010691",
+         "field_search": "question",
+         "question": "Mình dùng cái Sony Xperia XA, hôm qua thấy bộ nhớ máy đầy trên 70%, mình đã vào phần lưu trữ bộ nhớ và nhấn vào \"nhấn để biết thêm chi tiết, sau đó mình chọn vào \"bộ nhớ trong dùng chung\" và xoá hết 745MB trong \"dữ liệu khác\". Sau đó tự game mình tải về chơi không đc mà bắt tải lại, gỡ bỏ game xong thì máy tự khoá màn hình và bên hình ảnh thì bị thay đỗi cái phần sắp xếp... Mình phảo làm sao ạk?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 83.0418,
+         "id": "734961",
+         "field_search": "question",
+         "question": "Admin cho em hỏi Samsung Galaxy J7 có thể lưu dữ liệu trực tiếp lên thẻ nhớ được không? Hay là phải chuyển từ bộ nhớ máy sang thẻ nhớ ??? Cảm ơn Admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 82.596375,
+         "id": "1165100",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình down nhạc từ Zing mp3 về thiết bị, sau đó di chuyển tất cả nhạc qua thẻ nhớ để không gian thiết bị được trống hơn.Nhưng không hiểu sao cứ vài ngày vào lại mục Zing mp3 của bộ nhớ thiết bị vẫn tồn tại những bài hát đó, và bên thẻ nhớ cũng có luôn (tức di chuyển mà vẫn tồn tại song song 2 bên), cả khi mình xóa file nhạc trong bộ nhớ thiết bị thì khi khởi động lại thì nó tự động khôi phục như chưa từng xóa.Mình không muốn thế vì nó chiếm nhiều bộ nhớ, trong khi mình đã chủ động chuyển sang thẻ nhớ mà nó quá cứng đầu.Với lại trong list bài hát ở app phát nhạc cũng tồn tại 1 bài hát lập lại 2 lần, trông khó coi lắm.Mình xài Sony XA1 Ultra.Các anh chị giúp mình ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

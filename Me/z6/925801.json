@@ -1,0 +1,809 @@
+{
+   "id_query": "925801",
+   "total": 33726,
+   "total_current": 100,
+   "max_score": 77.52392,
+   "origin_question": " Cho e hỏi e có tầm khoảng 6tr muốn mua laptop nhưng không biết của hãng nào tốt hơn. Nhờ anh chị tư vấn giúp e ạ ",
+   "hits": [
+      {
+         "score": 77.52392,
+         "id": "925801",
+         "field_search": "question",
+         "question": " Cho e hỏi e có tầm khoảng 6tr muốn mua laptop nhưng không biết của hãng nào tốt hơn. Nhờ anh chị tư vấn giúp e ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.75923,
+         "id": "837008",
+         "field_search": "question",
+         "question": " E cần mua một cái laptop Dell chíp core i5 pin tốt và có card rời khoảng tầm 1013 triệu nhờ anh chị tư vấn giúp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.022205,
+         "id": "1147686",
+         "field_search": "question",
+         "question": "Chào anh chị cho e hỏi, e là sinh viên  muốn mua laptop thiết kế đồ hoạ, bây giờ e muốn tư vấn về 2 dòng Dell là dell vostro và inspiron, thì loại nào tốt hơn vậyE Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.29579,
+         "id": "799752",
+         "field_search": "question",
+         "question": " Mình có khoảng 17tr...muốn nhờ add tư vấn nên mua laptop nào phục vụ tốt cho nganh XD.... ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.63624,
+         "id": "1012002",
+         "field_search": "question",
+         "question": "anh/chị QTV tư vấn giúp e với ạe đang muốn mua điện thoại trong tầm giá từ 3-7tr. cấu hình máy tốt để chơi đc các game nặng, ram khoảng từ 3-4gb, ít tốn pin,chơi game ít có hiện tượng giật lag.mà hơn nữa có nút home để cảm biến vân tay nữa ạ.v thì cho e hỏi trong tầm giá ấy có điện thoại nào phù hợp với e k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.530117,
+         "id": "1117059",
+         "field_search": "question",
+         "question": "Chào TGDĐ .. cho e xin tư vấn về dòng máy nào tốt để mình dùng.. phục vụ cho sinh viên nhàng xây dựng ạ.. e đang phân vân.. k biết mua loại nào tốt và rẻ để cho e của e đi học ạ. Tầm 12tr trở lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.09383,
+         "id": "1161401",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại nào chơi game tốt giá rẻ tầm 23 triệu ạ? Mong anh chị tư vấn rõ với nói tên giúp em ạ!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.89643,
+         "id": "1148638",
+         "field_search": "question",
+         "question": "Iphone X: cho hỏi face id của máy em không hoạt động, phiền anh chị tư vấn giúp em hoặc nếu có sữa chữa thì tầm giá khoảng bao nhiêu ạ, mong được tư vấn sớm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.851803,
+         "id": "1134675",
+         "field_search": "question",
+         "question": "Chào Anh/chị..hiện tại em muốn mua điện thoại giá từ 6 triệu đến 8 triệu,mà em không biết nên mua loại nào xài cho tốt em mong anh/chị tư vấn giúp em với ạ..em cám ơn anh/chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.75163,
+         "id": "777483",
+         "field_search": "question",
+         "question": "Mấy anh chị em bên TGDĐ cho em hỏi chút ạ, em vừa mua iPhone 5s 16GB trên TGDĐ nhưng không biết phiên bản 9.2 xài có ổn định không ah ? Nhờ anh chị em tư vấn giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.53926,
+         "id": "1154303",
+         "field_search": "question",
+         "question": "Chào anh chị giờ em muốn mua 1 điện thoại tầm giá 3.5 trieu chở lại mà em ko biết mua cái nào ngon hết anh chị tư vấn giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.437714,
+         "id": "1134214",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi, em cần tìm một máy tính laptop bất cứ hãng nào giá tầm 13 triệu đổ lại chiến tốt game Liên Minh Huyền Thoại với cấu hình thấp FPS:60, mong anh, chị tư vấn giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.454018,
+         "id": "915202",
+         "field_search": "question",
+         "question": "E là sinh viên học ngành kế toán. E đang có ý định mua laptop để phục vụ cho việc học của mình. E chủ yếu chỉ sử dụng một số phần mềm của kế toán nên k cần máy có cấu hình mạnh. Xin TGDĐ tư vấn giúp e nên mua của hãng nào là tốt ạ. E xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.177595,
+         "id": "1005298",
+         "field_search": "question",
+         "question": "Cho e hỏi có laptop nào chơi được lmht mà giá tầm 6tr gì đó Ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.121895,
+         "id": "1009699",
+         "field_search": "question",
+         "question": "giờ em muốn tìm máy để chơi game vậy tầm giá 6 triệu thì em nên dùng mày nào tốt nhất mong anh chị tư vấn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.968462,
+         "id": "890286",
+         "field_search": "question",
+         "question": "Em có nhu cầu mua laptop dell tầm dưới 13 triệu. mục đích của e chuyên code ( e học cntt) thỉnh thoảng photoshop . Tư vấn giùm e với ạ . máy càng nhẹ càng tốt ạ ( mang đi lại cho tiện ạ )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.964928,
+         "id": "777090",
+         "field_search": "question",
+         "question": " Em đang tính muốn mua 1 chiếc laptop có thể lướt web và chơi game fifa online 3 tốt? Ai biết tư vấn cho e với ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.871094,
+         "id": "1000290",
+         "field_search": "question",
+         "question": "Cho e hỏi là điện thoại phù hợp vs nữ tầm 4-6tr5 thì loại nào tốt nhất v ạ? E muốn mua 1 chiếc nhưng ko biết rõ đc loại nào tốt hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.745092,
+         "id": "823050",
+         "field_search": "question",
+         "question": " Giờ em muốn mua một cái laptop mà không biết nên nua lọai nào để máy chạy tốt hit. A chị giúp e với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.668446,
+         "id": "1148362",
+         "field_search": "question",
+         "question": "xin chào, em muốn nhờ các anh chị giúp đỡ e một vấn đề à về laptop ạ, hôm qua e có lỡ tay shift delete một số file word văn bản quan trọng bây giờ e muốn khôi phục lại các file đó thì phải làm sao ạ. Nhờ các anh chị giúp đỡ, em xin cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.059546,
+         "id": "888713",
+         "field_search": "question",
+         "question": " Mình muốn mua laptop core i5 có giá khoảng từ dưới 11t. Có thể vẽ cad. Nhờ bạn tư vấn giúp có máy nào phù hợp ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.614912,
+         "id": "1152806",
+         "field_search": "question",
+         "question": "Mình muốn mua 1 laptop chơi fifa online mượt giá tầm 1014 tr nhờ tư vấn giùm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.446848,
+         "id": "1136111",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi đjen thoại e mới mua được 1 tuần ,dòng samsung A7 2018, nhưng pin sử dụng rất nhah hết ,nhờ tư vấn giúp e đien thoại bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.404392,
+         "id": "996144",
+         "field_search": "question",
+         "question": "chào ạem muốn hỏi là, oppo neo 9 e mới vừa mua e k biết thay đổi kiểu chữ bên shop tư vấn giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.345476,
+         "id": "1010824",
+         "field_search": "question",
+         "question": "Anh chị ơi !!! Anh chị tư vấn giúp em. Em định mua laptop giá tầm dưới 15 triệu để chơi game Blade And Soul ngon ổn định mà không bị lag ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.272171,
+         "id": "1016272",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi.E mua samsung A5 2017 trả góp được 3 tháng rồi.bây giờ e muốn trả có được ko ạ? Nhờ TGDD tư vấn giúp e.cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.214117,
+         "id": "1009867",
+         "field_search": "question",
+         "question": "em là tân sinh viên học chuyên ngành kinh doanh đang có nhu cầu muốn mua laptop trong tầm từ 10tr-15tr. mong anh/chị có thể tư vấn giúp em.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.175686,
+         "id": "1001073",
+         "field_search": "question",
+         "question": "tư vấn cho tớ hãng laptop tớ nên mua, tớ có khoảng 20tr",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.160122,
+         "id": "997000",
+         "field_search": "question",
+         "question": "Chào ad, e nhờ tí ad có thể tư vấn cho em chút dc ko ạ, bây giờ em đang cần mua 1 chiếc điện thoại giá dao động khoảng 6-7 triệu nhưng em cần điện thoại chơi game phải mượt, tốt, ko giật lag, e hay chơi các game mobile như liên quân mobile, phục kích,... thì ad xem có chiếc điện thoại 6-7 triệu nào chơi game mượt ko giật lag để e chơi các game mobile như kia ko ạem muốn mua SamSung mà ko biết chọn cái nào ko bị lag, nhờ ad tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.982351,
+         "id": "1018215",
+         "field_search": "question",
+         "question": " giup e với e không biết phải làm thế nào anh chị giúp em được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.874565,
+         "id": "999544",
+         "field_search": "question",
+         "question": "Chào anh/chị, em hiện là sinh viên, muốn mua một máy tính bảng với nhu cầu xem phim, lướt web, đọc sách. Nhờ anh chị tư vấn, đề xuất giúp em một vài sản phẩm phù hợp và giá cả càng rẻ càng tốt giúp em. cám ơn anh/chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.855988,
+         "id": "793963",
+         "field_search": "question",
+         "question": " Em muốn mua 1 laptop tầm giá từ 7 triệu đáo lại thị hãng nào tốt ạ. add giúp em với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.794453,
+         "id": "994638",
+         "field_search": "question",
+         "question": "Nhờ các anh chị ở thegioididong tư vấn giúp em cấu hình laptop có khả năng chơi một số game đồ họa cao (như gta5, liên minh huyền thoại), chạy tốt photoshop..v..v..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.447037,
+         "id": "1002801",
+         "field_search": "question",
+         "question": "Trong tầm giá từ 8-10tr (có thể hơn 1 tí) có laptop nào phù hợp cho SV học Đồ hoạ, Công nghệ thông tin k ạ. Ad tư vấn hộ e với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.426886,
+         "id": "1140039",
+         "field_search": "question",
+         "question": "xin chào anh chị. em có cái laptop Hp core i7 bị lỗi thanh giải nhiệt không biết bên hãng mình có thay không ạ. sđt em là 01688258987 xin liên hệ lại em tư vấn giúp ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.11975,
+         "id": "744396",
+         "field_search": "question",
+         "question": "E muốn mua laptop..tầm 10--12tr...đó giờ chưa sử dụng lần nào... giới thiệu cho e loại máy chạy cấu hình mạnh..bền...để tiện việc học tập...e thích hàng DELL...tư vấn dùm e với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.991667,
+         "id": "1154990",
+         "field_search": "question",
+         "question": "e đang sài iphone 6s plus. E muốn mua bộ sạc cho đt. Nhưng hàng chính hãng iphone khá mắc tầm 1tr, cho e hỏi có bộ sạc nào thay thế nhưng giá rẻ hơn và vẫn đảm bảo chất lượng sạc và đt k ạ. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.951498,
+         "id": "1001734",
+         "field_search": "question",
+         "question": "Mình muốn tư vấn mua 1 laptop học lập trìnhTầm giá: 10-->15trRam: có thể nâng cấpỔ cứng: nếu có cổng m2 càng tốt ko có thì phải có ổ đĩa quang.Mong anh chị tư vấn cho :D",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.93846,
+         "id": "999428",
+         "field_search": "question",
+         "question": "Em muốn mua đt tầm 12tr, QTV tư vấn giúp em nên mua cái nào ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.776798,
+         "id": "1012998",
+         "field_search": "question",
+         "question": "Cho e hỏi e muốn chơi Liên Quân Mobile max cấu hình ingame thì nên dùng điện thoại nào trong tầm giá 6tr đổ lại ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.694761,
+         "id": "1156366",
+         "field_search": "question",
+         "question": "em muốn được tư vấn trả góp iphone 7 plus, anh chị tư vấn giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.595173,
+         "id": "759854",
+         "field_search": "question",
+         "question": " Mình dùng laptop và muốn mua card rời chơi tốt game fifa , mong tư vấn giúp mua loại nào tốt và mua ở đâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.56815,
+         "id": "873968",
+         "field_search": "question",
+         "question": " Em cần mua phần mềm diệt virut cho máy tính mà không biết mua loại nào, anh chị tư vấn em với ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.55066,
+         "id": "1017676",
+         "field_search": "question",
+         "question": "chào anh/ chị, cho e hỏi là e là giáo viên mầm non, em đang tìm hiểu để mua 1 laptop phù hợp với túi tiên là cỡ khoảng 5  -7 triệu, máy tính nhỏ gọn không cần to lắm ạ, cỡ 11-14 inch. có thể tư vấn cho em đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.518272,
+         "id": "995076",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi tầm 4tr5 thì nên mua đt nào cấu hình ổn, chụp hình đẹp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.489883,
+         "id": "796925",
+         "field_search": "question",
+         "question": "Em muốn quay một bộ phim ngắn bằng con iphone 6s.. nhưng không biết dùng phần mềm quay phim nào chuyên nghiệp nào...ATV có thể tư vấn giúp e vài phần mềm được không?? E cám ơn nhiều!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.437496,
+         "id": "1149556",
+         "field_search": "question",
+         "question": "Mình  muốn  mua  latop giá  tầm  5  6 triệu chơi  gam tốt Có  thể  tư  vấn  cho mình  k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.383213,
+         "id": "1001579",
+         "field_search": "question",
+         "question": "cho mình hỏi, giờ mình muốn đổi Lumia 830  sử dụng được 13 tháng, còn tốt để lấy samsung j7 prime thì bù thêm khoảng bao nhiêu tiền hoặc như thế nào nhờ add tư vấn giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.318127,
+         "id": "1139796",
+         "field_search": "question",
+         "question": " e hoi giờ e muốn mua DT trả góp ..Ad tư vấn giúp e dc ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.254618,
+         "id": "1007724",
+         "field_search": "question",
+         "question": "Anh chị tư vấn dùm em những mẫu laptop giá tầm 20tr  30tr dành cho dân đồ họa ạ? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.242275,
+         "id": "878465",
+         "field_search": "question",
+         "question": " E sinh viên muốn mua 1 laptop chơi lmht đc á giá rẻ thôi. Mong anh tư vấn giùm ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.038757,
+         "id": "999539",
+         "field_search": "question",
+         "question": "E sắp mua điện thoại mà không biết nên dùng đt nào. Giúp e tìm điện thoại với những thông tin sau với ạ:Màn hình : tầm 5.5 - 6 inchAndroid: tầm 6.0 hoặc thấp hơn chútRAM: 4GB, ROM: 32 GB trở lênHỗ trợ 2 SIMCMR trước : 13 trở lên, sau từ 8 trở lên.2 Camera càng cao càng tốt ạPIN : 3000 mAh trở lênGiá khoảng 7 triệu Giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.03127,
+         "id": "804542",
+         "field_search": "question",
+         "question": "Chào anh chị qtv, e muốn hỏi trong Tgdd có hỗ trỡ cài win10 hay win 8.1 cho laptop không, khi e không mua máy tại tgdd ạ. Nếu hỗ trợ mà mất phí thì khoảng bao tiền ạ. E xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.907583,
+         "id": "834374",
+         "field_search": "question",
+         "question": "em muốn mua một chiếc laptop giá khoảng 10 đến 12 triệu, nhẹ nhàng trong khoảng 1,5kg đến 2,3 kg để dễ mang đi lại, công nghệ CPU corei5 , hãng máy tính nào mà dùng ổn ổn chút, vì e giờ mới năm 2 cần dùng hết đại học. e học về CNTT nhưng không quá nặng về bộ nhớ các thứ nên mong admin tư vấn cho e",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.878681,
+         "id": "1001998",
+         "field_search": "question",
+         "question": "Anh chị cho hỏi máy tính nào tầm hơn 10 tr.... học được nghành  Cơ Điện Tử  và chiến tốt game lmht ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.742409,
+         "id": "745876",
+         "field_search": "question",
+         "question": " Các anh chị giúp e với. Iphone 5s của e bị virus. A chị giúp e diệt virut được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.730019,
+         "id": "921570",
+         "field_search": "question",
+         "question": " E là sv học bên ngành kế toán. E định mua laptop. Tư vấn cho e loại nào phù hợp với ngành của e  giá 10tr trở xuống ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.705397,
+         "id": "797678",
+         "field_search": "question",
+         "question": " Cho e hỏi iphone 5 lock của e có nên lên ios 9.2 k ạ ai tư vấn giúp mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.70319,
+         "id": "615692",
+         "field_search": "question",
+         "question": "Mình muốn xài 1 Lumia nhưng không biết giữa Lu730 hay Lu1320 cái nào có khả năng lướt web,chơi game,nghe nhạc tốt hơn và Đt tầm dưới 5tr thì 2 cái này xài ok chứ,e muốn xài lâu!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.68832,
+         "id": "1143715",
+         "field_search": "question",
+         "question": "có thể giới thiệu cho em . dt nao choi game nặng như liên quân mà giá 4 triệu trở xuống không ạ. e hk pk mùa cai nao moi tốt . xin anh/ chị tư vấn cho em ạ . nếu được e xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.640106,
+         "id": "1143901",
+         "field_search": "question",
+         "question": "Ad tư vấn giúp em loại điện thoại giá tầm 6 triệu loại nào tốt nhất ạtạt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.5238,
+         "id": "1145410",
+         "field_search": "question",
+         "question": "Anh/chị cho e hỏi chút ạ ..bên mình còn pin samsung not -N7000 không ạ ..e gần thế giới di động địa chỉ khu2-thị trấn thác bà ...nhưng e không có thời gian đi anh/chị giúp e được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.515377,
+         "id": "743636",
+         "field_search": "question",
+         "question": "QTV TGDĐ ơi. Anh chị kiểm tra hộ em cái emei iphone 013554003288967 là bản lock hay bản quốc tế chính hãng với. Em mua máy qua sử dụng nên thấy hơi lo. Anh chị tư vấn cho e với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.450714,
+         "id": "1009872",
+         "field_search": "question",
+         "question": "Anh( chị ) ơi làm ơn tư vấn giúp em cái này . Em có 1 con galaxy j7 prime dùng bình thường nhưng ko m làm rơi mới đầu mở không lên nguồn nhưng sạc pin vào thì lại lên rồi giờ máy dùng rất tốn pin so với lúc chưa bị rơi. Anh ( chị) có thể tư vấn giúp rm ko ạ e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.441195,
+         "id": "1166649",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi với ạ điện thoại e dùng là xiaomi red note 4 ạ ngày trc e cắm sạc thì tầm dưới 3 tiếng là có thể ngắt sạc để sử dụng rồi ạ mà dạo gần đây nó lại đột nhiên sạc lâu hơn tầm 3-4 tiếng ạ. Với lại có một vấn đề nx là máy tự dưng lâu lâu có lúc tự bật màn hình thì bị sao vậy ạ. Mong nhận được hồi đáp của anh chị cảm ơn anh chị nhiều ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.403286,
+         "id": "1018971",
+         "field_search": "question",
+         "question": "Mong quản chị viên tư vấn e vào face,  muốn đọc tin tức ở một trang nào đó nhưng ko được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.394218,
+         "id": "1024479",
+         "field_search": "question",
+         "question": "Làm cách nào để xem tk2 của đt nokia3.mong anh chị tư vấn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.377436,
+         "id": "1161699",
+         "field_search": "question",
+         "question": "Cho e hỏi e h đang phân vân giửa oppof11 vs A50 không biết cái nào chơi game liên quân lâu dài tốt hơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.270844,
+         "id": "1005417",
+         "field_search": "question",
+         "question": "ad cho e hỏi tầm giá 4tr thì mua dt nào là tốt nhất ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.25692,
+         "id": "1161647",
+         "field_search": "question",
+         "question": "E cần tìm mua một điện thoại livestream tốt... cần được tư vấn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.24855,
+         "id": "917882",
+         "field_search": "question",
+         "question": "mấy anh chị cho e hỏi, em chơi game cần sử dụng nhiều phím cùng 1 lúc nhưng lap của e chỉ nhận 1 phím, phải thả phím kia thì nhấn phím khác mới dc. Xin anh chị hướng dẫn cho e ạ, máy của e hãng Dell",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.23198,
+         "id": "990305",
+         "field_search": "question",
+         "question": "mình muốn mua 1 chiếc điện thoại cấu hình cao để chơi games tầm khoảng 4tr đổ lại thì nên mua loại nào nhỉ ? mọi người có thể tư vấn giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.181412,
+         "id": "767116",
+         "field_search": "question",
+         "question": " Sao laptop em nó cứ tự khôi phục cài đặt hoài vây, anh chị tư vấn giúp e nhé, cứ mỗi lần khởi động là khôi phục ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.17029,
+         "id": "1017660",
+         "field_search": "question",
+         "question": "Mình cần mua một cái laptop trong tầm giá từ 10-15 triệu phù hợp với việc làm đồ họa nhiều phiền QTV tư vấn giúp mình nếu có thể thì tìm giúp mình laptop của hãng Dell",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.0791,
+         "id": "756391",
+         "field_search": "question",
+         "question": "Em xin hỏi tư vấn mua laptop dell , cấu hình tốt chơi được GTA 5 , làm photoshop này nọ cũng ổn ,giá tầm 18 triệu đỗ lại , khổ nỗi em không biết chút gì về thông số máy tính cả, nhờ ad chỉ bảo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.995707,
+         "id": "1160171",
+         "field_search": "question",
+         "question": "Dạ e chào anh chị ạ, e có 1 vấn đề mún hỏi ạ dạ alo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.992996,
+         "id": "1021947",
+         "field_search": "question",
+         "question": "Tư vấn giúp mình laptop nào tầm 34tr có thể chơi được Liên Minh ổn nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.982656,
+         "id": "1001597",
+         "field_search": "question",
+         "question": "Em muốn tham khảo 1 máy màn hình lớn để livestream bán hàng trên facebook. Anh chị có thể tư vấn giúp em ko? Tầm dưới 4 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.968922,
+         "id": "996935",
+         "field_search": "question",
+         "question": "Ad tư vấn giúp mình, mình mún mua 1 dt dưới 6tr, có cảm biến vân tay, nhưng màn hình nhỏ khoảng 4.5_4.7 inch thôi, mình ko thích dt màn hình to",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.959396,
+         "id": "750583",
+         "field_search": "question",
+         "question": " Cho em hỏi, em muốn mua laptop khoảng 9 triệu em nên mua HP hay Asus máy nào xài tốt hơn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.947176,
+         "id": "994842",
+         "field_search": "question",
+         "question": " Admin tư vấn cho mình cái, điện thoại tầm giá 4 đến 5 triệu nên mua con nào, so sánh các hãng giúp mình nha? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.938831,
+         "id": "1167196",
+         "field_search": "question",
+         "question": "Chào anh chị E tên Linh 19 tuổiE cần đc tư vấn trả góp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.932568,
+         "id": "1159862",
+         "field_search": "question",
+         "question": "Có 4 triệu thì nên mua điện thoại hãng oppo, samsung, huawei hay là redmi cái nào là tốt ạ. Điện thoại nào mà bền và tốt ấy ạ.. Mong xin tư vấn giúp em với ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.908712,
+         "id": "1017393",
+         "field_search": "question",
+         "question": "Chào add, em có 1 vài thắc mắc nhờ anh/ chị tư vấn viên giải đáp giúp. Nơi bán hàng có thể cung cấp số IMEI của máy đã mất cho người mua bị mất máy không ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.865791,
+         "id": "797914",
+         "field_search": "question",
+         "question": "Em đang cần mua laptop phục vụ cho nhu cầu học tập...em học ngành kỹ thuật điện chủ yếu là các phần mềm mô phỏng và đồ họa như: autocad, matlab, simulink,...có một số phần mềm hơi nặng tầm 8-10GB ...tầm giá khoảng 12-13 triệu, có bàn phím số càng tốt...nhờ mọi người tư vấn giúp em ạ!!! em cảm ơn!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.800274,
+         "id": "1002725",
+         "field_search": "question",
+         "question": "e mới mua j7 pr tgdd đc 2 tháng.e trả góp 4 tháng nhung trả đc 2 tháng rồi.giờ em muốn đổi sang xài iphon z e có đc đổi hay k.nếu đc thì e đổi tính phí như thế nào.mong anh chị tư vấn giúp.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.79728,
+         "id": "1167045",
+         "field_search": "question",
+         "question": "Cho mình hỏi tầm giá 6tr mua điện thoại bào chơi game tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.749254,
+         "id": "845159",
+         "field_search": "question",
+         "question": "A/c cho e hỏi hiện tại e đang học ngành kế toán thì nên chọn loại laptop nào là phù hợp( máy tầm 10tr trở lại) mong a/c tư vấn giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.722042,
+         "id": "1009158",
+         "field_search": "question",
+         "question": "Cho e hỏi oppo neo 7 tgdđ còn kinh doanh ko ạk....còn oppo neo 9 nữa ạk.....e ko pk mua máy nào nên nhờ tgdđ tư vấn trc......r e xuống xem hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.712856,
+         "id": "1160489",
+         "field_search": "question",
+         "question": "Chào anh ạ ! E đang có việc cần anh tư vấn gấp ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.711807,
+         "id": "805105",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop của e hiện tại là K43E.RAM 2 GB.e đang muốn nâng cấp RAM.v e nên thêm thanh RAM 2 GB hay thay luôn thanh 4 GB.thì tốt hơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.68582,
+         "id": "1022626",
+         "field_search": "question",
+         "question": "E chỉnh tai phone để tiện nghe điện thoại. Khi mới mua về e chỉnh là cuộc gọi tới 2s là tự động nghe máy .giờ e mún đổi lại nhưng e kg biết làm sao. E tìm hoài nhưng kg biết chỉnh ở âu. E nhờ mấy a chị chỉ giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.634775,
+         "id": "999546",
+         "field_search": "question",
+         "question": "Chào anh/chị, em hiện là sinh viên. Muốn mua một máy tính bảng với nhu cầu xem phim, lướt web, đọc sách. Nhờ anh/chị tư vấn, đề xuất giúp em một vài sản phẩm phù hợp và giá rẻ giúp em. Xin cám ơn anh/chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.623262,
+         "id": "755539",
+         "field_search": "question",
+         "question": "Em đang dự định mua con HP 4530s cũ để chơi FiFa Online 3 nhưng không biết cấu hình máy này có chơi được không xin anh chị tư vấn giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.578285,
+         "id": "1023315",
+         "field_search": "question",
+         "question": " e muốn mua đt khoãng 4 triệu 6   trỡ lại .  hãng nào tốt để chơi lq ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.567749,
+         "id": "1004743",
+         "field_search": "question",
+         "question": "Chào Anh/ Chị! Em đang dùng laptop Dell LATITUDE 3540 / i5 và đang dùng windows 10Pro 64bits. Không biết máy hay do win bị lỗi gì sau khi cài lại một thời gian , máy của em không hiện ổ C/D/E . Em cũng bị một lần mất ổ E/D sau khi cài lại được một thời gian lại sảy ra hiện tượng lỗi như trong hình .Mong Anh/ Chị tư vấn giúp em. Cám ơn Anh/ Chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.489275,
+         "id": "769011",
+         "field_search": "question",
+         "question": " Cho e hỏi xíu nha. E có con 4s e lỡ tay làm rớt bể kính màn hình ngoài e muốn thay giá cả thế nào tư vấn e với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.478445,
+         "id": "936038",
+         "field_search": "question",
+         "question": " Cho e hỏi máy dell nào tầm 1215tr chơi tốt lmht ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.464705,
+         "id": "1164488",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop Dell Inprison và Dell Vostro cái nào cấu hình mạnh, tốt hơn, cái nào đẹp, nhẹ hơn ạ? Cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.461737,
+         "id": "849688",
+         "field_search": "question",
+         "question": "Em muốn học lập trình và em định mua 1 chiếc laptop rẻ thôi vì nhà nghèoanh/chị có thể tư vấn cho em laptop nào hỗ trợ tốt việc lập trình không ạvà cấu hình tối thiểu cho việc lập trình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

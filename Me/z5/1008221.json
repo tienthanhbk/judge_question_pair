@@ -1,0 +1,809 @@
+{
+   "id_query": "1008221",
+   "total": 25940,
+   "total_current": 100,
+   "max_score": 68.64281,
+   "origin_question": " e bị như này pải lm sao ạ??? nó cứ ghi như dòng chữ đỏ ấy  ",
+   "hits": [
+      {
+         "score": 68.64281,
+         "id": "1008221",
+         "field_search": "question",
+         "question": " e bị như này pải lm sao ạ??? nó cứ ghi như dòng chữ đỏ ấy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.420164,
+         "id": "1163858",
+         "field_search": "question",
+         "question": "Cho e hỏi dt e nó cứ chuôg xog im lặg thì pải lm s ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.683388,
+         "id": "793350",
+         "field_search": "question",
+         "question": " Anh chị cho em hỏi là laptop hp của em bị lỗi hay wifi bị lỗi ạ  cái địa chỉ có ghi chữ x màu đỏ ấy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.327072,
+         "id": "1146739",
+         "field_search": "question",
+         "question": "Ko xác định email  google họ ghi như vạy pải làm như nao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.788193,
+         "id": "775335",
+         "field_search": "question",
+         "question": "Tại sao e không tạo được ID APP STORE vậy. Mặc dù e điền đún và không dùng phương thức thanh toán. Nhưng hiện lên 1 dòng chữ đỏ www.apple.com/support/itunes/ww/. Như này. E cũng không hiểu tại sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.901722,
+         "id": "1142454",
+         "field_search": "question",
+         "question": "iphone 6s của em mua của một người bạn. đt có đầy đủ chức năng như đt bt nhưng em kiểm tra imei thì lại hiện lên 1 dòng chữ màu đỏ. v đt e bị làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.415682,
+         "id": "790035",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới dùng ip mình muốn tạp id apple nhưng đến đoạn này nó hiện ra dòng chữ màu đỏ này k biết làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.981041,
+         "id": "814295",
+         "field_search": "question",
+         "question": "Tại sao tải ứng dụng cho ip5, nó cứ ghi như thế này thì làm sao anh.VD : \" không thể tải Zalo vào lúc này \" là sao anh , tải hoài mà vẫn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.895016,
+         "id": "896083",
+         "field_search": "question",
+         "question": "Admin cho mình hỏi máy mình k thay đổi được hình nền là sao ạ, vào thay đổi bị mờ đi phần chon ảnh. vào hiện dòng chữ mau đỏ kia. admin trả lời giúp mình khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.821306,
+         "id": "761150",
+         "field_search": "question",
+         "question": " Em vào tạo ID Apple mới mà sao điện thoại em nó ghi như thế này ạ iOS Update Required như vậy là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.718987,
+         "id": "795911",
+         "field_search": "question",
+         "question": " chụp bằng ip4s mà có cứ bị đơ 1 lúc rồi mới hiện ảnh ra thì như vậy nó bị lm sao vaajyy ạ, mọi người giúp em với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.552027,
+         "id": "990090",
+         "field_search": "question",
+         "question": "Tại sao khi  mình nâng cấp lên ios 9.3.5 thì màn hình cứ hiện như này hoài ạ.  Kh lm gì được luôn    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.501589,
+         "id": "1006139",
+         "field_search": "question",
+         "question": " Điện thoại galaxy j5 prime của em cứ để màn hình tối là cái góc lại đỏ như vậy. Cái này khắc phục sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.329817,
+         "id": "837692",
+         "field_search": "question",
+         "question": " Qtv ơi , facebook không truy cập được mạng là sao ạ , hình như cứ mỗi tuần là bị 1 lần ấy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.112587,
+         "id": "1022709",
+         "field_search": "question",
+         "question": "Em mún mua j7pro trả góp trước 0 đồng thì pải lm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.962944,
+         "id": "1023462",
+         "field_search": "question",
+         "question": "  cho mình hỏi zenphone 5 bị 3 dòng chữ đỏ bên góc trên bên trái màn hình làm sao tắt được zậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.707518,
+         "id": "1019014",
+         "field_search": "question",
+         "question": " Nó cứ báo như thế này là sao ad ơi... J7 prime.....,.,.........  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.566011,
+         "id": "940149",
+         "field_search": "question",
+         "question": "AD cho mình hỏi sao len xem phim tren zing tv nó cứ load hoài khong xem được hình như nổi lên dòng chữ Right-click to run adobe flash player . giúp mình cách khắc phục nó với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.440762,
+         "id": "834139",
+         "field_search": "question",
+         "question": "Tại sao khi vào cài đặt chung của iphon5s rồi vào trợ năng sau đó bấm chữ đậm sao nó ra như vầy nó cứ đứng như vậy miết là vì sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.373047,
+         "id": "909709",
+         "field_search": "question",
+         "question": " Tại sao em tải messenger mà nó cứ chạy như thế này vậy   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.271015,
+         "id": "1019869",
+         "field_search": "question",
+         "question": "cho e hỏi máy e bị như này e phải làm sao ạ ???E mới dùng được hơn 1 tháng mà thi thoảng nó nóng máy r nó tự động sập nguồn r ra hình như này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.11431,
+         "id": "949805",
+         "field_search": "question",
+         "question": " như này là bị sao ạ đăng nhập lại nó hiện lên như này ạ huhu nhập đúng mật khẩu rồi    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.086073,
+         "id": "828488",
+         "field_search": "question",
+         "question": " Ad cho hỏi như này là bị sao vậy cứ đăng nhập vô là nó hiện ra như vậy ad giải đáp hộ em nhanh nha  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.969059,
+         "id": "1135440",
+         "field_search": "question",
+         "question": " cho em hỏi như này là bị sao ạ? em tải file apk về rồi cài nhưng nó cứ báo lỗi. mấy lần rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.877935,
+         "id": "1159953",
+         "field_search": "question",
+         "question": "điện thoại của em là sam sung j2 prime. từ hôm qua nó cứ bị tắt nguồn suốt thôi ạ. lúc e khởi động lại nó hiện màn hình như thế này là sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.847013,
+         "id": "763150",
+         "field_search": "question",
+         "question": " Cho mình hỏi khi mình vào phần nhạc mà nó cứ hiện mãi như thế này là bị làm sao vậy?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.844803,
+         "id": "927664",
+         "field_search": "question",
+         "question": "  Tại sao facebook của E nó cứ bị như vậy. E thay đổi rồi vẫn không thoát ra được. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.84246,
+         "id": "883864",
+         "field_search": "question",
+         "question": "e muốn cài lại font chữ khác đc k ad? hôm nay máy e tự reset . Giờ font chữ thay đổi như thế này thì e phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.83106,
+         "id": "1134957",
+         "field_search": "question",
+         "question": "  Cho hỏi máy htc one me của e cứ báo lỗi như thế này là bị gì và sửa như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.766901,
+         "id": "1019469",
+         "field_search": "question",
+         "question": " như vậy là sao ad có thể trả lời giúp không ?  dòng chữ cuối cùng ý là sao   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.765179,
+         "id": "1156177",
+         "field_search": "question",
+         "question": "Dạ e đag dùng đt Vsmart joy 1+ như sáng này e tắt máu khởi động lại yêu câu nhập mật khẩu Android như e kg nhớ e có cài mật khẩu kg .giờ lm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.717285,
+         "id": "1019789",
+         "field_search": "question",
+         "question": "Em ms mua con j7pro thì bị hiên tượng tràn ram và choi liên quân hơi laz thì pải lm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.67526,
+         "id": "1004242",
+         "field_search": "question",
+         "question": " Trò chơi dream soccer của mình bị như z lm s để nó hết bị  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.667137,
+         "id": "794140",
+         "field_search": "question",
+         "question": " Như vậy thù phải lm sao ạ . E chưa thấy có tin nhắn hồi lại   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.479418,
+         "id": "970478",
+         "field_search": "question",
+         "question": "THEGIOIDIDONG CÓ THAY PIN CHO IPHONE 5 KHÔNG Ạ . VỚI LẠI MÁY CỦA EM NÓ CỨ BỊ LỖI CẢM ỨNG BẤM CHỮ NÀY LẠI RA CHỮ KIA , LÀM SAO ĐỂ SỬA HẾT BỊ LỖI CẢM ỨNG Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.441895,
+         "id": "1164847",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi ....Iphone của em hiện lên dòng chữ..Không thể sử dụng touch ID trên Iphone này..Nghĩa là như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.422892,
+         "id": "875504",
+         "field_search": "question",
+         "question": "add cho mình hỏi khi mình gửi lời mời kết bạn vs ngta mà nó hiện lên dòng chữ \"người này ko muốn nhận lời mời kết bạn từ bạn\" như vậy là mình bị chặn đúng ko??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.401093,
+         "id": "927622",
+         "field_search": "question",
+         "question": " Messenger của em nó cứ hiện như này thì sao ạ. Em thử tải lại nhiều lần mà không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.364334,
+         "id": "911370",
+         "field_search": "question",
+         "question": "   Ad cho e hõi ... Zalo này bị sau v ạ??? hồi trưq đến h nó cứ như v hoài ạ... kết nối wifi cũng kh đc  kì v ad???! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.334583,
+         "id": "1008814",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi lỗi này là sao vs.  chữ màu đỏ là sao ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.304049,
+         "id": "920269",
+         "field_search": "question",
+         "question": "E mới mua dt sony xperia xa nhưng lên fb úp ảnh bìa r chỉnh sửa cứ bị giật và dòng chữ phía duới chạy lung tung. Là máy bị sao v ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.144339,
+         "id": "831797",
+         "field_search": "question",
+         "question": "E quên mk facebook, đó nhập sai quá nhiều lần lên đăng nhập tạm thời bị chặn. Bây e pải lm thế nào ạ, muốn lấy lại mk thì ntn ạ???? Thak ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.135471,
+         "id": "841142",
+         "field_search": "question",
+         "question": "cho mình hỏi khi tắt máy tính thì bị yêu cầu có dòng chữ UPDATE AND SHUT DowN là sao ạ. Khi bị như vậy mình không tắt được máy tính.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.08089,
+         "id": "1142685",
+         "field_search": "question",
+         "question": "Dạ em sử dụng J7 2016 mà mỗi lần e gửi tin nhắn cho tổng đài mà nó cứ báo lỗi như này, em phải làm sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.079397,
+         "id": "1145185",
+         "field_search": "question",
+         "question": " máy tính e khi cập nhật lại thì nó hay bị như này lắm ạ, e có xóa app đi rồi tải lại vẫn bị như vậy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.054419,
+         "id": "832283",
+         "field_search": "question",
+         "question": "mấy a cho e hỏi e sài iphone 3 mà tải game trên app store nó cứ ghi là app này không tương thích với iphone này là sao zậy júp e zới.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.021193,
+         "id": "764819",
+         "field_search": "question",
+         "question": " Mình muốn đánh chữ tiếng nhật trong điện thoại Oppo Neo 7 thì pải làm như thế nào vậy bạn xin cảm ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.989319,
+         "id": "1141250",
+         "field_search": "question",
+         "question": "cho e hỏi laptop của e mới reset lại thì Microsoft office bị lỗi nên mở word, excel không lên ạ. Nó cứ hiện dòng chữ this action is only valid for products that are currently in stalled.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.866594,
+         "id": "1015852",
+         "field_search": "question",
+         "question": "Máy mình cứ bị như này. Chỉ mình cách khắc phục với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.791359,
+         "id": "880500",
+         "field_search": "question",
+         "question": " Có ai bị giống mình k instagram nó cứ bị lỗi như này mình k thể nào chỉnh sửa đc caption  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.762953,
+         "id": "926164",
+         "field_search": "question",
+         "question": "cho em hỏi. zalo của em vẫn dùng được bình thường như ở trang cá nhân hiện lên dòng chữ : tài khoản bị khóa . bây giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.707668,
+         "id": "1167612",
+         "field_search": "question",
+         "question": "Cho e hỏi laptop dell bị bấm 1 vai chữ k ăn và hay bị nhảy chữ thì như thế nào ạ. Giúp e với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.701923,
+         "id": "1024328",
+         "field_search": "question",
+         "question": "em đang sử dụng điện thoại dòng samsung A5 2017. Thông thường các dòng khác em thấy khi cắm tai nghe có thể nói hoặc ghi âm được nhưng với điện thoại này em không thể ghi âm qua tai nghe. Cho em hỏi lý do tại sao và làm như nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.601662,
+         "id": "1022105",
+         "field_search": "question",
+         "question": " E bị như vậy là sao ạ? Tại sao lại không chọn được không mà chỉ có thẻ tín dụng hoặc ghi nợ ạ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.55442,
+         "id": "1143961",
+         "field_search": "question",
+         "question": "Fb của em cứ bị như thế này.sau 2 ngày lại mở đk.sau đó lại cứ bị như thế này tiếp.giup em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.528034,
+         "id": "1023383",
+         "field_search": "question",
+         "question": "sau khi cài thêm font chữ cho máy tính. thì một số trang web của e bị lỗi font chữ như trong hình. e phải khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.519457,
+         "id": "1003353",
+         "field_search": "question",
+         "question": " Cho e hỏi điện thoại em bị rớt nhưng không bị bể màn hình. Nhưng nó bị như thế này là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.513926,
+         "id": "793887",
+         "field_search": "question",
+         "question": " Em dùng iphone 5 bản quốc tế. Khi kích hoạt FaceTime cứ bị hiện lên như này là sao ạ .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.513481,
+         "id": "832221",
+         "field_search": "question",
+         "question": "Icloud em nó bị như thế này .. pass e vẫn đăng nhập được trên trình duyệt mà trong máy đăng nhập thì nó bị như thế này ai cứu em với...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.432556,
+         "id": "858363",
+         "field_search": "question",
+         "question": "cho e hỏi máy bị như này thì sao ạ,em đặt lại máy xog nó như j quài mà 2 tiếng rồi chưa lên nguồn có cách khắc phục ko chỉ e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.427902,
+         "id": "991986",
+         "field_search": "question",
+         "question": " máy e bị sọc như thế này ạ, và sử dụng thì nó càng lan rộng thêm. cho em hỏi nó bị gì vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.377584,
+         "id": "944769",
+         "field_search": "question",
+         "question": " Lap lenovo của e bị lỗi font chữ như vậy thì khắc phục làm sao v shop???  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.374287,
+         "id": "786635",
+         "field_search": "question",
+         "question": "Cho mình hỏi pin laptop bị 2 dấu chéo đỏ và ghi là CONSIDER REPLACING BATTERYGURU thì cách khắc phục như Thế nào? Mang ra tgdđ sửa dc ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.344233,
+         "id": "756318",
+         "field_search": "question",
+         "question": " iPad của mình cập nhật iOS 9.2 mà cả ngày nó cứ hiện lên dòng chữ đang xác minh cập nhật, giờ muốn thoát ra sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.325016,
+         "id": "1020084",
+         "field_search": "question",
+         "question": " Messages của em nó cứ hiện dòng chữ đang kết nối mặc dù máy đã dc kết nối với wifi  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.298151,
+         "id": "936240",
+         "field_search": "question",
+         "question": "  máy e bị như thế này thì phải làm như thế nào ạ ..?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.249475,
+         "id": "900295",
+         "field_search": "question",
+         "question": " Đổi và lấy lại mật khẩu khi e rì xét lại máy thì lại như thế này e k hỉu là tại lm s  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.23397,
+         "id": "1144401",
+         "field_search": "question",
+         "question": " Nó cứ chạy như vậy mà không kết nối được là bị sao vậy ad  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.205374,
+         "id": "1135094",
+         "field_search": "question",
+         "question": "QTV cho e hỏi với ạ: \"Sao máy J4 của e hiển thị như trong hình ấy ạ. Khi ấn vào nó nghe mấy tiếng nước ngoài. QTV cho e hỏi cách tắt với. E cảm ơn ạ!\"",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.142467,
+         "id": "799757",
+         "field_search": "question",
+         "question": " Có phải khi bị chặn tin nhắn zalo thì có ghi dòng chữ  xin lỗi !hiện tại tôi không muốn nhận tin nhắn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.142193,
+         "id": "1017058",
+         "field_search": "question",
+         "question": "Tôi dùng ss j5 pr Sao tôi gửi tin nhắn cho tổng đài mà mà nó cứ báo như này là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.128464,
+         "id": "1163906",
+         "field_search": "question",
+         "question": " Nó cứ bảo như này Làm cách nào để mở ạ. Anh, chị giúp em với ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.030247,
+         "id": "807480",
+         "field_search": "question",
+         "question": "Máy tính của mình hong pit bị sao mà giờ mở cốc cốc lên nó lại ra giao diện như yahoo ấy ... ai giúp mk cho nó trở lại bình thường được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.008698,
+         "id": "890679",
+         "field_search": "question",
+         "question": " Apstore của e bị như thế này là bị sao à ae giúp e     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.984331,
+         "id": "1159653",
+         "field_search": "question",
+         "question": "máy e bị lỗi cập nhật như này thì đem bảo hành hay sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.886435,
+         "id": "995790",
+         "field_search": "question",
+         "question": "Cho e hỏi là e tati ứng dụng về xong nó bị thế này.xoá ứng dụnh thì nó k xoá đc  nó cứ hiện như vậy .k biết lỗi gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.799273,
+         "id": "1144622",
+         "field_search": "question",
+         "question": " cho hỏi! Như thế này là sao ạ? Nó bị mất đi cái khung Wifi và Networks 2 rùi! Làm sao bật nó lại?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.781983,
+         "id": "1158923",
+         "field_search": "question",
+         "question": "E đang sài Oppo a3s mà sao ko hiểu lỗi j mà phía trên thanh trạng thái ngày phần pin không hiện lên những phần thông báo như báo thức mà hãy ở chỗ khi xem phim xoay nằm thì nó lại hiện lên những phần như báo thức này nọ mà thoát về màn chính thì lại không có thì e phải lm sao để khắc phục lỗi này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.711353,
+         "id": "1141336",
+         "field_search": "question",
+         "question": "Chào ad, e đang xài Oppo neo 3 , dạo này app thời tiết của e cứ bị hiện sai ngày, bây giờ phải chỉnh như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.691685,
+         "id": "1139241",
+         "field_search": "question",
+         "question": " Cho e hỏi làm sao để thay đổi fone chữ dòng điện thoại huwei vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.668367,
+         "id": "846076",
+         "field_search": "question",
+         "question": "AD ơi cho e hỏi hiện tại e đang dùng iphone 5s hồi xưa cứ mỗi lần e tải ứng dụng từ app sto về không pải nhập mật khẩu và tải cũng nhanh nhưng bây h cứ mỗi lần e tải về lại pải nhập mk và nó lại còn tải lâu . cho e hỏi thêm hay có pải tại e tải về và gỡ cài đặt nhiều lần quá hay không? vì e chơi bigcoin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.6509075,
+         "id": "1008498",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e sao lại bị mất ở phần này vậy ạ? E cũg k biết gọi nó là gì nữa 😔😔😔. Các ứng dụng của máy e toàn bị mất như vậy thôi???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.601551,
+         "id": "868410",
+         "field_search": "question",
+         "question": " Tại sao ai phone của e nó k tải đc messenger , goolle và một số ứng dụng khác a nó cứ hiện chữ đang chờ là sao ạ      ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.5365505,
+         "id": "760769",
+         "field_search": "question",
+         "question": " Tại sao khi tạo id apple khi đến bước này mình bấm next thì máy hiện ra chữ màu đỏ vậy  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.511898,
+         "id": "929394",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi lỗi như thế này là bị sao ạ e k cắm tai nghe tự hiện lên thế này   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.504936,
+         "id": "946195",
+         "field_search": "question",
+         "question": "Add ơi, em dùng a37 nhưng nó bị thế này này, e không biết phải làm sao để nó trở lại như bình thường nữa ạ. Rõ là có Wi-Fi mà máy báo không có mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.499813,
+         "id": "1143004",
+         "field_search": "question",
+         "question": " con iphone 3 của e xóa dữ liệu sao nó bị treo như vậy luôn vậy .treo 3 tiếng rồi cứ xoay vòng vòng hoài",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.492934,
+         "id": "804256",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi điên thoai em sạc nó báo như này là bị sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.484502,
+         "id": "894608",
+         "field_search": "question",
+         "question": " Tại sao đăng nhập vào id apple nó lại hiện ra chữ xem xét sau đó ấn chữ xem xét nó bảo điền thông tin như hình     ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.447815,
+         "id": "1154693",
+         "field_search": "question",
+         "question": "ad cho e hỏi. E mới mua đt oppo A3s tại TGDD. Khi e tắt màn hình máy đi, nhưng được 1 lúc, nó lại sáng. cứ tuần hoàn như vậy. Tắt lại sáng. ad cho e hỏi nó bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.4471245,
+         "id": "745877",
+         "field_search": "question",
+         "question": " Tại sao iphone lại hiện quả táo ở màn hình mãi vậy.giống như là bị đơ ấy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.446816,
+         "id": "828714",
+         "field_search": "question",
+         "question": " Em đang xài lumia 435 em không biết sao dạo này em vào Facebook không được vậy. Nó cứ như hình bên dưới    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.44383,
+         "id": "1157678",
+         "field_search": "question",
+         "question": "J7 của em bật camera lên cứ cảnh báo như thế này thì phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.434728,
+         "id": "1001574",
+         "field_search": "question",
+         "question": "Tại sao mình đã lắp thẻ 16gb vào rồi nhưng máy không nhận. Nó cứ báo như thế này.. nó cứ để 8gb ở quản lý thông minh.. máy của mình là Samsung J2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.405205,
+         "id": "759481",
+         "field_search": "question",
+         "question": " Trang này cứ hiện lên  như vậy thì làm sao em tạo 1 ID mới được ạ ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.386357,
+         "id": "998438",
+         "field_search": "question",
+         "question": "Máy em là samsung j7 preme dạo này cứ 1lúc là nó cứ tự phát quảng cáo cho dù ở đâu cũng vậy, em ẩn đa nhiệm thì thấy file system os đang chạy. Cho em hỏi tại sao lại bị như vậy và làm sao để xóa nó đi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.374133,
+         "id": "1024053",
+         "field_search": "question",
+         "question": "em đã đăng xuất tài khoản này rồi và muốn tải ứng dụng mà s cứ liên tục hỏi như này. tk này e bị khóa rồi ạ. mong sự trợ giúp của công ty ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.361719,
+         "id": "1166083",
+         "field_search": "question",
+         "question": "Máy ss a7 của em tự nhiên dạo này lại hay bị sập nguồn, máy đang bật mà để chờ tầm 2-3p là lại sập nguồn, hiện chữ \" android đang khởi động, đang tối ưu hóa ứng dụng 1 trong tổng số 1\" xong cứ như thế tầm 20p mới lên, xong nếu mà k động đến nó lại sập xong nhuưa thế.... cho em hỏi như thế là bị sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.340868,
+         "id": "849723",
+         "field_search": "question",
+         "question": "Ad cho e hỏi.e tai cái thời khóa biểu trên fb về máy ý,mà sao k xem đc ạ,vào xem thì n cứ ra cái như hình này ạ,thế là như nào ạ,ad giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.335138,
+         "id": "927687",
+         "field_search": "question",
+         "question": " ad cho em hỏi em bấm ra như thế này là sao ạ,bấm chữ a thành a,giống trong hình vậy là sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

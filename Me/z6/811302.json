@@ -1,0 +1,809 @@
+{
+   "id_query": "811302",
+   "total": 25263,
+   "total_current": 100,
+   "max_score": 66.522446,
+   "origin_question": " Cho em hoi thay nấp lung cho iphone 4S gia bao nhiu vay ạk ",
+   "hits": [
+      {
+         "score": 66.522446,
+         "id": "811302",
+         "field_search": "question",
+         "question": " Cho em hoi thay nấp lung cho iphone 4S gia bao nhiu vay ạk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.0224,
+         "id": "1161074",
+         "field_search": "question",
+         "question": "Cho minh hoi minh muon thay mang hinh dt meizu l681h gia bao nhiu vay ban",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.626532,
+         "id": "1015220",
+         "field_search": "question",
+         "question": "Cho e hoi mien dang man hinh mediapal T1 8.0 . Gia bao nhiu vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.27226,
+         "id": "1165243",
+         "field_search": "question",
+         "question": "cho minh hoi iphone 6s plus 64GB gia bao nhiu ak... minh tim coi duoc san pham nhung khong thay bao gia ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.738117,
+         "id": "861878",
+         "field_search": "question",
+         "question": " Ad cho hoi cai wifi bi hu iphone 4s co sua dc ko,gia bao nhieu tien vay ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.52767,
+         "id": "1006970",
+         "field_search": "question",
+         "question": "Cho hoi thay man hinh lenovo a7010 thi co gia bao nhieu vay ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.352064,
+         "id": "1011992",
+         "field_search": "question",
+         "question": "Ad cho hoi thay man hjh truoc j5 2016 gia bao nhieu vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.936481,
+         "id": "1154733",
+         "field_search": "question",
+         "question": "Cho em hỏi còn pin xiaomi redmi 4x k ạk. Giá bao nhiu vay ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.868793,
+         "id": "995287",
+         "field_search": "question",
+         "question": "Dạ cho em hoi ở tgdd cua mjh.co miro karaoke  ko ạk...va giá khoang bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.716305,
+         "id": "995951",
+         "field_search": "question",
+         "question": "Cho minh hoi minh mua dt htc me dc 4thang.bay gio minh muon doi qua sony xa1 thi thu lai gia bao nhiu vay.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.084404,
+         "id": "1141322",
+         "field_search": "question",
+         "question": "cho em tui hoi Sam sung a6 mua onlie gia bao nhui vay ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.97568,
+         "id": "1168059",
+         "field_search": "question",
+         "question": "Thay pin j7 prime gia bao nhieu vay bao gia dum em voi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.739878,
+         "id": "1012963",
+         "field_search": "question",
+         "question": "Cho em hoi cuc sac A5 2016 zin theo may bao nhiu vay ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.659721,
+         "id": "1011691",
+         "field_search": "question",
+         "question": "Cho hoi mang hinh samsung Galaxy J7 2015 gia bao nhieu vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.89285,
+         "id": "1163944",
+         "field_search": "question",
+         "question": "Anh oi cho em hoi gia cua chiec dt itel 32f là bao nhiêu vay anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.60663,
+         "id": "747792",
+         "field_search": "question",
+         "question": " Thay man hinh iPhone 4s gia bao nhieu quan tri vien ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.533638,
+         "id": "831325",
+         "field_search": "question",
+         "question": " thay cum nut home tren iphone 5s bao nhiu vay QTV ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.474667,
+         "id": "1164051",
+         "field_search": "question",
+         "question": "Cho hoi em muon Thay màn hình j4 plus gia bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.47211,
+         "id": "1001341",
+         "field_search": "question",
+         "question": "J7 2016 gia bao nhiu vay a....con may moi o tieng giang ko vay qtv",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.425318,
+         "id": "1162041",
+         "field_search": "question",
+         "question": "Cho e hoi Sam sung j7 prime co hang hk a va gia la bao nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.31002,
+         "id": "836227",
+         "field_search": "question",
+         "question": " ac cho em hỏi màn hinh trong của iphone 4s giá bao nhiêu ạk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.084383,
+         "id": "997535",
+         "field_search": "question",
+         "question": "Ad cho hoi o tgdd co ban sạc khong day k va gia bao Nhiu ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.906961,
+         "id": "952652",
+         "field_search": "question",
+         "question": " Thegioididong co thay vo iphone 5s k, va gia la bao nhieu vay ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.892357,
+         "id": "926952",
+         "field_search": "question",
+         "question": " cho em hoi la em dang su dung laptop asus E402MA ram 2GB vay may co bao nhiu khe cam ram ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.656563,
+         "id": "1014945",
+         "field_search": "question",
+         "question": "Cho hoi tgdd co chuong trinh mua iphone voi gia 99 k khong vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.528849,
+         "id": "998024",
+         "field_search": "question",
+         "question": "Thay mang hinh s7 edge gia bao nhieu vay ad....cho khoang bao lau thi lay dc...?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.136412,
+         "id": "1018599",
+         "field_search": "question",
+         "question": "Cho hoi thay mặt kinh cảm ứng oppo a39 bao nhieu vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.291168,
+         "id": "1003977",
+         "field_search": "question",
+         "question": "Cho em hỏi, iphone 5s thay màn hình hết bao nhiu tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.243992,
+         "id": "1002476",
+         "field_search": "question",
+         "question": "cho anh hoi hien tai dong san pham oppo neo 9 da qua su dung hien ban lai voi gia bao nhieu vay em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.997843,
+         "id": "994239",
+         "field_search": "question",
+         "question": "Cho toi hoi gia dien thoai iphone 6 plus la bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.69693,
+         "id": "1160107",
+         "field_search": "question",
+         "question": "Cho hoi thay mặt kính a9pro giá bao nhiu?, và ở huế thì đến địa chỉ nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.669548,
+         "id": "814684",
+         "field_search": "question",
+         "question": "Cho em hỏi màn hình iphone bi bung lên .. Nhùn van cam ứng đcEm muốn thay man hinh vay giá bao nhiu vay shopMàn hònh chie bị bung len thôi con phần cảm ứng vẫn bấm đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.461512,
+         "id": "1014947",
+         "field_search": "question",
+         "question": "Man hinh j7 pro bi be con bao hanh bay gio thay ton nhiu tien vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.450607,
+         "id": "809390",
+         "field_search": "question",
+         "question": " Cho hoi iphone 5se co tai tggd chua.va gia ban la bao nhie ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.41732,
+         "id": "1013102",
+         "field_search": "question",
+         "question": "Samsung Galaxy j7 pro gia bao nhiu tiên vay va j7 pro va j7 2017 may nao dung tot hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.35091,
+         "id": "1139915",
+         "field_search": "question",
+         "question": " Sạc samsung j8 giá bao nhiu v ........gia bao nhiu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.113718,
+         "id": "781604",
+         "field_search": "question",
+         "question": " Cho mình hỏi thay màn hình iphone 4 gia bao nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.060484,
+         "id": "997492",
+         "field_search": "question",
+         "question": "cho em hoi em co mua dien thoai tra gop gia tri la 5tr thang 6 nay em bi che 11ngay roi vay  co bi phat  khong vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.880447,
+         "id": "1159624",
+         "field_search": "question",
+         "question": "Cho hoi minh mới mua máy coolpad mà mua loai hang cũ o the gioi di dong.cho hoi vay minh xai duoc khoang 10ngay.máy vân binh thuong.còn hop va phu kien.vay thu lai mat phi bao nhiu vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.847252,
+         "id": "1144394",
+         "field_search": "question",
+         "question": " Mic va loa trong iPhone 6s gia bao nhieu tien vay anh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.652462,
+         "id": "1012352",
+         "field_search": "question",
+         "question": "Cho toi hoi, toi muon thay loa nghe cua sony xaf3116 o TGDD co duoc k? Gia bao nhieu? Va mat bao lau thi xong?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.603172,
+         "id": "748791",
+         "field_search": "question",
+         "question": " ad ơi, cho em hỏi thay màn hình iPhone 4s bao nhiêu tiền ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.505226,
+         "id": "1012437",
+         "field_search": "question",
+         "question": "Cho em hoi ben minh co op lung mobiistar prem x khong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.317972,
+         "id": "1147874",
+         "field_search": "question",
+         "question": "Cho mình hỏi sim Vinaphone 4g sai 1 năm là bao nhiu tiền vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.285812,
+         "id": "1001659",
+         "field_search": "question",
+         "question": "Cho em hỏi Thay màn hình galaxy a3 giá bao nhiu v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.273607,
+         "id": "1012933",
+         "field_search": "question",
+         "question": "anh chi ben the gioi di dong oi cho em hoi bay gio em muon quy doi gia chi cua chiec may cua  em gui di bao hanh sang mot san pham tuong duong gia tri cua chiec may do co duoc khong vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.261509,
+         "id": "1139778",
+         "field_search": "question",
+         "question": "Cgo e hoi e muon thay mat kinh huawei nova 3e gia bao nhieu ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.020079,
+         "id": "1009706",
+         "field_search": "question",
+         "question": "Qtv oi,cho toi hoi? Vi sao đat hang mua online galaxy j3 lai dc giam gia gan 500nghinh vay?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.911549,
+         "id": "1137222",
+         "field_search": "question",
+         "question": "cho em hỏi thay màng hình điện thoại J7 bao nhiu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.893906,
+         "id": "1003933",
+         "field_search": "question",
+         "question": "Dt của  lenovo A6020a40 bị bể màn hinh cho em hỏi gia của màn hình la bao nhiu em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.884619,
+         "id": "994741",
+         "field_search": "question",
+         "question": "Cho e hoi đt oppo f1s e mới đập bể màn hìh nếu thay khoang b.nhiu tiền ạk ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.868727,
+         "id": "798856",
+         "field_search": "question",
+         "question": "Qtv ơi cho em hỏi thay màn iPhone 5 lock và mua sim ghép nữa thì hết tất cả bao nhiu ạ ??Shop có thay chứ ạ mà thay thì bao nhiêu là được??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.812067,
+         "id": "868551",
+         "field_search": "question",
+         "question": " thegioididong có thay pin cho iphone 4s không? giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.772394,
+         "id": "794655",
+         "field_search": "question",
+         "question": " Cho em hõi iphone 4s máy mới giá bao nhiu và máy qua sữ dụng giá bao nhiêu v máy qua sữ dụng còn bão hành không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.730814,
+         "id": "1016969",
+         "field_search": "question",
+         "question": "Cho em hỏi thay màn hình samsung j7 prime bao nhiu z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.718952,
+         "id": "1137081",
+         "field_search": "question",
+         "question": "Toi mua htc u11 tai cua hang tgdd. den nay da het thoi han bao hanh .nay toi muon thay pin cho may htc u11 cua minh .vay het tg bao hanh gio thay pin toi co duoc ho tro gi ko ? Va cho hoi them la neu thay pin htc u11 ko duoc ho tro gia thi chi phi thay la bao nhieu ? Toi xin cam on !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.70872,
+         "id": "1164367",
+         "field_search": "question",
+         "question": "chao anh chi    cho em hoi gia sp dt nokia 6.1 lup hom nay bao nhieu ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.691826,
+         "id": "855507",
+         "field_search": "question",
+         "question": " ban cho hoi gia ipad A1475 gio khoang bao nhieu ha ban? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.60751,
+         "id": "1137229",
+         "field_search": "question",
+         "question": "Cho em hỏi thay kính cường lực cho ip 6 plus là bao nhiu ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.552755,
+         "id": "1138448",
+         "field_search": "question",
+         "question": " Cho e hoi.. ip 7plus 32gb tra gop tra truoc bao nhiu a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.491598,
+         "id": "1140218",
+         "field_search": "question",
+         "question": "thay man hinh iphone 7plus gia khoang bao nhieu mn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.47976,
+         "id": "1135449",
+         "field_search": "question",
+         "question": "cho minh hoi gia man hinh samsung j7 pro la bao nhieu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.447807,
+         "id": "760324",
+         "field_search": "question",
+         "question": " Cho em hỏi màn hình iPhone 4s 8GB giá nhiu vậy điện thoại em bị bể màng hình rồi.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.44512,
+         "id": "861108",
+         "field_search": "question",
+         "question": " cho hoi tgdd co iphone5 k ak.cho hoi gia cua iphone 5 lun ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.43671,
+         "id": "999101",
+         "field_search": "question",
+         "question": "Cho tôi hỏi dán màn hình cường lực của s6 edge là bao nhiu vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.40116,
+         "id": "1018584",
+         "field_search": "question",
+         "question": "cho em hoi ban the gioi di dong co banop lung cho itel it 1580 plus ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.36529,
+         "id": "1003053",
+         "field_search": "question",
+         "question": "Cho e hỏi e bị bể màn hình đi iphone 6s plus thì thay hết bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.331486,
+         "id": "1015508",
+         "field_search": "question",
+         "question": "Cho minh hoi.tgdd co ban pin iphone4s k vay.neu ban thi gia bao nhieu vay a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.285074,
+         "id": "880492",
+         "field_search": "question",
+         "question": " Cho em hoi sao e tải viva video cho iPhone 4s k đc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.221098,
+         "id": "1138602",
+         "field_search": "question",
+         "question": " E cho a hoi mua iphone 6s lus tra gop co dua truoc khong tra hang thang bao nhieu e bao gia dum a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.19342,
+         "id": "994817",
+         "field_search": "question",
+         "question": " Tại Thế Giới Di Động mình có bán Micro Karaoke không ạk. Nếu có thì giá khoảng bao nhiu ạk? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.145176,
+         "id": "1020149",
+         "field_search": "question",
+         "question": "Ad cho em hỏi thay màn hình samsung  j7 pro bao nhiu tiền ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.98015,
+         "id": "1021254",
+         "field_search": "question",
+         "question": "Cho mih hoi iphone khi nào về ạk?Và có giá chính xác chưa?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.875514,
+         "id": "1152309",
+         "field_search": "question",
+         "question": "cho em hỏi đt oppo a71 nếu bị bể màn hình thay lại là bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.864157,
+         "id": "1008455",
+         "field_search": "question",
+         "question": "cho e hoi mat kinh oppo a37f nhieu  tien vay con bao hanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.789368,
+         "id": "875316",
+         "field_search": "question",
+         "question": " Tgdd có thay pin cho máy không, nếu có giá iPhone 4s pin bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.780804,
+         "id": "1013416",
+         "field_search": "question",
+         "question": "A chi oi cho e hoi thay man hinh galãy j7 2015 bao nhiu tien vậy ạk e k co mạng a chị hỗ trọ e dum",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.759199,
+         "id": "988056",
+         "field_search": "question",
+         "question": " cho mình hỏi, tgdt có thay pin iphone 4s ko ạ,và giá bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.742922,
+         "id": "805067",
+         "field_search": "question",
+         "question": " Em muốn thay pin iphone 4s, không biết giá bao nhiêu vậy ạ ?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.725646,
+         "id": "996364",
+         "field_search": "question",
+         "question": "cho em hoi chip  Snapdragon 660  neu cham bang antutu thi dc bao nhieu dien vay a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.6995125,
+         "id": "969440",
+         "field_search": "question",
+         "question": " Cho e hoi bao mat van tay cho ip5s nhu nao vay a.c ơi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.696014,
+         "id": "893277",
+         "field_search": "question",
+         "question": " cho hoi sac iphone 6 xịn bao nhieu tien vay. co the tu van 1 vai san pham dc k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.682085,
+         "id": "788075",
+         "field_search": "question",
+         "question": " Ad cho em hỏi bên mình có còn pin iphone 4s thay ko mà còn thì giá là bao nhiêu ak ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.625186,
+         "id": "895719",
+         "field_search": "question",
+         "question": " Xin cho hỏi trên của hàng có thay màn hình iPhone 4s không. giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.621488,
+         "id": "1129703",
+         "field_search": "question",
+         "question": " điện thoại samsung galaxy j4 gia bao nhieu vậy , mag minh iphone 5 thay bao vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.56483,
+         "id": "1138028",
+         "field_search": "question",
+         "question": "Cho e hỏi thay màn hình samsung j5 bao nhiu tiền ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.5455475,
+         "id": "1009182",
+         "field_search": "question",
+         "question": "mieng dan cuong luc dien thoai sam sung galaxy j3 j320 gold gia bao nhiu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.477148,
+         "id": "1157396",
+         "field_search": "question",
+         "question": "Cko e hoi là man hinh cam ung dien nova 2i e bị vỡ  neu e thay gia bao nhieu a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.475008,
+         "id": "887061",
+         "field_search": "question",
+         "question": " cho e hoi lap top k555l e mua hoi tháng 2 h bán lai d9uoc co bao nhieu vay ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.434124,
+         "id": "1021984",
+         "field_search": "question",
+         "question": "Cho e hs thay màn hình samsung galaxy a8 bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.433864,
+         "id": "867919",
+         "field_search": "question",
+         "question": " May iPhone 6s cua minh bi nút mang hình ,thay gia bao nhieu nhi? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.372774,
+         "id": "1149140",
+         "field_search": "question",
+         "question": "Chao cho e hoi san pham huawei nova 2 lite bao nhiu hang da ngung ban",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.362142,
+         "id": "1165885",
+         "field_search": "question",
+         "question": "Cho minh hoi lay the cao so luong bao nhieu va duoc chiec khau bao nhieu vay?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.314585,
+         "id": "895850",
+         "field_search": "question",
+         "question": " qtv cho hoi la bay gio pin dell inspiron 14r bao nhieu tien vay? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.307246,
+         "id": "1164671",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại j7  pro thay màn hình bao nhiu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.277526,
+         "id": "812977",
+         "field_search": "question",
+         "question": " Ad cho hoi chay lai phan mem ipad bao nhieu tien vay ? Thank ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.230879,
+         "id": "835889",
+         "field_search": "question",
+         "question": " Cho tôi hỏi, thegioididong có thay main cho iphone 4s hay không, giá phải trả là bao nhiêu? Cám ơn!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.215904,
+         "id": "804300",
+         "field_search": "question",
+         "question": " Anh chi cho em hoi thay màn hình iphone5 bao nhiêu tiền ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.125155,
+         "id": "743993",
+         "field_search": "question",
+         "question": " điện thoại iphone 4gs của em bị hỏng chip và không bật được wifi nữa,nếu phải thay thì chi phí là bao nhiêu ạk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.104594,
+         "id": "748147",
+         "field_search": "question",
+         "question": "Cho e hỏi TGDD có thay màn hành iPhone 4s ko ạ? Và thay màn hành đấy hết bao nhiêu tiền cho chi phí thay màn hình vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

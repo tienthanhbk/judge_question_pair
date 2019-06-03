@@ -1,0 +1,809 @@
+{
+   "id_query": "1016994",
+   "total": 17503,
+   "total_current": 100,
+   "max_score": 64.49215,
+   "origin_question": "Tại sao samsung galaxy j5 prime tải về bản cập nhật chậm dù mạng bình thường",
+   "hits": [
+      {
+         "score": 64.49215,
+         "id": "1016994",
+         "field_search": "question",
+         "question": "Tại sao samsung galaxy j5 prime tải về bản cập nhật chậm dù mạng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.32509,
+         "id": "1138974",
+         "field_search": "question",
+         "question": "Tại sao samsung j5 prime không thể truy cập mạng wifi mặc dù đã kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.568611,
+         "id": "936713",
+         "field_search": "question",
+         "question": " Samsung galaxy s7 mỹ bản nhà mạng sprint có thể tự cập nhật bình thường như máy quốc tế ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.14365,
+         "id": "1020810",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi. Tại sao galaxy apps của em không thể tải bản cập nhật mới được vậy. Em đã kiểm tra mạng thì vẫn bình thường mà vẫn không thể cập nhật bản mới của galaxy apps được. Mong ad giúp đỡ cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.20692,
+         "id": "950336",
+         "field_search": "question",
+         "question": " E mới mua samsung galaxy J2 prime, nhưng hôm sau ko kết nối wifi được mặc dù wifi bình thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.948109,
+         "id": "996214",
+         "field_search": "question",
+         "question": "Tôi xài điện thoại Samsung Galaxy J5 prime, hiện tại bị bể màn hình nhưng vẫn cảm ứng bình thường, vậy giá tôi thay màn hình là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.469244,
+         "id": "997349",
+         "field_search": "question",
+         "question": "Cho hỏi samsung j5 prime khi nào có cập nhật lên android 7.0",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.32284,
+         "id": "879947",
+         "field_search": "question",
+         "question": " Không tải được theme của Samsung galaxy note5 ạ, máy cứ lên lỗi mạng mà wifi vẫn bình thường. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.999598,
+         "id": "1136726",
+         "field_search": "question",
+         "question": " Tại sao tải cập nhật qua mạng dữ liệu mà sao máy bảo là cài bằng wifi    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.866932,
+         "id": "998960",
+         "field_search": "question",
+         "question": "Galaxy j5 prime không có ứng dụng quản lý tải về hả add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.862553,
+         "id": "1167937",
+         "field_search": "question",
+         "question": "Làm sao sao để cài khóa vân tay Samsung Galaxy A7 bản cập nhật mới nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.487423,
+         "id": "998156",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình đang dùng điện thoại Samsung Galaxy J5 Prime, mà sao khi người khác gọi điện, máy vẫn hoạt động bình thường nó lại báo thuê bao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.093294,
+         "id": "1013421",
+         "field_search": "question",
+         "question": "Bản cập nhật mới của j5 prime có nên cập nhật kh ạ. Máy em sài hơn 1 tháng. Thấy kh có lỗi với sài khá ổn định ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.049036,
+         "id": "828386",
+         "field_search": "question",
+         "question": " Tại sao fb của mình lại không vào được từ hôm qa đen h, dù mạng vẫn chạy bình thường ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.900778,
+         "id": "752215",
+         "field_search": "question",
+         "question": "Cho hỏi tại sao mình tải ứng dụng về bình thường nhưng k...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.742838,
+         "id": "999085",
+         "field_search": "question",
+         "question": "tại sao j5 prime của mình sạc xong đầy 100 đèn led vẫn báo đỏ bình thường nó báo xanh ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.58071,
+         "id": "1169176",
+         "field_search": "question",
+         "question": "Điện thoại em Samsung galaxy note 3 không cập nhật được phiên bản mới nhất của messages em gỡ cài đặt sau đó tải lại thì không tải lại được em đã thử tất cả mọi cách trên mạng như gỡ dữ liệu cache gỡ cài đặt cập nhật ch play rồi mà không tải được ạ máy em bị làm sao thế giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.55681,
+         "id": "1168996",
+         "field_search": "question",
+         "question": "Tại sao không cập nhật được youtube ? Tải thì máy hiển thị không thể tải app về trong lúc này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.287022,
+         "id": "1024578",
+         "field_search": "question",
+         "question": "Em mới mua Samsung J7 prime mà nó cứ bắt cập nhật phần mềm mới. Cho e hỏi nếu cập nhật thì bản sau có gì thay đổi không. So với bản hiện tại nó có thay đổi nhiều không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.978348,
+         "id": "1005305",
+         "field_search": "question",
+         "question": "Vì sao pin của máy samsung galaxy j5 prime tụt nhanh vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.845371,
+         "id": "902271",
+         "field_search": "question",
+         "question": "file word gửi trên messenger bình thường vẫn tải về điện thoại được giờ sao nó ko cho tải hiện lên thế này giờ phải làm sao? Mình dùng J5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.429949,
+         "id": "772357",
+         "field_search": "question",
+         "question": "Mình không có nhu cầu nâng cấp lên ios 9.2 nhưng DT của mình đã tự động tải về bản cập nhật ios 9.2. Vậy xóa bản cập nhật tự động tải về iPhone như thế nào?nhờ các bạn hướng dẫn. xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.31927,
+         "id": "1016801",
+         "field_search": "question",
+         "question": "e hổ là mua sam sung galaxy j5 prime giá online với giá thường là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.318336,
+         "id": "1140183",
+         "field_search": "question",
+         "question": "Máy của em đặt về dữ liệu gốc, rồi sao không cập nhật được google trò chơi và YouTube . Mấy ứng dụng khác vậy cập nhật bình thường ạ . Máy em Nokia 3 android 8.1.0",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.2477,
+         "id": "1167028",
+         "field_search": "question",
+         "question": "Mình có tải bản android 9 vào máy mà chưa chọn cập nhật, giờ không muốn cập nhật thì xóa bản android 9 ở chỗ nào trong điện thoại? Samsung A7 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.226217,
+         "id": "1006701",
+         "field_search": "question",
+         "question": "Tại sao samsung j5 2015 không hỗ tợ 4g vậy? Dùng 3g chậm lắm !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.997555,
+         "id": "1161814",
+         "field_search": "question",
+         "question": "( E dùng samsung j8 )Sau khi e ấn vào cập nhật phiên bản hay cập nhật android gì đó là phiên bản 9 có chữ P và mấy cái vòng tròn. Giao diện cũng khác đi.Cập nhật xong mấy ngày nay e chơi game nào nó cũng có hiện tượng giật lag mặc dù mạng rất ổn. Các a.c giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.928946,
+         "id": "792920",
+         "field_search": "question",
+         "question": " Em sài iphone 6 sao không cập nhật đc fb phiên bản mới mặc dù đã có phiên bản mới rồi ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.927181,
+         "id": "1002550",
+         "field_search": "question",
+         "question": "Cho tui hỏi làm sao để samsung galaxy j5 2015 mạng 3G thành 4G được vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.900072,
+         "id": "1009471",
+         "field_search": "question",
+         "question": "Bị ntn là sao ạ ss j5 prime ạ..nhung ứng dụng khác thị chạy bình thường ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.885983,
+         "id": "1007239",
+         "field_search": "question",
+         "question": "add cho e hỏi. máy e là samsung j7 prime lúc trước sài bin bình thường. hôm qua mới cập nhât thỳ máy dù không làm gì bin vẫn tụt . bị v là s add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.881586,
+         "id": "805093",
+         "field_search": "question",
+         "question": "Xin hỏi TGDĐ cách truy cập bản PC của phim3s.net bằng galaxy V với? tại sao 1 số website không thể truy cập được phiên bản desktop dù đã chỉnh request desktop site trên trình duyệt?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.83258,
+         "id": "792908",
+         "field_search": "question",
+         "question": " Em xài iPhone 6 sao không cập nhật được Facebook phiên bản mới mặc dù đã có phiên bản mới rồi ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.801048,
+         "id": "1024311",
+         "field_search": "question",
+         "question": "Cho mk hỏi tại sao điện thoại mk sau khi cập nhật pm lên android 7.0 sài được thời gian thì điện thoại luôn bị chậm,mọi thao tác đều chậm mặc dù không có nóng máy,mk sài sony xa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.670792,
+         "id": "1149705",
+         "field_search": "question",
+         "question": "Xin hỏi tại sao gần đây máy của em tải ảnh trên pinterest về điện thoại lại không được mặc dù em xài ứng dụng đó đã 2 năm vẫn tải về bình thường. Em không biết đã gặp sự cố gì nhưng lần cuối em tải được ảnh trên đó về là vào ngày 24 tháng 1. Điện thoại em là samsung galaxy j4 2018. Em tìm cách khắc phục nhưng không được nên xin nhờ đội ngũ tgdđ giúp!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.601185,
+         "id": "999021",
+         "field_search": "question",
+         "question": "Cậu tôi xài sony z1 mà sao vào facebook cứ bị lỗi out ra ngoài hoài, tải facebook lite về thì load cực chậm mặc dù wifi đầy , cùng lúc đó tôi cũng xài wifi bình thường, hỏi nhiều lần rồi mà chưa có ai trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.593924,
+         "id": "1159908",
+         "field_search": "question",
+         "question": "Add cho hỏi tại sao samsung A7 2018 cập nhật phiên bản mới lại bị mất cái chương trình WPS z?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.57133,
+         "id": "896406",
+         "field_search": "question",
+         "question": "Ipad e sử dụng bình thường khi tải bản cập nhập ios10 về thì máy có tình trạng bắt sóng wifu yếu cho e hỏi lí do và cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.569977,
+         "id": "771581",
+         "field_search": "question",
+         "question": "EM LỠ GỞ CÀI ĐẶT BẢN CẬP NHẬT CỦA CH PLAY, VÀO APK CH PLAY ĐỂ TẢI NHƯNG EM KHÔNG BIẾT CÁCH TẢI, TẢI CÁI NÀO CHO GRAND PRIME 530 ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.553072,
+         "id": "996217",
+         "field_search": "question",
+         "question": "Tại sao cập nhật hệ thống galaxy note 4 thì máy báo lỗi mạng hoặc sever là sao ? Anh chị giải thích giùm với ạ! Hiện tại nó cứ báo như v hoài?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.451683,
+         "id": "998274",
+         "field_search": "question",
+         "question": "ADM cho e hỏi máy e là SamSung a5(2016) đang xài bình thường thì có cập nhật phần mềm đã bị treo logo SamSung là bị sao ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.44652,
+         "id": "1155067",
+         "field_search": "question",
+         "question": "máy samsung J5 của mình mỗi lần mở wifi là hiện thông báo 'Gói cập nhật phần mềm chưa được tải xuống hoàn toàn', làm sao để tắt? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.426443,
+         "id": "1161458",
+         "field_search": "question",
+         "question": "Cho e hỏi.máy của e là samsung galaxy j8.thường thì lâu lâu máy báo cập nhật phần mềm,mỗi lần cập nhật xog thì cũng k có khác j,nhưg hôm nay sao e cập nhật xong thì giao diện của máy khác quá z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.36983,
+         "id": "1008693",
+         "field_search": "question",
+         "question": "adm cho tôi hỏ j5 prime bị treo máy k tắt nguồn được khi hết pin cắm sạc vào lại lại dùng bình thường là tại sao vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.340565,
+         "id": "1136575",
+         "field_search": "question",
+         "question": "Samsung j5 prime khi cập nhật phần mềm thì không còn hiển thị số thông báo tren fb..zalo...mesenger nữa ạ.....làm sao để hiển thị lại ạ ... e cám ơn...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.303885,
+         "id": "1156101",
+         "field_search": "question",
+         "question": "Tại sao e dùng oppo A37 mà không đăng được ảnh lên facebook mặc dù đã đăng xuất và cập nhật phiên bản mới nhất rất nhiều lần.  😢",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.251953,
+         "id": "1153681",
+         "field_search": "question",
+         "question": "Samsung Galaxy Grand Prime, Điện thoại mình ghi \"Hệ điều hành trên thiết bị của bạn đã được sửa đổi một cách trái phép. Hãy thử tải về cập nhật phần mềm sử dụng Samsung Kies trên PC hoặc đến một trung tâm dịch vụ khách hàng.\" Mình phải làm gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.208344,
+         "id": "1002792",
+         "field_search": "question",
+         "question": "mình tải về bản cập nhập của win 10 mà sao lâu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.152607,
+         "id": "908486",
+         "field_search": "question",
+         "question": "Tôi đang sử dụng hệ điều hành IOS. Tôi có thắc mắc là vì sao điện thoại của tôi không thấy hiện thị thông báo có cập bản cập nhật mới (bình thường sẽ có xuất hiện số 1 ở mục cài đặt). Tuy nhiên, khi vào cài đặt/cài đặt chung/cập nhật phần mềm thì mới thấy có thông báo bản cập nhật mới.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.148108,
+         "id": "999998",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi e đang sử dụng điện thoại samsung j5 prime. Khi tải ứng dụng ở CH play thì tải về máy nay em mún tải về thẻ nhớ thì cài đặc sao ạ mong ad giúp đở em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.145262,
+         "id": "1148415",
+         "field_search": "question",
+         "question": "Sao a7 2018 xài hay bị lỗi khi chơi game liên quân vậy dù đã cập nhật bản vá lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.099737,
+         "id": "1023109",
+         "field_search": "question",
+         "question": "Galaxy j7 prime khi nào mới cập nhật lên android 7 vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.091581,
+         "id": "1001733",
+         "field_search": "question",
+         "question": "Cho em hỏi ạGalaxy J2 Prime chừng nào lên phiên bản Android vậy. Sao Samsung cập nhật phiên bản cho các thiết bị giá rẻ yếu kém quá vậy. Em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.077356,
+         "id": "991154",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi là sản phẩm Samsung Galaxy J5 Prime tại Ô Môn Cần Thơ hiện tại còn trong kho không ạ !! nếu hết thì đầu tháng 7 tới đây có nhập hàng về ko ạ!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.070356,
+         "id": "1167911",
+         "field_search": "question",
+         "question": "Tại sao tài khoản fb của tôi không được cập nhật bản mới nhất mà các tài khoản khác đã được cập nhật",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.060541,
+         "id": "1022288",
+         "field_search": "question",
+         "question": "Lúc nào thì j7 prime mới có bản cập nhật lên android 7 ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.99526,
+         "id": "823231",
+         "field_search": "question",
+         "question": " Điện thoại của e là ss j5 mọi thứ vào mạng vẫn bình thường nhưng ko vào dc fb là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.955467,
+         "id": "1144465",
+         "field_search": "question",
+         "question": "Em sài samsung j7 prime nhưng từ khi cập nhật phần mền lại thì không còn mượt nữa . Cho em biết tại sao bị vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.926128,
+         "id": "1152765",
+         "field_search": "question",
+         "question": "Bạn em xài J7 Prime hệ điều hành được cập nhật lên 9.0 vậy tại sao A6 Plus không có thông báo cập nhật ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.80843,
+         "id": "1155983",
+         "field_search": "question",
+         "question": "AC cho e hỏi máy oppo A37fw báo có phiên bản cập nhật mới tải về máy cần những điều kiện nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.746386,
+         "id": "1013515",
+         "field_search": "question",
+         "question": "Em đag dùng sam sum j5 prime , điện thoại thông báo cập nhật phần mềm mà em mới mua điện thoại 3 tháng trước có nên cập nhật ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.73544,
+         "id": "1137305",
+         "field_search": "question",
+         "question": "Em đang dùng samsung galaxy j6,tại sao camera trong mesenger lại bị mờ và hột,camera bên ngoài thì bình thường ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.73383,
+         "id": "1021596",
+         "field_search": "question",
+         "question": "J7 prime bao giờ mới có bản cập nhật được lên 7.0 vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.73383,
+         "id": "1003311",
+         "field_search": "question",
+         "question": "J7 prime bao giờ có bản cập nhật android 7 vậy? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.704376,
+         "id": "1151218",
+         "field_search": "question",
+         "question": "Mình đang xài mady samsung galaxy j8 nó có bản cập nhật phần mềm mà mình lỡ ấn vào cái nó ghi hoãn cập nhật vậy thì máy nó có bị gì ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.632763,
+         "id": "1135876",
+         "field_search": "question",
+         "question": "Điện thoại mình vừa chạy lại chương trình, mà tại sao không cập nhật được bản cập nhật google play, minh xài HTC ONE ME",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.629276,
+         "id": "1152029",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao cập nhật bản Color OS mới lâu quá vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.59697,
+         "id": "790563",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sau mình gọi video call từ máy j5 đến máy j7 và ngược lại nó toàn báo ngoài vùng phủ sóng hoặc mạng bận không? Lúc mới mua máy về thì gọi dược bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.544922,
+         "id": "1156276",
+         "field_search": "question",
+         "question": "Em mới cập nhật phần mềm ở máy samsung j7 plus mà sao nó chạy chậm và lag quá vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.536718,
+         "id": "1156938",
+         "field_search": "question",
+         "question": "samsung a7 2018 au khi cập nhật bản mới nhất thì lại bị lỗi đang dùng wifi mà kết nối mạng 4g là mạng e, tắt nguồn khởi động lại mới lên 4G.bản trước cập nhật đã fix lỗi này nhưng bản mới lại bị lỗi này có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.517887,
+         "id": "1160716",
+         "field_search": "question",
+         "question": "ad cho e hỏi e dùng samsung galaxy j5 prime vào ch play tải game pubg mobile, e dùng wifi và mạng khỏe. nhưng không hiểu sao tải đợi load, giải nén xong hết lại không thấy game đâu, bấm vào game pubg trên ch play lại hiện nút cài đặt. Mong dc giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.492311,
+         "id": "828347",
+         "field_search": "question",
+         "question": "Qtv, mình không vào được facebook từ trưa đến giờ, mặc dù đã tắt mở lại mấy nhiều lần, sau đó có xóa ứng dụng facebook để tải lại nhưng lại không thể tải lại ứng dụng mặc dù kết nối mạng vẫn bình thường, khi tải về lại thì báo lỗi -504, cho mình xin cách khắc phục ạ. Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.458637,
+         "id": "946156",
+         "field_search": "question",
+         "question": "Tại sao khi mình gọi ft mà bên kia k nghe được mình nói, mình đã tải lại và cập nhật phiên bản mới nhất của Messenger rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.364693,
+         "id": "763320",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính của em bây giờ xem phim trên mạng hay tải về máy đều xem không đươc vậy phải làm sao để máy bình thường lại được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.340586,
+         "id": "781982",
+         "field_search": "question",
+         "question": " Samsung Galaxy Tab E 9.6 có cập nhật lên android 5.1 được không vậy ad. Hiện tại android là 4.4 ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.294548,
+         "id": "986468",
+         "field_search": "question",
+         "question": "cho em hỏi,tại sau càng cập nhật windows thì máy lại càng chậm và tốc độ khởi động máy lại càng chậm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.268412,
+         "id": "774862",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 đã lên iOS 9.2 vừa nẫy máy có bản cập nhật iOS 9.2.1 em không tải mà sao máy đã tự tải về vậy em có lên cài đặt không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.16466,
+         "id": "1159919",
+         "field_search": "question",
+         "question": "Samsung j7 2016 không có bản cập nhật được lên android 7.0 và kiểm tra thì máy báo bản cập nhật mới nhất đã được cài đặt là bản 6.0.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.147753,
+         "id": "1014491",
+         "field_search": "question",
+         "question": "  Hiện tại máy s7 edge của mình bị vướng bản cập nhật này ko cập nhật được, ad cho hỏi mình nên làm sao được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.082178,
+         "id": "1159547",
+         "field_search": "question",
+         "question": "Con A7 2018 của mình cập nhật xong vào mạng chậm như rùa luôn. Ai giải thích hoặc sửa giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.060217,
+         "id": "902755",
+         "field_search": "question",
+         "question": "tôi dùng 2 máy iphone chung 1 icloud. Bình thường tôi vận nhận cập nhật cuộc gọi điện thoại trên 2 máy. nhưng sao mấy ngày qua tôi lại không được cập nhật. Vậy phải làm thế nào để cập nhật lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.035965,
+         "id": "1165017",
+         "field_search": "question",
+         "question": "Cho em hỏi là samsung j4 thường làm sao để gỡ cái bản cập nhật phần mềm mới nhất ạ. Cập nhập xong em chơi game bị giật quá hông chơi được ạ...em muốn gỡ thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.030222,
+         "id": "1157799",
+         "field_search": "question",
+         "question": "SamSung: Đề nghị tgdđ giúp về vấn đề máy điện thoại Samsung Galaxy J7+ có bản cập nhật mới nhất ...nhưng khi cập nhật máy lỗi 10 phút lại khởi động lại . rất nhiều trường hợp đã đề cập ...nhưng câu trả lời của Trung Tâm bảo hành SS là thay main hết 2,7Trieu ,như vậy ở đây là lỗi của ai và phần trách nhiệm có phải thuộc về người sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.018524,
+         "id": "907773",
+         "field_search": "question",
+         "question": "Mình cập nhật facebook phiên bản 100.0.0.20.70 trên Điện thoại Samsung galaxy v nhưng khi vào Facebook thì Thấy 1 chữ F chờ rất lâu nhưng không vào được Mình đá gỡ ững dụng tải lại mà vấn vậy Tại DNS Cung không vào được luôn Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.016066,
+         "id": "801807",
+         "field_search": "question",
+         "question": " Tại sao chỉ ios cập nhật được các phiên bản mới nhất còn CH Play không có? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.896461,
+         "id": "1149341",
+         "field_search": "question",
+         "question": "Admin ơi, cho mình hỏi chiếc đt samsung j7 prime hiện tại thì có thể cập nhật phần mềm đến android mấy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.815432,
+         "id": "992614",
+         "field_search": "question",
+         "question": "Tại sao ứng dụng Facebook của mình ko thể tải bản tin (\"ko có tin nào để hiển thị\") , trong khi điện thoại mình có kết nối wifi và lên mạng bằng các ứng dụng khác bình thường ???Mong ad giúp đỡ ( mình dùng iphone 5s ạ , đã reset cài đặt mạng)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.72815,
+         "id": "1019000",
+         "field_search": "question",
+         "question": "xin chào tôi muốn hỏi về samsung galaxy j2 prime ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.727098,
+         "id": "1139022",
+         "field_search": "question",
+         "question": "Cho e hỏi. Làm cách để cài nhạc chờ cho Samsung Galaxy J5 Prime ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.671715,
+         "id": "1163477",
+         "field_search": "question",
+         "question": "Em mua Xiaomi mi 8 lite, khi máy còn chạy android 8.1 thì chơi game bình thường, nhưng từ lúc cập nhật lên android 9 khi đang chơi liên quân thì nhiều lúc cứ bị mất mạng dù wifi có mỗi máy em dùng, còn chơi các trò khác thì cứ hay văng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.655056,
+         "id": "897650",
+         "field_search": "question",
+         "question": "điện thoại mình là ip6 plus chạy ios 9.2.1, mình muốn update lên ios nhưng khi vào phần cập nhật phần mềm trong cài đặt chung thì không hiện lên bản ios để Tải về và Cài đặt mà lúc nào cũng báo là đang kiểm tra các bản cập nhật cả ngày. Vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.649456,
+         "id": "1145919",
+         "field_search": "question",
+         "question": "Samsung j7 pro tự nhiên mất rung, cho dù có bật chế độ rung...Làm sao để rung lại bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.612446,
+         "id": "1147865",
+         "field_search": "question",
+         "question": "Cho em hỏi: em mới mua hưawai y9 về máy bắt cập nhật phiên bản mới. Em có nên cập nhật không ạ? Nếu cập nhật xong thì máy có lỗi gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.598381,
+         "id": "1152592",
+         "field_search": "question",
+         "question": "ad ơi cho mình hỏi. s mình vào game HayDay cứ để đang tải r tự thoát ra k vậy? k có phiên bản cập nhật mới. mình sài j7 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.556368,
+         "id": "965383",
+         "field_search": "question",
+         "question": "Mình đang sử dụng ip6 chạy ios 10.3 beta. Nhưng khi có bản cập nhật ios 10.3 chính thức thì máy có thông báo và nâng cấp lên bản chính thức như bình thường không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.520346,
+         "id": "1016548",
+         "field_search": "question",
+         "question": "Cho mình hỏi là tại sao bản cập nhật miui 9 thong báo có từ 25 tháng 9 ! Mà sao đến tận hôm nay mình dô cập nhật vẫn chưa thấy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.505274,
+         "id": "1023633",
+         "field_search": "question",
+         "question": "Cho e hỏi j3 2016 của e tải game về .nhấn vô chơi thì nó kêu cập nhật thêm MB.e nhấn ok cập nhật thì bị văng ra màn hình chính.kh cập nhật đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.486969,
+         "id": "766115",
+         "field_search": "question",
+         "question": "Mọi người cho hỏi em tải bản cập nhật 9.2 về mà khi đăng nhập tài khoản ID Apple để hoàn thành mà không đăng nhập được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.438347,
+         "id": "996844",
+         "field_search": "question",
+         "question": "mua dien thoai samsung galaxy j5 prime tra gop voi gia 0d duoc khong anh chi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.4335,
+         "id": "1008767",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao youtube của em không có biểu tượng card board em đã cập nhật youtube ms nhất rồi ạ điện thoại em là Samsung galaxy S3",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,809 @@
+{
+   "id_query": "1164628",
+   "total": 24452,
+   "total_current": 100,
+   "max_score": 101.19339,
+   "origin_question": "iphone 7 lúsp 32G ở bến tre có háng không.  ở khu vực mỏ cày bắc",
+   "hits": [
+      {
+         "score": 101.19339,
+         "id": "1164628",
+         "field_search": "question",
+         "question": "iphone 7 lúsp 32G ở bến tre có háng không.  ở khu vực mỏ cày bắc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.84701,
+         "id": "1150996",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua đt cũ ở tgdd khu vực tp hcm mà em muốn ship về bến tre đc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.972292,
+         "id": "1147627",
+         "field_search": "question",
+         "question": "cho mình hỏi Tai nghe bluetooth Pisen LE002 Đen ở khu vực an tây bến cát còn k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.205532,
+         "id": "1161038",
+         "field_search": "question",
+         "question": "Cho mình hỏi xiaomi red 7  64gb bao giờ về ở khu vực HN ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.2895,
+         "id": "775579",
+         "field_search": "question",
+         "question": " Mình CM và HK Bến Tre. Nhưng mình muốn mua trả góp iPhone 6s 64g tại TGDD ở TP. HCM có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.110947,
+         "id": "1011886",
+         "field_search": "question",
+         "question": "Cho e hỏi e mua máy góp ở tgdd 1 khu vực khác. H e đóng tiền góp ở khu vực khac duoc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.787016,
+         "id": "1161423",
+         "field_search": "question",
+         "question": "điện thoại a6 bên mình còn hàng tại khu vực bắc ninh ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.537231,
+         "id": "1143560",
+         "field_search": "question",
+         "question": "Ở khu vực Châu Thành  và khu vực Thành phố tân an ,em muốn mưa oppo a3s thì đến cửa hàng nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.926636,
+         "id": "997627",
+         "field_search": "question",
+         "question": "cho e hỏi khu vực quận bắc từ liêm chỗ nào thu tiền mạng fpt k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.563766,
+         "id": "1019833",
+         "field_search": "question",
+         "question": "Ở khu vực tiểu cần_tra vinh Có ốp lưng galaxy a3 2017 k ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.023294,
+         "id": "1008921",
+         "field_search": "question",
+         "question": "Cho e hỏi ở TGDĐ khu vực thọ xuân có chuột máy tính ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.596035,
+         "id": "1142546",
+         "field_search": "question",
+         "question": "README C1  máy hiện tại đã có sẵng ở siêu thị chưa ạ khu vực tam kỳ quảng nam",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.551584,
+         "id": "1160902",
+         "field_search": "question",
+         "question": "Bạn ơi, ở khu vực cần thơ còn bán iphone 6 16G máy cũ ko vậy! Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.452782,
+         "id": "1148898",
+         "field_search": "question",
+         "question": "ở khu vực huế real me C1 bán ở địa điểm nào ạ và còn hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.31349,
+         "id": "1156292",
+         "field_search": "question",
+         "question": "mình thấy con sony xz premium ở khu vực giá sốc những kick chuột vào ko thấy khu vực quanh nội thành hải phòng con con nào ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.130096,
+         "id": "1155460",
+         "field_search": "question",
+         "question": "còn hàng vinsmart joy 1 ở khu vực hà đông thanh xuân k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.026718,
+         "id": "1015348",
+         "field_search": "question",
+         "question": "Cho e hỏi cảm ứng vân tay của ip 6s có đc bảo hành không ạ? E mua ở bến tre lên tp bảo hành đc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.00438,
+         "id": "1020654",
+         "field_search": "question",
+         "question": "Cho hỏi văn phòng tuyển dụng thegioidi động khu vực đà nẵng ở đâu vây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.913334,
+         "id": "1149678",
+         "field_search": "question",
+         "question": "Shop ơi, còn điện thoại vovo y85 ở khu vực thành phố sa đéc không vậy shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.740927,
+         "id": "1143240",
+         "field_search": "question",
+         "question": "Xin chàomình ở khu vực Cát quế hoài Đức, cho mình hỏi ở thế giới di động cát quế có vinsmart joy 1 khôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.448847,
+         "id": "1163805",
+         "field_search": "question",
+         "question": "tôi hỏi khu vực TGDD ở mạo khê Quảng ninh có sản phẩm đồng hồ điện tử Mi band 3 không a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.058807,
+         "id": "992799",
+         "field_search": "question",
+         "question": "Điện thoại Samsung Galaxy J5 khi nào có hàng tại Điện Máy Xanh Khu phố 2, TT. Giồng Trôm, H. Giồng Trôm, T. Bến Tre (Cách chợ Giồng Trôm 100m)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.99896,
+         "id": "1140195",
+         "field_search": "question",
+         "question": " có máy vsmart active 1 hàng có sẵn ko phải đặt kobản màu vàng hoặc trắng ở khu vực hà nội ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.932045,
+         "id": "1017308",
+         "field_search": "question",
+         "question": "Cho mình hỏi pin của HTC M7 có thể thay mới được không? Bạn vui lòng báo giá giúp mình nhé. Mình ở Thành phố Bến Tre. Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.930807,
+         "id": "1010963",
+         "field_search": "question",
+         "question": "Chào em hỏi ở khu vực Mộ Đức  Quảng Ngãi, cửa hàng có bán sản phẩm Sony Xperia XA ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.620115,
+         "id": "1001718",
+         "field_search": "question",
+         "question": "Xin hỏi muốn làm nhân viên bán hàng tại khu Vực nội Thành Hải Phòng có thể liên hệ ở đâu ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.534866,
+         "id": "1017712",
+         "field_search": "question",
+         "question": "ho hỏi cửa hàng hiện tại ở khu vực quận Thủ đức có mẫu ốp lưng cho điện thoại xiaomi redmi note4 không v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.314556,
+         "id": "1167258",
+         "field_search": "question",
+         "question": "Cho em hỏi chừng nào xiaomi mi 9 về thế giới di động ở khu vực quảng bình vậy shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.268457,
+         "id": "992074",
+         "field_search": "question",
+         "question": "Cho em hỏi này có thễ đạt hàng tai tgdd Thành Phố Bến Tre không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.174067,
+         "id": "993048",
+         "field_search": "question",
+         "question": "Cho tôi hỏi laptop đã qua sử dụng tôi muốn mua nhưng máy ở khu vực khác thì có chuyển về chi nhánh tại nơi tôi sinh sống được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.129707,
+         "id": "1147858",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở TGDD  xã An Ngãi Trung huyện Ba Tri tỉnh Bến Tre hiện đang có điện thoại nào dưới 4tr mà chơi pubg tốt mà pin trâu không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.915016,
+         "id": "1011284",
+         "field_search": "question",
+         "question": "E ở khu vực Thái Nguyên e muốn mua pin của laptop Lenovo B460 524G75G thì e có thể mua ở đâu ạ. Các cơ sở của minh có bán loại pin này k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.084105,
+         "id": "1141680",
+         "field_search": "question",
+         "question": "cho mình hỏi ở Tp. BẮc Ninh có cửa hàng nào còn iphone 8 ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.012924,
+         "id": "1152490",
+         "field_search": "question",
+         "question": "khu vực tp Việt Trì còn xiaomi redmi note 5 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.980858,
+         "id": "818510",
+         "field_search": "question",
+         "question": " cho mjh hỏi mình mua iphone 6 dổi trả ở tgdd ở Ninh Bình,nhưng mình ở Bắc Ninh,có đc ko vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.912401,
+         "id": "748748",
+         "field_search": "question",
+         "question": " Khu vực TP.HCM còn máy iPhone 5s nào đã qua sử dụng với giá 7tr120 không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.800756,
+         "id": "1014817",
+         "field_search": "question",
+         "question": "Mình ở khu vực thành phố tây ninh nếu mình đặc sãng phẩm ở TPHCM thì trong khoản thời giang mà mình phải nhận được hàng phải mất bao lâu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.594912,
+         "id": "1166660",
+         "field_search": "question",
+         "question": "Không biết bên mình có dịch vụ nâng cấp core i3 lên i5 ở chi nhánh Bến Tre không ạ? Nếu có thì máy mình Dell inspiron 14, core i3 5005U lên core i5 được hay không? Và có rủi ro gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.58158,
+         "id": "1137949",
+         "field_search": "question",
+         "question": "Mẩu này siêu thị nào đang có ạ. Khu vực bìn tân ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.455702,
+         "id": "1012027",
+         "field_search": "question",
+         "question": "cho mình hỏi tại thế giới di động bến tre có pin galaxy note1 không ạ? nếu có giá ao nhiêu vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.300428,
+         "id": "1167216",
+         "field_search": "question",
+         "question": "Cho e hỏi dòng điện thoại này có mặt tại chi nhánh bến tre chưa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.050547,
+         "id": "998451",
+         "field_search": "question",
+         "question": "Chào anh , chị . Em muốn mua 1 bộ sạc cho samsung j3 2016 . không biết phụ kiện này có hàng ở Tgdd 365 Phan Văn Hớn . Tân Thới Nhất , Q12 ko ạ . hoặc các cửa hàng ở gần khu vực đó cũng được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.962902,
+         "id": "796739",
+         "field_search": "question",
+         "question": "Cho mình hỏi giá các loại Ipad giá chuẩn nhất ở chi nhánh gia lai được không ạ ?? , mình muốn tham khảo để mua nhưng bận công việc không tiện nên mình muốn biết giá chính xác ở khu vực Pleiku Gia lai , có thể giúp mình không ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.926176,
+         "id": "1169143",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 7plus bản 128 gb còn hàng khu vực Cầu Kè Trà Vinh không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.911316,
+         "id": "1019836",
+         "field_search": "question",
+         "question": "Add vui lòng báo giá máy tính sách tay hiệu Dell Vostro 3568 I7 7500U/8GB/1TB/2GB. Mình ở khu vực tỉnh Quảng Ngãi ạ.  Tks Add!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.846876,
+         "id": "1003704",
+         "field_search": "question",
+         "question": "Cho em mua 5s màu vàng hàng tồn kho đi ạ ! Em ỡ Bến Tre nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.786915,
+         "id": "1165349",
+         "field_search": "question",
+         "question": "Cho mình hỏi có ốp lưng mi8 lite nhựa dẻo không ạ Khu vực long thành đồng nai",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.780155,
+         "id": "757707",
+         "field_search": "question",
+         "question": " Qtv ơi cho em hỏi tai khu vực cai lậy tiền giang có bán điện thoại iphone 4s củ không vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.779757,
+         "id": "1021819",
+         "field_search": "question",
+         "question": "Chào các qtv,em có con mobell nova i7 bị rơi vào nước giờ muốn đem ra sửa thì mất bao nhiêu tiền ạ?Em ở khu vực hàm nghi-đà nẵng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.736813,
+         "id": "996549",
+         "field_search": "question",
+         "question": "Mình có mua 1 máy Lenovo ideapad 100s tại TGDĐ Bến Tre hồi tháng 2.2017. Máy không rơi rớt hay va chạm gì, nhưng hôm nay màn hình xuất hiện vết trắng sáng ở phía trên màn hình.Xin cho hỏi có được bảo hành hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.567493,
+         "id": "781703",
+         "field_search": "question",
+         "question": "Cho em hỏi em mua iPhone 4s ở tgdd Sao Đỏ dc khoảng 3,4 tháng về Bắc Ninh ăn tết k mang giấy tờ lúc mua theo ra tgdd ở Bắc Ninh sưả lỗi treo táo có mất phí k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.43658,
+         "id": "998299",
+         "field_search": "question",
+         "question": "E hỏi chiếc sony xperia xz 18tr, có ở tgdd ở chợ nếnh, bắc giang chua ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.404041,
+         "id": "994383",
+         "field_search": "question",
+         "question": "Mình muốn tìm 1 em 6plus khu vực phúc yên vĩnh phúc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.311386,
+         "id": "1017465",
+         "field_search": "question",
+         "question": "khu vực Bà Điểm, Hóc Môn có chi nhánh nào còn điện thoại meizu m5s không z?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.26634,
+         "id": "891774",
+         "field_search": "question",
+         "question": " thế giới di động có bán pin laptop ko vậy khu vực cái tàu đồng tháp ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.211468,
+         "id": "1009508",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi máy mixaomi 4a có bán ở huyện Bắc Bình k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.11331,
+         "id": "1012870",
+         "field_search": "question",
+         "question": "Bên anhchị có bán ốp lưng HTC buffterfly 2 không. Em đang ở Bến Cát Bình Dương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.973364,
+         "id": "1145568",
+         "field_search": "question",
+         "question": "cho mình hỏi khi nào thì ở các cơ sở của thế giới di động tại khu vực nội thành hà nội lại bày bán vsmart joy 1 trở lại vậy (màu đen)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.950977,
+         "id": "1159974",
+         "field_search": "question",
+         "question": "Cho e hỏi o khu vực cai lậy tiền giang ó hàng realme 3 k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.858265,
+         "id": "1158275",
+         "field_search": "question",
+         "question": "E muốn đătm hàng xiaomi redmi note 7 chính hãng 32G màu hồng ở Đà nẵng phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.853082,
+         "id": "1135694",
+         "field_search": "question",
+         "question": " mình muốn hỏi xiaomimi8 có tiếng việt k ạhvà ở bắc giang còn máy này không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.836086,
+         "id": "928365",
+         "field_search": "question",
+         "question": "Cho hỏi laptop cũ nào core i3,tầm 4tr ko ạ ,khu vực bình dương,mà tốt nhất là huyen phú giáo.mua trã góp hóa đơn tiền điện tên mình à,tại mình ở nhà thuê",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.796636,
+         "id": "1156006",
+         "field_search": "question",
+         "question": "Màng hình LG X500 có k vậy ad. Khu vực thị trấn củ chi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.686018,
+         "id": "1149258",
+         "field_search": "question",
+         "question": "shop ơi cho mình hỏi khu vực vĩnh long còn hàng điện thoại huawie nova 2i màu đen không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.675624,
+         "id": "816348",
+         "field_search": "question",
+         "question": " Anh chị Chỉ giúp em cách chuyển Apple ID sang khu vực mỹ em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.424434,
+         "id": "1135472",
+         "field_search": "question",
+         "question": "Mình xài ip 7 plus, mình muốn cài 2 zalo trên 1 máy, mình có thể ra cửa hàng thegioididong khu vực Q5 nhờ nhân viên giúp dc k? Và có tính phí k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.281544,
+         "id": "1167034",
+         "field_search": "question",
+         "question": "dạ shop cho e hỏi là  bên mình còn iphone 6s 32G không ạ?Em ở Ga thường tín  hà nội",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.197507,
+         "id": "1166367",
+         "field_search": "question",
+         "question": "Cho mình hỏi giá pin của iphone 6 bao nhiêu ạ. Ở tgdd chi nhánh chợ lầu, bắc bình, bình thuận có k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.091063,
+         "id": "1144662",
+         "field_search": "question",
+         "question": "vivo y85 cũ còn ko anh. Em ở Bắc Giang thì có thể mua đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.017099,
+         "id": "1148192",
+         "field_search": "question",
+         "question": "iPhone 7 plus 32G có vừa chơi liên quân và chơi pubg đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.017099,
+         "id": "1152240",
+         "field_search": "question",
+         "question": "Iphone 7 32g mua trả góp có thu lại k. Dc bao nhiêu vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.009494,
+         "id": "1156495",
+         "field_search": "question",
+         "question": "Cho mình hỏi là thế giới di động có bán miếng cách nhiệt cho laptop không ạ khu vực xung quanh touchpad rất nóng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.986157,
+         "id": "1146992",
+         "field_search": "question",
+         "question": "Tai nghe nhét trong Samsung EG920B bên khu vực tt hòa mac duy tiên có ko v.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.85281,
+         "id": "1153683",
+         "field_search": "question",
+         "question": "Cho e hỏi, ở đồng nai bến cam có của hàng nào bán realme C1 hk ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.847523,
+         "id": "986206",
+         "field_search": "question",
+         "question": "Cho e hỏi còn cây iphone 6 32G cũ nào ở bà rịa vũng tàu k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.768775,
+         "id": "992861",
+         "field_search": "question",
+         "question": "Ở công ti có đang có ưu đãi trúng iphone 7 mỗi ngày không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.691931,
+         "id": "1162482",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở thế giới di động có thay pin cho iphone 7 không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.687855,
+         "id": "1139144",
+         "field_search": "question",
+         "question": "Khu vực Bà Rịa Vũng Tàu, huyện Long Điền còn máy mobiistar X ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.674255,
+         "id": "1014301",
+         "field_search": "question",
+         "question": "cho mi hỏi trong khu vực thái bình cso trung tâm nào đã có Bphone 2017 chưa? nếu chưa có thì bao giờ mới có  ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.514149,
+         "id": "1142527",
+         "field_search": "question",
+         "question": "Mình muốn hỏi xem minh mua dt ben the gioi gi dong ở ngoài bắc, ma muon nguoi nhan hàng ở trong nam co duoc không vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.477608,
+         "id": "1161855",
+         "field_search": "question",
+         "question": "Máy Iphone 6 của mình bị hở màn hình Khi ấn mạnh vào màn hình nghe tiếng lộp bộp Hiện tại mình đang ở Bến Cát-Bình Dương Mình có thể gửi máy để sửa ở TGDĐ được không. Máy của mình vừa hết bảo hành được vài tháng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.440109,
+         "id": "1021063",
+         "field_search": "question",
+         "question": "AD cho mình hỏi mình muốn mua sạc dự phòng cũ thì địa chỉ nào của cửa hang còn hang, và còn những loại sản phẩm nào. mình ở khu vực THanh Xuan, Hai Bà Trưng, Hoàng Mai Hà Nội",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3885765,
+         "id": "1000309",
+         "field_search": "question",
+         "question": "Màn hình em bi nhòe là bị làm sao ạ ??Em mới thay màn hình bị rơi . Mà nó bị nứt ở khu vực hôm ?? Cho em hỏi giờ thay màn hinh hay còn cách khác . Em j5 prime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.954929,
+         "id": "772323",
+         "field_search": "question",
+         "question": " Mã thư tín khu vực Hà Nội là gì xin cung cấp đầy đủ để thiết lập iTunes. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.834488,
+         "id": "1023400",
+         "field_search": "question",
+         "question": "Có chi nhánh nào của TGDĐ ở Đà Nẵng còn bán iPhone5s 32G không? Bên mình có định nhập đt ấy về kinh doanh nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.758868,
+         "id": "871480",
+         "field_search": "question",
+         "question": " giá thay kiếng màn hình Iphone 6S? Thay ở đâu? có thể thay ở quận 7, thời gian mất bao lâu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.744012,
+         "id": "1158401",
+         "field_search": "question",
+         "question": "Máy của mình Note 4 cũng mua ở thế giới di động xài mạng Vietnamobile nhưng sao Sóng không có khi về nhà khu vực thuận hòa long mỹ Máy kia j4 cũng xài Vietnamobile nhưng người ta thì có sóng còn máy của em thì không Xin hỏi Có cách nào khắc phục không  và ra Thế Giới Di Động có sửa được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.733604,
+         "id": "998224",
+         "field_search": "question",
+         "question": "a/c có thể tư vấn cho em một số đt có thể phát wifi tốt giá khoảng từ 1-2 tr k ạ, cũ mới cũng đc, em ở khu vực tân hiệp, châu thành, tiền giang.em chỉ sử dụng chức năng phát wifi nên cái nào phát ổn một tí.Xin chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.6789255,
+         "id": "1021490",
+         "field_search": "question",
+         "question": "bao giờ sam sung j3 ở quận bắc từ liêm , thế giới di động  87 tân xuân có hàng , để tôi mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.665225,
+         "id": "1150602",
+         "field_search": "question",
+         "question": "cho em hỏi giá của  Note 8 bao nhiêu vậy ạq. em muốn hỏi mua note 8 và cóa sẵn không ạ. em ở bắc giang",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.607393,
+         "id": "788991",
+         "field_search": "question",
+         "question": " Ad ơi thế giới di động Bắc Ninh có máy iphone hàng lock không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.563036,
+         "id": "991531",
+         "field_search": "question",
+         "question": "xin cho hỏi có thể kiểm tra Iphone 7  bán ở thị trường nào thông qua số IMEI được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.553901,
+         "id": "1015365",
+         "field_search": "question",
+         "question": "Em ở Thành phố Bến Tre cần mua một chiếc điện thoại giá từ dưới 4 triệu. Yêu cầu là có thể chơi game Liên Quân Mobile mượt, không giật lag. Hiện em đang dùng điện thoại Wiko Robbey ram 2g, cpu 4 nhân 1.3Hz nhưng dù chỉnh đồ họa thấp vẫn bị giật lag, vào game hay vào trận đều sau người khác. Mong Thế Giới Di Động tư vấn giúp em. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.479202,
+         "id": "1144235",
+         "field_search": "question",
+         "question": "Cho em hỏi khi nào xiaomi redmi note7 bản 32G và 3ram giá 3triệu 4 có hàng ở thế giới di động ở nha trang ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.461495,
+         "id": "1158114",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone 7 ở phú quốc còn màu jetblack ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.3391695,
+         "id": "1152474",
+         "field_search": "question",
+         "question": "ad cho e hỏi iphone 7 plus cũ có hàng ở vĩnh long ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.32056,
+         "id": "1167060",
+         "field_search": "question",
+         "question": "Mau trả góp chiếc xiaomi redmi note 7 như thế nào ? Ở s ố 355 đường Quốc Lộ 20, Khu Phố   Hiệp Quyết, Thị Trấn Định Quán, huyện Định Quán, tỉnh Đồng Nai khi nào có hàng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.30416,
+         "id": "1142891",
+         "field_search": "question",
+         "question": " Muốn trải nhiệm thử zen fone max m2 pro. Khu vực long biên hà nội thì đến địa chỉ nào. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.290501,
+         "id": "1163380",
+         "field_search": "question",
+         "question": "Bên mình còn redmi note 7 32g không anh ,nếu còn giá bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.213348,
+         "id": "1153355",
+         "field_search": "question",
+         "question": "Ad em có mua trả gốp iphone 7 plus 32g khoản 1 tuần. E muốn đổi lại samsung a9 2019 thì phải làm s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

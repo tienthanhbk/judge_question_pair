@@ -1,0 +1,809 @@
+{
+   "id_query": "997514",
+   "total": 30140,
+   "total_current": 100,
+   "max_score": 119.70265,
+   "origin_question": "khi cắm tai nge mà có cuộc gọi đến, chuông vẫn đổ trên iphone.có cách nào tắt loa ngoài khi cắm tai nge vào không bạn.mình sài iphone 6s",
+   "hits": [
+      {
+         "score": 119.70265,
+         "id": "997514",
+         "field_search": "question",
+         "question": "khi cắm tai nge mà có cuộc gọi đến, chuông vẫn đổ trên iphone.có cách nào tắt loa ngoài khi cắm tai nge vào không bạn.mình sài iphone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.412155,
+         "id": "1139259",
+         "field_search": "question",
+         "question": " Sao e cắm tai phone vào mà khi có cuộc gọi đến vừa phát trong tai phone mà vừa loa ngoài nữa ạ? Có ai bị như e ki? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.943905,
+         "id": "1160415",
+         "field_search": "question",
+         "question": "E sài Samsung j4 plus . lúc cắm dây phone. Thì loa trong vẫn bình thường. Nge vẫn tốt. Mà mỗi khi có cuộc gọi tới thì loa ngoài phát ra tiếng. E ko thik v . lm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.02864,
+         "id": "996697",
+         "field_search": "question",
+         "question": "Em dùng ip 6s plus, khi có cuộc gọi nếu em đang cắm tai nghe thì phải mở loa ngoài xong và tắt loa ngoài đi thì tai nghe mới nghe được là sao vậy ạ?? Mọi người giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.081436,
+         "id": "776341",
+         "field_search": "question",
+         "question": " Tại sao khi gọi loa ngoài iphone 6S bị rè khi chuông đổ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.433823,
+         "id": "759125",
+         "field_search": "question",
+         "question": "Em sử dụng máy Samsung J5. Nhưng khi cắm tai nghe và có cuộc gọi đến (gọi điện, zalo, messenger, skype,...) thì vừa có chuông phát trong tai nghe và vừa có chuông phát ngoài loa. Khi nhận cuộc gọi thì không bị như vậy nữa.Cho em hỏi đây là do lỗi hay là do máy cài đặt như vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.570396,
+         "id": "1000152",
+         "field_search": "question",
+         "question": "Tại sao máy samsung galaxy j5 prime của em mới mua tại tgdd khi cắm tai nghe vào chuông cuộc gọi đến không báo vào tai nghe mà báo ngoài máy thế ạ? Khởi động lại máy thì lần đầu tiên chuông báo về cả máy và tai nghe nhưng giờ thì lại không báo về tai nghe nữa ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.03661,
+         "id": "1135410",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi chút ạ. Mình dùng samsung j7 pro khi cắm tai nghe vào nghe nhạc lúc mình rút tai nghe ra thì điện thoại bị mất loa ngoài. Cắm tai nghe vào thì vẫn nghe được tai nghe, loa thoại bình thường mỗi loa ngoài là ko kêu gì hết. Mong TGDĐ giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.896255,
+         "id": "1143334",
+         "field_search": "question",
+         "question": "Đt samsung galaxy a6 của e, đã cắm tai nghe nhưng khi gọi zalo vẫn phát loa ngoài là bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.445576,
+         "id": "819206",
+         "field_search": "question",
+         "question": "Em có con 5s sao khi em cắm tai nghe vào vẫn nghe bình thườngkhi rút tai nghe ra bấm tăng giảm âm lượng nó vẫn hiển thị tai nghe và loa ngoài không nghe được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.21427,
+         "id": "1006050",
+         "field_search": "question",
+         "question": "Cho em hỏi.Em đang dùng htc one a9.tại sao em gọi thường thì loa ngoài,loa trong vẫn nge bình thường.Nhưng em gọi bằng zalo và face thì mở loa ngoài em mới nge được,còn để bt thì ko nge dc ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.87827,
+         "id": "918123",
+         "field_search": "question",
+         "question": "cho e hỏi .. máy em 4s , có khi nghe dc có khi không ( nhac+ video ) cắm tai nghe thì đôi khi tự tắt .... còn nghe gọi, chuông vẫn bình thường ... nguyên nhân và cách giải quyết sao ạ ...?\\",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.566536,
+         "id": "923883",
+         "field_search": "question",
+         "question": "Mình mới mua máy EDGY bên mình, mà khi có cuộc gọi đến máy tự động bật loa ngoài, không tắt được, gọi đi thì vẫn loa trong bình thường ạ. Với cả máy này làm thế nào để cài được nhạc chuông tải xuống (không phải nhạc chuông có sẵn trong máy) thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.1166,
+         "id": "754541",
+         "field_search": "question",
+         "question": "Cho mình hỏi chiếc iphone 4 của mình không nghe nhạc bằng loa ngoài được nhưng cắm tai phone vào thì nghe bình thường. chuông báo cuộc gọi tới củng bình thường. xin thế giới di động hướng dẫn mình cách khắc phục lỗ trên.mình củng đã restore lại máy rồi những vẫn không được.xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.01215,
+         "id": "915994",
+         "field_search": "question",
+         "question": "em đang dùng máy inspiron 15 3000series core i3 4gb ram. em k biết là lổi hay do máy mà loa của máy lúc mới mở lên thì nge to sau đó lại giảm ngỏ dần lại. cắm loa ngoài thì \"bass\" của loa lại rất nhỏ trg khi đó đã mở hết cở. cắm điện thoại vào thì bass của loa nge bt khắc hẵn vs lap.k biết ntn các mong các a.c hổ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.841774,
+         "id": "915318",
+         "field_search": "question",
+         "question": " iPhone của e nó có cuộc gọi đến khi đổ chuông nhỏ đi rồi nó có giọng nói của con gái !!Ai biết cách tắt chỉ mk với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.206764,
+         "id": "1141009",
+         "field_search": "question",
+         "question": "J2 khi gan tai nge vao ma nge tieng k ro lam .bam vao phan nao de minh cai dat",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.783913,
+         "id": "922150",
+         "field_search": "question",
+         "question": "chào bạn mình sài điện thoại iphone4 tại sao khi có tin nhắn hông có đổ chuông chỉ rung thôi và khi có cuộc gọi điện thoại đến thì đổ chuông mình cũng hông biết nó bị gì nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.72151,
+         "id": "1023682",
+         "field_search": "question",
+         "question": "Em mới nâng cấp lên ios11. Nhưng sau khi nâng cấp dk 2 ngày dt của e gặp lỗi về loa. Cụ thể là cuộc gọi loa trong không nghe được nghe nhạc và xem video cũng không nghe được gì cả tin nhắn cũng không có chuông.  Trong khi đó cuộc gọi đến vẫn đổ chuông và khi nghe bật loa to lên vẫn có tiếng. Em phải làm như thế nào để khắc phục lỗi này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.66095,
+         "id": "1139249",
+         "field_search": "question",
+         "question": "Loa của điện thoại nova 3i nghe ngoài thì bình thường, sao cắm tai nghe với cắm vào loa to ngoài thì rất nhỏ. Có phải loa nó như v không, hay điện thoại mình cố vấn đề?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.652405,
+         "id": "772968",
+         "field_search": "question",
+         "question": "xin chao. cho toi hoi là khi cắm tai phone vào máy tính trước rồi khởi đông thì nghe được. còn khi mở file nhạc lên nghe mà mới cắm tai phone thì không nghe được, chỉ nghe loa ngoài của laptop. cho hỏi lỗi của phần cứng máy hay bị lỗi win. thanks your",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.256325,
+         "id": "1153761",
+         "field_search": "question",
+         "question": "Trong ứng dụng zalo, tôi sử dụng tính năng ẩn trò chuyện, nhg khi cuộc gọi zalo (của người ẩn )đến vẫn đổ chuông. Xin hỏi làm thế nào ( k muốn chặn hoàn toàn) mà chỉ muốn ẩn tin nhắn và k đổ chuông cuộc gọi zalo. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.935678,
+         "id": "1167857",
+         "field_search": "question",
+         "question": "Mình có con  6s plus   khi cắm tai nghe nếu không nghe nhạ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.750153,
+         "id": "812544",
+         "field_search": "question",
+         "question": "Help me! Tại sao iphone 6 của mình không đổ chuông khi có cuộc gọi đến, mà chỉ rung. Mặc dù mình đã vào pần Cài đặt tăng nút âm lượng hết cỡ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.690086,
+         "id": "1014647",
+         "field_search": "question",
+         "question": "Ad cho e hỏi, điện thoại e khi nhận đc cuộc gọi đến chỉ đổ chuông nhưng không hiện lên giao diện cuộc gọi, đến khi cuộc gọi kết thúc thì ms hiện lên cuộc gọi nhỡ. Ad cho e hỏi nguyên nhân và cách xử lý!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.663568,
+         "id": "792355",
+         "field_search": "question",
+         "question": "Cho em hỏi , tai nge của em . em cấm vào máy khác thì qua bài , chỉnh âm lượng bằng nút của tai nge đều được hết , nhưng sao em cấm vô iphone 5 . thì chỉ nge được thôi, còn thao tác chỉnh âm lượng hoặc qua bài bằng nút của tai nge thì k làm được , mong mấy anh giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.64169,
+         "id": "1023996",
+         "field_search": "question",
+         "question": "E đang dùng ip5s nhưng 2 ngày nay khi gọi điện hay có cuộc gọi tới bắt máy vẫn nhảy giây bình thường nhưng mình ko nge đc ..và nói bên kia cũng không nge đc ...nhưng thử gọi zalo , faccebook ..vẫn nge vs nói đc ạ ...cho e hỏi vậy là bị gì ạ ..e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.587208,
+         "id": "794653",
+         "field_search": "question",
+         "question": " Mình dùng OPPO r7 lite có dùng tai nge blutut nghe gọi zalo được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.526535,
+         "id": "755905",
+         "field_search": "question",
+         "question": " Tại sao khi cắm tai nghe vào laptop mà âm thanh ở laptop vẫn nghe được bình thường? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.023388,
+         "id": "1161783",
+         "field_search": "question",
+         "question": "cho hỏi máy vmasrt joy 1+ mới mua đc 1 tháng lúc trk cuộc gọi đến nhạc chuông lớn bt, tự nhiên h nhỏ xíu chỉnh full âm luong vẫn z, nghe nhạc nge điện thoại vẫn lớn bt có mỗi cuộc gọi đến báo chuông là bị nhỏ là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.954386,
+         "id": "760149",
+         "field_search": "question",
+         "question": "Ad ơi iphone4 của e bị mất âm thanh của nhạc và game khi ở loa ngoài .Nhưng khi cắm tai nghe thì vẫn nghe nhạc với cả tiếng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.847435,
+         "id": "813271",
+         "field_search": "question",
+         "question": "Điện thoại ip6s cua tôi bị rơi xuông nước sau đó không nghe được loa trong mà chỉ nghe được khi cắm tai nghe và mở loa ngoài . Tôi phai làm soa đây?huuu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.8356,
+         "id": "756505",
+         "field_search": "question",
+         "question": "Chào AD mình vừa vừa iPhone 6s Plus được 20 hôm,từ hôm mua về máy của mình khi nhận cuộc gọi từ số khác gọi đến,đó chưa kịp trả lời thì máy vào tắt màn hình máy vẫn đổ chuông ,mình bật máy lên không có chỗ nào để mình trả lời cuộc gọi,vậy có phải máy của mình bị lỗi không? Nếu bị lỗi mình có được đổi máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.785244,
+         "id": "908223",
+         "field_search": "question",
+         "question": "Ad cho e hỏi.e dùng đt ip 6. Nhìu khi có cuộc gọi đến đt vẫn đổ chuông nhưng màm hình tối đen. K hiện người gọi .cuộc gọi zalo cũng tương tự",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.652935,
+         "id": "1161284",
+         "field_search": "question",
+         "question": "em sử dụng đt samsung j1. khi cắm tai nghe vào thì chỉ nghe được 1 bên mà khi lấy tai nghe đó cắm vào máy khác thì nghe bình thường là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.567677,
+         "id": "771962",
+         "field_search": "question",
+         "question": "Khi cắm tai nghe earpotr vào iPhone 5s thì màn hình iPhone sẽ hiện lên gì để nhận biết đã cắm tai nghe vào ? Mong admin giúp em !!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.530033,
+         "id": "997334",
+         "field_search": "question",
+         "question": "Cho em hỏi em Sài iPhone 7 và chỉ sử dụng tai nghe beat em cắm tai beat vào Jack chuyển đổi 3.5mm khi ghi âm thì nó bị rè em có thử lại với ipad thì cắm tai nghe (không Jack ) thu âm ko bị gì và cắm tai nghe + Jack thu âm bị rè vậy cho em hỏi lỗi do Jack hay tai nghe không tương thích ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.514719,
+         "id": "757734",
+         "field_search": "question",
+         "question": " Hướng dẫn bật tính năng đưa điện thoại lên tai để nhấc máy khi có cuộc gọi đến trên iPhone 5? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.358793,
+         "id": "1022642",
+         "field_search": "question",
+         "question": "Khi cắm sạc tai nghe Bluetooth thì phải tắt đi hay để bật rồi cắm sạc v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.189096,
+         "id": "1001382",
+         "field_search": "question",
+         "question": "E sài zenfone 2 .. quay phim hoặc ghi âm đều được nhưng khi cắm tai nghe .. quay phim vẫn có tiếng mà sao ghi âm lại không được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.922691,
+         "id": "1134610",
+         "field_search": "question",
+         "question": "mình mới mua con dell ở tgdđ. sao mà mình cắm phone vào ko nge đc j hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.89854,
+         "id": "806968",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 5 thi thoảng khóa mh thì mở lại không lên. Gọi vào vẫn có tín hiệu nhưng máy vẫn k lên. K đổ chuông. Cắm sạc cũng không. Bấm giữ 2 phím 10s mới lên lại. Chỉ bị khi tắt mh thôi. Cho hỏi là bị gì vậy ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.820639,
+         "id": "885514",
+         "field_search": "question",
+         "question": " Cho e hỏi, e dùng iphone4 khi gọi messenger thì người bên kia k nge gì cả, mà khi gọi số đt bình thường lại nge dc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.579628,
+         "id": "1152052",
+         "field_search": "question",
+         "question": "Minh mua Iphone 6s plus sao mà cắm tai nghe vào ko phát qua được là máy bị sao vậy..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.428432,
+         "id": "873363",
+         "field_search": "question",
+         "question": "Điện thoại samsung J1 6 của em lúc trước khi đeo tai nghe vẫn nghe được tin nhắn thoại trên messenger . Nhưng 2 ngày nay em có lỡ xóa rồi tải lại messenger và khi đeo tai nghe , tin nhắn thoại không phát vào tai nghe mà phát ra loa ngoài . Trong khi call messenger , zalo , skype , mp3 nghe vào tai nghe vẫn bình thường . Vậy em phải sửa thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.101208,
+         "id": "833216",
+         "field_search": "question",
+         "question": "E đang dùng iPhone 6. Lúc gọi Zalo, Facebook,tango, mở loa ngoài mình nói bên kia k nghe thấy j, họ nói mình nge rõ, gọi thường thì mở loa ngoài vẫn nghe nói bình thường, xin cho hỏi máy e bị j ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.86233,
+         "id": "1142998",
+         "field_search": "question",
+         "question": "e chào ac ạ. máy tính của em khi cắm tai nghe rồi mà loa của máy vẫn hoạt động, mong ac hướng dẫn e cài đặt lại vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.808397,
+         "id": "1165383",
+         "field_search": "question",
+         "question": "cho e hỏi, e có mua tai nge bluetooth sony wi-c300, sao e không kết nối được với IP7 vậy, loa bluetooth thì e lại kết nối được, shop có cách nào kết nối không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.789093,
+         "id": "995387",
+         "field_search": "question",
+         "question": "cho e hỏi , e muốn mua tai nge iphone thì giá tiền bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.722713,
+         "id": "837108",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao điện thoại iphone của mình khi cắm tai nghe vào thì vẫn nghe nhạc bình thường mà mình rút ra để nghe loa trong điện thoại thì lại không nghe được mình nhấn nút âm lượng thì cứ bảo là âm lượng tai nghe như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.678148,
+         "id": "776347",
+         "field_search": "question",
+         "question": "Em mới mua máy iPhone 5S trả góp. Thấy thỉnh thoảng có hiện tượng cuộc gọi đến chỉ rung và đổ chuông nhưng màn hình không hiện gj cả. Không hiện tên người gọi và cho để nhận cuộc gọi. Bật màn hình thì hiện ra màn hình khóa trong khi máy vẫn rung và đổ chuông. Máy em bị lỗi gì vậy? Có được đổi máy mới không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.39699,
+         "id": "747079",
+         "field_search": "question",
+         "question": " Cho mình hỏi , bây giờ mình dùng iPhone thì tai nge Bluetooth nào là hợp và tốt nhất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.277168,
+         "id": "809354",
+         "field_search": "question",
+         "question": "điện thoại của mình là Lenovo A7010, cho mình hỏi khi có cuộc gọi wechat đến mà màn hình đang ở trạng thái tắt thì không biết được thông báó có cuộc gọi đến, vì thế ít khi mình nhận được cuộc gọi từ wechat..ai biết cách nào cài khi màn hình tắt nhưng vẫn có thông báo như cuộc gọi thông thường thì chỉ dùm mình với...cảm ơn các bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.266685,
+         "id": "1155330",
+         "field_search": "question",
+         "question": "Mình dùng j7 pro. Hôm nay cắm tai nghe vào máy không nhận, mình tưởng tai nghe hỏng nhưng không phải, cắm tai nghe vào máy tính vẫn nghe tốt. Vậy là máy điện thoại mình có vấn đề phải không ạ? mình cần đem máy đến đâu để kiểm tra ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.204405,
+         "id": "1157401",
+         "field_search": "question",
+         "question": "Điện thoại hưaway nova 3i chưa dc 1 tháng bây giờ cắm tai nghe vào k nghe phone dc mà nhạc vẫn mở loa ngòai bị lỗi e có thể đem đến tiệm đổi dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.113504,
+         "id": "1136878",
+         "field_search": "question",
+         "question": "Samsung j8 của mình bị sự cố về mic khi gọi điện hoặc thu âm không nge thấy tiến hoặc nge rất nhỏ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.006123,
+         "id": "1163720",
+         "field_search": "question",
+         "question": "mình dùng Oppo f7 mà tại sao giờ nó không đổ chuông khi có cuộc gọi đến mặc dù mình đã cài đặt âm lượng max, khi điều chỉnh âm lượng thì mình thấy nhạc chạy được 2 giây là ngắt. Mình đã tắt nguồn khởi động lại máy nhưng vẫn không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.971457,
+         "id": "847445",
+         "field_search": "question",
+         "question": " Iphone 5s của mình khi ngta gọi đến thì chỉ rung chứ ko đổ chuông thì tại sao ạ. Mà vào cài đặt bật lớn thì nó ok ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.906712,
+         "id": "826528",
+         "field_search": "question",
+         "question": " laptop ủa mình khi cắm tai nghe vào chỉ nghe đc một bên thì phải làm thế nào ạ???? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.87931,
+         "id": "1001624",
+         "field_search": "question",
+         "question": "Có bạn nào update lên bản iOS 10.3.1 nhạc chuông và khi nghe gọi bị nhỏ đi ko. mình trước dùng vẫn bình thường, từ khi up lên 10.3.1 chuông bé toàn bị nhỡ cuộc gọi, mà nếu nói chuyện thì cũng bé phải áp sát tai mới nghe dc. (mình dùng iphone6 )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.873056,
+         "id": "1153830",
+         "field_search": "question",
+         "question": "Em tên là thành ạ! Em có một chiếc Xiaomi redmi note 3 mà khi em cắm tai nghe vào thì k nghe thấy gì mà khi mở loa ngoài cx k nghe thấy tiếng lại còn có tiếng nổ nhỏ đẹt đẹt nữa ạ! Cảm ơn ace đã tư vấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.87025,
+         "id": "996995",
+         "field_search": "question",
+         "question": "e đang sài oppo f3, e vẫn để chế độ chuông bình thường, k bật chế độ im lặng nhưng khi có cuộc gọi đến lại k nghe nhạc chuông reo ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.793978,
+         "id": "744386",
+         "field_search": "question",
+         "question": "Sao điện thoai iPhone của em từ lúc rơi điện thoại gọi đi toàn bảo không gọi được, người khác gọi đến lúc đầu nge thấy về sau không nge thấy gì rồi tự động tắt đi xong máy bảo lỗi cuộc gọi, xong nói chuyện được tí máy em nóng lắm, trước có như vậy đâu, giúp em với, em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.731726,
+         "id": "1017612",
+         "field_search": "question",
+         "question": "mình đang dùng con j5 prime đang onl fb thì điện thoại bị đứng sau đó tắt màng hình mở không lên. nhưng dùng điện thoại khác gọi vào thì vẫn đổ chuông, mình có cắm sạc nhưng vẫn không lên. mong ad giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.730906,
+         "id": "993347",
+         "field_search": "question",
+         "question": "Tại sao iPhone 6 plus của mình gọi đến ko đổ chuông mà chỉ rung thôi trong khi tin nhắn lại đổ chuông. Mình resert lại thì hết mà mấy ngày sau lại bị lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.726978,
+         "id": "757049",
+         "field_search": "question",
+         "question": "iPhone 6 Plus của mình khi cắm sạc or tai nghe vào. Sau đó vào phần điện thoại để gọi và thao tác thì bị treo. Mình restart lại thì ok.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.687712,
+         "id": "998729",
+         "field_search": "question",
+         "question": "Em đang dùng sámung j5 2016 máy bị đơ và tự khởi động khi cắm tai nghe sau khi rút tai nghe ra vẫn bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.6378,
+         "id": "1157360",
+         "field_search": "question",
+         "question": "MÌNH DÙNG NOKIA 5.1 PLUS. KHI CÓ CUỘC GỌI ĐẾN KHÔNG HIỆN MÀN HÌNH CUỘC GỌI MÀ CHỈ CÓ CHUÔNG VÀ RUNG. ĐÃ KHỞI ĐỘNG LẠI MÁY VẪN KHÔNG ĐƯỢC. BẠN TƯ VẤN GIÚP MÌNH",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.607437,
+         "id": "844665",
+         "field_search": "question",
+         "question": "Mấy anh ơi cho em hỏi. Sao cái iphone của e không cắm tai phone. Mà vẫn hiện tai phone vậy. Người khác gọi đếm phải đeo tai phone mới nghe được. Nghe nhạc và xem video cĩng thế",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.485918,
+         "id": "1024051",
+         "field_search": "question",
+         "question": "Có cuộc gọi đến, đt mình đổ chuông 10s là tắt, bắt máy ko kịp. Mình sửa cái này đc ko bạn. Tks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.22668,
+         "id": "1022367",
+         "field_search": "question",
+         "question": "Dien thoại A7 mh mua dc hơn 2 tháng tai phone máy bị vẫn nge bình thường nhưng mỗi nói chuyen dt với ghi âm thì không nge jj cả... cho mh hỏi phai tai phone hư hay kg.? Neu hư thì phụ kiện có được bao hành không.? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.214334,
+         "id": "996561",
+         "field_search": "question",
+         "question": "cho mình hỏi có điện thoại cục gạch nào có chức năng cấm tai phone vào tự nhận cuộc gọi đến không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.16857,
+         "id": "1157054",
+         "field_search": "question",
+         "question": "Em xài máy ip 6s lắp sim viettel, máy samsung lắp sim vina. Hôm trước em tắt máy samsung và gọi vào số vina thì thấy máy ip đổ chuông trong khi máy ip lắp sim vina. Khi bật nguồn lên thì máy samsung vẫn đổ chuông bình thường. Ai giải thích vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.090212,
+         "id": "899676",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5s, tại sao có cuộc gọi đến khi màn hình ko sáng rồi bật sáng lên mà ko thấy sđt ng gọi nhưng vẫn có chuông. Mọi ng cho hỏi bị sao và cách khác phục với???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.060648,
+         "id": "747554",
+         "field_search": "question",
+         "question": "Tình hình là em mới mua dt iphone 6s plus được 7 ngày và tải combat 5 về chơi vào chiếc được chút là bị yêu cầu kết nối lại. Còn loa điện thoại em nge nhạc nge bị rè rè?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.017885,
+         "id": "1139019",
+         "field_search": "question",
+         "question": "Cho hình hỏi.samsung j7 prime cứ cắm tai nghe khi gọi là không nghe hoặc nói nghe gì được là sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.98025,
+         "id": "1145416",
+         "field_search": "question",
+         "question": "Em mới mua đt realme c1 đc 1 tháng thì hai hôm nay khi có cuộc gọi đến máy em ko đổ chuông hay là rung mà trong khi đó em để chế độ bình thường xin các bác giúp em cách khắc phục với....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.94627,
+         "id": "1149746",
+         "field_search": "question",
+         "question": "Đt mình đang sử dụng tự nhiên đứng máy tắt nguồn. Lúc máy mở lại thì không nghe được âm (chuông báo, cuộc gọi, nhạc v.v..)  gì nữa. Cắm tai nghe vào thì nghe được. Cho mình hỏi máy bị gì ạ? Máy mình là ss A5 2017 ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.944012,
+         "id": "778741",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là em đang dùng 1 chiếc iphone 4S. Tại sao khi em cắm tai nghe vào mới nghe được nhạc. Còn khi phát loa lại không nghe được không cho to nhỏ được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.905079,
+         "id": "1020460",
+         "field_search": "question",
+         "question": "Điện thoại tôi mặc dù không cắm tai nghe nhưng phần âm thanh media lại tự động chuyển thành âm lượng khi cắm tai nghe, xin hỏi cách khắc phục??? Samsung GalaxyA5 (2016)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.763235,
+         "id": "997959",
+         "field_search": "question",
+         "question": "Tôi dùng đt oppo F1 plus . Có cách nào mà làm đt khi cắm vào pc không sạc pin ko..  Sợ cắm đi cắm lại nó chai pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.659786,
+         "id": "1017350",
+         "field_search": "question",
+         "question": "Em sài sámung j7 prime khi cắm tai nghe tầm vài phút là âm lượng loa thông báo tự về 0 có kéo cỡ nào cũng về 0 trừ khi tắt màn hình mở lại mới bthg rồi lại tiếp tục bị cho e hỏi đt e bị làm s v ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.515924,
+         "id": "777464",
+         "field_search": "question",
+         "question": "Làm thế nào để tắt biểu tượng tai nghe trên Mirror 5, bây giờ mình không thể nghe gì nếu không cắm tai nghe. Máy thì mới mua chưa được nửa tháng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.479576,
+         "id": "1017687",
+         "field_search": "question",
+         "question": "Vì sao trên điện thoại j7 pro khi cắm tai nghe vào thì trên thanh trạng thái không hiển thị dấu hiệu là đã kết nối tai nghe hay không thông báo là đã kết nối",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.376028,
+         "id": "1162691",
+         "field_search": "question",
+         "question": "Tai sao khi chuông reo mình cầm máy lên mà chuông k nhỏ lai trên iphone x vay. Giup minh vs ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.374292,
+         "id": "774074",
+         "field_search": "question",
+         "question": "iPhone 4s thỉnh thoảng màn hình bị tối, cuộc gọi đến vẫn đổ chuông nhưng không hiện, phải khởi động lại máy mới được, như thế là lỗi gì ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.335194,
+         "id": "1134955",
+         "field_search": "question",
+         "question": "Mình gọi điện thoại nhưng cuộc gọi chỉ đổ chuông 1 lần rồi tự động tắt. Cho hỏi có phải mình bị chặn số không? Máy chả người mình gọi đến dùng là samsung note 5.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.325106,
+         "id": "810439",
+         "field_search": "question",
+         "question": "Cần mua sạc.củ sạc và tai nge iphone6 chính hãng.bạn nào mất điện thoại không dùng đến nữa bán lại mình ạ.để lại sđt mình liên hệ nhé.thank ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.226387,
+         "id": "765526",
+         "field_search": "question",
+         "question": "iPhone 5S cập nhật lên phiên bản 9.1 hoặc 9.2 khi có người gọi tới chưa nghe kịp mà màn hình tắt khi mở lên có chuông mà không biết ai gọi không nghe được, phải kết thúc cuộc gọi kiểm tra nhật ký cuộc gọi mới biết. Xin hỏi khắc phục lỗi này thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.223783,
+         "id": "1022448",
+         "field_search": "question",
+         "question": "Em đang xài oppo f3... Em cấm tai nghe vào nhưng loa ngoài và tai phone đều hoạt động.. . Có cách khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.150578,
+         "id": "806519",
+         "field_search": "question",
+         "question": "Ipad mini của mình bị vỡ màn hình, hoàn toàn không hiển thị bất cứ cái gì nữa, màn hình cũng không sáng. nhưng khi có người gọi đến thì máy vẫn đổ chuông. như vậy là bộ nhớ trong không bị ảnh hưởng phải không? mình muốn hỏi làm thế nào để lấy dữ liệu từ bộ nhớ trong ra vì khi cắm dây liên kết vào máy tính thì máy tính không nhận.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.134525,
+         "id": "1003605",
+         "field_search": "question",
+         "question": "Cho e hỏi có bán lẻ jack chuyển tai nge sang 3.5 của 7plus k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.092442,
+         "id": "1007821",
+         "field_search": "question",
+         "question": "E đang dùng đt samsung j5(6). Từ trước nay e cắm tai nghe vào máy vẫn nghe nhạc bt mà từ hôm qua tới giờ mỗi lần cắm tai nghe ấy vào là đt tự sập nguồn hoặc bị đơ. Rút tai nghe ra máy lại bt. Thế là thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.99902,
+         "id": "1001030",
+         "field_search": "question",
+         "question": " Cho Mình Hỏi Tại Sao máy note5 của Mình bật loa ngoài là Mình gọi cho ai là người ta ko nge thấy j là sao vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.927567,
+         "id": "761977",
+         "field_search": "question",
+         "question": "Cho mình hỏi là cái iphone 5 của mình có lúc có cuộc gọi đến mà nó đổ chuông chứ không sáng màn hình. mình chẳng nhấc máy được luôn. không biết nó bị sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.92687,
+         "id": "1022536",
+         "field_search": "question",
+         "question": "Cho e hỏi.e mới mua samsung galaxy a7 được vài ngày.lúc đầu cắm tai nghe vào vẫn bình thường nhưng hôm nay lại không cắm vào được.phải cắm mạnh vào mới nghe được nhưng bắt buột phải giữ chặt tai nghe. Nếu không giữ chặt thì tai nghe không thể ghim sát được. Cho e hỏi phải khắc phục như thế nào ạ?E cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.794199,
+         "id": "811533",
+         "field_search": "question",
+         "question": "Iphone của em hum qua co người gọi thì vẫn đổ chuông bình thường sáng dậy có người gọi thì không thấy đổ chuông ko bít có bị gì không a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.663624,
+         "id": "1140637",
+         "field_search": "question",
+         "question": "ad cho mình hỏi tai nge bị hư đổi lại vẫn hư tiếp v vẫn được đổi ko vậy ad. mình cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.570503,
+         "id": "780650",
+         "field_search": "question",
+         "question": " iphone 6 plus . Khi cắm tai nghe vào chỉ nghe được 1 bên. 1 bên thì rè.. là lỗi gì vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.344906,
+         "id": "1011352",
+         "field_search": "question",
+         "question": "Sam sung a3 2016 cuộc gọi đến và đi mình nói bên đầu dây kia không nghe..bên kia nói mình nge rất rõ..xin giãi đáp dùm",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

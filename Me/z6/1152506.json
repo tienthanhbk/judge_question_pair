@@ -1,0 +1,809 @@
+{
+   "id_query": "1152506",
+   "total": 26208,
+   "total_current": 100,
+   "max_score": 45.419228,
+   "origin_question": "Bên mình còn sạc của iphone 4 không?Mình ở Hải Dương",
+   "hits": [
+      {
+         "score": 45.419228,
+         "id": "1152506",
+         "field_search": "question",
+         "question": "Bên mình còn sạc của iphone 4 không?Mình ở Hải Dương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.550018,
+         "id": "1161436",
+         "field_search": "question",
+         "question": "Samsung galaxy S10 128G có khuyến mại gì ko ạMua ở thanh hà Hải dương còn máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.344221,
+         "id": "1008356",
+         "field_search": "question",
+         "question": "Chi nhánh của thế giới di động ở Huyện Ninh Giang  Hải Dương là ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.961937,
+         "id": "772099",
+         "field_search": "question",
+         "question": " Anh chị QTV cho em hỏi con iphone 5 bên cửa hàng Bình Dương mình còn không vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.748095,
+         "id": "1138475",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi là e có đặt 1 cái sạc dự phòng ở thanh miện hải dương ạ , nhưng hiện tại e qua vĩnh bảo hải phòng có việc gấp nên ko mua đc , liệu em tới tgdd ở vĩnh bảo hải phòng nua có đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.047266,
+         "id": "1152609",
+         "field_search": "question",
+         "question": "điện thoại asus xenfone max pro m2 cũ có bán ở Hải dương k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.838036,
+         "id": "1165909",
+         "field_search": "question",
+         "question": "bên mình còn máy  Laptop Asus UX533FD i5 8265U/8GB/256GB/GTX1050/Win10/(A9091T)ở chi nhánh Ngã  Sao Đỏ - Chí Linh - Hải Duơng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.309496,
+         "id": "1022333",
+         "field_search": "question",
+         "question": "bạn ơi .mình muốn hỏi .là mình muốn mua trả góp điện thoại ..nhưng vào ô .đánh dấu huyền .mà nại không có .huyện cẩm giàng ..tỉnh hải dương của mình .thì sao hồ sơ được chấp nhận",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.086138,
+         "id": "1013267",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có lắp đặt wifi không ạ ? hiện tại em ở binh dương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.38767,
+         "id": "1150908",
+         "field_search": "question",
+         "question": "mình muốn hỏi con vsmart1 bên mình còn màu xanh dương k và có khuyến mại gì k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.015287,
+         "id": "793478",
+         "field_search": "question",
+         "question": " Bên tgdd có còn mặt kính sau của iPhone 4 không? Máy mình bị vỡ mặt kính sau. giá khoảng bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.662968,
+         "id": "996328",
+         "field_search": "question",
+         "question": "Mình mua điện thoại Philips S358 ở bên TGDD vào hồi t7/2016 nhưng điện thoại mình mấy hnay sạc pin ko vô mình ktra và nghĩ vấn đề ở cốc sạc pin vậy chi mình hỏi bên bạn còn tgian bảo hành cho máy của mình ko để mình cầm lên ktra.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.532362,
+         "id": "1154350",
+         "field_search": "question",
+         "question": "Ở hải phòng có chi nhánh nào còn vsmart joy 1 không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.437826,
+         "id": "814029",
+         "field_search": "question",
+         "question": " còn eebook x205TA ở Hải Phòng không ạ. và giá là bao nhiêu ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.435999,
+         "id": "1024215",
+         "field_search": "question",
+         "question": "chào bạn mình mua iphone 6s bên thegoididong 4 tháng trước nhưng giờ phát hiện ra 3d touch của mình không hoạt động. mình có thể mang máy đi sửa ở thegioididong không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.413437,
+         "id": "1156190",
+         "field_search": "question",
+         "question": "Xin chào, mình là Tuấn, mình muốn hỏi Thegioididong ở Hải Dương có hỗ trợ thu mua máy cũ, đổi máy mới không. Mình đang sử dụng Galaxy J7 Pro, muốn chuyển sang dung Vsmart Active 1+Nếu có liên hệ giúp mình theo số điện thoại này nhé: 0987396360Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.227478,
+         "id": "1006614",
+         "field_search": "question",
+         "question": "Mình bị hư cái đầu sạc iphone 4, mà bh mình muốn mua cả bộ đầu sạc, và cáp sạc. Ở TGĐ Ngã Bảy có bán ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.064081,
+         "id": "1008808",
+         "field_search": "question",
+         "question": "Ở hải phòng có tt nào bán xiaomi redmi note 4 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.949589,
+         "id": "1140038",
+         "field_search": "question",
+         "question": " bên mình còn ốp điện thoại asus zenfone 4 A450 không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.924432,
+         "id": "801320",
+         "field_search": "question",
+         "question": " Ở tgdd hải phòng còn Asus  laptop dưới 6tr ? Hoặc dell? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.868895,
+         "id": "1024090",
+         "field_search": "question",
+         "question": "Cho e hỏi bên mình còn bán sạc vooc của oppo r7s k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.660283,
+         "id": "1161855",
+         "field_search": "question",
+         "question": "Máy Iphone 6 của mình bị hở màn hình Khi ấn mạnh vào màn hình nghe tiếng lộp bộp Hiện tại mình đang ở Bến Cát-Bình Dương Mình có thể gửi máy để sửa ở TGDĐ được không. Máy của mình vừa hết bảo hành được vài tháng.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.572424,
+         "id": "774500",
+         "field_search": "question",
+         "question": "Mình tên Dương, đã đặt hàng iphone 5s màu bạc tại TGDD ở 291 Nguyễn Văn Cừ. Hiện tại số điện thoại của mình không liên lạc được. Mình muốn đặt hàng, chiều tối nay mình sẽ qua lấy hàng nhé?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.548099,
+         "id": "996483",
+         "field_search": "question",
+         "question": "Cho e hỏi bên mình còn oppo nào dưới 4 triệu không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.517969,
+         "id": "750054",
+         "field_search": "question",
+         "question": " Anh ơi,bên mình có bán mặt sau của máy iphone 4 ko ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.281888,
+         "id": "796670",
+         "field_search": "question",
+         "question": " Cho em hỏi bên mình còn iphone 5 nào không ạ. Ở thanh hóa thì càng tốt ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.076639,
+         "id": "1012870",
+         "field_search": "question",
+         "question": "Bên anhchị có bán ốp lưng HTC buffterfly 2 không. Em đang ở Bến Cát Bình Dương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.962013,
+         "id": "781605",
+         "field_search": "question",
+         "question": " Bên thế giới di động mình không thay màn hình iphone 4? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.95162,
+         "id": "835393",
+         "field_search": "question",
+         "question": "Ad ơi, sao iphone 4 của mình sạc mãi không lên pin. Lúc có pin thì mình vừa sạc vừa dùng nhưng pin vẫn cứ tụt, bình thường nó vẫn tăng mà.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.928995,
+         "id": "1007535",
+         "field_search": "question",
+         "question": "Cho mình hỏi đt của mình mua của bên tgdđ hồi thág 11 còn bảo hành nhưg bị hư chuôi sạc thế bên đây còn bảo hành ko. Nếu ko thì cho mình biết giá sửa (samsug S7egde)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.872224,
+         "id": "1018749",
+         "field_search": "question",
+         "question": "Bên TGĐD còn sửa iphone 4 k ạ điện thoại e tắt nguồn rồi sạc thì hiện logo apple lúc hiện lúc tắt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.786288,
+         "id": "999055",
+         "field_search": "question",
+         "question": "E cần mua máy iphone 6plus 16gb máy cũ bên mình e ở huyện phúc thọ có còn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.661598,
+         "id": "784955",
+         "field_search": "question",
+         "question": " Cho hỏi ở shop còn dán gương cho iPhone 4 không vậy ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.626038,
+         "id": "1167034",
+         "field_search": "question",
+         "question": "dạ shop cho e hỏi là  bên mình còn iphone 6s 32G không ạ?Em ở Ga thường tín  hà nội",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.624397,
+         "id": "1150852",
+         "field_search": "question",
+         "question": "bên mình có sửa, thay màn của điện thoại xiaomi mi 4 không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.557041,
+         "id": "1136315",
+         "field_search": "question",
+         "question": "Chào shop, cho mình hỏi ở shop còn cáp và củ sạc chính hãng của note8 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.380468,
+         "id": "1167066",
+         "field_search": "question",
+         "question": "Mình có mua mới 1 Laptop Lenovo Yoya 530 bên TGDD vào tháng 2, nhưng đến nay office báo là k có bản quyền . Bên shop hỗ trợ giúp. SĐT mình 0903042179, tên Hoan ở Bình Dương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.338242,
+         "id": "764361",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình đang dùng iphone 4 thường nắp sau bị vỡ vậy có nắp sau của iphone 4 không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.329629,
+         "id": "994585",
+         "field_search": "question",
+         "question": "Mình có mua ở thế giới di động chi nhánh hải phòng dây cáp sạc xmobile 1m nhưng giờ nó bị hỏng lúc mình mua thì nhân viên không xuất phiếu bán hàng cho mình. Thế nên giờ mình muốn đổi dây cáp xạc có được hay k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.243278,
+         "id": "756627",
+         "field_search": "question",
+         "question": " Tại sao khi mình sạc pin vẫn hiển thị đang sạc, nhưng phần trăm ko lên mình đang dùng iPhone 4.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.232887,
+         "id": "791928",
+         "field_search": "question",
+         "question": " Cho mình hỏi ở cửa hàng bên TGDD có thay màn hình của iPhone 5s và sườn không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.201164,
+         "id": "1166109",
+         "field_search": "question",
+         "question": "Bên mình còn iphone 8 plus 64gb màu đen ở cơ sở tân hội , đan phượng ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.092117,
+         "id": "1140343",
+         "field_search": "question",
+         "question": "Add con J7 pro của mình còn thời hạn bảo hành 3 tháng giờ mình muốn đổi ngang con A7 xanh dương thì tính như thế nào ạ? Còn nếu mình bán lại con J7 pro giá ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.087598,
+         "id": "756651",
+         "field_search": "question",
+         "question": " Mình dùng iphone 4 sao không lồng nhạc ở Zingmp3 vào vivavideo hả bạn ? Bạn giúp mình với ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.058703,
+         "id": "760589",
+         "field_search": "question",
+         "question": " Cho hỏi còn iPhone 4 nữa không nhỉ. Mình muốn mua 1 cái màu trắng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.049165,
+         "id": "992175",
+         "field_search": "question",
+         "question": " Cho hỏi bên mình còn bán ốp lưng Sky Pantech không, tôi ở Q6 ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.0166,
+         "id": "883484",
+         "field_search": "question",
+         "question": "Oppo f1s của mình gọi zalo và messenger thì bên kia nói mình nghe được còn bên mình nói bên kia không nghe được, admin giúp mình với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.982749,
+         "id": "803270",
+         "field_search": "question",
+         "question": "iPhone 6 16gb của mình bị tình trạng đơ, mình đã môi phục cài đặt gốc nhưng lâu lâu nó vẫn bị. Cho mình hỏi là máy sửa lỗi phần mềm bao nhiu? Máy mình mua ở TGDĐ đi 1 năm 4 tháng vậy còn bảo hành không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.947304,
+         "id": "991098",
+         "field_search": "question",
+         "question": "Cho em hỏi ở tỉnh Bình Dương huyện Phú Giáo còn có j7 prime cũ k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.869038,
+         "id": "1009714",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở có bán cục sạc điện thoại không vậy? Vì lí do cục sạc của mình đã bị hư",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.825087,
+         "id": "1013793",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn tìm pin của lumia nokia 930.bên TGDD còn không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.815258,
+         "id": "786698",
+         "field_search": "question",
+         "question": " ad cho mình hỏi giờ mình thấy cục sạc iphone 5s của mìh đôi lúc bị nhiễm điện ah .như vậy còn dùng được không ah? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.806556,
+         "id": "1011888",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi !! bên mình có bán sạc chính hãng của máy huawei P9 không nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.787637,
+         "id": "1023400",
+         "field_search": "question",
+         "question": "Có chi nhánh nào của TGDĐ ở Đà Nẵng còn bán iPhone5s 32G không? Bên mình có định nhập đt ấy về kinh doanh nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.750204,
+         "id": "1152908",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có bán chân sạc của macbook không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.750119,
+         "id": "1161865",
+         "field_search": "question",
+         "question": "alo cho mình hỏi: mình muốn thay mặt kính bị bể của samsung J7 pro? báo giá cho mình? và thay bao lâu có bạn? bên bạn còn ốp lưng của Samsung A8-2016 không? mình ở Bến Lức",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.724717,
+         "id": "1167473",
+         "field_search": "question",
+         "question": "Ad và mb cho hỏi iphone 6 của mình bản 12.3 bản trước 10.3.2 đều sạc lâu là sao z sạc 4 tiếng ko đầy mn giúp vs ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.7137165,
+         "id": "1139716",
+         "field_search": "question",
+         "question": "cho mình hỏi con huawei y7 pro 2018 của mình còn bào hành bên tgdd 4 tháng bị lỗi gọi điện thoại người khác không nghe mình nói mà chỉ có mình nghe tiếng của mình trong điện thoại là bị sao và có được bảo hành lỗi này không shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.686079,
+         "id": "770460",
+         "field_search": "question",
+         "question": " Cho mình hỏi bên cửa hàng mình còn iPhone 6S 16GB màu Rose Gold không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.631778,
+         "id": "1157858",
+         "field_search": "question",
+         "question": "Máy realme c1 của mình còn 34 pin mình cắm sạc và máy không lên nguồn nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.626722,
+         "id": "799136",
+         "field_search": "question",
+         "question": " cho mình hỏi tại sao iphone 5 của mình sạc báo đã sạc nhưng không lên  pin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.60353,
+         "id": "1022327",
+         "field_search": "question",
+         "question": "shop có nhận thêm nhân viên giữ xe không mình ở phường phú lợi TDM bình dương gần điện máy xanh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.555696,
+         "id": "1018578",
+         "field_search": "question",
+         "question": "Em muốn xóa xác minh tài khoản google á bên TGDD có cách không ạ em ở Lái Thiêu Bình Dương ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.553227,
+         "id": "753291",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình chặn số ở trường. Vậy khi trường thông báo tin nhắn về thì mình có đọc được không? Và đọc bằng cách nào?Điện thoại của mình là iPhone 4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.520684,
+         "id": "1154687",
+         "field_search": "question",
+         "question": "mình muốn mua   Tai nghe EP Sony MDRXB55AP  ở thủy nguyên hải phòng hôm nay thì có hang khong ạ             ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.516225,
+         "id": "796981",
+         "field_search": "question",
+         "question": "Ở TGDĐ có bán que chọc sim không ạ ? Còn cái sim mình cắt thành nano bên ngoài nhưng nó cắt mất 1 góc nhỏ phần sim ( màu vàng ) thì còn sử dụng được nữa không ? MÌnh dùng iphone 6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.476171,
+         "id": "788783",
+         "field_search": "question",
+         "question": " Có pin ip 5 bán không AD loại tốt ý và giá cả nhé AD ! Mình ở tiền hải lên bạn cho biết nhé ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.451258,
+         "id": "767260",
+         "field_search": "question",
+         "question": " Cho mình hỏi giá iphone 5s màu trắng bên mình còn không và giá bao nhieu ? thanks ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.416545,
+         "id": "899781",
+         "field_search": "question",
+         "question": "Trước kia mình có dùng iphone 3gs, nhưng bây giờ mình đã chuyển qua dùng iphone 4. Tuy nhiên, mình đăng nhập cùng 1 mật khẩu apple ở cả 2 máy. Hôm qua, em mình lấy iphone 3gs và chụp vài tấm hình thì thấy ảh từ iphone lại xuất hiện ở iphone 4. Mình cũng mở iphone 3gs ra xem thì lại thấy ảnh từ iphone 4 cũng xuất hiện ở iphone 3gs. Mình có vào Cài đặt và tắt Kho ảnh, điện thoại báo nếu tắt kho ảnh sẽ xóa hình trên các thiết bị iphone nên mình không dám tắt. Do đó mình muốn hỏi làm sao để ảnh của 2 máy không chuyển qua nhau nữa. Mình xin cảm ơn trước!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.40668,
+         "id": "986534",
+         "field_search": "question",
+         "question": " Chào Shop, cho em hỏi bên mình còn bán iPhone 6 Plus 64Gb không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.387942,
+         "id": "822585",
+         "field_search": "question",
+         "question": " Chi nhánh tgdd ở hải phòng có nhận sử cáp laptop không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.378944,
+         "id": "880494",
+         "field_search": "question",
+         "question": " Ở mình có bạn sạc iphone 5 tự ngắt khi pin đầy không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.359916,
+         "id": "807051",
+         "field_search": "question",
+         "question": " cho mình hỏi bên tgdđ có bán iPhone 5 không ạ . sao mình thấy không còn kinh doanh nữa vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.336466,
+         "id": "1153278",
+         "field_search": "question",
+         "question": "cho mình hõi cáp sạc cũa iphone 4 có sài được cho ipad 3 không vậy. mình định mua để sài cho ipad 3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.32281,
+         "id": "785174",
+         "field_search": "question",
+         "question": "cho mình hỏi : khi mình đang sài iPhone 4 đang sài thì máy lag rồi mình tắt màn hình sau đó mình mở màn hình nhưng mở không được cắm sạc thì vẫn có tính hiệu còn bật màn hình thì không lên như vậy có phải hư đèn màn hình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.281802,
+         "id": "852830",
+         "field_search": "question",
+         "question": " Bên mình có mua lại iphone 4 16gb ko ? giá bao nhiêu thế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.245099,
+         "id": "1143782",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6, 6s bên cửa hàng còn có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.239952,
+         "id": "796157",
+         "field_search": "question",
+         "question": " Mình cần mua iphone 4s 8gb màu trắng ở HCM quận 4? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.228065,
+         "id": "1158463",
+         "field_search": "question",
+         "question": "Ad cho hỏi samsung s3fr mình mua ở tgdd đc 4 thÁng còn bảo hành k vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.216855,
+         "id": "905068",
+         "field_search": "question",
+         "question": "CHÀO AD !MINH MUỐN TRA THÔNG TIN MÁY IPAD MINI 2 CÒN THỜI GIAN BẢO HÀNH CÒN BAO LÂU QUA SỐ ĐT MUA HÀNG ĐƯỢC KHÔNG ?MÌNH XIN CÁM ƠN !HẢI HÀ TRẦN",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.196539,
+         "id": "1156170",
+         "field_search": "question",
+         "question": "cho em hỏi bên cửa hàng của mình còn bán thánh sim không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.169274,
+         "id": "990339",
+         "field_search": "question",
+         "question": " Cho em hỏi iPhone 6S quốc tế bên mình còn không anh giá bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.169274,
+         "id": "773019",
+         "field_search": "question",
+         "question": " Anh chị ơi cho em hỏi tí, bên mình có còn hàng iPhone không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.157237,
+         "id": "1137335",
+         "field_search": "question",
+         "question": "Ad cho e hỏi hiện tại máy xiaomi 8lite 6/128gb màu xanh ở bình dương huyện dầu tiếng còn hàng kh ạ. Với bên e mua online trả gớp trả trước 50%.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.156952,
+         "id": "790671",
+         "field_search": "question",
+         "question": " Mình muốn mua củ sạc iPhone, mà không thấy trong phần phụ kiệnCho mình hỏi giá của củ sạc iPhoneLà nhiêu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.156518,
+         "id": "770771",
+         "field_search": "question",
+         "question": "Cần giúp đỡ. Hiện mình đang xài đt iPhone 6s plus. Hôm nay lúc đt còn 7% pin. Mình cắm sạc vào sạc máy báo sạc, xong một hồi khoảng 4..5 tiếng sau mình xem lại máy, thấy máy báo pin vẫn 7%, xong mình thử reset lại máy thì thấy pin 100%, cho mình hỏi đây là lỗi gìThân!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.154026,
+         "id": "799481",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 5s nhưng trong 3 lần sạc đầu tiên vì lý do công việc mình không thể sạc đủ 8 tiếng vậy có ảnh hưởng gìì không? Và lần sạc thứ 4 này mình có thể sạc 8 tiếng đc ko? AD trả lời giúp mình với ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.125991,
+         "id": "1021063",
+         "field_search": "question",
+         "question": "AD cho mình hỏi mình muốn mua sạc dự phòng cũ thì địa chỉ nào của cửa hang còn hang, và còn những loại sản phẩm nào. mình ở khu vực THanh Xuan, Hai Bà Trưng, Hoàng Mai Hà Nội",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.12181,
+         "id": "755977",
+         "field_search": "question",
+         "question": " Qtv cho mìh hỏi hiện nay iPhone 4 của Apple còn sản xuất không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.053503,
+         "id": "1000725",
+         "field_search": "question",
+         "question": "Chào anhchị!Cho em hỏi Bên mình có Thay màn hình Redmi note 4 không ạ ,Em hiện tại Đang ở Cần Thơ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.978921,
+         "id": "1020359",
+         "field_search": "question",
+         "question": "Chào quản trị viên, QTV cho mình hỏi điện thoại Mobiistar Lai Zumbo J 2017 Rose Gold cũ,trên trang chủ có thông tin là còn 1 chiếc ở 735 Ngô Quyền, P.An Hải Bắc, Q.Sơn Trà, TP.Đà Nẵng. QTV kiểm tra giúp mình hiện tại còn hàng k ạ. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.954059,
+         "id": "1163083",
+         "field_search": "question",
+         "question": "Bên mình có dây sạc hay cap sạc điện thoại  xiaomi không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.9312725,
+         "id": "768560",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi dùng cục sạc của iPad Air sạc iPhone 6 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.896188,
+         "id": "839655",
+         "field_search": "question",
+         "question": "điện thoại iphone 4 của mình thấy đang ở phiên bản 6.1.2 mình muốn nâng cấp nên là 7.0 có được không? và làm cách nào? mình vào phần cập nhật phần mềm thì không cập nhật được, giúp m với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.864402,
+         "id": "820426",
+         "field_search": "question",
+         "question": " cho mình hỏi bên bản iphone 5s cũ có còn hàng không và có được trả góp không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.864177,
+         "id": "1157869",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi  bên bạn còn kinh doanh dòng apple iphone 6, 6 không ạ? Mình cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.862827,
+         "id": "855064",
+         "field_search": "question",
+         "question": "Tại sao ảnh facebook lại để avt của mình ở góc chứ lại không để ở giữa. Trước kia của mình ở giữa. Nhưng sau khi cập nhật lại ở góc trái. Đăng nhập nick khác thì nick đó lại avt ở giữa. Còn của mình thì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.859697,
+         "id": "791990",
+         "field_search": "question",
+         "question": "Mính có sạc điện thoại ip 4 bằng sạc của ipad e thì thấy ng ta bảo là sạc như thế dễ nổ máy nên lần sau đừng dùng sạc đó nữa !!! Lúc đó mình sạc ip đc Đến 49 % pin rồi ... Phiền thegioididong giải đáp giúp mình là nếu sạc ip 4 bằng sạc của ipad em có ảnh hưởng đến pin và có bị nổ máy không !??!?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.857142,
+         "id": "769886",
+         "field_search": "question",
+         "question": " Cho mình hỏi là máy Sony C4 của mình sạc đầy 100 rồi nhưng rút sạc ra là còn 99 là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.856583,
+         "id": "833811",
+         "field_search": "question",
+         "question": " máy tính em mua ở thế giới di động long hải màem đem lên dất đỏ sủa được hk ạ máy tính còn bảo hành. ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

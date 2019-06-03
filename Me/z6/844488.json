@@ -1,0 +1,809 @@
+{
+   "id_query": "844488",
+   "total": 30539,
+   "total_current": 100,
+   "max_score": 60.631214,
+   "origin_question": " Qtv cho em hỏi cài cái thời tiết ra màn hình chính oppo f1 plus như thế nào ạ??? ",
+   "hits": [
+      {
+         "score": 60.631214,
+         "id": "844488",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi cài cái thời tiết ra màn hình chính oppo f1 plus như thế nào ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.763752,
+         "id": "1023957",
+         "field_search": "question",
+         "question": "Oppo f3 cài thời tiết ra màn hình gióng Như ư thời gian lm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.622557,
+         "id": "1169194",
+         "field_search": "question",
+         "question": "Ad cho tôi hỏi làm thế nào để tắt mật khẩu màn hình khóa oppo f1 plus ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.786852,
+         "id": "835523",
+         "field_search": "question",
+         "question": "Xin cho hỏi cách cài đặt thời tiết cho màn hình khóa trên Obi SF1 như thế nào. Mình tìm hoài không thấy chèn nhiệt độ vào ra sao, chỉ thấy biểu thị thời gian và ngày tháng thôi. Cảm ơn nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.336386,
+         "id": "759248",
+         "field_search": "question",
+         "question": " Cho em hỏi muốn hiển thị nhiệt độ thời tiết bên ngoài trên màn hình chính của Sony z2 thì phải làm sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.70595,
+         "id": "1142637",
+         "field_search": "question",
+         "question": "Em đã cài mật khẩu cho máy oppo f1 nhưng khi mở khoá lại k hiện mật khẩu thì như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.36154,
+         "id": "779775",
+         "field_search": "question",
+         "question": " Cho em hỏi xóa nhật kí cuộc gọi trên Oppo F1 như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.251457,
+         "id": "1163782",
+         "field_search": "question",
+         "question": "e lỡ xóa cái ngày , giờ , thời tiết trên màn hình chính thì làm sao để có lại ạ , mấy dòng đt khác chỉ cần ấn giữ trên màn hình là nó hiện mấy cái ứng dụng tắt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.246449,
+         "id": "1153160",
+         "field_search": "question",
+         "question": "Cài phóng to chű trên điện thoại oppo F1 phải cài đặt như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.186895,
+         "id": "997882",
+         "field_search": "question",
+         "question": "Cho em hỏi cách tắt màn hình khóa oppo f1s như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.072344,
+         "id": "994019",
+         "field_search": "question",
+         "question": "Cho em hỏi em xài ip6s plus sao màn hình chính em k thấy pin và thời gian nữa v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.788258,
+         "id": "796911",
+         "field_search": "question",
+         "question": " cho e hỏi e đang dùng iphon6s làm thế nào để các ứng dụng trong phần cài đặt hiện ra màn hình chính đc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.51177,
+         "id": "999699",
+         "field_search": "question",
+         "question": "Cách cài đặt thời tiết ở màn hình điện thoại j5 brime",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.30338,
+         "id": "1000784",
+         "field_search": "question",
+         "question": "Em đang sài con oppo f1 , em có cài đặt màn hình khóa cho điện thoại , nhưng giờ em muốn hũy màn hình khóa đi thì nó không chi phép , anh hướng dẫn giúp em ạ như hình dưới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.176893,
+         "id": "1142335",
+         "field_search": "question",
+         "question": "Cho em hỏi cách hiện thời tiết trên màn hình của điện thoại Samsung j6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.028635,
+         "id": "837809",
+         "field_search": "question",
+         "question": "cho hỏi dt mình sau khi vào facebook messenger chữ khá nhỏ mà màn hình dt thoại chữ rất to vậy làm thế nào để khắc phục vậy bạn ? mình dùng con oppo F1 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.743507,
+         "id": "837812",
+         "field_search": "question",
+         "question": "Máy tính của mình khi sạc thì hiện ra thông báo như thế này, đồng thời cũng không nhận sạc. QTV cho mình hỏi khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.669266,
+         "id": "1142292",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ.  Tắt cái hình tròn trắng kia đi làm như thế nào ạ.  E dùng oppo neo 9 ạ.   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.523046,
+         "id": "1000948",
+         "field_search": "question",
+         "question": "Cho em hỏi.  Bên mình còn adapter cũ của oppo f1 plus k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.22575,
+         "id": "1000432",
+         "field_search": "question",
+         "question": "Mình muốn đưa đèn pin ra màn hình chính ở galaxy j5 2016 như trong hình thì phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.991915,
+         "id": "810033",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi là điện thoại oppo f1 có hỗ trợ gậy chụp ảnh không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.92972,
+         "id": "830487",
+         "field_search": "question",
+         "question": " Cách chuyển ứng dụng sang thẻ sd trên oppo f1 như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.590073,
+         "id": "1017802",
+         "field_search": "question",
+         "question": "cho em hỏi là e dùng máy oppo f1 plus, sau khi khôi phục cài đặt gốc, cài lại apps thì có messenger bị lỗi load không được, có cách nào khắc phục không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.51972,
+         "id": "844473",
+         "field_search": "question",
+         "question": " Cho mình hỏi hình mình tải trên Zalo về thì tùm ở đâu trên máy oppo f1 plus ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.447039,
+         "id": "1018434",
+         "field_search": "question",
+         "question": "Add ơi cho em hỏi itel s11 plus thấy đổi màn hình thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.415236,
+         "id": "849723",
+         "field_search": "question",
+         "question": "Ad cho e hỏi.e tai cái thời khóa biểu trên fb về máy ý,mà sao k xem đc ạ,vào xem thì n cứ ra cái như hình này ạ,thế là như nào ạ,ad giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.354523,
+         "id": "998496",
+         "field_search": "question",
+         "question": "Cho em hỏi là em dùng oppo f1w em lỡ xóa mất ch play bây h em muốn cài lại thì làm thế nào ạ xin hướng dẫn chi tiết cho em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.19604,
+         "id": "863457",
+         "field_search": "question",
+         "question": "Máy tính em đang dùng windows 8.1pro dùng được 1 thời gian không hiểu tại sao vào các app như: thời tiết, thể thao,..... khi vào lại bị tự đẩy ra ngoài không hiện ra cái gì cả... mong ad giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.97917,
+         "id": "788037",
+         "field_search": "question",
+         "question": "QTV cho em hỏi giấy bảo hành miến dán màn hình laptop của em bị mờ chữ hết giờ em muốn đi dán lại màn hình phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.889095,
+         "id": "882896",
+         "field_search": "question",
+         "question": " QTV cho em hỏi laptop của em bị lỗi nhòe màn hình AOE , cách khắc phục thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.76822,
+         "id": "1018897",
+         "field_search": "question",
+         "question": "Em muốn thay màn hình Oppo F1 thì hết bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.731173,
+         "id": "998056",
+         "field_search": "question",
+         "question": "Cách chụp màn hình điện thoại itel1516 plus như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.44756,
+         "id": "837273",
+         "field_search": "question",
+         "question": " cho mình hỏi bật tắt 3g của máy oppo f1 plus. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.352112,
+         "id": "1152795",
+         "field_search": "question",
+         "question": "Cho tôi hỏi cách điều chỉnh chế độ thời gian khóa màn hình ở máy huawei gr5 như thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.325167,
+         "id": "751185",
+         "field_search": "question",
+         "question": " Làm thế nào cài đặt đồng hồ hiển thị trên màn hình chính máy galaxy j7? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.308643,
+         "id": "835114",
+         "field_search": "question",
+         "question": " Adb ơi cho mình hỏi là điện thoại OPPO F1 mình vào đâu để cài đặt giới hạn thời gian cuộc gọi vậy.thang!!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.301098,
+         "id": "1020262",
+         "field_search": "question",
+         "question": "dt mình là oppo f1, k hiểu tại sao đang dùng bt lại tự nhiên đứng máy, màn hình đen 1 lúc rồi hiện màn hình chính lại bình thường. chỉ cần lướt lướt vài giây lại tiếp tục như v. Bị sao v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.167303,
+         "id": "1147377",
+         "field_search": "question",
+         "question": "Cho em hỏi cách chụp màn hình samsung j2 core như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.957775,
+         "id": "781591",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi mình có mua con iPhone 4 mà khi mình vô mục cài đặt -> cài đặt chung -> bàn phím thì không có gì với lại mình vô phần sử dụng thì nó bị văng ra màn hình chính?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.877535,
+         "id": "1141336",
+         "field_search": "question",
+         "question": "Chào ad, e đang xài Oppo neo 3 , dạo này app thời tiết của e cứ bị hiện sai ngày, bây giờ phải chỉnh như nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.865671,
+         "id": "777267",
+         "field_search": "question",
+         "question": " Anh ơi anh có thể kiểm tra chi tiết cho em máy này nguồn gốc xuất sứ và thời gian bảo hành như thế nào được không  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.834919,
+         "id": "1159268",
+         "field_search": "question",
+         "question": "cho em hỏi như thế này là như thế nào ạ?giải thích giúp em cái ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.819912,
+         "id": "1139186",
+         "field_search": "question",
+         "question": " Khoá màn hình điện thoại nhiều ô thì cài đặt như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.730396,
+         "id": "817779",
+         "field_search": "question",
+         "question": " cho em hỏi oppo f1 sao không chặn được cuộc gọi như các dòng máy oppo khác chẳn hạng như OPPO Mirror 5    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.686813,
+         "id": "1000832",
+         "field_search": "question",
+         "question": "Cách cài giới hạn thời lượng cuộc gọi cho j7 2017 như thế nào vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.65583,
+         "id": "877007",
+         "field_search": "question",
+         "question": " Máy em oppo f1 khi xem video tren fb không hiện video khác như hình.....  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.618193,
+         "id": "832739",
+         "field_search": "question",
+         "question": "Sao tôi cài đặt wp10 cho lumi630 facebook của tôi không đăng tải được hình ảnh. Không chia sẻ được hình ảnh của tôi được. Và tôi vào facebook hay bị kick ra khỏi màn hình chính. Qtv cho giải pháp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.577072,
+         "id": "1143046",
+         "field_search": "question",
+         "question": "Cho e hỏi ,e lỡ xóa biểu thời tiết trên màn hình chờ.E muốn nó hiển thị lại trên màn hình chờ thì phải làm sao ạ.Samsung galaxy a9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.489235,
+         "id": "773223",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại iPhone 4 vô camera 360 bị out ra màn hình chính là bị gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.469433,
+         "id": "1155155",
+         "field_search": "question",
+         "question": "Cho em hoi M20 có sung dung dk always on display ko ạ và làm để màn hình hiển thị ngày giờ và thời tiết giống j7pro ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.45689,
+         "id": "1143890",
+         "field_search": "question",
+         "question": "cho em hỏi ạ làm thế nào để cho biểu tượng gaem fi4 ra màn hình destop vậ ạlàm ơn giúp em với ạ >>>>................................................................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.337254,
+         "id": "1135773",
+         "field_search": "question",
+         "question": "em muốn thay màn hình j7 pro. làm thế nào để biết là màn hình chính hãng của samsung ạ. và giá bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.332697,
+         "id": "832826",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách thay đổi nhạc chuông zalo. Mình đang xài Oppo f1 plus ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.290266,
+         "id": "1138791",
+         "field_search": "question",
+         "question": " Iphone cũ 22 là như thế nào ?? Sản phẩm ra sao, chi tiết bảo hành, phụ kiênh ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.219233,
+         "id": "1014655",
+         "field_search": "question",
+         "question": "Em quên mẫu hình nên vào khôi phục cài đặt gốc vẫn phải mở mẫu hình ạ . Phải làm như thế nào ạ.  Em đang sử dụng oppo f1s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.217056,
+         "id": "780671",
+         "field_search": "question",
+         "question": "qtv cho mình hỏi mình có mua con ip4 32gb khi mình vô cài đặt chung phần sử dụng thì nó văng ra màn hình chính còn khi vào phần bàn phím thì nó k có gì cả qtv có thể giải thích hộ mình với chỉ cách fix với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.211786,
+         "id": "1004240",
+         "field_search": "question",
+         "question": "Cho tôi hỏi khi gọi bằng zalo hay nhận cuộc gọi trên zalo toàn nghe loa ngoài ai cũng nghe dc.tôi muốn nghe bằng loa trong thì phải cài đặt như thế nào?.tôi dùng oppo f1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.2039,
+         "id": "1004806",
+         "field_search": "question",
+         "question": "cho minh hoi minh muon thay pin của con oppo f1 thông qua thế giới di động thì như nào vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.196,
+         "id": "744413",
+         "field_search": "question",
+         "question": " Cài đặt nhạc chuông tự chọn cho oppo neo 7 như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.123072,
+         "id": "1022180",
+         "field_search": "question",
+         "question": "Xóa gõ rum màn hình thế nào máy oppo a33 Ai chỉ em với bực mình quá làm cái gì cũng khó",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.098528,
+         "id": "1141186",
+         "field_search": "question",
+         "question": "A ơi cho r hỏi. Cài mật khẩu cho oppo a37 như thế nào vậy ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.08549,
+         "id": "682618",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi có cái ứng dụng nào hiển thị đồng hồ khi màn hình tắt cho android ko ạ? (Để tiện dễ thấy hơn, tưa tựa như chức năng đồng hồ ban đêm của galaxy s6 edge)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.0596,
+         "id": "993399",
+         "field_search": "question",
+         "question": "em cài đặt màn hình full mãi mà lúc gọi vẫn như thế này ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.043877,
+         "id": "839029",
+         "field_search": "question",
+         "question": " Cho mình hỏi đt oppo F1 plus tải video về được lưu ở đâu vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.033804,
+         "id": "890704",
+         "field_search": "question",
+         "question": " Cách cài đặt tự động khoá màn hình trên IOS 10.0.1 như thế nào ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.022215,
+         "id": "838172",
+         "field_search": "question",
+         "question": " tôi bị bể màn hình máy oppo f1 có được bảo hành không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.972265,
+         "id": "1024428",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy của mình không biết bấm vào cái gì ra chế độ màn hình như thế này. Mình reset lại máy mà không dc .    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.962559,
+         "id": "1024309",
+         "field_search": "question",
+         "question": "Ad cho em  hỏi cách đổi màn hình khóa htc10 evo như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.946531,
+         "id": "1133963",
+         "field_search": "question",
+         "question": "Cách chia đôi màn hình oppo a37 là như thế nào ạ .s tìm mãi nhưng vẫn không thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.897833,
+         "id": "1152196",
+         "field_search": "question",
+         "question": "Anh,chi cho em hỏi htc one m8 của em vì sao máy ảnh chính bị đen màn hình và tự động thóat ra ,như ảnh nha anh,chi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.82764,
+         "id": "761357",
+         "field_search": "question",
+         "question": "Em mới mua cái laptop nhưng em không biết cài đặt game cho laptop như thế nào,vậy cho em hỏi thế giới di động có cài game cho laptop không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.825428,
+         "id": "1165109",
+         "field_search": "question",
+         "question": "Cho mình hỏi để tăng giảm âm lượng media trên oppo a39 khi ngoài màng hình chính mình làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.7728,
+         "id": "820077",
+         "field_search": "question",
+         "question": " Thay màn hình Oppo f1 vẫn còn bảo hành hết bao nhiêu tiền  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.748482,
+         "id": "1143940",
+         "field_search": "question",
+         "question": "Ad ơi cho hỏi iphone 5s chơi liên quân cứ bị văng ra màn hình chính vậy ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.72312,
+         "id": "1016863",
+         "field_search": "question",
+         "question": "Chị ơi cho em. Hỏi bây giờ  em muốn thay đổi hoặc xóa cử chỉ màn hình điện thoại oppo neo 9 thì phải làm như thế nào hả chị....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.68868,
+         "id": "993392",
+         "field_search": "question",
+         "question": " em cài đặt như sách rồi mà sao lúc gọi vẫn màn hình đen thế ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.6197,
+         "id": "769179",
+         "field_search": "question",
+         "question": " Làm sao để cài đồng hồ cho màn hình chính iPhone 4S ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.572216,
+         "id": "858379",
+         "field_search": "question",
+         "question": " Vỡ màn hình iphone sửa gía như thế nào ? Xin QTV vui lòng giải đáp giúp . Xin cám ơn nhiều ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.570675,
+         "id": "757745",
+         "field_search": "question",
+         "question": "Mình dùng iPhone 4S 9.2. Mình cài ảnh người gọi đến được thời gian đầu thì hiển thị full màn hình còn bây giờ chỉ hiển thị một ảnh nhỏ ở góc phải màn hình. Cho mình hỏi làm thế nào để cho full màn hình đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.55892,
+         "id": "783379",
+         "field_search": "question",
+         "question": " Cho em hỏi là máy của em đặt ảnh màn hình không được rõ, bây giờ phải chỉnh như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.558249,
+         "id": "873174",
+         "field_search": "question",
+         "question": "Cho em hỏi làm thế nào nhắn tin sms messenger miễn phí mà em k bít cài đặt như thế nào để nhắn tin miễn phí ở oppo neo 3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.549868,
+         "id": "994727",
+         "field_search": "question",
+         "question": "cho mình hỏi tí như trong hình mình đính kèm, bảo hành thế giới di động và bảo hành chính hãng khác nhau thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.530384,
+         "id": "1144033",
+         "field_search": "question",
+         "question": "em muốn mua ip 7 mà cho em hỏi thời gian pin như thế nào   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.523335,
+         "id": "1013641",
+         "field_search": "question",
+         "question": "Em đang sử dụng oppo f1s lúc em cài vân tay+ mẫu hình để mở khóa bây giờ em quên mẫu hình mở khóa.. vậy làm như thế nào để thay ạ ( vào cài đặt cũng phải mở lại mẫu hình cũ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.495857,
+         "id": "1162590",
+         "field_search": "question",
+         "question": "Cho hỏi thay màn hình s8 plus trước và sau chính hảng ở đâu, giá bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.48732,
+         "id": "1144979",
+         "field_search": "question",
+         "question": "làm sao để lấy lại dự báo thời tiết trên màn hình chờ của điện thoại samsung",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.442022,
+         "id": "997557",
+         "field_search": "question",
+         "question": "Chào bạn, - Mình dùng oppo F1 plus, cho mình hỏi cách chọn tất cả các ảnh cùng một lúc trong thư viện ảnh để xóa hoặc di chuyển cùng lúc cho nhanh được không ạ? hiện tại mình toàn chọn từng ảnh không à, thao tác này gây mất thời gian quá..hjc.  - Với lại cho mình hỏi O-Cloud của oppo F1 Plus sao không sao lưu hình ảnh được vậy ạ? hiện tại chỉ sao lưu danh bạ số điện thoại và tin nhắn SMS thôi. Xin cám ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.43642,
+         "id": "1155042",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp cho đt  OPPO F7 , thì điều kiện và chính sách bên mình như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.417904,
+         "id": "1166702",
+         "field_search": "question",
+         "question": "Cho e hỏi tắt sửa lỗi chính tả oppo a3 như nào ạ? E kiếm k thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.371315,
+         "id": "770725",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại FPT S550 có chụp màn hình được không ạ nếu được thì phải làm như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.35486,
+         "id": "1148487",
+         "field_search": "question",
+         "question": "cho mình hỏi tại sao oppo r829 của mình bị lỗi phần thời tiết không cập nhật được nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.33701,
+         "id": "996537",
+         "field_search": "question",
+         "question": "Tôi muốn đặt lại mật khẩu màn hình chính nhưng phần cài đặt đã bị vô hiệu hóa tôi phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.33701,
+         "id": "996535",
+         "field_search": "question",
+         "question": "Tôi muốn đặt lại mật khẩu màn hình chính, nhưng phần cài đặt đã bị vô hiệu hóa, tôi phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.332067,
+         "id": "1003238",
+         "field_search": "question",
+         "question": "cho hỏi cái cài hình nền động bằng video tren oppo a37",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.228132,
+         "id": "830568",
+         "field_search": "question",
+         "question": "Qtv ơi cái iPhone 4s của em cài mật khẩu khóa màn hình bị thằng bạn em mở nhiều lần giờ bật màn hình lên nó kêu iphone của bạn đã bị vô hiệu hóa giờ em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.19007,
+         "id": "1011908",
+         "field_search": "question",
+         "question": "Cho em hỏi oppo F1 có bản cập nhật phiên bản 6.0 chưa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.17232,
+         "id": "1023081",
+         "field_search": "question",
+         "question": "Cho em hỏi tí ạ , em vừa mua 1 cái oppo f3 cỡ 4 tháng vừa rồi em làm bể màn hình vậy bây giờ thay màn hình thì bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.096258,
+         "id": "1020902",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi ạ mình đag dùng j7 prime tự nhiên nút ứng dụng trong màn hình tự di chuyển ra. Bây giờ mình muốn cài lại phải làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.042326,
+         "id": "1134349",
+         "field_search": "question",
+         "question": "QTV cho e hỏi làm s để làm mất mấy dấu  trên màn hình điện thoại samsung j7 plus ạ. Cám ơn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.030163,
+         "id": "849951",
+         "field_search": "question",
+         "question": " Mình muốn đổi màu chữ ở màn hình khóa oppo F1thành màu đen thì làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

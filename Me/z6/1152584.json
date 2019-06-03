@@ -1,0 +1,809 @@
+{
+   "id_query": "1152584",
+   "total": 34008,
+   "total_current": 100,
+   "max_score": 64.91171,
+   "origin_question": "Cho em hỏi là em mới mua Nokia 8.1 sao chia đôi màn hình lại không được ạ?nó báo lỗi như dưới ảnh ạ ",
+   "hits": [
+      {
+         "score": 64.91171,
+         "id": "1152584",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mới mua Nokia 8.1 sao chia đôi màn hình lại không được ạ?nó báo lỗi như dưới ảnh ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.67116,
+         "id": "1160906",
+         "field_search": "question",
+         "question": "Cho e hỏi là e dùng ss note8  android9 sao lại k chia đôi màn hình với dùng đa cửa sổ được như note8 android8 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.75905,
+         "id": "879654",
+         "field_search": "question",
+         "question": "tại sao ipad ảir 2 của tôi chạy đa nhiệm chia đôi màn hình không đều nhau đc? không kéo qua cho đều màn hình đc như lúc mới mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.67398,
+         "id": "1133963",
+         "field_search": "question",
+         "question": "Cách chia đôi màn hình oppo a37 là như thế nào ạ .s tìm mãi nhưng vẫn không thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.67818,
+         "id": "1015275",
+         "field_search": "question",
+         "question": "Ad giúp em gấp với ,, điện thoại mobiistar b247 màn hình bị chia đôi ,,, làm sao em khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.40591,
+         "id": "909791",
+         "field_search": "question",
+         "question": " Em đang xài win 8.1 mà refresh lại không được,nó hiện rra thông báo này là sao ạ,cach khắc phục như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.941347,
+         "id": "998234",
+         "field_search": "question",
+         "question": "Ad oi, cho em hỏi, điện thoại của em bị nứt góc trái bên dưới. Em có thể dán lại màn hình được không ạ? Chỉ dán mà ko thay màn hình mới có ảnh hưởng gì đến cảm ứng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.732746,
+         "id": "999342",
+         "field_search": "question",
+         "question": "Cho e hỏi cách bật tính năng chia đôi màn hình trên a3 2016 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.356884,
+         "id": "1157820",
+         "field_search": "question",
+         "question": "Cho mình hỏi gửi lời mời kết bạn fb nó hiện lỗi như hình dưới là sao vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.340494,
+         "id": "1014951",
+         "field_search": "question",
+         "question": "Khi em chuyển hình ảnh qua thẻ nhớ thì nó báo lỗi là có sự cố khi chuyển file. Như vậy là sao ạ ? E dùng  j7 prime ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.151121,
+         "id": "751149",
+         "field_search": "question",
+         "question": " Chào anhchị, cho em hỏi laptop sony sao khi cập nhật win 8.1 lại bị lỗi màn hình xanh vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.542723,
+         "id": "797940",
+         "field_search": "question",
+         "question": "Cho em hỏi laptop em mới mua về có hiện một dấu hỏi màu xanh bên dưới màn hình. khi click vô thì hiện lên bảng như hình là sao vậy ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.52682,
+         "id": "796039",
+         "field_search": "question",
+         "question": "Cho em hỏi màn hình laptop của em bị chia làm 4 phần, có cách nào để màn hình trở lại bình thường được không ạ. Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.439413,
+         "id": "1157397",
+         "field_search": "question",
+         "question": "Em không biết do lỗi gìVào youtube xem được,nhưng nó không  hiển thị video mới bên dưới video đang xem.Chỉ hiển thị các bình luận dưới video đang xem thôi!Như hình bên dưới!Mong anh chị giúp em cho nó lại bình thường! Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.427147,
+         "id": "842435",
+         "field_search": "question",
+         "question": "Chào các anh cho em hỏi đt của em bị đơ như hình ảnh dưới khi màn hình khóa lại thì không làm sao mở đc và ko tắt đc tiện ích đi nó nằm lưng chừng màn hình ko thể thoát và tắt đi đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.075188,
+         "id": "783379",
+         "field_search": "question",
+         "question": " Cho em hỏi là máy của em đặt ảnh màn hình không được rõ, bây giờ phải chỉnh như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.987762,
+         "id": "1009274",
+         "field_search": "question",
+         "question": "cho em hỏi em mới mua máy cũ ở tgdd được 1 tuần ấn nút tăng âm lượng nó lại khóa màn hình với nhảy lung tung đó là lỗi của em hay của máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.841736,
+         "id": "765387",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy iPhone 5 của e chụp ảnh ở cemara 360 và chụp ảnh màn hình lại không được lưu vào thư viện ảnh. Khi lưu nó chỉ hiện save to album là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.840527,
+         "id": "997512",
+         "field_search": "question",
+         "question": "cho em hỏi máy samsung j5 pr của em đang chụp ảnh thì màn hình đơ và nó cứ sáng mãi như vậy, không khởi động lại đc như vậy là làm sao và cách sửa như thế nào ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.741106,
+         "id": "1010225",
+         "field_search": "question",
+         "question": " Tại sao nhạc việt em vẫn tải được còn nhạc nước ngoài em không tải được. Nó báo lỗi như vậy là sao ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.614422,
+         "id": "793226",
+         "field_search": "question",
+         "question": "Em mua iphone 5s lúc hè. Nhưng vừa mới đây nó lại bị kẻ sọc nửa phần màn hình dưới. Em không biết tại sao lại vậy. Thế giới di động lại xa nhà em. Em không đi sửa được. Tình trạng này em dùng hết tháng đến 26-3 nghỉ mới đi sửa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.614422,
+         "id": "793225",
+         "field_search": "question",
+         "question": "Em mua iphone 5s lúc hè. Nhưng vừa mới đây nó lại bị kẻ sọc nửa phần màn hình dưới. Em không biết tại sao lại vậy. Thế giới di động lại xa nhà em. Em không đi sửa được. Tình trạng này em dùng hết tháng đến 26-3 nghỉ mới đi sửa được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.460527,
+         "id": "1165697",
+         "field_search": "question",
+         "question": "anh chị có thể giúp tư vẫn giúp em được không? máy của em là htc one m8. mỗi lần vào mạng là nó lại auto tắt wifi và hiện lên màn hình như trong ảnh, anh chị có thể cho em biết lỗi này là lỗi gì và khắc phục nó ntn được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.44577,
+         "id": "1165693",
+         "field_search": "question",
+         "question": "anh chị có thể giúp tư vẫn giúp em được không? máy của em là htc one m8. mỗi lần vào mạng là nó lại auto tắt wifi và hiện lên màn hình như trong ảnh, anh chị có thể cho em biết lỗi này là lỗi gì và khắc phục nó ntn được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.221582,
+         "id": "1001949",
+         "field_search": "question",
+         "question": "Em đã tắt lớp phủ màn hình rồi mà sao nó vẫn báo là chưa tắt lớp phủ màn hình là sao ạ. Giờ em phải làm như thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.214846,
+         "id": "1004862",
+         "field_search": "question",
+         "question": "CHo em hỏi. Em dùng oppo F1s mới mua được 2 tháng. Nhưng gần 1 tuần nay nó hay tự khởi động lại.và đôi khi có vạch màu xanh chạy giữ màn hình sau đó 2 sim đều mất mạng và có mạng lại sau đó vài giây...lõi này là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.184982,
+         "id": "940542",
+         "field_search": "question",
+         "question": " tại sao ảnh chụp màn hình của máy em lại ko xóa được ạ,không có hình giỏ rác,,,máy em là ip5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.176556,
+         "id": "1144007",
+         "field_search": "question",
+         "question": "Có cách nào hạ android 8.1 về 7.0 trên điện thoại Nokia 3 được không ạ. Khôi phục về như lúc mới mua càng tốt ạ. Em cập nhật lên 8.1 nhưng lag với giật quá.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.1366,
+         "id": "1146585",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là nokia 3 update lên android 8.1 nhưng sử dụng facebook xong không tắt đc ứng dụng đang chạy. Kiểm tra giống hình dưới đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.992167,
+         "id": "1154605",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi ạ. Em mới lập thêm 1 nick instagram nhưng tại sao em đăng ảnh lên thì được nhưng caption thì lại bị mất vậy ạ? em vào edit post viết lại thì nó báo là không lưu được. Nick cũ em dùng thì không bị sao cả ạ. Em dùng máy samsung J5 prime 2016 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.966564,
+         "id": "838495",
+         "field_search": "question",
+         "question": " Em mới mua ip SE chưa được 1 tháng nhưng đôi khi vào google nó lại đứng phải thoát ra...phải làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.806177,
+         "id": "845702",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi là máy em chạy win 8.1 mua tại thegioididong em cài phần mềm shadow defen để đóng băng. Hôm qua em gỡ đóng băng khởi động máy lại thì thấy nó chạy rất nhanh khoảng 18 giây là vào được màn hình lock screen (từ lúc mua tới giờ là khoảng 1 phút hơn) sau khi nhập pass xong thì nó hiện đã khoá (tại em cài tiếng việt) em nhập lại pass rồi nó đứng khựng luôn ở màn hình welcome không thao tác gì được em phải tắt nóng bằng nút power khởi động lại thì bình thường. Vậy lỗi của em là sao ạ? có ảnh hưởng gì máy không? tại máy em cài nhiều chương trình phải mua nên không thể cài lại win được nên mong ad chỉ cho em cách fix ạ em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.794334,
+         "id": "997142",
+         "field_search": "question",
+         "question": "Màn hình oppo neo 5 phần dưới thanh thông báo thì đục còn phần thanh thông báo thì trong .cho e hỏi nguyên nhân tai sao nó lại bị như zay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.713493,
+         "id": "781108",
+         "field_search": "question",
+         "question": "Laptop dell của em đang cài win 8.1 có cạc màn hình 2gb, em có cài NVIDIA GeForce Experience mà sao không thể update driver được, mỗi lần download driver mới là không được, cho hỏi bị lỗi gì vậy, xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.682028,
+         "id": "1160985",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi tý nhé: khi em vào chia đôi màn hình xong và chạy 2 ứng dụng trên màn hình, nếu em nhấp vào ứng dụng trên thì ứng dụng dưới không chạy và sử dụng ứng dụng dưới thì ứng dụng trên dừng, như vậy cách khắc phục thế nào chỉ giúp em vơi. Em đang xài tap A6 spen. ( chọn ứng dụng nào thì ứng dụng đó chạy, còn không chọn thì không chạy). Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.643623,
+         "id": "758356",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi, mình mới mua Sony C5 ultra được 1 tuần, trong quá trình sử dụng mình cảm thấy cảm ứng của máy không nhạy lắm đôi khi phải chạm mạnh thì mới được và đôi khi màn hình bị đơ phải vuốt hay chạm vài lần. Như vậy có phải là máy có vấn đề về lỗi kỹ thuật không hay đó là lỗi chung của dòng máy này ạ. thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.63319,
+         "id": "1135440",
+         "field_search": "question",
+         "question": " cho em hỏi như này là bị sao ạ? em tải file apk về rồi cài nhưng nó cứ báo lỗi. mấy lần rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.502287,
+         "id": "1160633",
+         "field_search": "question",
+         "question": "dạ anh/ chị cho em hỏi thăm 1 chút ạ ?  cuối tháng 2.em có mua htc u12lite. tới 25/3 do bị lỗi tự động tắt nguồn và lỗi mã khóa . em đã được đổi máy mới.   mà hôm nay 14/4 máy htc lại bị lỗi như cũ. bây giờ em có thể đổi sang nokia 8.1 mà k bị tốn phí k ạ. em trả góp bên hc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.471394,
+         "id": "994036",
+         "field_search": "question",
+         "question": " dạ cho em hỏi màn hình của em như bị như này thì làm sao để quay trở lại màn hình desktop như bình thường được ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.454266,
+         "id": "999130",
+         "field_search": "question",
+         "question": "máy tính em thi thoảng nó lại hiện giống ảnh bên dưới anh chị sửa lỗi này giúp em đc ko ạ, em cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.34463,
+         "id": "1001762",
+         "field_search": "question",
+         "question": "E mới mua j7 prime được 4 tháng. Mà màn hình nó bị chấm trắng. Lỗi màn hình. Thì bảo hành sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.33614,
+         "id": "1165683",
+         "field_search": "question",
+         "question": "Em dùng Asus Max ProM2. Hôm nay em mở khoá màn hình không được, nó không báo bị lỗi gì. Xong vào để tắt mở khoá thì nó báo 'Cài Đặt Đã Dừng'. Help, em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.28478,
+         "id": "1001442",
+         "field_search": "question",
+         "question": "Em xài cái wikở bloom ạ. Sao nó bị lỗi tải về a ạ. Hình ảnh, video, Zing MP3 đều tải báo lỗi a ạ. E phải làm sao a?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.269537,
+         "id": "1135219",
+         "field_search": "question",
+         "question": "Làm sao để chia đôi mành hình trên điện thoại vivo y71 vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.229483,
+         "id": "899580",
+         "field_search": "question",
+         "question": "Cho em hỏi máy  ấn mãi màn hình vẫn không lên được cứ tối om gọi điện thì nó vẫn lên màn hình. Để một lúc nó mới lên là do bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.220673,
+         "id": "912265",
+         "field_search": "question",
+         "question": "cho em hỏi là mua laptop về em phải tự cài word exel các thứ hay sao ạ và màn hình laptop cua em có chữ activate windows ở góc dưới bên phải mà hình là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.219963,
+         "id": "999104",
+         "field_search": "question",
+         "question": "Xin cho hỏi mình mới mua Nokia 230 tháng trước, vì lý do nào đó màn hình bị lỗi như thế này, không biết có được hỗ trợ bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.208239,
+         "id": "1153690",
+         "field_search": "question",
+         "question": "cho em hỏi em mới mua laptop dell inspiron 3567 i3 win 10. nhưng sài được tầm 2 tháng thì nó báo là '' Your windows license will be expired ạ. vậy lúc mua thì em phải được cài win 10 bản quyền chớ ạ. sao giờ nó lại báo hết hạn ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.166946,
+         "id": "999710",
+         "field_search": "question",
+         "question": "Cho em hỏi đt em là j7 prime mới mua đc 5 tháng mà sao vào mấy cái ứng dụng nó bắt cài đặt lớp phủ màn hình là sao. Rùi còn ảnh thì nó tự lưu luôn ko bít sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.150665,
+         "id": "1163514",
+         "field_search": "question",
+         "question": "Realme 3 chia đôi màn hình được không. Khi chơi liên quân bao nhiêu tiếng thì máy sẽ nóng lên.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.150122,
+         "id": "1008459",
+         "field_search": "question",
+         "question": " điện thoại LG L60 mới khôi phục gốc lại giờ đăng nhập google nó báo như hình dưới  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.14212,
+         "id": "1153542",
+         "field_search": "question",
+         "question": "Máy của mình Samsung A8 bị lỗi ấn vào ảnh rồi chia sẻ thì nó báo lỗi Android bị ngừng hoạt động...Có cách khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.068975,
+         "id": "1165372",
+         "field_search": "question",
+         "question": "Làm sao sử dụng chia đôi màn hình ở điện thoại j4 mới cập nhật phần mềm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.064844,
+         "id": "1166045",
+         "field_search": "question",
+         "question": "Xin chào ạ!  cho em hỏi làm thế nào để chia màn hình trên vivoY91C ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.940397,
+         "id": "1020553",
+         "field_search": "question",
+         "question": "Em sài điện thoại oppo f3 mới mua dk mấy tháng mà máy đôi lúc chụp hình có có một ảnh nào được lưu lại.  Cộng xóa hình cũng k được.  Pai tat nguồn mở lên mới chụp va xóa được. Máy bị hoài àh. Đôi lúc e bực mình lắm.  Cho e hỏi máy e rốt cuộc la bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.900253,
+         "id": "1000784",
+         "field_search": "question",
+         "question": "Em đang sài con oppo f1 , em có cài đặt màn hình khóa cho điện thoại , nhưng giờ em muốn hũy màn hình khóa đi thì nó không chi phép , anh hướng dẫn giúp em ạ như hình dưới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.857763,
+         "id": "1154422",
+         "field_search": "question",
+         "question": "Cách mở chế độ chia đôi màn hình trên Note8 chạy Android 9 ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.850954,
+         "id": "1009834",
+         "field_search": "question",
+         "question": "Cho em hỏi, điện thoại em đang dùng là Lenovo A7010. Hiện tại máy em không thể download bất kỳ file gì cả trên web lẫn trên mail. Em chụp ảnh (máy ảnh và chụp màn hình) cũng không lưu được. Vậy cho em hỏi máy em bị lỗi gì và sửa như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.840567,
+         "id": "1157165",
+         "field_search": "question",
+         "question": "Huawei Y3 2017 bị lỗi không lưu được ảnh chụp màn hình và không chụp được ảnh ở camera thường là bị làm sao vật ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.768036,
+         "id": "767543",
+         "field_search": "question",
+         "question": "Anh ơi . Em đang xài ip3gs . Máy chạy cũng tốt ạ mà lâu lâu vào appstore nó tìm mà chả hiện gì hết ạ đợi lâu cũng z ạChụp ảnh lại thì nó không như màn hình nó hiện cái này trong kho ảnh Nên em không gửi kềm được ạ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.735537,
+         "id": "1158252",
+         "field_search": "question",
+         "question": "Em đang dùng nokia 8, android 9, em có thể về lại 8.1 được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.696192,
+         "id": "1022502",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy oppo a37 em mua ở thế giới di động mới được tháng mà đã bị nhòe màu. Giờ em đưa lên bảo hành có mất chi phí không ạ. Nếu bị hỏng màn hình do lỗi nhà sản xuất gây ra có thay màn hình mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.578924,
+         "id": "918678",
+         "field_search": "question",
+         "question": "Em dùng iphone 5s, gần đây mỗi lần vào thư viện nhấp vào xem ảnh, video thì nó lại hiện lên dấu \"!\" phía dưới góc phải? Cho em hỏi là bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.57036,
+         "id": "876900",
+         "field_search": "question",
+         "question": "cho e hỏi là khi e bật voiceover của iphone 5 lên mà màn hình bị tối đen không hiện lên thì phải làm sao ạ. chụp ảnh màn hình vẫn kêu. người gọi đến nhạc chuông vẫn có nhưng tại sao màn hình lại không sáng. mà từ khi e bật voiceover lên thì màn hình mới thế ạ. xin cho e  biết là tại sao lại như vậy và cách khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.566042,
+         "id": "1023092",
+         "field_search": "question",
+         "question": "cho em hỏi oppo R830k lâu lâu không chụp được ảnh không lưu được ảnh là lỗi gì ạ. giúp em khắc phục được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.492395,
+         "id": "1152535",
+         "field_search": "question",
+         "question": "Em mới mua Nokia 5.1 plus nhưng về dùng thì lại thường bị đơ cảm ứng. Mà khi tắt màn hình rồi mở lại là dùng bình thường. Cho em hỏi đây là hiện tượng gì vậy? Em mua chưa đầy 30 ngày thì trong trường hợp này em có được đổi lại máy mới hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.465517,
+         "id": "1159078",
+         "field_search": "question",
+         "question": "OPPO F9 em mới mua được khoảng 1 tháng rưỡi nhưng sao hôm nay Khi mở máy lên rồi vào Zalo thì tin nhắn mới hiện lên chứ nó khoonv thông báo ở ngoài màn hình chính hay thành thông báo, cho Em hỏi máy có bị gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.458538,
+         "id": "1159714",
+         "field_search": "question",
+         "question": "Cho em xin hỏi em xài oppo f1s , sao album ảnh của em bị gì như ảnh em chụp màn hình .  Giải đáp giúp em với .  em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.454998,
+         "id": "768552",
+         "field_search": "question",
+         "question": "Cái iPhone của em nó bị hư màn hình, vậy mình sửa màn hình rồi nó có bị mất hình ảnh hay số điện thoại không vậy ad.. Với lại cho em hỏi giá là bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.442215,
+         "id": "1143880",
+         "field_search": "question",
+         "question": "SS A7 2016 của mình bị 2 lỗi.1 là khi mở chụp ảnh thì máy bị rung cam rất lâu sau mới chụp ảnh dc.2 là màn hình khi chuyển về độ sáng thấp lại nhấp nháy liên tục xong có vệt xanh chia cắt màn hình.Vậy là bị sao hả ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.394926,
+         "id": "763868",
+         "field_search": "question",
+         "question": "Cho mình hỏi iPhone 6s cua mình đang chạy ios 9.1 khi ấn nút khóa màn hinh có lúc bị chớp màn hình 2 lần. bình thường chỉ cần ấn 1 cái là màn hình tắt luôn. giờ ấn khóa nó lại hiện thêm 1 lần nữa mới tắt màn hình. kiểu dạng như chụp ảnh màn hình vậy. cho e hoie là như thế là bị làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.373117,
+         "id": "1016516",
+         "field_search": "question",
+         "question": "em mới mua samsung j7 pro đc 1 tháng mà điện thoại hình như đi mưa bị nước vô làm màn hình không cảm ứng được dù màn hình vẫn sáng bth . mai em đem lên bảo hành được không ạ . em mua ở dưới chi nhánh thanh khê đà nẵng nhưng em lên bảo hành ở chi nhánh liên chiểu đà nẵng được kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.334635,
+         "id": "754406",
+         "field_search": "question",
+         "question": " Quản trị viên cho em hỏi, máy báo lỗi như thế này là bị sao vậy ạ ?    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.301207,
+         "id": "882679",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao laptop hp của em lại có 2 pin như hình ạ. Đó là lỗi hay gì? Nếu k lỗi thì chức năg của pin 1 là gì? Sao lại k khả dụg? Bật tắt nó ở đâu ạ? Còn lỗi thì khắc phục làm sao? Em Mong có câu trả lời sớm !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.253017,
+         "id": "828714",
+         "field_search": "question",
+         "question": " Em đang xài lumia 435 em không biết sao dạo này em vào Facebook không được vậy. Nó cứ như hình bên dưới    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.194513,
+         "id": "751391",
+         "field_search": "question",
+         "question": "Em mua iphone 6s plus mới được hơn 1 tháng. Mà giờ đang quay video tự nhiên bị sập màn hình. Bao nhiêu lâu nó mới khởi động lại. Sau đó vào quay video hay chụp ảnh màn hình đều đen xì. Và vào album xem lại các video cũ. Màn hình vẫn đen chỉ có tiếng thui. Lỗi đây la do nhà sx rồi. Em có được đổi máy mới không. Hay là lại chỉ mang đi bảo hành thôi?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.17458,
+         "id": "1003316",
+         "field_search": "question",
+         "question": "Samsung j2 prime có hỗ trợ tính năng chia đôi màn hình chạy 2 app không mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.1159,
+         "id": "742041",
+         "field_search": "question",
+         "question": "Em dùng iphone 5s gold, ad cho em hỏi tại sao khi chia sẻ ảnh, bài đăng  lại không xuất hiện lên từ IOS ạ, phải làm sao mới xuất hiện đc lên từ IOS ad giúp em với Tks ad ah!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.11071,
+         "id": "755014",
+         "field_search": "question",
+         "question": "Cho em hỏi là, khoảng 1 năm trước em có mua laptop tại Thegioididong, khi mua thì đã đượcc cài win 8.1 bản quyền Home single language, sau rồi em nâng cấp lên win 10 bản quyền tương tự, nhưng sau thời gian sử dụng em thấy hình như win 10 của em bị lỗi thì phải, cho em hỏi là giờ em mà cài lại win 10 hay là quay về win 8.1 thì có mất bản quyền không ạ, em xin cảm ơn nhiều ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.077946,
+         "id": "1144055",
+         "field_search": "question",
+         "question": "Cho em hỏi Tại sao điện thoại huawei y7 pro mới mua được 6 tháng nhưnh bây giờ sử dụng nó lại bị nhấp  nháy màn hình có sọc đen liên tục. Như vậy có ảnh hưởng gì đến máy không.Mong anh chị giúp em cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.074516,
+         "id": "997548",
+         "field_search": "question",
+         "question": "Ad cho mk hỏi là sao mk dùng đt asus zenphone 3 max 5.5 đã được cập nhận lên adroid 7.1 mà lại ko có chúc năng chia đôi màn hình ạ, mk đã thử các cacsh trên mạng và đã ko thành công. Chân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.06225,
+         "id": "1134238",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi. Điện thoại Nokia 5.1 Plus khi mình gọi điện thì màn hình nó bị đen hết không nhìn thấy gì, sau một khoảng thời gian thì nó sẽ sáng lại. Vậy đây là lỗi cài đặt hay là lỗi nhà sản xuất ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.037483,
+         "id": "1167738",
+         "field_search": "question",
+         "question": "Cho mình hỏi là màn hình nokia 8.1 bây giờ thay hết bo nhiu, thay trong bao lâu, điện thoại mình mới mua đc hơn 3 tháng có đc bảo hành không, cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.020996,
+         "id": "766882",
+         "field_search": "question",
+         "question": "Cho em hỏi khi sử dụng Windows 8.1 vì không biết đó là gì nên e đã phần mềm có tên viết tắt là RE nhưng trong thời gian sử dụng tiếp thì vẫn không sao.Đến khi e cài đặt lại Windows 10 thì e vào game Liên minh huyền thoại nhưng máy báo lỗi là chưa cập nhật card màn hình mà card màn hình là phần mà e đã xóa từ khi sử dụng win 8.1 mà phần mềm đó e download lại thì lại bắt buộc mua bản quyền trong khi em đã mua bản quyền rồi. Vậy bây giờ em lại trung tâm thì có khắc phục lỗi này được không????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.93005,
+         "id": "780164",
+         "field_search": "question",
+         "question": "AD cho em hỏi..tại sao máy tính e hay bị mất wifi không như hình không kết nối wifi được..có phải bị lỗi gì hay là hư card mạng wifi không..đôi lúc máy hiện lên thanh wifi.đôi lúc lại mất thanh wifi như hình..nên em toàn dùng cáp chứ ko bắt wifi được..nhờ AD giúp giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.865194,
+         "id": "1156464",
+         "field_search": "question",
+         "question": "máy e ss m20 nó bị như này e sạc máy nó đến 30-40% là nó đưng k vào pin nũa. e phải dến mở màn hình mới vào pin lại dc ạ cho e hỏi lỗi máy hay bị s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.846886,
+         "id": "1011512",
+         "field_search": "question",
+         "question": "cho em hỏi có laptop nào tầm giá dưới 17tr màn hình 15 chơi được dota2 max setting không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.838903,
+         "id": "1143330",
+         "field_search": "question",
+         "question": "Cho tôi hỏi làm sao để xoá được ảnh được chia sẻ trong messenger. Ảnh từ lâu rồi ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.833706,
+         "id": "1154693",
+         "field_search": "question",
+         "question": "ad cho e hỏi. E mới mua đt oppo A3s tại TGDD. Khi e tắt màn hình máy đi, nhưng được 1 lúc, nó lại sáng. cứ tuần hoàn như vậy. Tắt lại sáng. ad cho e hỏi nó bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.78268,
+         "id": "840478",
+         "field_search": "question",
+         "question": "Admin cho em hỏi em đăng bài viết lên facebook mà chỉ được một lúc sau nó lại báo là bài viết không khả dụng là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.764528,
+         "id": "1168537",
+         "field_search": "question",
+         "question": "Cho em hỏi: xem được họ đăng hình nhưng vô mục ảnh của zalo đó lại không thấy hình ảnh. Như vậy có phải là em bị người ta chặn xem nhật kí không? Nếu như là vậy thì khi họ chặn nhật kí với lại chặn tin nhắn thì khi em đăng 1 stt hay hình ảnh gì đó lên trang zalo của mình thì người ta có nhận đc thông báo+ xem được nhật kí của em không ạ. E xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.730703,
+         "id": "1134239",
+         "field_search": "question",
+         "question": "Tôi đang dùng Nokia 5.1Plus trong hôm nay tôi thấy có một lỗi là khi mình gọi màn hình nó đen hết không nhìn thấy gì cả, sau một khoảng thời gian tầm 30s có khi đến hơn phút thì tôi mới thấy màn hình nó sáng lại, vậy cho tôi hỏi cách khắc phục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.716139,
+         "id": "1161658",
+         "field_search": "question",
+         "question": "Cho em hỏi là em vào đc face mà khi vào mess thì nó báo lỗi thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.710161,
+         "id": "865323",
+         "field_search": "question",
+         "question": " máy em cùi, như hình dưới. nâng cấp lên win 78 được không. nếu được cho em link cả hai ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.70598,
+         "id": "771256",
+         "field_search": "question",
+         "question": "Tại sao Oppo Neo 7 khi mở máy lên lại hiện Menu chứ không phải là màn hình chính như các máy khác, tại sao? Có phải là nó bị lỗi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.6987,
+         "id": "1140597",
+         "field_search": "question",
+         "question": "cho em hỏi là em dùng nokia lau lâu thì nó đứng và thông báo \"giao diện người dùng là sao ạ'' em phải làm thế nào để khác phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.68981,
+         "id": "1134467",
+         "field_search": "question",
+         "question": "cho e hỏi, em mua điện thoại nokia 3 ở cửa hàng TGDĐ, em làm rơi điện thoại hư màn hình cảm ứng. Vậy bên mình có thay màn hình ko ạ, nếu có cho em xin giá thay màn hình là  nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.659306,
+         "id": "832739",
+         "field_search": "question",
+         "question": "Sao tôi cài đặt wp10 cho lumi630 facebook của tôi không đăng tải được hình ảnh. Không chia sẻ được hình ảnh của tôi được. Và tôi vào facebook hay bị kick ra khỏi màn hình chính. Qtv cho giải pháp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.648249,
+         "id": "768091",
+         "field_search": "question",
+         "question": "Cho em hỏi là laptop em mới mua nhưng tại sao ổ đĩa DVD  ..lúc mình bỏ đĩa vào nó lên hình nhưng không có tiếng là sao ạ..giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.618149,
+         "id": "1020885",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ.em mới mua j7prime chưa được 1 tháng.man hình có chấm trắng là bị làm sao ạ cách khắc phục như nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

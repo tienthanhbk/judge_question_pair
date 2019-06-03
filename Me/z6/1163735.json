@@ -1,0 +1,809 @@
+{
+   "id_query": "1163735",
+   "total": 32998,
+   "total_current": 100,
+   "max_score": 84.11818,
+   "origin_question": "Cho em hỏi tại sao điện thoại coolpad n5 lại nóng lên ở phần màn hình tai thỏ khi sử dụng và sạc pin mặc dù mới mua",
+   "hits": [
+      {
+         "score": 84.11818,
+         "id": "1163735",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại coolpad n5 lại nóng lên ở phần màn hình tai thỏ khi sử dụng và sạc pin mặc dù mới mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.557629,
+         "id": "767399",
+         "field_search": "question",
+         "question": "Cho mình hỏi : iPhone 4 khi sử dụng rất nóng ( mà nóng hơn trước nhiều và mau tuột pin ) khi sạc thì lên được khoảng 30% nhưng điện thoại rất nóng . điện thoại bị hư gì ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.676353,
+         "id": "1009675",
+         "field_search": "question",
+         "question": "Cho mình hỏi, điện thoại mình là samsung j5 , khi sạc pin ,cục sạc và điện thoại chạm tay vào ko thấy nóng, khi áp mặt vào cục sạc và điện thoại thì nóng thường thì khi sạc trưa chiều bị nóng, cho hỏi có sao không, phần mềm batterry doctor nói điện thoại nóng có thể làm hỏng pin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.972178,
+         "id": "778154",
+         "field_search": "question",
+         "question": "Em đang dùng điện thoại iPhone 5S mà cả ngày em không sử dụng nó mà tại sao nó lại hết pin vậy ạ, mặc dù đã sạc đủ 100% mà nó tự động hao pin đến cúp nguồn luôn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.893887,
+         "id": "754288",
+         "field_search": "question",
+         "question": " Cho mình hỏi tại sao khi sạc pin, màn hình máy tính vẫn hiện vào điện nhưng trên thân máy lại không sáng phần sạc pin? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.606976,
+         "id": "1160268",
+         "field_search": "question",
+         "question": "Đt A50 của e sao khi sạc máy và sạc đều nóng vậy  báo pin yếu mới sạc và khi sạc thi không sử dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.410229,
+         "id": "1137169",
+         "field_search": "question",
+         "question": "Cho em hỏi. Điện thoại sony xa1 plus em vừa mua tầm 2tháng ,khi sạc pin lúc này điện thoại và cốc sạc lại nóng lên rất nhiều. Đây có phải là do lỗi gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.752306,
+         "id": "871469",
+         "field_search": "question",
+         "question": "QTV cho em hỏi là máy tính em là dell win 10, mới cài win 10 xong thì ngày hôm sau máy nóng, mặc dù đã tắt máy nhưng pin thì cứ hết mặc dù đã sạc đầy. Hiện giờ thì máy không còn nóng như lúc mới cài win 10, em đã thử sử dụng máy mà ko gắn pin, dùng xong tắt máy thì ko vấn đề gì. Khi gắn pin đã sạc đầy vào sử dụng song song với nguồn điện thì cũng ko vấn đề gì. Nhưng khi tắt máy xong để qua 1 đêm thì sáng hôm sau mở máy lên thì máy hết pin... Máy tính em bị vấn đề gì vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.400602,
+         "id": "1160522",
+         "field_search": "question",
+         "question": "Anh,chị cho em hỏi ạ .Em mới mua 1 điện thoại Oppo A7 tại điện máy xanh.Nhưng sau khi sử dụng em thấy pin nhanh hết và nhanh nóng máy.giờ em có thể đổi qua hãng điện thoại khác được không ạ ?? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.39334,
+         "id": "1011363",
+         "field_search": "question",
+         "question": "Em mới mua huawei Y5 2017 chưa được 2 ngày, tại sao pin tụt rất nhanh ngay cả khi tắt màn hình mặc dù em đã tắt hết wifi 3G và cho độ sáng về thấp nhất, còn khi sạc thì rất lâu, gấp đôi thời gian sạc cho loại pin 2400mAh mà vẫn chưa đầy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.388794,
+         "id": "1142412",
+         "field_search": "question",
+         "question": "Tại sao oppo neo 7 của em đang xài thì bị tối đen màn hình,bấm nút nguồn thì không lên, hiện màn hình tím,nút home thì nóng lên dù không sử dụng vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.159426,
+         "id": "1015189",
+         "field_search": "question",
+         "question": "Điện thoại android của em nó hiện ở thanh pin là đang sạc pin mặc dù em không làm, vào xem pin thì nó bảo đang sạc usb là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.087774,
+         "id": "1005236",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại LG G2 Docomo cắm sạc vào điện thoại để sạc pin thì màn hình điện thoại hiện lên pin chứ ko hiện lên màn hình chính thì phải làm sao ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.019638,
+         "id": "820167",
+         "field_search": "question",
+         "question": "Em xài IPhone 4 gần được 1 năm, gần đây điện thoại bị hiện tượng nóng lên khi xài và khi sạc. Sạc khoảng 3-4 tiếng, hết Pin rất nhanh. Khóa màn hình mà Pin vẫn cứ hết dần, không biết là do Pin hay do phần mềm vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.461714,
+         "id": "1165097",
+         "field_search": "question",
+         "question": "cho em hỏi là khi tin nhắn messenger đến mà tại sao màn hình không mở lên ạ mặc dù em đã mở hiển thị thông báo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.261898,
+         "id": "1134856",
+         "field_search": "question",
+         "question": "anh chị ơi giúp em với hiện tại em đang sử dụng oppo a3s và mới mua được 2 tháng và nếu hiện tại em sạc đầy 100 % pin trước khi đi ngủ và khi dậy chỉ còn 48 % thì máy của em đang bị làm sao ạ , và dù cho em không sử dụng máy thì vẫn hết pin ạ dưới đây là ảnh chụp màn hình về tiêu thụ điện năng máy của em ạ ac xem giúp em sửa máy với ạ em cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.950867,
+         "id": "1024311",
+         "field_search": "question",
+         "question": "Cho mk hỏi tại sao điện thoại mk sau khi cập nhật pm lên android 7.0 sài được thời gian thì điện thoại luôn bị chậm,mọi thao tác đều chậm mặc dù không có nóng máy,mk sài sony xa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.834501,
+         "id": "1166426",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao oppo A3s của em mới mua có 6 tháng mà sao hôm nay mở nguồn không lên mặc dù không rớt hay dính nước và cũng không hết pin luôn ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.726208,
+         "id": "1008684",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi là em đang sử dụng điện thoại Sony XA Ultra. Mọi người vẫn bình thường nhưng hôm nay gọi điện và đưa điện thoại lên tai thì màn hình không tắt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.701344,
+         "id": "747915",
+         "field_search": "question",
+         "question": "Tôi mới mua sony m5 được 2 tháng này. Nhưng sao hay bị sập nguồn mà fai cắm sạc mới bật lại được. Mặc dù pin còn rất nhiều. Hỏi tại sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.478296,
+         "id": "1013178",
+         "field_search": "question",
+         "question": "cho em hỏi sao điện thoại samsung J7 pro của em khi pin còn khoảng 20 đem sạc thì máy bắt đầu nóng lên ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.299767,
+         "id": "1145067",
+         "field_search": "question",
+         "question": "Mình muốn mua điện thoại tầm giá khoảng 5 triệu có: ram 3GB, camera sau kép, màn hình trên 5,7 inch, pin trên 3000mAh và không có tai thỏ (cả giọt nước luôn .-.).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.192307,
+         "id": "1146649",
+         "field_search": "question",
+         "question": "Em mua iphone 7 plus tại tgdd đến nay được khoảng 1 tháng. Chỉ nghe gọi , xem youtube, cam kết khi sạc không sử dụng và sử dụng sạc đi kèm máy. Nhưng máy đã chai pin 2%. Khi sạc pin em cảm thấy pin lên rất nhanh , khoảng 2-3 phút >1% vậy cho em hỏi là sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.178854,
+         "id": "1006609",
+         "field_search": "question",
+         "question": " tai sao khi sạc pin sạc du phong esaver dụng củ sạc apple chính hãng thì củ sạc rất nóng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.153494,
+         "id": "1020460",
+         "field_search": "question",
+         "question": "Điện thoại tôi mặc dù không cắm tai nghe nhưng phần âm thanh media lại tự động chuyển thành âm lượng khi cắm tai nghe, xin hỏi cách khắc phục??? Samsung GalaxyA5 (2016)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.110922,
+         "id": "1013097",
+         "field_search": "question",
+         "question": "Sony xperia c3 d2502 bị hao pin rất nhanh khi khóa màn hình, nhưng khi dùng thì hao pin lại chậm, hầu như không tốn nhiều pin, dùng được lâu. Làm sao để sửa lỗi hao pin khi tắt màn hình dù không làm gì, tại sao khi sử dụng lại tốn ít pin hơn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.950804,
+         "id": "895733",
+         "field_search": "question",
+         "question": "em xài 6+ cục sạc và dây sạc của máy luôn mà sao khi sạc máy không nóng mà cục sạc rất nóng ạ mà pin vô chậm hơn là e sử dụng cục sạc ipad để sạc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.915981,
+         "id": "815477",
+         "field_search": "question",
+         "question": " Iphone 4s không hiển thị màn hình mặc dù pin đã sạc đầy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.696066,
+         "id": "1019079",
+         "field_search": "question",
+         "question": "Ad cho e hỏi,e mới mua s8 mới sax pin lần này lần 3,mà sao mỗi lần  ắm sạc vào màn hình bị nóng,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.616335,
+         "id": "822555",
+         "field_search": "question",
+         "question": " Tại sao khi sạc pin trên galaxy j7 thì lại nóng máy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.532074,
+         "id": "587305",
+         "field_search": "question",
+         "question": "Tại sao mình lại không nhận được cuộc gọi zalo khi tắt màn hình mặc dù mình đã vào mục tiết kiệm pin và bật chế độ ON. Chỉ mình cách khắc phục với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.512327,
+         "id": "1011000",
+         "field_search": "question",
+         "question": "Tại sao khi gọi video điện thoại lại tự tắt màn hình và bấm nút nguồn lại ko lên hình máy của em là asus max",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.394503,
+         "id": "1021372",
+         "field_search": "question",
+         "question": "Tôi mới mua điện thoại Nokia 5 tại TGDĐ tại TP. Bắc Giang. Khi sạc có hiện tượng cục sạc nóng bỏng tay. Vì mới mua được 5 ngày nên tôi đã mang cả sạc và máy đến TGDD để test. Lúc đầu nhân viên nói ko sao. Tôi khẳng định đã dùng qua nhiều dòng điện thoại ko bị vấn đề ntn. Nhân viên đã lấy sạc khác thì đúng là độ nóng đã giảm, tuy nhiên vẫn thấy hơi nóng mặc dù nhân viên TGDD đã thực hiện all các thao tác cần thiết khi sạc. Vậy NÓNG thế là sao? Tôi có cần trực tiếp qua trung tâm bảo hành Nokia hỏi hay gửi phản hồi đến hãng Nokia và TGDĐ để có câu trả lời ko? Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.296673,
+         "id": "1136492",
+         "field_search": "question",
+         "question": "J7 em khi nâng cấp lên android 8  . Sạc pin vô rất lâu . Và vừa sạc sử dụng lại ko lên pin . Em có xài app đo dòng điện  , bình thường dt sạc ở trong khoảng 1000-1200mA . Nhưng bây h sạc thì khoảng 50-180 mA  (J7-2017)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.037743,
+         "id": "1149650",
+         "field_search": "question",
+         "question": "cho mình hỏi chỉnh màn hình full tai thỏ cho xiaomi a2 lite khi chơi game kiểu gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.948486,
+         "id": "988768",
+         "field_search": "question",
+         "question": "cho mình hỏi máy mình là asus x441u , tại sao máy tự nhiên đang sử dụng tự khởi động lại , mà hiện màn hình lên lại mất con chuột , khi cắm dây chuột ngoài vào mới sử dụng được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.891901,
+         "id": "855404",
+         "field_search": "question",
+         "question": "Máy mình 5s . mặc dù thay 4 quả pin rồi nhưng về ko dùng vẫn bị tụt thậm chí sạc đầy 100% và tắt hết ứng dụng và mạng . sáng ngủ dậy chỉ sau 7 tiếng mà pin tụt hơn 1 nửa . cho mình hỏi lỗi này là bị sao vậy . và khi sạc dây kết nối với củ sạc thì ko lên pin phải vừa dùng vừa sạc mới lên còn sạc bằng máy tính thì lên bình thương",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.887741,
+         "id": "762621",
+         "field_search": "question",
+         "question": "Điện thoại IP6 chinh hãng còn bào hành hàng FPTtự dưng đang sử dụng thì không lên màn hình nữa, mặc dù gọi đến vẫn đổ chuông, vẫn có âm báo. Cho hỏi cách xử lý như thế nào? Và như thế có được bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.792967,
+         "id": "766241",
+         "field_search": "question",
+         "question": "Ad cho em hỏi. Em đang dùng iPhone 5. Em mới thay pin, nhưng cứ 2 phút thì xuống 1% trăm pin, kể cả khi em không sử dụng. Rồi khi sạc pin,pin  lên lâu rồi bị đứng và thay vào đó pin không lên mà lại xuống pin nhanh như trên. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.741169,
+         "id": "1137264",
+         "field_search": "question",
+         "question": "các anh chị cho em hỏi, em có sử dụng một cái điện thoại coolpad R106 nó cứ khởi động hoài nhưng nó không lên màn hinh được. mong sự chỉ dẩn của anh chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.625137,
+         "id": "998317",
+         "field_search": "question",
+         "question": "E mua xiaomi note 4x mới trong hộp về..dùng sạc chính hãng sạc ngay cả khi khởi động máy lại rồi mới sạc mà vẫn nóng  có khi lên đến 45°C ..cho e gọi tại sao v ạ..có phải do pin sản xuất  bị lỗi không..nóng như vậy sẽ ảnh hưởng như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.557623,
+         "id": "1133825",
+         "field_search": "question",
+         "question": "Đt mình mới mua dòng xiaomi redmi note 6 pro sao mới sạc lần đầu cục sạc và điện thoại nóng vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.55004,
+         "id": "1141284",
+         "field_search": "question",
+         "question": "em là học sinh muốn mua điện thoại mới xài tết tầm giá 23tr có tai thỏ và chơi game mượt thì nên chọn máy nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.443094,
+         "id": "1006037",
+         "field_search": "question",
+         "question": "e đang dùng samsung J7 pro mà mối lần sạc là cả thân máy và sạc đều nóng đặc biệt là cục sạc, mặc dù e đã tất hết ứng dụng wifi 3g ... mà nó vẫn bị nóng ??? là sao add ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.385893,
+         "id": "858277",
+         "field_search": "question",
+         "question": " Cho mình hỏi là iphone 4s của mình mới sạc đầy pin lúc tối nhưng tới sáng chưa sử dụng mà nóng máy với hết pin là sao ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.364904,
+         "id": "820914",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 4s của em rất nóng khi em mới sử dụng 3G còn sử dụng wifi thì không bị sao vậy cho em hỏi bị sao ạ.máy em mới bật 3G khoảng 2phut thì nó nóng ran luôn..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.364872,
+         "id": "1001870",
+         "field_search": "question",
+         "question": "Điện thoại e mới mua về khi sử dụng khoảng 15phút  thì nóng máy e có thể đổi được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.329412,
+         "id": "1165148",
+         "field_search": "question",
+         "question": "Cho e hỏi sao điện thoại e đang sử dụng ở những ứng dụng khác thì Youtube của đt cứ tự động xuất hiện và chạy. Đôi khi vào xem Youtube thì Youtube lại tự động tắt và thoát ra khóa màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.276623,
+         "id": "996432",
+         "field_search": "question",
+         "question": "Cho em hỏi , điện thoại em là j7 prime , tại sao em tải phần mềm về thì nó chỉ hiện lên màng hình chờ không có ở màn hình chình giờ muốn gở cài đặt thì vào CHPlay để tìm tên ứng dụng đó mới gở cài đặt được . Trong khi đó lúc trước máy em không có bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.262806,
+         "id": "1020629",
+         "field_search": "question",
+         "question": "hôm qua mua củ sạc tại điện máy xanh xong về sạc thì máy chập trờn đang sạc rồi lại không liên tục. Khi đổi củ khác thì máy xuống pin rất nhanh mặc dù không dùng gì là sao vậy ạ? Liệu có phải do củ sạc đã làm hư điện thoại k ạ.e dùng5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.212751,
+         "id": "766193",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5. Em mới thay pin, nhưng cứ 2 phút thì xuống 1% trăm pin, kể cả khi em không sử dụng. Rồi khi sạc pin, pin lên lâu rồi bị đứng và thay vào không lên pin mà lại xuống nhanh như trên?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.187725,
+         "id": "869115",
+         "field_search": "question",
+         "question": "Tại sao điện thoại mình nâng từ ios9.3.2 lên 9.3.3 khi sạc pin nó báo đang sạc mà không vào pin m ong ad và ae chỉ giúp ....",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.172855,
+         "id": "811088",
+         "field_search": "question",
+         "question": " Chào, iphone của e hay bị nóng khi sạc và khi sử dụng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.133371,
+         "id": "1156425",
+         "field_search": "question",
+         "question": "Làm sao để xem Youtube và chơi game full màn hình tai thỏ của dòng vsmart",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.124763,
+         "id": "767455",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi: iPhone 5s sao nhanh hết pin, mình chỉ lướt Facebook mà máy được khoảng 15-20 phút là đã thấy nóng, mặc dù không có ứng dụng chạy ẩn, dịch vụ định vị và các ứng dụng không liên quan đã tắt hết. máy mình mới mua ở TGDD được vài ngày.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.08732,
+         "id": "998284",
+         "field_search": "question",
+         "question": "mình đang dùng iphone 5s, điện thoại của mình hay bị nóng máy và tụt pin nhanh mặc dù k dùng, mình đã thay pin điện thoại nhưng tình trạng chỉ đỡ hơn chứ k được khắc phục, vậy cho mình hỏi là điện thoại mình có vấn đề gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.049328,
+         "id": "888590",
+         "field_search": "question",
+         "question": " em vừa mua iphone 6s khi sạc pin thì máy nóng lên khi gần được 100 pin vậy thì có sao không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.020912,
+         "id": "992847",
+         "field_search": "question",
+         "question": "Mình mua ip 7 plus đc khoảng 3 tháng, mình sạc điện thoại qua đêm có sao không? vì mình thấy điện thoại của mình rất mau hết pin, nhất là khi vào safari, game, youtube,...vậy có cách nào khắc phục không? điện thoại mình để không sử dụng vẫn tuột pin. mình đã chỉnh độ sáng màn hình, không sử dụng 3G, tắt wf khi không cần, tắt chế độ tự động sáng khi cầm lên, tắt thông báo, tắt làm mới ứng dụng trong nền,...mong ad giải đáp giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.989573,
+         "id": "794996",
+         "field_search": "question",
+         "question": " Tại sao tôi sạc pin điện thoại oppo neo 7 mà khi sạc tôi cầm điện thoại mà pin không vô lại còn bị giật điện ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.978817,
+         "id": "1161380",
+         "field_search": "question",
+         "question": "Vừa mới mua được 3 ngày nhưng tại sao redmi note 6 lại nhanh tụt pin vậy ạ? Sạc đầy kh sử dụng vẫn hao pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.925917,
+         "id": "811092",
+         "field_search": "question",
+         "question": " Chào, iphone của e hay bị nóng khi sạc và sử dụng. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.896263,
+         "id": "1164858",
+         "field_search": "question",
+         "question": "Cho e hỏi hiện tại e đang sử dụng A8 2018, vào hôm thứ 4 e có cập nhật phần mềm mới và hiện tại mỗi lần e đang sử dụng là màn hình cứ sáng tối loạn cả lên trong kgi e không chỉnh gì cả.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.889349,
+         "id": "1145770",
+         "field_search": "question",
+         "question": "mình mới mua iphone 7 plus cũ ở thế giới di động về sử dụng thì thấy pin mau hết. sau khi sạc và để điện thoại 1 đêm là mất 50% pin rồi . vậy thì phải làm thế nào ạ. cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.888357,
+         "id": "761444",
+         "field_search": "question",
+         "question": "Dạ em đang dùng iPhone 4S, cách đây khoảng 1 tháng, điện thoại của em có bị thấm nước và em đã đem đi sửa, khi về em dùng đt bình thường, nhưng đt của em không biết sao, màn hình cứ tối đen không lên mấy lần, em có gọi thử thì vẫn gọi được nhưng màn hình đt vẫn tối đen, không lên được. Em phải đợi khi đt hết pin, cắm sạc thì mới có thể sử dụng lại được. Cho em hỏi là đt của em bị gì và sửa chữa như thế nào ạ? Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.829649,
+         "id": "907646",
+         "field_search": "question",
+         "question": " Mình mới mua lapptop asus a456ua i5 sử dụng pin Liion. cho mình hỏi cách nạp và xả pin đúng cách khi mới sử dụng. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.80459,
+         "id": "1136009",
+         "field_search": "question",
+         "question": "Em sử dụng oppo f5 và hôm nay sạc pin thì thấy pin chậm vào, có khi vừa sạc vừa xài thì pin tụt hẳn, vào trình quản lí điện thoại kiểm tra pin thì có khi báo lỗi dòng điện của cáp sạc có khi không để lỗi. Đây là lỗi gì và cách khắc phục sao à",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.792643,
+         "id": "761293",
+         "field_search": "question",
+         "question": "Ad ơi máy OPPO Neo 7 của em mới mua được 2 tuần nhưng nó hay bị đơ và thường xuyên nóng máy mặc dù em đã cài phần mềm giải phóng bộ nhớ rồi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.749434,
+         "id": "1017390",
+         "field_search": "question",
+         "question": "Điện thoại mình con 60%pin nhung lại bị tắt nguồn mở lên thi no hiện thì Android đang cập nhật hệ thống thật lâu mới lên  cho mình hỏi tai sao lại như vậy mỗi khi lên mang lại nhanh hết pin",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.6465,
+         "id": "996501",
+         "field_search": "question",
+         "question": "cho hỏi điện thoại tôi là Q vita S, lúc mới mua thì sử dụng pin rất lâu hết.nhưng sau vài tháng thì pin bây giờ rất nhanh tụt, xem youtube có 2h thôi mà pin chỉ còn 30% dù trc đó đã đc sạc đầy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.60723,
+         "id": "1165111",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại iphone 7plus 32G vào ngày 28/4, sau khi dùng em thấy pin có vấn đề, sạc đầy tận 3 - 4 tiếng và hết pin rất nhanh ( dù đêm không dùng thì từ 89% còn 30%). Cho em hỏi vấn đề này có thể đổi điện thoại mới được không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.51325,
+         "id": "862722",
+         "field_search": "question",
+         "question": "iphone 4 8GB sử dụng cạn pin bị lỗi 1970, để máy thật sự hết pin thì mở lên được, lên trang chủ cập nhật phần mềm xong, sử dụng được vài giờ thì bị sập nguồn màn hình đen thui, cấm sạc vào màn hình hiện lên trái táo rồi biến mất, không thể mở máy được. Vậy xin hỏi bây giờ phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.505495,
+         "id": "830861",
+         "field_search": "question",
+         "question": "cho mình hỏi tại sao mình sạc pin báo đã sạc nhưng không thấy tăng % pin nào, mặc dù mình đã tắt nguồn khởi động lại nhưng k đc. hiện tại máy mình đã sập nguồn. mình đang dùng ip4s.mong m.n giúp đỡ...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.504887,
+         "id": "1161442",
+         "field_search": "question",
+         "question": "Cho mình hỏi hiện tại mình đang sử dụng đt samsung galaxy A3 2016, nhưng mặc dù không xài cũng như k mở đt lên mà lâu lâu màn hình vẫn hiện sáng lên, nhu wvaajy là sao ạ, giúp mình cách khắc phục với, xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.45457,
+         "id": "816275",
+         "field_search": "question",
+         "question": "Xin chào ! Mình đang dùng chiếc ip4s . Hôm qua mình có sử dụng ip hết pin và sập nguồn  Sau đó mình sạc pin , nhưng cứ khi mà rút sạc ra là máy bị tắt nguồn trong khi đó pin đầy và khi vẫn đang sạc mình bật máy lên chỉ hiện màn hình đc tầm 5s và sau đó lại bị tăt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.446527,
+         "id": "1012410",
+         "field_search": "question",
+         "question": "mình có con HTC desire 620 sạc pin vẫn lên màn hình và báo phần trăm pin nhưng bật nguồn ko lên là bị sao vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.440916,
+         "id": "1160527",
+         "field_search": "question",
+         "question": "cho em hỏi em sạc pin điện thoại vẫn hiện thông báo sạc nhưng ko lên phần trăm là do bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.431196,
+         "id": "1023599",
+         "field_search": "question",
+         "question": "shop cho em hỏi năm ngoái em có mua  chiếc điện thoại lennovo bên mình, em sử dụng từ ngày hôm qua thì không sao, không biết tại sao hôm nay mình đã nạp  đầy pin rồi mà nó rất nhanh tụt pin, hết pin rất nhanh dù mình đã tắt hết các ứng dụng ở máy, không biết em phải làm sao ạ, em cảm ơn ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.42918,
+         "id": "1142794",
+         "field_search": "question",
+         "question": "cho mình hỏi ipad ari của mình up lên ios 12.1.2 thì nút bật tắt wifi bị mờ và ko sử dụng được và máy sạc đầy pin vào tối lúc 18h thì sáng hôm sau máy tự đông hết pin và tắt nguồn luôn mặc dù mình ko có sử dụng sau khi sạc đầy,hiện tượng pin này bị 2 ngày liên tiếp rồi và chỉ xảy ra sau khi up ios 12.1.2 thôi. Có cách nào khắc phục được ko vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.419693,
+         "id": "820370",
+         "field_search": "question",
+         "question": " Tại sao máy điện thoại Mobiistar sạc pin không lên sạc vào nhung không lên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.41433,
+         "id": "1160525",
+         "field_search": "question",
+         "question": "Admin giúp mình với. Hiện tại mình đang sử dụng iphone 8+ nhưng dạo gần đây không biết điện thoại bị gì mà mỗi khi sạc dt dù là nguồn hay dự phòng thì khi pin tới mức 80% thì tự động ngắt điện. Điện thoại mình bị sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.364672,
+         "id": "802663",
+         "field_search": "question",
+         "question": "Tại sao khi em sạc pin nó vẫn hiện lên đầy đủ, nhưng màn hình lúc nào cũng bật thì mới lên pin. Còn k bật thì mức pin vẫn thường xuyên đứng yên 1 chỗ. Trước đó , máy e sạc k lên và có đi sửa , ngta bảo do main và đổi con o2 gì đó. Khi sửa về xog thì như vậy. Hay tại e lên ios 9.2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.300533,
+         "id": "1165372",
+         "field_search": "question",
+         "question": "Làm sao sử dụng chia đôi màn hình ở điện thoại j4 mới cập nhật phần mềm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.267122,
+         "id": "1160431",
+         "field_search": "question",
+         "question": "tôi mới chỉ mua máy đc 2 tuần và  sau khi tôi sạc máy điện thoại realme C1 xong thì từ khi đó nó không bật được màn hình lên nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.265774,
+         "id": "813024",
+         "field_search": "question",
+         "question": " em mới mua laptop ASUS F454L, cho em hỏi cách sạc pin cho đúng để pin có thể sử dụng tốt ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.23041,
+         "id": "757503",
+         "field_search": "question",
+         "question": "QTV cho hỏi: máy iphone 6plus bị tắt wifi khi tắt màn hình khoảng 10p, mặc dù không bật chế độ tiết kiệm pin, khi mở máy lên thì wifi lại tự động kết nối lại, đó là do mặc định của hệ điều hành ios hay bị lỗi vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.19244,
+         "id": "778209",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua iPhone 6s bản 16G tại TGDĐ mới dùng được hơn 2 tuần thấy máy có hiện tượng thỉnh thoảng bị đơ. Sạc cả sáng không đầy pin mặc dù mình k hông động đến máy trong lúc sạc. Có hôm vào ứng dụng chụp ảnh thì bị tắt nguồn luôn vào báo cắm sạc dù pin còn 37%?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.185822,
+         "id": "1161479",
+         "field_search": "question",
+         "question": "Làm sao để chơi game full màn hình tai thỏ trên chiếc máy nokia 6.1 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.0881,
+         "id": "1152585",
+         "field_search": "question",
+         "question": "Hi E mới mua điện thoại xs max 64gb mới sử ụng vài ngày e mới chơi game dc vài phút là điện thoại nó nóng lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.05529,
+         "id": "1001001",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi em đang sử dụng asus memo pad 8 mua đc khoảng 1 năm hôm nay em đang sử dụng 2 ứng dụng là messenger và chơi game xong nó tự động chay màn hình sạc không lên tắt nguồn không dc rồi em để nos hết pin cũng không dc nó vẫn chay màn hình ad ơi giúp em với :(((((((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.051563,
+         "id": "1142759",
+         "field_search": "question",
+         "question": "Giữa coolpad mega 5 và realme c 1 cái nào sạc nhanh hơn, cái nào dùng lâu hết (Mặc dù biết dùng được bao lâu nhưng chưa chắc)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.954025,
+         "id": "766113",
+         "field_search": "question",
+         "question": "Em mua iPhone 4s tại thế giới di động và đã sử dụng được 4 ngày. Hiện tại máy đã bị lỗi ở màn hình. Không biết thế giới di động có chính sách đổi trả sẽ giải quyết cho em như thế nào.Lỗi: Màn hình chính khi mở khóa bị xám đi khoảng 2 giây sau đó mới lên màu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.941414,
+         "id": "991674",
+         "field_search": "question",
+         "question": "dạ, laptop của e là hãng dell core 5,e đã sạc pin cho máy đầy r, nhưng qa ngày hôm sau e sử dụng thì máy hết pin và bị nóng máy ở phần dưới lap, mong anh (chị ) giải đáp hộ e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.87581,
+         "id": "1167890",
+         "field_search": "question",
+         "question": "Điện thoại Xiaomi redmi note 7 mới mua hôm qua , sạc lần đầu tiên nhưng máy bị nóng , cục sạc cũng nóng là sao ạ . Giải đáp giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.863867,
+         "id": "1140963",
+         "field_search": "question",
+         "question": "hi, cho mình hỏi mình mới mua điện thoại ipX được 3 ngày, hôm nay mình để pin tuột còn 15% rồi ghim sạc dự phòng thì thấy máy và cục sạc rất nóng. Cho mình hỏi máy có bị sao không ạ và nguyên nhân do đâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.848843,
+         "id": "1144053",
+         "field_search": "question",
+         "question": "điện thoại của mình dạo gần đây khi cắm sạc vào máy. máy ko báo sạc nhanh mà báo sạc chậm mặc dù mình dùng cáp và dây sạc đi theo máy. Và máy mình cũng ko có ứng dụng rác hay phần mềm diệt virus. mình dùng ss a5 2017. ad có thể cho biết nguyên nhân và cách khắc phục đc ko?. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.815634,
+         "id": "1162903",
+         "field_search": "question",
+         "question": "Em sử dụng samsung s6 thường. Tự dưng màn hình có màu sác lạ (như trong hình) ở góc bên trái. Để khoảng chục phút thì màu lan dần ra cả màn hình. Và giờ là điện thoại em bật lên đen xì rồi. Nhưng cảm ứng vẫn không làm sao. Cho em hỏi là điện thoại của em bị gì và phải sửa như thế nào vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.808107,
+         "id": "1144055",
+         "field_search": "question",
+         "question": "Cho em hỏi Tại sao điện thoại huawei y7 pro mới mua được 6 tháng nhưnh bây giờ sử dụng nó lại bị nhấp  nháy màn hình có sọc đen liên tục. Như vậy có ảnh hưởng gì đến máy không.Mong anh chị giúp em cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.760248,
+         "id": "1158944",
+         "field_search": "question",
+         "question": "Em có 2 triệu và muốn mua điện thoại coolpad mega 5 cũ. Thì không biết ở cửa hàng thegioididong có bán lại điện thoại cũ hay không a.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.75414,
+         "id": "799436",
+         "field_search": "question",
+         "question": "Chào anh cho em hỏi iPhone 4S của em sao sạc đầy pin 100% rồi em sử dụng được khoảng 30 phút lại hết pin lý do tại sao vậy anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.690287,
+         "id": "1153649",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại oppo neo 7. Khi sạc đầy rồi có tự mwor nguồn không ạ?. và điện thoại em bị hư nút nguồn rồi có cách nào mở lên mà ko sử dụng nút nguồn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

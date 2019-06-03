@@ -1,0 +1,809 @@
+{
+   "id_query": "845427",
+   "total": 32782,
+   "total_current": 100,
+   "max_score": 158.8151,
+   "origin_question": "Chào ad , em dùng lumia 630 . FB có bảo rằng Em soạn tin nhắn với cú pháp là BAT gửi32665 để nhận mã bảo mật . Nhưng gửi toàn báo ko đc mặc dù gửi sđt khác vẫn đc . Sim vina vẫn còn tiền ạ . Gắn máy khác cũg v .",
+   "hits": [
+      {
+         "score": 158.8151,
+         "id": "845427",
+         "field_search": "question",
+         "question": "Chào ad , em dùng lumia 630 . FB có bảo rằng Em soạn tin nhắn với cú pháp là BAT gửi32665 để nhận mã bảo mật . Nhưng gửi toàn báo ko đc mặc dù gửi sđt khác vẫn đc . Sim vina vẫn còn tiền ạ . Gắn máy khác cũg v .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.907116,
+         "id": "1139815",
+         "field_search": "question",
+         "question": "Em dùng samsungj7pro , em có tải 1 app tên là \"soul\" , bạn đầu thì nó còn gửi mã xác nhận. Nhưng hnay khi đăng nhập lại thì nó kh gửi mặc dù em nhập đúng sdt. Em cũng thử số sdt khác nhưng vẫn kh nhận đc mã xác nhận",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.784447,
+         "id": "987599",
+         "field_search": "question",
+         "question": "ad cho e hỏi: e xài ip4s, mới đầu gửi tin nhắn cho ai cũng gửi đc, họ cũng nhận đc, về sau có duy nhất 1 số ko gửi đc tin nhắn, mặc dù tin nhắn của e gửi vẫn bị mất tiền, nhưng họ cx ko nhận đc, họ cx gửi lại tin nhắn cho e, nhưg e cx chả thấy j?? ad có thể giúp đỡ cho e đc ko ạh?2 đứa xài viettel...ko hiểu s ko gửi đc tin nhắn cho nhau ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.399426,
+         "id": "881238",
+         "field_search": "question",
+         "question": "Ad ơi giúp em với, fb của em vô thì rất bình thường nhưng chỉ có vô mess thì k đc, tin nhắn k nhận đc với k thấy và k gửi đc tin nhắn kể cả trên máy tính hay điện thoại, còn em vô 1 cái nick fb phụ của em thì vẫn bình thường ạ v là sao mong ad giúp em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.915604,
+         "id": "1140154",
+         "field_search": "question",
+         "question": "Em đăng nhập insta nhưg bị quên mật khẩu ghi tên tài khoản và sđt ấn gửi mã liên kết nhưg vẫn ko nhận được tin nhắn SMS là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.69678,
+         "id": "918614",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đang dùng iphone 5s. Mình nt cho nhiều người cùng lúc ko được. Mặc dù vẫn còn tiền trong tài khoản. Mình cũng đã bật 3g lên là gửi, hắn gửi đc. Nhưng có người nhận được tin có người không, hoặc nhận được tn rỗng. Giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 42.441936,
+         "id": "847001",
+         "field_search": "question",
+         "question": "Cần gấp :Mình xài iphone , nhưng gửi tin nhắn sms không được , mặc dù đã tắt imessager đi rồi nhưng vẫn không gửi được tin nhắn , nó báo là \" CHƯA GỬI ĐƯỢC \" . Gíup mình với , cảm ơn ạ ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.832375,
+         "id": "914727",
+         "field_search": "question",
+         "question": "Tại sao viber của tôi ko gửi dc tin nhan cho người khác nữagữi tin nhắn xong chỉ báo là đã chuyển,nhưng người bên kia ko nhận đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.664574,
+         "id": "863334",
+         "field_search": "question",
+         "question": " mih đang dùng ip6s ,tự nhiên ko bắt đc wifi, nhập mật khẩu wifi thì toàn bảo sai.Những máy khác vẫn bắt đc wifi đo ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.65975,
+         "id": "760839",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ, em dùng iPhone 4s, em có gửi tin nhắn cho bạn nhưng nó hiện chưa gửi được trong khi điện thoại bạn em vẫn bình thường. Sau đó bạn em nhắn tin thì em không nhận được tin nhắn của bạn, khi vào mục tin nhắn em thấy có tin nhắn từ em được gửi đi trả lời số tin nhắn bạn em gửi mặc dù em không cho ai mượn cả. Admin có biết vì sao không ạ??? Em đang rất thắc mắc. Admin trả lời giúp em với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.500973,
+         "id": "999420",
+         "field_search": "question",
+         "question": "Msg báo đang đợi mạng. Ko gửi nhận tin nhắn đc, vào fb và web bình thường, mình dùng oppo f1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.387222,
+         "id": "1153855",
+         "field_search": "question",
+         "question": "Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.871773,
+         "id": "790546",
+         "field_search": "question",
+         "question": "Em xài 5s, vừa nâng ios 9.2.1 nhưg ko nhận sim, lúc nhận đc sim thì ko nhắn tin đc, ko nhận đc thông báo fb, skype... Vào tin nhắn thì ko thoát ra đc. Cho em hỏi có back về ios 9.0 được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.570877,
+         "id": "1010804",
+         "field_search": "question",
+         "question": "Em dùng htc desire 630, gần đây khi nhắn tin trên messenger thường xuyên bị rớt mạng, gửi rất chậm tin nhắn. Dù thanh wifi nhà em vẫn đầy vạch. Cho em xin cách khắc phục ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.4996,
+         "id": "864854",
+         "field_search": "question",
+         "question": " Tại sao iphone 5 của mình con tiền mà gửi tin nhắn ko đc v ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.326256,
+         "id": "806049",
+         "field_search": "question",
+         "question": " Mình dùng lumia 630 đag sử dụng messenger làm thế nào để tắt hết tất cả các âm thanh khi gửi tin hoặc nhận tin nhắn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.303654,
+         "id": "1012779",
+         "field_search": "question",
+         "question": "Cho em hỏi máy em j7 2016. Máy lắp 2 sim viettel và vina. Nhưng báo chỉ sim có vina. Sim viettel không có thẻ sim, nhưng vẫn nhận được cuộc gọi đến sim viettel. Tháo sim viettel ra khỏi máy nhưng vẫn nhận được cuộc gọi đến sim viettel, em lắp vào máy thêm 1 sim vina nhưng vẫn gọi đến sim viettel vẫn nhận được trên máy. Tức là máy chỉ lắp 2 sim nhưng  3 sim nghe được cuộc gọi đến. Sim viettel được tháo ra lắp vào máy khác vẫn báo không có thẻ sim.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.262802,
+         "id": "1153840",
+         "field_search": "question",
+         "question": "trường hợp zalo mình cũng bị nhắn tin qua Zalo mà Zalo hiển thị là \"Đã gửi\" chứ không hiển thị là \"Đã nhận\", vậy người nhận có đọc được tin nhắn của em không? mình vào tin nhắn xem thì người đó vẫn đang online truy cập, nhưng không hiểu s tin nhắn của mình vẫn thể hiện là \"đã gửi\" thôi, người đó vẫn chat với nick zalo khác bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.62861,
+         "id": "1010428",
+         "field_search": "question",
+         "question": "Tin nhắn điện thoại của mình cứ hiện đang gửi. Khởi động lại máy vẫn bị. Tin nhắn gửi đến vẫn nhận như bình thường,  còn gửi đi nó cứ hiện đã gửi.  Cả 2 sim viettel và vietnam mobile đều bị.  Anh chị cho e hỏi là lỗi gì ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.51186,
+         "id": "1020404",
+         "field_search": "question",
+         "question": "Mình dùng Asus Zenphone 5, hôm qua còn bình thường hôm nay gửi tin nhắn toàn bị lỗi này tự thoát ra trang chủ ko gửi đc tin nhắn. Mình đã thử xóa bớt tin nhắn đều ko đc. Many thks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.261112,
+         "id": "1160944",
+         "field_search": "question",
+         "question": "M ko vào face dc vì yêu cầu gửi mã xác nhận nhiều lân, yêu cầu thử lại sau. M có cài đặt face bảo mật bằng gửi mã xác nhận. Bình thuong m đăng xuất sẽ nhập mã xác nhận gửi vào tin nhắn là sẽ dc. Nhưng hôm nay m nhập mã thì vẫm ko dc nên đã gửi về sdt m 4 lần  nhập mã nhưng vẫn ko dc cả 4. Giờ yêu cầu gửi mã thì hiện mà nhập mã nhiều lần nên yêu cầu thử lại sau. Ko biết m có bị mất face ko vì giờ ko vào dc vì ko nhận  lại dc mã xác nhận mà chỉ hiện do đã yêu cầu gửi nhiều mã",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.947914,
+         "id": "1021351",
+         "field_search": "question",
+         "question": " Giúp với ad ơi.Máy tính đã nhập đúng mật khẩu nhưng ko vào đc wifi. Máy tính báo là mã bảo mật mạng không đúng. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.78198,
+         "id": "1007787",
+         "field_search": "question",
+         "question": "- điện thoại em không hiển thị tin nhắn gửi tới. k biết máy em bị sao ạ. - gửi đi vẫn được nhưng người khác gửi đến máy em thì không hiển thị. hiện em đang xài lenovo a6020a40.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.2692,
+         "id": "778271",
+         "field_search": "question",
+         "question": "E xài ip 4 e nt vs Sđt của ip 5 đang bình thường nhưng hồi sau e nhắn tin cho số đó thì dược gọi được còn số đó nhận dc tin nhắn trả lời lại báo đã gửi nhưng qua máy e lại k nhận đc gọi dô máy e vẫn dc. Cho e hỏi lý do tai sao. Giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.03641,
+         "id": "942472",
+         "field_search": "question",
+         "question": "Quên mật khẩu nên gửi tin nhắn tới tổng đài 8037 thì nhận được mã kích hoạt nhưng lại thông báo là mã không đúng lá sao ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.877254,
+         "id": "1159373",
+         "field_search": "question",
+         "question": "Cho e hỏi là.. samsung j4 plus tự nhiên messenger gửi tin nhắn đến lại không nhận được.. mặc dù e có bậc thông báo nhưng không nhận được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.822197,
+         "id": "535748",
+         "field_search": "question",
+         "question": " k gửi đc tin nhắn Facebook trên điện thoại android?nó toàn ra ! không gửi đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.762356,
+         "id": "779766",
+         "field_search": "question",
+         "question": "Messenger không thể gửi tin nhắn thoại (Voice message) là tại vì sao ạ ? tin nhắn load rất lâu nhưng tin nhắn thoại chỉ có 5s thôi và cuối cùng Messenger báo lỗi ko gửi đc. Mình đã thử nhiều cách như update, tắt nguồn máy, xóa Mess và cài lại những vẫn không dùng được !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.60895,
+         "id": "1016563",
+         "field_search": "question",
+         "question": "Em hiện dùng j2 prime máy em khi kết nối cùng 1 wifi máy khác đều kết nối đc nhưng máy em tuy nhập mật khẩu đúng nhưng máy báo là mật mã sai. Cho em cách khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.52425,
+         "id": "816474",
+         "field_search": "question",
+         "question": "em sử dụng 2 nick face, 1 cái dùng gmail để đăng nhập, 1 cái dùng sđt, hôm bữa cái nick dùng gmail kêu nhập sđt để bảo mật nên em nhập sđt của em (cũng là sđt để đăng nhập vào nick kia) xong ra ngoài đăng nhập vào nick kia kg được nữa, nó chỉ cho đăng nhập vào cái nick đc bảo mật . em đã vào cài đặt xóa sđt bảo mật đi và đợi 24h để xem vào đc nick kia hay kg nhưng vẫn kg đc . giờ em phải làm sao . xin giúp đỡ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.463406,
+         "id": "1149496",
+         "field_search": "question",
+         "question": "ad ơi cho e hỏi, e sài samsung j3pro, mạng sim 4g vẫn chạy bình thường nhưng khoảng 1 tuần nay thì mạng đột nhiên kh vào dc các ứng dụng như fb, tiktok, zalo thì chỉ gửi được tin nhắn thường kh gửi được hình ảnh nhưng khi lắp sim vào máy khác thì mạng vẫn chạy nhanh bình thường. Chỉ e cách khắc phục với ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.39302,
+         "id": "890876",
+         "field_search": "question",
+         "question": " Em toàn bị load tin nhắn như kìa phải tầm 5 phút mới gửi đc 1 tin nhắn mà wifi căng . Giúp em với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.13685,
+         "id": "1009560",
+         "field_search": "question",
+         "question": "Chào AD. Mình hiện đang quên tài khoản apple trên máy iphone 5s của mình.HIện tài khoản mình đã bảo mật 2 lớp, và đang mất mật khẩu, bị khóa do nhập sai mk nhiều lầnMình vẫn còn nhớ: Email, sđt đăng kí bảo mật (vẫn nhận tin nhắn về bt), chỉ mỗi mỗi pass.Giờ mình vào khôi phục nó cứ bắt nhập pass cũ để mở khóa mà ko nhớ pass cũ. AD có cách nào giúp mình với ạ. Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.13674,
+         "id": "837106",
+         "field_search": "question",
+         "question": "Anh chị giúp em với ạ , e xài iphone ios 7 mặc dù đã bật zalo thông báo về máy . Nhưng mà có ai nhắn tin cỡ từ 5-10 phút sau thông báo mới gửi về máy là sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.804962,
+         "id": "1018080",
+         "field_search": "question",
+         "question": "cho em hỏi em sd sim viettel gogo 4g nếu em không muốn sử dụng 4g nửa thì có cần soạn cú pháp nào để huỷ dv ko nếu có cho em cú pháp em chỉ cần nghe gọi thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.713245,
+         "id": "900772",
+         "field_search": "question",
+         "question": "Chào Ad? Cho e hỏi tango của e nó bị làm sao ấy? Người ta nhắn tin với gọi video là e nhận đc. Còn e trả lời thì người khác ko nhận đc. Xoá ứng dụng rồi cài lại vẫn như vậy. Đăng kí tài khoản khác thì nó kêu thiết bị của bạn đã bị chặn. Giờ làm sao mới xài lại đc ứng dụng tango hả ad..??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.513355,
+         "id": "757852",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5. bây giờ cập nhập lên 9.1 máy của em bị lỗi văn bản tin nhắn.Vẫn nhận đựoc tin mà gửi tin đi không gửi được mà gửi đi vẫn bị mất tiền. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.349445,
+         "id": "1008607",
+         "field_search": "question",
+         "question": "hôm qua tôi có đặt muather nhớ 32Gh giá 270k, mà chưa kịp nhập tin nhắn để gởi. bây giờ ko nhớ cú pháp nhắn tin lại xác nhận",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.184864,
+         "id": "828716",
+         "field_search": "question",
+         "question": "Điện thoại của em tự nhiên không gửi đc tin nhắn, không vào được các trang mạng như FB,...khi gửi ttin nhắn hoặc truy cập mạng em đều nhận được thông báo vị trí của bạn không xác định.em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.158226,
+         "id": "896171",
+         "field_search": "question",
+         "question": "Zalo của mình không gửi hình ảnh được mà nhận được hình ảnh của bạn bè.gửi, trước đây vẫn gửi bình thường.mà sao mấy ngày gần đây gửi đi gửi lại nhiều lần máy vẫn báo là chia sẻ thành công mà người nhận vẫn không nhận được (c òn gửi tin nhắn vẫn bình thường) Cho hỏi zalo bị gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.040768,
+         "id": "778982",
+         "field_search": "question",
+         "question": "Mình dùng máy 5s xách tay mỹ, nhà mạng vinaphone, Ios 9.2.1Mình đang bị lỗi tin nhắn như sauKhi gửi tin nhắn nếu là tin nhắn bình thường hoặc tin nhắn văn bản khoảng hơn 300 ký tự thì vẫn gửi được nhưng khi gửi tin nhắn là mẫu báo cáo hàng ngày cho các sếp của mình thì bị báo lỗi chấm than màu đỏ bên trái tn bên dưới ghi chưa gửi được, mặc dù phía người nhận đã nhận được nhưng chỉ 1/4 tin nhắn cụ thể như sauĐây là tin nhắn của mình:1.Giang(H.Nam):Sndh=8 Ds=5tr2.Hậu(N.Định):Sndh=5 Ds=2tr3.Khương(H.Yên):Sndh=5 Ds=3tr4.Khoa(H.Dương):Sndh=8 Ds=5tr5.Dũng(V.Phúc):Sndh=4 Ds=3tr6.Thảo(V.Phúc):Sndh=5 Ds=3tr7.An(S.La):Sndh=3 Ds=3tr8.Tuyến(N.Thuận):Sndh=4 Ds=1tr9.Lập(C.Mau):Sndh=18 Ds=3tr10.Tấn(C.Mau2):Sndh=3 Ds=0,7trTổng: Sndh=63 Ds=28,7trKarazild=275hCòn đây là người nhận (trên mọi mạng và máy đều hiện thị như vậy)1.Giang(H.Nam):Sndh=8 Ds=5tr2.Hậu(N.Định):Sndh=5 Ds=2tr3.Khương((......)(......)(......)Mình có thử lắp sim mạng khác vào máy thì gửi được nhưng lắp sim Vinaphone thì không được. Có nhờ trung tâm vina nhưng hộ hỗ trợ đổi trung tấm tin nhắn rồi chuẩn rồi nhưng vẫn không được. Và họ cũng bảo xin bó tay với trường hợp này.Mình cũng thử các lỗi liên quan tới imes tắt đi bật lại, lỗi sms và mms, reset cài đặt mạng nhưng cũng vẫn vậy.Mong mọi người giúp đỡ. Chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.939915,
+         "id": "1002002",
+         "field_search": "question",
+         "question": "Cho hỏi...nếu bị chặn tin nhắn trên oppo thì có gửi đc tn k? Tại mình gọi thì bị chặn, nhắn tin thì báo gửi đã nhận nhưng k hồi âm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.880524,
+         "id": "922753",
+         "field_search": "question",
+         "question": "Cho e hỏi là e đang dùng iPhone 5s vào phần tin nhắn soạn tin mới rồi viết Sđt người nhận chỉ viết đc 1 , 2 số đầu xong màn hình đứng im k nhắn đc nữa mog đc giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.86573,
+         "id": "1152223",
+         "field_search": "question",
+         "question": "Mình mua máy mới và máy cũ mình cho người khác khi có người gởi tin nhắn zalo cho mình thì máy cũ vẫn nhận đc tin nhắn người gởi bạn giúp mình phải làm sao để máy cũ ko nhận được tin nhắn nữa. Cám ơn bạn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.734917,
+         "id": "1148595",
+         "field_search": "question",
+         "question": "CTV cho em hỏi, em đang xài Mi A2 Lite mà sao em gửi tin nhắn cho đầu số 999 hay 090 của mobifore thì lại báo là không gửi được ạ? Gửi tin nhắn cho người thân hay bạn bè thì bình thường, sim thì không có vấn đề gì hết ạ. Em đã khởi động lại máy nhưng vẫn bị như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.725758,
+         "id": "769530",
+         "field_search": "question",
+         "question": "Con iphone 6 plus của em . Ko lưu đc pass wifi . Em nhập lại pass đúng mà máy báo ko truy cập được vs bảo sao pass . Vào wf nhà khác vẫn ngon là ntn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.66588,
+         "id": "801034",
+         "field_search": "question",
+         "question": "Cho em hỏi tí ạ. trong danh bạ của em không còn tên của người đó nữa, nhưng gửi tin nhắn, thì nó thông báo là hiện tại người này chưa dùng zalo có nghĩa là sao ạ, nhưng lúc sau nó vẫn ghi là đã gửi, bạn này đã nửa tháng không dùng zalo rồi ạ, giúp em với ạ, em đang cần gấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.644627,
+         "id": "779976",
+         "field_search": "question",
+         "question": "Điện thoại iPhone 5 của em khi bật 3G thì người khác nhắn tin nhận được thông báo,nhưng khi dùng WiFi thì người khác nhắn tin thông báo lại không hiển thị,như vậy là sao nhỉ,giúp em với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.54302,
+         "id": "1020631",
+         "field_search": "question",
+         "question": "Hi adLúc trc mình từng mua đt bên cửa hàng và đc mua 1 sim khuyến mãi mạng mobi gia hạn sử dụng 50k mỗi tháng đợt vừa rồi mình quên nạp card để gia hạn tự động, nhưng quên cú pháp đăng lại ad gửi lại giúp minh với, sđt lúc trc mua máy mình đăng ký là 0974870910",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.394875,
+         "id": "1000372",
+         "field_search": "question",
+         "question": "Em gửi tin nhắn SMS thì xuất hiện lỗi: Hiện tại không gửi được tin nhắn. Sẽ gửi khi có dịch vụ. Em vẫn có thể gọi được nhưng không nhắn tin được. Em xài Samsung A7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.38624,
+         "id": "911189",
+         "field_search": "question",
+         "question": "Zalo trên máy tính của em trước đó dùng bình thường, mấy hôm nay khi chỉ gửi tin nhắn thì ok, còn gửi ảnh cái nó cứ báo \"đang gửi\" như thế này và không cho gửi tin nhắn nữa luôn. e khởi động lại máy hay gỡ ra cài lại đều vẫn bị như thế!!!Giúp e với ạ !!! huhuhu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.310005,
+         "id": "950595",
+         "field_search": "question",
+         "question": "E có 2 tài khoản fb. đăng ký cùng 1 số đt, fb mới e đã đổi sang sddt khác và đổi mật khẩu. nhưng khi đăng nhập bằng sđt cũ kia vẫn đc, làm thế nào để xóa hẳn sđt cũ đi ạ trong khi e đã đky sđt mới ở fb mới rồi. giúp e với e cảm ơn ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.293247,
+         "id": "828394",
+         "field_search": "question",
+         "question": "mình dùng dữ liệu thì vẫn vào được n dùng wifi thì ko kết nối facebook đc lại ko thể nhắn tin trên messenger.Mình đã thử mấy mạng wifi khác nhau nhưng vẫn ko được,giứp mình đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.19688,
+         "id": "1023219",
+         "field_search": "question",
+         "question": "Cho hỏi hỏi cách đăng ký gói Dcom 4G gói 90 có 10GB thì  cú pháp soạn tin nhắn như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.194195,
+         "id": "779274",
+         "field_search": "question",
+         "question": "Chào anh chị, em đang dùng iphone 5 lock Nhật mà máy em dạo này không gửi tin nhắn văn bản cho các loại máy khác được, em thử gửi cho máy iphone thì lại nhận được tin nhắn? Em không biết lý do vì sao lại như vậy hay là do hàng lock nên vậy anh chị tư vấn giúp em với...em cảm ơn anh chị ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.191612,
+         "id": "1144479",
+         "field_search": "question",
+         "question": "Fb e bị báo cáo mạo danh và họ yêu cầu đưa giấy tờ để xác nhận nhầm lẫn nhưng giờ vẫn ko lấy lại đc mà nick báo cáo lại là một nick khác của e nhưng e đâu báo cáo đâu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.157207,
+         "id": "938476",
+         "field_search": "question",
+         "question": " Em sài j7 preim dùng sum mobi nhưng s k gửi tin nhắn cho tổng đài đc ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.036896,
+         "id": "828779",
+         "field_search": "question",
+         "question": "mình dùng facebook trên máy tính. Nhưng gần đây khi facebook thông báo có tin nhắn, mình mở xem được nhưng trả lời không được. Nó cứ hiện \"Tin nhắn chưa đc gửi, vui lòng thử gửi lại\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.01308,
+         "id": "1165606",
+         "field_search": "question",
+         "question": "số điện thoại mình đang xài nhưng vẫn kh nhận được mã ...còn những cách khác mình đều làm đúng nhưngx vẫn không mở đc....ai chỉ giúp mình với.... đa tạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.008823,
+         "id": "957069",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi tí ạ . Sao máy mình nhắn tin cho 1 số khác mà số khác đấy k nhận đc tin nhắn mà tin nhắn đó nó lại nhắn về máy mình vậy . Ad giúp mình với . Lúc trước icloud của mình có dùng 2 máy nhưng bây giờ có 1 máy thôi mọi người giúp mình với mình xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.97217,
+         "id": "1166852",
+         "field_search": "question",
+         "question": "Cho e hỏi fb e bị như này. Và e xác minh bằng sđt và k hề nhận đc tn gửi mã xác minh về đt   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.858145,
+         "id": "836804",
+         "field_search": "question",
+         "question": "Mình đang dùng instagram bằng ip5s, ấn huỷ follow thì nó hiện lên: \"Không gửi đc tin nhắn.Tin nhắn này chứa nội dung bị khoá bởi các hệ thống bảo mật của chúng tôi...\" Và mình không huỷ follow được nữa. Direct vẫn gửi được bình thường. Sao lại thế ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.834795,
+         "id": "1152100",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Fb của mình thông báo đã đổi mật khẩu mặc dù mình không có thay đổi. Sau đó mình click vào bảo vệ tài khoản  thì nó gửi mã đến một cái email mà không phải của mình. vậy phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.789562,
+         "id": "999169",
+         "field_search": "question",
+         "question": "Em có chút vấn đề cần giúp ạ. Em có mua 1 chiếc sim gogo4g tại cửa hàng. Nhân viên ns vs em trong vòng 30ngày soạn tin gt10 gửi 191 để đăng ký nhưng em gửi k đk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.547783,
+         "id": "1166732",
+         "field_search": "question",
+         "question": "Em dùng oppo, có mạng hiển thị tin nhắn fb nhưng k vào trả lời được ,chỉ hiện thị mạng đang kết nối  nhưng wf vẫn bt ,các ứng dụng khác vẫn họt động bt .bị nv là sao ạ ,em đã xóa fb và tải lại nhưng vẫn k đk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.438848,
+         "id": "1136566",
+         "field_search": "question",
+         "question": "Ad cho hỏi chút mình có mua sp j7prime ở tgdd bây h sản phẩm bị lỗi mình sẽ đc bảo hành ntn ạ. Và trong quá trình gửi bảo hành mình có đc hỗ trợ mượn máy khác để sử dụng không ạ.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.347837,
+         "id": "1155728",
+         "field_search": "question",
+         "question": "2 máy của em có chung tài khoản fb mới đây em nhắn tin qua lại trên massenger lúc hai máy đều hoạt động lên mạng 3g mạnh cùng một lúc khi người khác gửi hình trên messenger thì hình ảnh 2 máy nhận dc đều bị ảnh hưởng, một máy thì hình ảnh bị bể nét, máy còn lại bị bể nét nhiều hơn mặc dù hình ảnh của người gửi cho mình không bị mờ. Ko biết có bị lỗi tài khoản hay ứng dụng gì ko mà gỡ ứng dụng rồi cài lại vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.345205,
+         "id": "815939",
+         "field_search": "question",
+         "question": "Cho em hỏi mấy bữa nay điện thoại iphone 4s của em gửi tin nhắn cho mấy bạn được rồi nhưng bạn đó vẫn không nhận được tin nhắn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.28145,
+         "id": "801175",
+         "field_search": "question",
+         "question": " Tại sao mình đăng xuất zalo roi nhưng người khác nhắn tin tới vẫn nhận được tin nhắn ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.224344,
+         "id": "1142898",
+         "field_search": "question",
+         "question": "Mi A2 không gửi được tin nhắn . mình tìm chỗ trung tâm tin nhắn để cài mã cũng ko có mong ad trợ giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.205141,
+         "id": "761117",
+         "field_search": "question",
+         "question": " AC cho em hỏi, iPhone 4s không gửi được tin nhắn nhưng vẫn có thể nhận được. AC hướng dẫn em cách khắc phục nhé. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.153618,
+         "id": "1016556",
+         "field_search": "question",
+         "question": "em đặt hàng bằng một số đt nhưng em chuyển sđt khác để lấy hàng đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.14511,
+         "id": "914360",
+         "field_search": "question",
+         "question": "Mình và bạn gái dùng chung tài khoản icloud khi mình gửi tin nhắn trên điện thoại bạn gái vẫn nhận đc. Nhưng cứ phải kết nối internet thì mình mới nhận được tin nhắn từ điện thoại của bạn mình. Cho mình hỏi như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.1313,
+         "id": "816401",
+         "field_search": "question",
+         "question": "Mình gửi tin nhắn zalo cho ngta lúc ng đó chưa onl, tin nhắn hiện chữ \"đã gửi\". Sáng hôm sau thấy người ấy onl rồi, nhưng tin nhắn vẫn chỉ hiện chữ \"đã gửi\" thôi. Như vậy thì tin nhắn đã được gửi đến người nhận chưa? Có cần thiết phải gửi lại lần nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.129513,
+         "id": "1138808",
+         "field_search": "question",
+         "question": "Cho em hỏi cách tắt rung khi soạn tin nhắn với a, và tại sao khi ấn vân tay nhận rồi mấy vẫn yêu cầu nhập mật khẩu mới mở được máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.06643,
+         "id": "838902",
+         "field_search": "question",
+         "question": "Tại sao IPhone 5s của tôi lại không gửi ti nhắn được, mặc dù tôi đã làm đủ mọi cách giống như trên mạng, nhưng vẫn không được, giờ phải làm sao để nhắn tin đc đây? Tôi cần nhắn gấp trong 1 ngày nữa nên hãy trả lời nhanh nhé! Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.00393,
+         "id": "1138805",
+         "field_search": "question",
+         "question": "Tại sao khi e gửi tin nhắn thì người nhận có thể nhận nhận được nhưng khi họ gửi ngược lại thì e ko nhận được.... Cả 2 bên thuê bao gửi-nhận đều ko có thông báo bị lỗi khi gửi gì cả???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.964502,
+         "id": "1019153",
+         "field_search": "question",
+         "question": "Chào AD, cho em hỏi, em dùng sony xz, nhưng hay bị đơ lắm, mặc dù em đã resert lại náy, nhưng vãn đơ, Riêng tin nhắn là ko thể làm gì được ạ. Em dùng máy xz, nhưng hay gặp nhiều vấn đề quá ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.933714,
+         "id": "1155575",
+         "field_search": "question",
+         "question": "Làm sao để xóa sđt hiện ở khung này trên google máy tính v mặc dù đã xóa cookie lịch sử r nhưng vẫn hiện ? Thanks trước ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.932703,
+         "id": "986781",
+         "field_search": "question",
+         "question": "Cho e hỏi là mess của e tự dưng bị mất hết cuộc trò chuyện như này, k nhìn thấy tin nhắn nào mà ng ta gửi tin e cũng không nhận được thì là do lỗi gì ạ :(E bấm vẫy tay thì ng khác vẫn nhận được nhưng ng ta vẫy lại thì e k nhận đc ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.90894,
+         "id": "819621",
+         "field_search": "question",
+         "question": "Mình chỉ xem được hoạt động của người đó nhưng k được phép bình luận, khi gửi tin nhắn thì báo xin lỗi hiện tại mình không muốn nhận tin nhắn. Mặc dù người đó vẫn có tên trong danh bạ zalo của mình. cho mình hỏi tại sao z bạn cám ơn nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.888546,
+         "id": "1024587",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mình đang dùng samsung A7 2016. Muốn cài bảo mật vân tay và mật mã. Và máy đã đồng y, tuy nhiên khi vuốt máy vẫn chấp nhận. Mình ko muốn cài mật mã mà vuốt vẫn chấp nhận",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.838112,
+         "id": "1165600",
+         "field_search": "question",
+         "question": "tôi quên mật khẩu facebook yêu cầu gửi mã về sdt nhưng khi mã gửi về nhập vào thì nó bảo mã đã được nhập quá nhiều vui lòng thử lại sau là sao ạ . giúp tôi với 😣",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.7901,
+         "id": "1157773",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi tài khoản iCloud có bảo mật 2 lớp bị quên Mk.mình vẫn còn Sđt và tài khoản Gmail đăng ký iCloud.mình đã làm theo tgdđ hướng dẫn,đã nhập mã số 6 con số Apple gửi về sđt.có Thông báo là trước giờ này ngày mai sẽ có hướng dẫn gửi về tk gmail mình đăng ký iCloud nhưng 2 ngày rồi mà ko thấy gì.mong qtv giúp đỡ!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.77164,
+         "id": "858524",
+         "field_search": "question",
+         "question": " ad ơi cho hỏi làm sao để gửi hình ảnh qua tin nhắn đc thế ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.737906,
+         "id": "773789",
+         "field_search": "question",
+         "question": "Mình đang dùng điện thoại Masstel M503 và dùng sim viettel đầu 0167 sim của mình vẫn nghe gọi bình thường nhưng khi gửi tin nhắn thì không gửi được. Mà nếu gửi được có khi chờ mất hàng tiếng đồng hồ. Mong QTV giải thích giúp mình với. Thân.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.719585,
+         "id": "810890",
+         "field_search": "question",
+         "question": "Cho em hỏi sao facebook của em, em gửi tin nhắn cho người khác được mà người khác nhắn tin lại cho em em đọc không được vậy ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.624647,
+         "id": "1138521",
+         "field_search": "question",
+         "question": "E dùng oppo f9 bị mất khay sim. Cho e hỏi có mua đc cái khác thay vào hoặc bảo hành đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.559547,
+         "id": "1139884",
+         "field_search": "question",
+         "question": "Điện thoại của mình là oppo1201 hông hiểu sao 2 hôm nay gửi tin nhắn sms cho người khác thì được nhưng người nhận không nhận được tin nhắn cho mình hỏi là đã bị lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.362925,
+         "id": "1168541",
+         "field_search": "question",
+         "question": "Em có một vấn đề với việc nhận mã đăng nhập Facebook ạ , em nhấn gửi mã để xác thực bằng 2 yếu tố trên Facebook nhưng lại không nhận được mã xác nhận , ad có thể giúp em không ạ ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.277563,
+         "id": "1001437",
+         "field_search": "question",
+         "question": "Em không gửi được tin nhắn trên điện thoại zte blade v7 lite, bình thường vẫn gửi được, mong mọi người chỉ em cách gửi tin nhắn lại như bình thường ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.25758,
+         "id": "997816",
+         "field_search": "question",
+         "question": "tôi đã đóng tiền bên fe credit từ ngày 25/06 nhưng đến nay tôi vẫn chưa nhận được tin nhắn báo đóng tiền , thường khi tôi đóng tiền khoảng 2 ngày là có tin nhắn nhưng nay vẫn không có là sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.179468,
+         "id": "1140926",
+         "field_search": "question",
+         "question": "Khi gửi nhầm tin nhắn qua zalo cho người khác mà họ chưa nhận được, tôi đăng xuất zalo thì người đó còn nhận được tin nhắn đó không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.171944,
+         "id": "1159377",
+         "field_search": "question",
+         "question": "tại sao samsung A50 sau khi cắt sim lắp vào gọi cho người khác thì bình thường nhưng khi người khác gọi vào số mình thì lại thành gọi vào máy khác mặc dù số vẫn là sim mình ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.142862,
+         "id": "1159087",
+         "field_search": "question",
+         "question": "fb em đột nhiên bị khóa, nó bắt xác minh danh tính bằng cách gửi mã về sđt. nhưng sđt của em lại không hợp lệ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.132692,
+         "id": "1153491",
+         "field_search": "question",
+         "question": "Cho hỏi máy đt J7 PRO  của mình còn 4g mà vẫn k vô đc fb hay fb lite chỉ vô mess nt đc còn gửi ảnh thì k. Gói 4g mình 70k h đổi qua 90 mà vẫn k đc. Mạng viettel",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.127064,
+         "id": "1156477",
+         "field_search": "question",
+         "question": "cho mình hỏi là mĩnh lỡ xóa tin nhắn trong zalo của người khác gửi cho mình , thì bên gửi có biết ko vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.11907,
+         "id": "836734",
+         "field_search": "question",
+         "question": "Chào anh chị ạ!! Em không dùng viber và cũg không có tài khoản Viber luôn!! Hôm qua viber có gửi cho em mã COD để xác nhận khi tạo tài khoản ý ạ!! Và tiếp theo là liên tiếp 3 cuộc gọi từ nước ngoài, tuy ngiên em không nghe máy! Em khẳng định là lúc đấy em KHÔNG tạo tài khoản viber vậy mà viber gửi mã!! Em đang bị gì vậy ạ?? Mong anh chị giúp đỡ em với!! Em đang bị hack ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.082167,
+         "id": "846756",
+         "field_search": "question",
+         "question": "Các anh chị cho e hỏi với. Em dùng oppo F1, e đã bật chế độ chạy nền cho ứng dụng zalo rồi mà khi có tin nhắn vẫn k nhận đc thông báo. chỉ khi e vào ứng dụng zalo thì mới nhận đc thông báo ạ??????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.057669,
+         "id": "1011693",
+         "field_search": "question",
+         "question": "sim 4G thì đăng kí 3G 1 ngày bằng cú pháp nào ạ xin  chỉ giúp với xài mấy cái cú pháp trên wed báo là không được sim 4G vitel nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

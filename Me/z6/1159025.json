@@ -1,0 +1,809 @@
+{
+   "id_query": "1159025",
+   "total": 31501,
+   "total_current": 100,
+   "max_score": 162.45464,
+   "origin_question": "Tôi làm giao nhận (shipper), tôi có thể mua Ipad trả góp, tôi có CMND, Hộ Khẩu tỉnh, và có thể chứng minh thu nhập bằng bảng doanh thu trên app tài xế. Lương 1 tháng khoảng tầm 10 - 12 triệu thì có thể mua trả góp trả trước 0% không?",
+   "hits": [
+      {
+         "score": 162.45464,
+         "id": "1159025",
+         "field_search": "question",
+         "question": "Tôi làm giao nhận (shipper), tôi có thể mua Ipad trả góp, tôi có CMND, Hộ Khẩu tỉnh, và có thể chứng minh thu nhập bằng bảng doanh thu trên app tài xế. Lương 1 tháng khoảng tầm 10 - 12 triệu thì có thể mua trả góp trả trước 0% không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.56385,
+         "id": "989610",
+         "field_search": "question",
+         "question": "Tôi cần mua điện thoại trả góp, tôi có hộ khẩu, cmnd, giấy phép lái xe nhưng là bản photo có công chứng, tôi có thể mua trả góp được không. cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.6927,
+         "id": "1004287",
+         "field_search": "question",
+         "question": "Tôi có cmnd vs hộ khẩu muốn mua góp s8 trả trước 10 có được không cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.847614,
+         "id": "991594",
+         "field_search": "question",
+         "question": "Tôi muốn mua điện thoại trả góp nhưng không có hộ khẩu gốc.chỉ có photocopy công chứng liệu có thể mua không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.52873,
+         "id": "992760",
+         "field_search": "question",
+         "question": "mua trả góp 0 bằng chứng minh nhân dân và sổ hộ khẩu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.396347,
+         "id": "1023397",
+         "field_search": "question",
+         "question": "Tôi muốn mua trả góp điện thoại bằng cmnd và sổ hộ khẩu photo công chứng đc k.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.191086,
+         "id": "1006516",
+         "field_search": "question",
+         "question": "em chỉ có cmnd + bằng lái mà không đem sổ hộ khẩu thì có mua được oppo f3 gói trả trước 2 triệu và góp 12 tháng không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.170574,
+         "id": "1161354",
+         "field_search": "question",
+         "question": "Mình có đt nào trả trước 0 đồng k ạ. Mua trả góp bằng hộ khẩu vs chứng minh thư ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.22454,
+         "id": "1167102",
+         "field_search": "question",
+         "question": "em muốn mua trả góp 0% giấy tớ có chứng minh thư nhân dân và hộ khẩu bản sao công chứng thì có mua được không ạ, em chỉ mua sản phẩm dưới 10 triệu và trả góp trong 8 tháng liệu có được duyệt không và thời gian cần duyệt có nhanh không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.95734,
+         "id": "1006027",
+         "field_search": "question",
+         "question": "tôi có đủ điều kiện để mua trả gió (giấy chứng minh nhân dân và sổ hộ khẩu) nhưng giấy chứng minh nhân dân bị nhòe, không thấy rõ số, thì tôi có được mua trả góp nữa hay không??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.6371,
+         "id": "1148452",
+         "field_search": "question",
+         "question": "Bây giờ tôi muốn mua trả góp điện thoại huawei nova 3i qua ngân hàng home credit có cmnd và hộ khẩu thì có những khoảng trả góp như thế nào vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.3712,
+         "id": "859412",
+         "field_search": "question",
+         "question": "Mình là nhân viên làm quán ăn, hiện tại mình muốn mua 1 laptop để chơi game, vì mức lương hạn chế nên mình muốn mua trả góp! Nhưng mình chỉ có CMND và hộ khẩu công chứng thì có mua được trả góp hay không? Mức lương của mình là 3 triệu 8 đến 4 triệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.009106,
+         "id": "1019745",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp nhưng chưa đủ 20 tuổi, nên em có thể nhờ mẹ mua trả góp bằng CMND và Hộ khẩu do mẹ đứng tên được không ( kèm theo hóa đơn điện ). Nếu được thì mình lấy bản photo của CMND và Hộ khẩu ( có công chứng ) và bản góc của CMND và Hộ khẩu ra hay sao ạ??.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.655693,
+         "id": "1145511",
+         "field_search": "question",
+         "question": "Trả góp 0% trong 12 tháng vậy mình có thể sử dụng thêm chương trình khuyến mãi thu điện thoại cũ đổi mới hay không?và có trả trước bao nhiêu % không,cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.257656,
+         "id": "1006401",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp điện thoại Xiaomi Redmi 4X. Thấy có chương trình trả góp lãi suất 0%. Yêu cầu CMND và bằng lái xe. Vậy mình có thể thay Bằng lái xe bằng Sổ hổ khẩu được không ? Và có còn được trả góp lãi suất 0% khi lấy hộ khẩu thay cho bằng lái xe ?Mong phản hồi từ ADMIN !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.149864,
+         "id": "1022880",
+         "field_search": "question",
+         "question": " minh co cmnd vs hộ khẩu thì Mình có thể trả góp 2 máy tại c.ty không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.333084,
+         "id": "829694",
+         "field_search": "question",
+         "question": "Cho mình hỏi tháng 6 này có còn khuyến mãi trả góp Iphone 6s plus lãi suất 0% không? Thủ tục trả góp bằng CMND và Hộ khẩu Photo công chứng trong 3 tháng được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.04247,
+         "id": "1023779",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp máy 0% nhưng em chưa đủ tuổi em có thể mang Cmnd của mẹ và sổ hộ khẩu lên trả góp được không ? Ai sẽ là người ký ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.996918,
+         "id": "993550",
+         "field_search": "question",
+         "question": "E muốn mua trả góp trả trước 10  dc ko ạ. E có cmnd hộ khẩu và hoá đơn điện.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.5434,
+         "id": "1011486",
+         "field_search": "question",
+         "question": "Mình muốn mua iphone7 32GB. Mình  có  cmnd và hộ khẩu nguyên cuốn công chứng Có mua trả góp được khôngnếu dc Mình  trả  10% mình  muốn góp trong 9 tháng Thì lãi suất thế  nào  .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.292923,
+         "id": "986766",
+         "field_search": "question",
+         "question": "Tôi đang trả góp ngân hàng FE, nay tôi có thể mua trả góp đt A9 nữa đc k ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 52.207222,
+         "id": "1007406",
+         "field_search": "question",
+         "question": "Tôi muốn góp Samsung s8 đưa trước 20 góp 12 tháng có giấy điện và hộ khẩu giấy cmnd được không .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.89676,
+         "id": "994694",
+         "field_search": "question",
+         "question": "Cho mình hỏi :. Mua trả gióp .. , máy .. oppo F3 :D   Chỉ chỉ có sổ hộ khẩu .. vs lại CMND . vậy có thể mua trả góp  0% đc ko .. vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.65887,
+         "id": "1142727",
+         "field_search": "question",
+         "question": "cho em hỏi là nếu em mua trả góp đt và trả trước 40%và góp 12 tháng, và số tiền còn lại trả góp hàng tháng em có thể trả theo từng tháng. Nhưng nếu còn góp khoảng 4 tháng phải góp nữa mới xong mà em có tiền đủ trả hết luôn trong 1 lần thì có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.62826,
+         "id": "1159660",
+         "field_search": "question",
+         "question": "nếu chỉ có chứng minh nhân dân photo công chứng và sổ hộ khẩu gốc có thể làm hồ sơ trả góp điện thoại được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.37532,
+         "id": "999178",
+         "field_search": "question",
+         "question": "tôi muốn mua samsung galaxy s8 plus , trả góp và trả trước 30% , ngoài cmnd và sổ hộ khẩu ra thì tôi còn phải chuẩn bị giấy tờ gì nữa vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.20626,
+         "id": "997086",
+         "field_search": "question",
+         "question": "Xin chào các anh chị ! Tôi tên Tùng. là giáo viên. Nhà ở huyện Châu Thành, tỉnh Sóc Trăng. Tôi muốn mua trả góp smart phone Galaxy C9 pro. Nếu có đủ CMND, hộ khẩu, hóa đơn tiền điện hàng tháng thì phải trả trước bao nhiêu tiền và trả thêm bao nhiêu tháng nữa, mỗi tháng sau đó gởi bao nhiêu?Cám ơn trước.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.12624,
+         "id": "1009309",
+         "field_search": "question",
+         "question": "em mua trả góp trả trước 0 đồng , nhưng hộ khẩu em không cầm thì thay bằng bằng lái xe có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.0797,
+         "id": "756886",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có sổ hộ khẩu photo có công chứng+ cmnd+ bằng lái xe có được sử dụng để mua trả góp 0% cho iPhone 6s không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 51.03391,
+         "id": "748164",
+         "field_search": "question",
+         "question": "Cho hỏi iPhone 4s mua trả góp có bằng lái chứng minh trả trong vòng 10 tháng. Trả trước 50% Thì lãi xuất một tháng là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.92655,
+         "id": "999805",
+         "field_search": "question",
+         "question": "Cho em hỏi. Đợt trước em có mua trả góp 1 cái điện thoại mà em chưa trả tiền hết 4 đợt. Giờ em có thể lấy hộ khẩu cmnd đó trả góp thêm 1 máy lạnh được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 50.458996,
+         "id": "835757",
+         "field_search": "question",
+         "question": "Anh ơi,em muốn mua 1 app trên appstore nhưng k có thể master,với cả làm thẻ nhiều thủ tục chứng minh thu nhập e k có,e muốn hỏi bên tgdd có dịch vụ mua app hộ ,rồi bên khách hàng trả tiền cho tgdd k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.98452,
+         "id": "999849",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua trả góp 0% note 5 dc 15 ngày . giờ mình muốn mua trả góp thêm 1 dt khác trên 10 triệu nữa . vậy có dc ko . mình chỉ có cmnd và bằng lái xe .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.952927,
+         "id": "1136930",
+         "field_search": "question",
+         "question": "Tôi có 1,5tr muốn mua máy samsung j4+ tôi muốn mua trả góp 0% trả trong vòng 4 tháng hỏi mỗi tháng tôi phải trả bao nhiêu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.951805,
+         "id": "990616",
+         "field_search": "question",
+         "question": "Cho hỏi nếu muốn mua đt trả góp mà chứng minh nhân dân bị hết hạn có thể thay bằng hộ khẩu hay giấy phép lái xe được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.800503,
+         "id": "1147286",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có cmnd gốc và hộ khẩu tỉnh photo gốc có công chứng nhưng vừa hết hạn 18/1 này thì có được hỗ trợ mua trả góp điện thoại không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.62659,
+         "id": "1145335",
+         "field_search": "question",
+         "question": "Cho mình hỏi.mình muốn mua điện thoại trả góp bằng giấy chứng minh và sổ hộ khẩu pho to công chứng thì có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.480988,
+         "id": "1152868",
+         "field_search": "question",
+         "question": "Chào anh /chị.mình đang tính mua trả góp 1 laptop .mình chỉ cần mang cmnd+bằng lái xe và trả trước ví dụ 30% tiền.là có thể làm thủ tục nhận máy ngay đúng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 49.469944,
+         "id": "1149454",
+         "field_search": "question",
+         "question": "Mua Iphone 8 Plus trả góp 12 tháng, trả trước 10 có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.312153,
+         "id": "922741",
+         "field_search": "question",
+         "question": " Tgdd có thể cho tôi hỏi  Laptop lenovo yoga 500 IBD có bán trả góp 0 không vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.258595,
+         "id": "1136668",
+         "field_search": "question",
+         "question": " Tôi muốn mua ĐT trả góp nhưng tôi chỉ có cmnd có mua được k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 48.074043,
+         "id": "1005114",
+         "field_search": "question",
+         "question": "cho hỏi mình có mua trả góp nhưng lâu mình không trả vì không có điều kiện , mình mới trả hết bên ngân hàng khoảng 1 tháng trước . bây giờ mình có thể mua trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.984146,
+         "id": "1011179",
+         "field_search": "question",
+         "question": "cho mình hỏi  mình là khách hàng đã từng mua trả góp của TGDD,giờ mình muốn mua trả góp máy tính bảng có cần phải đủ chứng minh thư và sổ hộ khẩu ko hay chỉ cần mỗi chứng minh thư thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.751225,
+         "id": "787179",
+         "field_search": "question",
+         "question": "em trả góp iPhone 5strả trước 10%trong 12 thángcủa FECreditmình đi trả góp chỉ cần cmnd vs hộ khẩu thôi được không ad? mìn có cần đem theo gì nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.74269,
+         "id": "1141252",
+         "field_search": "question",
+         "question": "mình muốn trả góp điện thoại.....nhưng chưa đủ tuổi...mình có thể lấy cmnd của bố hoặc mẹ.....và sổ hộ khẩu gia đình đưa đến mua trả góp được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.705822,
+         "id": "993350",
+         "field_search": "question",
+         "question": "Cho e hỏi e muốn mua trả góp 0 mà chỉ có chứng minh thư với hộ khẩu được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.692394,
+         "id": "999165",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi e không có bằng lái xe mà e chỉ có cmnd và hộ khẩu gốc vậy e có thể mua trả góp điện thoại tại tgdd được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.210262,
+         "id": "1001855",
+         "field_search": "question",
+         "question": "Tôi có mua trả gó đt j5 primer của cty tài chính Fe, góp 5 tháng, nay tôi muốn thế giới di động thu máy lại để tôi đổi sang dòng đt khác được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.956024,
+         "id": "1023812",
+         "field_search": "question",
+         "question": "Cho em hỏi, em muốn mua trả góp, có CMND, nhưng chỉ có sổ hộ khẩu photo công chứng thôi thì có được làm thủ tục không ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.44599,
+         "id": "1010316",
+         "field_search": "question",
+         "question": "tôi muốn mua cùng 1 lúc 2 sản phẩm trả góp có được không vậy, mong TGDD có thể hổ trợ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.274418,
+         "id": "1002927",
+         "field_search": "question",
+         "question": "Tôi có trả góp 1 sp cách đây 10 hôm giờ tôi muốn đổi trả và  chuyển sang góp sp khác có được không.. nếu được thì cần đk j ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.234596,
+         "id": "1147117",
+         "field_search": "question",
+         "question": " E mua điện thoại a6 trả góp 12 tháng giờ e ko thích có thể trả lại ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 46.088814,
+         "id": "895159",
+         "field_search": "question",
+         "question": "Tôi, Hà Thạch Thủy Thương đã từng mua 1 ipad air tại TGDD ở Tam Kỳ, h tôi cài đặt lại cho ipad của mình có hỏi khóa kích hoạt (nhập ID Apple và mậ khẩu) nhưng tôi nhập theo ID của tôi lại thông báo \"Không thể sử dụng tài khoản này để mở khóa ipad. Cho tôi hỏi: khi tôi mua máy, nhân viên ở đây đã cài đặt tài khoản nào cho máy tôi. Mong trả lời sớm để tôi có thể tiếp tục làm việc. Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.954304,
+         "id": "1155758",
+         "field_search": "question",
+         "question": "mình muốn mua xiaomi note6 pro  trả góp 12 tháng, hiện tại mình không ở quê nên chỉ có hộ khẩu công chứng không biết có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.710423,
+         "id": "1023942",
+         "field_search": "question",
+         "question": " cho em hỏi em có chứng minh gốc và hộ khẩu phô tô có công chứng em mua điện thoại trả góp được không anh chị  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.660652,
+         "id": "1165133",
+         "field_search": "question",
+         "question": "Em muốn mua  trả góp galaxy note 8 thủ tục mua trả góp cần hộ khẩu chứng minh nhân dân bằng lái xe không hóa đơn điện được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.65268,
+         "id": "1016538",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi mua trả góp 5s . trả trước o% có bằng lái xe và chứng minh chênh lệch bao nhiêu so với trả thẳng và mỗi tháng trả bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.634445,
+         "id": "867886",
+         "field_search": "question",
+         "question": " EM MUỐN MUA TRẢ GÓP IP6S PLUA GẦN 22 TRIỆU, TRẢ 50 NHƯNG CÓ CHỨNG MINH GỐC VÀ BẰNG LÁI XE ĐƯỢC K Ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.614613,
+         "id": "999067",
+         "field_search": "question",
+         "question": "Bây giờ mua trả góp thì có giao hàng ol không nhỉ ? Các bạn có thể tư vấn về mua trả góp cho mình đc không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.536385,
+         "id": "1014740",
+         "field_search": "question",
+         "question": "TGDD cho mình hỏi, mình muốn mua trả góp nhưng không có sổ hộ khẩu bản chính. nên có thể sử dụng sổ hộ khẩu photo có công chứng thay thế được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.46873,
+         "id": "996342",
+         "field_search": "question",
+         "question": "Cho em hỏi là em muốn mua điện thoại tầm 4,5 triệu (xiaomi redmi note 4) với hình thức trả góp 0%, trả trước tầm 2 triệu. Em hiện 20 tuổi, có CMND và bằng lái xe. Em còn cần thêm giấy tờ gì hay không và có cần hỏi ý kiến phụ huynh để xin xác nhận trả góp từ phía công ty trả góp hay không? Tại vì em đang có 1 chiếc điện thoại rồi,  sợ ba mẹ sẽ không cho mua thêm, nên em hỏi xem lúc làm hồ sơ trả góp là có điện thoại cho phụ huynh xác nhận hay không. Nhờ anh/chị tư vấn giúp. Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.304604,
+         "id": "1134803",
+         "field_search": "question",
+         "question": "tôi muốn mua 1 máy samsunggalaxy A7 trả góp qua thẻ tín dụng sacobank thời hạn 12 tháng cho tôi hỏi mỗi tháng sẽ góp bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.297367,
+         "id": "1007319",
+         "field_search": "question",
+         "question": "Nều mua trả góp có thể trả trước 50 ,còn số tiền góp trong vòng 3 tháng được không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.18733,
+         "id": "1139350",
+         "field_search": "question",
+         "question": "Tôi muốn mua điện thoại trả góp. Nhưng sổ hộ khẩu hiện đang ở dưới quêTôi chụp hình sổ hộ khẩu để mua trả góp Được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 45.078503,
+         "id": "756739",
+         "field_search": "question",
+         "question": " Tôi muốn mua iphone 5s trả góp thì làm thế nào và trả trước bao nhiêu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.87354,
+         "id": "1023401",
+         "field_search": "question",
+         "question": "Tôi muốn mua điện thoại trả góp, không biết TGDĐ còn trả góp 0 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.82824,
+         "id": "880843",
+         "field_search": "question",
+         "question": "Em sinh năm 97 , e muốn mua iphone 5s trả góp . E có cmt và hộ khẩu photo nhưng chưa công chứng . Có mua được trả góp k ạ ? Và cho e hổ giá trả trước là bao nhiêu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.570484,
+         "id": "1139032",
+         "field_search": "question",
+         "question": " mua trả góp cần chứng minh thư với blx hoặc sổ hộ khẩu . mình thay sổ hộ khẩu bằng hộ chiếu dc k vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.558933,
+         "id": "990919",
+         "field_search": "question",
+         "question": "mình muốn mua hàng trả góp, mà mình có cmnd và sổ hộ khẩu được mua không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.532776,
+         "id": "792988",
+         "field_search": "question",
+         "question": "Em muốn mua laptop asus a540 gia 9tr4 trả góp trước 1tr5 góp trong vòng 12 tháng được không em có cmnd và giấy phép lái xe?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.361202,
+         "id": "796671",
+         "field_search": "question",
+         "question": " Tôi cần mua iphone 6s plus 16GB trả góp nhưng trả trước khoảng 18tr được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.32921,
+         "id": "843638",
+         "field_search": "question",
+         "question": "Em sinh năm 97 , e muốn mua iphone 5s trả góp . E có cmt và hộ khẩu photo nhưng chưa công chứng . Có mua được trả góp k ạ ? Và cho e hổ giá trả trước là bao nhiêu. E làm nghề tự do ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.329144,
+         "id": "996252",
+         "field_search": "question",
+         "question": "May đội trả.  Có trả góp ko? Hình thức ra sao?  Lúc trước em có mua trả góp, giờ cần làm lại thu tuc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.319107,
+         "id": "992402",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi chút, chứng minh thư, sổ hộ khẩu mình đang trong thời gian trả góp. Vậy mình có thể mang đi trả góp tiếp được không bạn. Bạn tư vấn giúp mình được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.305977,
+         "id": "995020",
+         "field_search": "question",
+         "question": "Em lấy CMND của anh em và hộ khẩu có mua trả góp được không.Anh em 19t còn 3 tháng nữa 20t",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.114822,
+         "id": "1024114",
+         "field_search": "question",
+         "question": "em muốn hỏi, em đang trả góp bên fe creat được 4 tháng rồi giờ em muốn mua thêm trả góp bên ngân hàng khác có được không ạ, và giấy tờ em có bây giờ sổ hộ khẩu photo công chứng với chứng minh thư",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.105125,
+         "id": "1004039",
+         "field_search": "question",
+         "question": "điện thoại oppo f3 em muốn trả góp lãi suất 0%, số tiền em có thể trả trước là 800.000 và muốn góp trong 9 tháng thì mỗi tháng góp bao nhiêu tiền hả ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.079002,
+         "id": "994358",
+         "field_search": "question",
+         "question": "Có cmnd và hk. Nhưng mới 19t . Có thể trả góp dc k. Và mình muốn mua oppo f3 . Mức tối thiểu khi trả trước là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.077442,
+         "id": "993117",
+         "field_search": "question",
+         "question": "máy của tôi đi bảo hành đến ngày hẹn rồi mà không được thì bên mình giải quyết như thế nào?Đó là tôi còn mua trả góp nếu trả tiền ngay một cục thì các bạn thích lúc nào trả thì trả à?tôi mua trả góp vậy đến tháng tôi không trả theo định kỳ với lý do chưa có tiền có được không?cả một hệ thống làm ăn như vậy có được không?hay tôi cứ trả tiền còn máy thì không được dùng trong khi tôi mới mua máy được 1 tháng 13 ngày?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 44.067745,
+         "id": "1161427",
+         "field_search": "question",
+         "question": "Oppo f11 pro mua trả gópTrả trước 10 và góp 12 tháng đc không shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.895065,
+         "id": "1141913",
+         "field_search": "question",
+         "question": "HIỆn em có sổ tạm trút tạm vắng và bằng lái xe, smnd thì em có thể mua đt trả góp bên mjh k ạ. Và em có thể mua trả góp như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.882084,
+         "id": "1002475",
+         "field_search": "question",
+         "question": "tôi bị liệt vào nhóm nợ xấu liệu bây giờ tôi còn có thể mua trả góp dc nữa không ạ,mong nhận được tư vấn của các bạn,tôi xin cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.850945,
+         "id": "1008512",
+         "field_search": "question",
+         "question": "Mua trả góp Iphone 6 plus 16gb có hộ khẩu TPHCM và bằng lái xe phải trả trước tối thiểu bao nhiêu tiền mới được mua ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.797897,
+         "id": "1015509",
+         "field_search": "question",
+         "question": "khi trả góp thì sổ hộ khẩu có cần công chứng không ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.72985,
+         "id": "1000004",
+         "field_search": "question",
+         "question": "em muốn trả góp cái  Điện thoại Asus Zenfone 3 Max 5.5\" ZC553KL 0% bằng chứng minh nhân dân với hộ khẩu kèm theo có đc kh v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.714203,
+         "id": "998187",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua trả góp nhưng hiện e 19t, e có thể mượn giấy cmnd và bằng lái xe của người thân e để mua trả góp k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.694633,
+         "id": "1140256",
+         "field_search": "question",
+         "question": " E muốn mua trả góp mà k có sổ hộ khẩu gốc . Vậy dùng bản photo công chứng  cmnd dc k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.68604,
+         "id": "1157489",
+         "field_search": "question",
+         "question": "Cho e hỏi mua trả góp cần chứng minh với hộ khẩu. Thì hộ khẩu ở quê dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.66598,
+         "id": "1160376",
+         "field_search": "question",
+         "question": "Em sinh ngày 8.7.2000 có bằng lái xe. cmnd. Sổ hộ khẩu v có mua trả góp được không ạ. Cảm ơn ad ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.599255,
+         "id": "1010248",
+         "field_search": "question",
+         "question": "cho hỏi tôi muốn mua điện thoại J7 trả góp 0% sao trong danh sách các huyện của tỉnh thanh hóa không có huyện cẩm thủy vậy add. hay huyện cẩm thủy không cho trả góp ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.584927,
+         "id": "794911",
+         "field_search": "question",
+         "question": " Mình muốn mua trả góp ipad khoảng 4tr rưỡi. Mình trả trước 1 tr thì hàng tháng mình phải trả bao nhiêu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.57484,
+         "id": "1003389",
+         "field_search": "question",
+         "question": "Tôi định mua trả góp samsung j7 pro nhưng mẹ tôi cho tiền tôi trả góp ... vậy tôi có đủ điều kiện để mua k vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.49419,
+         "id": "1168165",
+         "field_search": "question",
+         "question": "cho em hỏi như em đặt mua trả góp 6 tháng. nhưng tới tháng thứ hai em có tiền vậy có thể trả hết được không? có thể thanh lý trả góp được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.439922,
+         "id": "991285",
+         "field_search": "question",
+         "question": "Mình sinh năm 95, mình muốn mua trả góp con samsung j7 prime , gói lãi suất 0%. thì cần CMND vs Hộ Khẩu bản công chứng được ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.415142,
+         "id": "1008514",
+         "field_search": "question",
+         "question": "Mua trả góp Iphone 6 plus 16gb có hộ khẩu TPHCM và bằng lái xe phải trả trước tối thiểu bao nhiêu tiền mới được mua ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.415142,
+         "id": "1008513",
+         "field_search": "question",
+         "question": "Mua trả góp Iphone 6 plus 16gb có hộ khẩu TPHCM và bằng lái xe phải trả trước tối thiểu bao nhiêu tiền mới được mua ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.34967,
+         "id": "1011871",
+         "field_search": "question",
+         "question": "E 19t có thể mua trả góp tại tgdd được không ạ. Và e có thể mua trả góp với ngân hàng nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.347862,
+         "id": "1022394",
+         "field_search": "question",
+         "question": "Cho hỏi mình muốn mua điện thoại trả góp mà chỉ có chứng minh thư với hộ khẩu được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.31256,
+         "id": "989930",
+         "field_search": "question",
+         "question": "Tôi vừa mua trả góp oppo F1s được một tháng tôi muốn chuyển sang góp oppo F3 plus có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 43.28697,
+         "id": "743943",
+         "field_search": "question",
+         "question": " tôi cần mua Iphone 5S, trả góp điều kiện ra sao?, tôi có cần trả trước tiền mặt khi bắt đầu mua máy. ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

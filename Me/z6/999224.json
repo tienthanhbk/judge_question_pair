@@ -1,0 +1,809 @@
+{
+   "id_query": "999224",
+   "total": 27559,
+   "total_current": 100,
+   "max_score": 87.75229,
+   "origin_question": "Chào thế giới di động. Em mua sony xperia xa đã 10 ngày. Mà dùng đôi khi bàn phím cứ như thế này. Tư vấn giúp em ",
+   "hits": [
+      {
+         "score": 87.75229,
+         "id": "999224",
+         "field_search": "question",
+         "question": "Chào thế giới di động. Em mua sony xperia xa đã 10 ngày. Mà dùng đôi khi bàn phím cứ như thế này. Tư vấn giúp em ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.691193,
+         "id": "1007824",
+         "field_search": "question",
+         "question": "Cho mình hỏi sony Xperia XA bên thế giới di động thu lại bao nhiêu vậy ạ. Mình mới mua hồi tháng 52017",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.69148,
+         "id": "918440",
+         "field_search": "question",
+         "question": "xin chào anh chị Thế Giới Di Động hôm trước em có mua cái laptop Dell Inspiron 5459 i7 trên bàn phím có nút mở đèn bàn phím nhưng em bật hoài nó không lên đèn mong anh chị giúp dùm em...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.49995,
+         "id": "1024154",
+         "field_search": "question",
+         "question": "Ad giup e vơi laptop asus của e sau khi reset máy thì bàn phím không ăn nữa ,đôi khi nhấn được mà có cứ chạy như thế này : dddddddddddddd.chỉ e cach khăc phuc vơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.785292,
+         "id": "1139891",
+         "field_search": "question",
+         "question": "chào thế giới di động, Em dùng máy Samsung galaxy j3 2017. Vấn đề là khi em chơi một số game thì 5 hoặc 12 phút sau thì máy tự tắt nguồn và khởi động lại với mấy ứng dụng khác thì không sao nhưng riêng game lại bị, em đã dùng đủ mọi cách và reset factory cho máy, nhưng nó vẫn thế mong thế giới di động giúp em ! ,;-;",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.76752,
+         "id": "1000984",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động. Em có mua 1 chiếc máy tính hiệu ASUS tại thế giới di động ở Tây Ninh. Hiện bàn phím của máy em đã bị hư một vài phím. Máy vẫn còn bảo hành, vậy nếu em muốn sửa chữa lại máy thì có mất phí hay không? Nếu mất thì có thể là bao nhiêu? Em xin cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.446795,
+         "id": "886795",
+         "field_search": "question",
+         "question": " Laptop của em bị hư bàn phím không biết bên thế giới di động có sửa không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.158726,
+         "id": "1158788",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động, Mình muốn được tư vấn về iPhone 7 Plus thì phải làm sao ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.82834,
+         "id": "1023605",
+         "field_search": "question",
+         "question": "Mình mới mua samsung A7 2017 hôm 18/9. Máy mới nhưng lướt web, xem youtube rất chậm. Lên fb đôi khi cũng chậm, đôi khi đơ máy. Dùng giống như máy đã cũ vậy. Vậy là sao thế giới di động?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.266685,
+         "id": "997468",
+         "field_search": "question",
+         "question": "cho em hỏi thế giới di động có thu điện thoại a8 không và nếu có thì hình thức như thế nào vui lòng tư vấn cho em được rõ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.264153,
+         "id": "1021835",
+         "field_search": "question",
+         "question": "Xin chào. Cho mình hỏi chút a. Chiếc smartphone Sony Xperia XA Ultra cũ hiện tại đang ở shop phải không a. Có đảm bảo 100% dùng tốt không và nếu có bảo hành thì bên thế giới di động bảo hành đúng không a ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.194885,
+         "id": "1016818",
+         "field_search": "question",
+         "question": "E mới mua điện thoại Sony Xperia L1 ngày 10.8.2017 giờ e trả lại thế giới di động rồi e bù tiền vô lấy điện thoại khác được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.186726,
+         "id": "1156039",
+         "field_search": "question",
+         "question": "em muốn hỏi 1 vấn đê , ngày trước em có mua trả góp 1 cái điện thoại di động bên thế giới di động , cũng cách đây gần 3 năm rồi, bên ngân hàng cứ gọi qua cho em để hỏi dụ vay tiền dù nhiều lần em đã từ chối và bảo đừng gọi cho em nữa , nhưng cứ gọi hoài , trước em kí hợp đồng bên thế giới di động , bây giờ em muốn xóa thông tin của mình thì phải làm như thế nào , chứ làm phiền em quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.032053,
+         "id": "810852",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi, dạo này laptop em hay bị lỗi bàn phím không đánh chữ được, khi click đúp chuột trái vào 1 icon trên desktop thì nó hiện lên thẻ Properties, mỗi lần như thế đều phải restart lại mới hết, thế thì rất phiền. Mong ad tư vấn giúp?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.931953,
+         "id": "944646",
+         "field_search": "question",
+         "question": " thế giới di động có bán ram máy tính để bàn ko ạ, mình muốn mua mà không biết có bán không? Ad rep lẹ giúp em ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.92694,
+         "id": "780306",
+         "field_search": "question",
+         "question": "Xin chào thế giới di động :)Hiện tại, em đang muốn tải game Pizza Frenzy về laptop nhưng em chưa tìm được một đường link an toàn cho máy. Em mong anh chị có thể tư vấn giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.771841,
+         "id": "1005336",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa mua điện thoại samsung glasy j2 ở thế giới di động dùng được tầm 10 ngày rồi và em đã bị mất hộp đựng rồi thì không biết có đổi được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.710342,
+         "id": "1142834",
+         "field_search": "question",
+         "question": "bên thế giới di động có nhận sửa điện thoại Sony Xperia Z4 không ạ/điện thoại mình bật nguồn lên hiện logo Sony xong rồi lại tự tắt đi bật lại cứ như thế mãi . đấy  là bị hỏng gì ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.638964,
+         "id": "776056",
+         "field_search": "question",
+         "question": "Em muốn mua lại 1 cái iPhone 5s. nó bảo mới mua ở Thế giới di động được 10 ngày, khi đi mua em cần kiểm tra những cái gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.450409,
+         "id": "1014750",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Bên thế giới di động có thu mua máy tính và bàn phím ipad air2 củ không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.092638,
+         "id": "1140214",
+         "field_search": "question",
+         "question": " Xin tư vấn cho tôi chương trình cũ đổi mới ở thế giới di động ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.092232,
+         "id": "757267",
+         "field_search": "question",
+         "question": "Em có mua một chiếc máy tính Dell tại thế giới di động vào 20/10 năm ngoái. Đến nay thì đã hết hạn bảo hành rồi nhưng em có không may xóa 1 vài phần mềm được cài sẵn mà không biết cài lại như thế nào. Vậy em có thể mang đến cửa hàng thế giới di động và nhờ cửa hàng sửa giúp không ạ? Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.08975,
+         "id": "976894",
+         "field_search": "question",
+         "question": "QTV ơi, tư vấn giúp em với! em muốn mua máy để chơi game và xem phim thì nên chọn máy nào ạ OPPO F1s <17>, Sony Xperia M5 hay Sony Xperia XA1,17>",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.031557,
+         "id": "1160991",
+         "field_search": "question",
+         "question": "Mình có mua macbook ở thế giới di động. Giờ bàn phím bị hỏng, không biết bên mình có sửa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.912083,
+         "id": "766113",
+         "field_search": "question",
+         "question": "Em mua iPhone 4s tại thế giới di động và đã sử dụng được 4 ngày. Hiện tại máy đã bị lỗi ở màn hình. Không biết thế giới di động có chính sách đổi trả sẽ giải quyết cho em như thế nào.Lỗi: Màn hình chính khi mở khóa bị xám đi khoảng 2 giây sau đó mới lên màu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.848284,
+         "id": "892365",
+         "field_search": "question",
+         "question": "Xin chào, qtv thế giới di động hay ai ghé qua câu hỏi này giúp mình với. Cứ mỗi khi mình mở máy tính hoặc vào internet là lại xuất hiện cái bản thông báo này \"brower.exe\" , không biết tắt thế nào cả?Cảm ơn đã đọc câu hỏi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.840729,
+         "id": "1019686",
+         "field_search": "question",
+         "question": "Em mua Xperia xa dual (f3116) còn bảo hành đến 13/3/2018. Thế giới di động có thu mua lại không ạ? Mức thu mua lại khoảng bao nhiêu so với giá lúc đầu mua ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.623901,
+         "id": "1002592",
+         "field_search": "question",
+         "question": "cho mình hỏi ở thế giới di động có bán tấm bảo vệ bàn phím máy tính k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.243906,
+         "id": "991874",
+         "field_search": "question",
+         "question": " Máy em mua ở Thế giới di động được 1 năm rồi. Mà giờ bị hư màn hình, Thế giới di động có thu lại không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.193432,
+         "id": "1004631",
+         "field_search": "question",
+         "question": "Chào Thế giới di động, Tôi muốn mua 1 chiếc điện thoại dành cho người cao tuổi, có hỗ trợ video call,Xin hỗ trợ tư vấn,Xin cảm ơn,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.964762,
+         "id": "1016844",
+         "field_search": "question",
+         "question": "Thế giới di động ơi cho em hỏi em mua điện thoại sony XA được 6 tháng nhưng giờ pin bị chai, dùng được khoảng 2 giờ là hết sạch pin. không biết có được bảo hành không ạ? em cảm ơn sự phản hồi!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.698856,
+         "id": "1013106",
+         "field_search": "question",
+         "question": "Em mua laptop ở thế giới di động..vậy thế giới di động có bảo dưỡng.vệ sinh laptop không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.586151,
+         "id": "1164024",
+         "field_search": "question",
+         "question": "Mod cho e hỏi thế này là driver nó bị sao mà cứ bị dấu chấm vàng náy làm bàn di chuột của em nó không dùng đc  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.455006,
+         "id": "766734",
+         "field_search": "question",
+         "question": "Chào thế giới di động, mình được một người anh trong nhà gửi lại cho mình 1 cây iphone 6 plus mua từ thế giới di động , mình nhờ thế giứoi di động kiểm tra giúp mình nhé. Trung Hiếu ( số imeis máy : 3592 44060 779775 ) May này đã đổi trả từ TGDĐ, 1 đổi 1, nhờ bên mình kiểm tra đã xử dụng được bao lâu vậy nhé ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.4351,
+         "id": "990683",
+         "field_search": "question",
+         "question": "chào thế giới di động cho em hỏi điện thoại samsung j5prime đổi lại Samsung j7prime phải bù thêm bao nhiêu tiền vậy thế giới di động",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.417152,
+         "id": "1139416",
+         "field_search": "question",
+         "question": "Dạ laptop em hiệu dell lúc đầu chạy rất nhanh như lúc sau thì nó kêu cập nhật win 10 và em cập nhật nhưng nó cứ để 0% cái này em có cần đem ra thế giới di động ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.339802,
+         "id": "997608",
+         "field_search": "question",
+         "question": "có phải ngày 306 iphone 6 tại thế giới di động giảm xuống 10 nghìn ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.187271,
+         "id": "998932",
+         "field_search": "question",
+         "question": "máy sony XA của tôi bị sọc màn hình đã bảo hành nhiều lần đề nghị đổi máy sony khác sao ko được, chứ máy sony đó bị có tùy là sọc màn hình qài mà không cho đổi, chán qá, tui không tin dùng nữa của thế giới di động nữa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.178728,
+         "id": "1160481",
+         "field_search": "question",
+         "question": "Tháng 5 năm ngoái, mình có mua 1 cái laptop Acer Nitro 5 ở Thế Giới Di Động. Mình muốn bán lại thì có được không ạ? Bàn phím bị hư một phím c.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.155375,
+         "id": "761238",
+         "field_search": "question",
+         "question": "Dại chào Ad, em mới nghe câu chuyện từ bạn bè rằng ngày mai giáng sinh thế giới di động có chương trình khuyến mại bán 1000 máy giảm giá trong đó có iPhone 5s , Ad có thể tư vấn cho em biết thông tin trên được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.128944,
+         "id": "1161388",
+         "field_search": "question",
+         "question": "Tuần trước e có vô hiệu hóa bàn phím laptop do bị liệt phím Page down, giờ e dùng bàn phím rời. Tuy nhiên thì 2 hôm nay, máy tính e có hiện tượng lạ. Nếu màn hình đang sáng mà e lỡ tay chạm vào 1 phím trên bàn phím thì màn hình sẽ tự động tắt tối thui luôn. Còn nếu k bấm vào phím nào thì màn hình lại ok như thường. Tư vấn giúp e với ạ. Máy e win 10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.088486,
+         "id": "999655",
+         "field_search": "question",
+         "question": "chào add...cho em hỏi thế giới di động có nhận mua lại điện thoại cũ không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.038862,
+         "id": "922353",
+         "field_search": "question",
+         "question": "Shop ơi cho mình hỏi,Vấn đề 1: mình mới mua iphone 7 ở thế giới di động đường Nguyễn Thái Sơn, sao mình vào mục điều khiển công tắc nó bị ẩn như hình?Vấn đề 2: Mình vào mục cài đặt-->cài đặt chung--> bàn phím-->thay đổi văn bản: mình thấy có thông tin rồi trong khi mình mua máy mới nhưng lại có người đã cài đặt, vậy máy đã có ai sử dụng trước rồi hay sao. Mình rất tin tưởng vào thế giới di động vì vậy mình cần được giải thích rõ ràng.Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.00296,
+         "id": "874358",
+         "field_search": "question",
+         "question": "laptop U80Vseries bật đèn bàn phím như thế nào ạ có biểu tương đèn bàn phím trên nút f3 nhưng ấn hoài mà k lên ad có thể trả lời giúp em đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.9482,
+         "id": "1013917",
+         "field_search": "question",
+         "question": "nếu mua máy cũ từ thế giới di động này chuyển về thế giới di động khác có đc chuyển về ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.91055,
+         "id": "1006400",
+         "field_search": "question",
+         "question": "ở thế giới di động mình hộp đựng tai nghe kanen như thế này ko nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.91035,
+         "id": "1143961",
+         "field_search": "question",
+         "question": "Fb của em cứ bị như thế này.sau 2 ngày lại mở đk.sau đó lại cứ bị như thế này tiếp.giup em với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.89589,
+         "id": "1019239",
+         "field_search": "question",
+         "question": "chị cho em hỏi... em có mua điện thoại trả góp j7 tai thế giới di động mà hạn trả góp là mùng 1 mà hiện tai em đang không ở thành phố... thì em muốn đong cham thêm 10 ngày là mùng 10 thì có đc không ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.891756,
+         "id": "1168475",
+         "field_search": "question",
+         "question": "Chào bạn,Nhờ bạn tư vấn giúp mình trả góp. Xem thủ tục cần như thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.85678,
+         "id": "919817",
+         "field_search": "question",
+         "question": "  Cho r hỏi máy e mới mua ở thế giới di động 2 hôm mà đã sảy ra tình trạng này rùi thì phải làm thế nào vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.79375,
+         "id": "1014915",
+         "field_search": "question",
+         "question": "Em mua máy samsung j7 prime vào ngày 10/5/2017 màu hồng ko trầy xước ko lỗi lầm . Em muốn bán nên em hỏi thế giới di động có thu lại ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.667978,
+         "id": "746971",
+         "field_search": "question",
+         "question": "Mình đang dùng máy iphone 6s này, thế giới di động kiểm tra giúp mình máy là bản quốc tế hay là bản lock với ạ. Gửi giúp mình trả lời vào email bichphuong2392@gmail.com cảm ơn thế giới di động. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.659912,
+         "id": "1007987",
+         "field_search": "question",
+         "question": "Chào Thế giới di động.Mình tên là: Nguyễn Văn ToànDTDĐ: 093895xxxxMình có mua 01 điện thoại Sony Z5 tại Thế giới di động cách đây hơn 1 năm rồi.Điện vẫn sử dụng bình thường, nhưng hay bị lỗi mạng Wifi (bị mất kết nối, hay bị lag và hay bị gián đoạn Wifi).Mình kính nhờ TGDĐ tư vấn giúp mình tìm nguyên nhân và cách khác phục lỗi nêu trên.Xin chân thành cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.652077,
+         "id": "996746",
+         "field_search": "question",
+         "question": "cho mình hỏimình có mua cáp sạc ip6 ở thế giới di động cách đây 10 ngày!mà 3 ngày nay cáp sạc không vào pin!mà không hị hư hay dính nước!vậy mình có thể đổi lấy cáp khác được không?cáp mình mua là cáp X Mobile với giá 150kcám ơn thế giới di động rất nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.628235,
+         "id": "771144",
+         "field_search": "question",
+         "question": " Em mua laptop tại thế giới di động nhưng đã hết bảo hành. Em muốn cài lại win như vậy có tính phí không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.493635,
+         "id": "1022153",
+         "field_search": "question",
+         "question": "Ad cho hỏi sony Xa có dán full màn hình trước ko ad sao em đi 2 tiệm thế giới di động cũng ko có dán kiểu bo lại hai bên ấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.486,
+         "id": "795749",
+         "field_search": "question",
+         "question": " Mình muốn reset máy Sony Xperia V về cài đặt gốc bằng phím cứng thì như thế nào ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.477829,
+         "id": "833591",
+         "field_search": "question",
+         "question": "Thế giới di động ơi, em đã từng mua 1 chiếc máy tính tại thế giới di động Cai Lậy, máy hiệu DELL, chạy hệ điều hành Windows 8.1 Single Language, nhưng em thấy nó chậm, em muốn nâng cấp lên Windows 8.1 Pro, Thế giới di động có nâng cấp được không ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.425638,
+         "id": "1003646",
+         "field_search": "question",
+         "question": "Cho em hỏi thế giới di động cis mua lạ máy đã sử dụg qua rồi k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.421242,
+         "id": "1016982",
+         "field_search": "question",
+         "question": "Cho e hỏi là ngày 29 này thế giới di động có khuyến mãi gì không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.35677,
+         "id": "997335",
+         "field_search": "question",
+         "question": "Điện thoại đã mua ở thế giới di động được 2 ngày thì có thể đổi hoàn trả tiền không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.312397,
+         "id": "926773",
+         "field_search": "question",
+         "question": "cho em hỏi là máy laptop em hiện đang chạy win 10 và em muốn hạ cấp nó xuống cỡ win 7 hoặc 8.1 có được ko ạ?? nếu được thì em đem ra thế giới di động cài thì có tốn tiền ko ạ?? ( máy laptop này em mua ở thế giới di động luôn ạ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.168303,
+         "id": "1161549",
+         "field_search": "question",
+         "question": "em đang dùng iphone 4 nhưng dạo này nó cứ tự động tắt nguồn khi mà pin vẫn đầy, xong em bật lên thì lại mất sóng và lệch ngày giờ. em phải làm thế nào để hết tình trạng này ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.146765,
+         "id": "996167",
+         "field_search": "question",
+         "question": "Em múôn hỏi là.  Em mua máy ở thế giới di động gìơ em muốn bán lại máy lại cho thế giới di động.  Điện thoại em còn bảo hành ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.103281,
+         "id": "1002705",
+         "field_search": "question",
+         "question": "Mình mua 1 thẻ nhớ MicroSD 8GB class 4 mới gắn ngay vào máy tại của hàng Thế giới di động ngày 19/2/2017Đến nay mình mới phát hiện rằng thẻ này ko hoạt động ngay từ khi mới dùng. Mình vẫn còn giữ bill.Hỏi hướng giải quyết bảo hành của bên thế giới di động.cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.091703,
+         "id": "1002575",
+         "field_search": "question",
+         "question": "em năm sau mới lên lớp 10, em có thể vào cửa hàng thế giới di động không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.066427,
+         "id": "1013426",
+         "field_search": "question",
+         "question": "Em mới mua máy oppo f1s 2017 ở tgdđ vào tắt phần tiên đoán văn bản thì bàn phím n thành như thế này. Mong shop trả lời nhanh giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.03269,
+         "id": "1003927",
+         "field_search": "question",
+         "question": "Cho em hỏi công ty của mình có tổ chức trương trình Mừng Ngày Kỷ Niệm 10 Năm Thành Lập Thế Giới Di Động trên facebook không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.998714,
+         "id": "996452",
+         "field_search": "question",
+         "question": "Admin cho em hỏi, trước em có mua 1 chiếc sony M2 ở thế giới di động, bây giờ có bán lại được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.951204,
+         "id": "784465",
+         "field_search": "question",
+         "question": "Em xài iphone 5s và đăng kí 3G gói cước 5000đ/ngày. Nhưng dạo này điện thoại em lên mạng rất chậm, xem youtube cũng bị lỗi không tải được, lên facebook thì cũng vậy, nói chung là rất chậm. Anh tư vấn giúp em nguyên nhân và cách khắc phục được không ạ? Và cho em hỏi thế giới di động của mình có sữa lỗi này được không ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.926996,
+         "id": "1168093",
+         "field_search": "question",
+         "question": "cho mình hỏi đồng hồ mình mua ở thế giới di động mình ko dùng nữa mình tới thế giới di động bán lại được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.89211,
+         "id": "999358",
+         "field_search": "question",
+         "question": "Em muốn muan1 sim mobi big , trước mua điện thoại ở thế giới di động mà không biết về sim này , giờ muốn mua có đc không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.8372,
+         "id": "1169339",
+         "field_search": "question",
+         "question": "Chào thế giới di động. Sản phẩm Samsung galaxy A9 màu hồng giá còn 7.990.000. Giá này áp dụng đến khi nào hết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.678297,
+         "id": "993855",
+         "field_search": "question",
+         "question": " thế giới di động có bán phần mềm diệt virut nào, và tôi cần USB 8G, tôi cần tư vấn  Thành 0914.904.xxx ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.656477,
+         "id": "1010963",
+         "field_search": "question",
+         "question": "Chào em hỏi ở khu vực Mộ Đức  Quảng Ngãi, cửa hàng có bán sản phẩm Sony Xperia XA ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.622684,
+         "id": "1154635",
+         "field_search": "question",
+         "question": "Cho em hỏi em vừa mua 1 cái điện thoại Itel A32FĐược 15 ngày mua trong thế giới đi động hàng như mới Không biết em ra thế giới đi động bên TGDĐ có thu lại không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.606695,
+         "id": "909819",
+         "field_search": "question",
+         "question": " Máy e mới mua ở thế giới di động,nhưng bây giờ dùng thì k sử dụng đc phím ctrl c là sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.585432,
+         "id": "834293",
+         "field_search": "question",
+         "question": " Điện thoại em mua ở ngoài, iPhone 4 em muốn mang vào thế giới di động chạy lại chương trình giúp em được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.568693,
+         "id": "1014220",
+         "field_search": "question",
+         "question": "Mình mua 1 chiếc laptop bên thế giới di động, đã cài bộ office 2010 bản trail nhưng sau 30 đến 60 ngày sẽ bị khoá lại. Ko biết khi mình mang ra thế giới di động bảo hành thì có được cài bản office bản quyền ko. Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.536043,
+         "id": "994988",
+         "field_search": "question",
+         "question": "Xin cho hỏi , tôi có mua bên cửa hàng thế giới di động một ipad air. bây giờ tôi muốn hỏi bên thế giới di động có thu mua lại ipad air cũ không? Ipad   air này là tôi mua bên thế giới di động. Vì hiện tại tôi muốn mua đổi sang Ipad New 2017 wifi 32G của bên thế giới di động luôn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.493042,
+         "id": "1018807",
+         "field_search": "question",
+         "question": "Cho e hỏi, mk mua điện thoại ở thế giới di động nầy mà qua quán thế giới di động khác bảo hành đc ko ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.477398,
+         "id": "1020621",
+         "field_search": "question",
+         "question": "Anh ơi em xài điện thoại sony xperia xa dual (f3116)Mà tại sao smart lock khong sử dụng được em đã cập nhật phiên bản 7.0 rôiThanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.465029,
+         "id": "999422",
+         "field_search": "question",
+         "question": "máy acer e 5 575  50HM em mua ở thế giới di động.  có thể mua ram rồi đến thế giới di động nhờ lắp vào được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.390171,
+         "id": "1166789",
+         "field_search": "question",
+         "question": "Điện thoại của mình là asus zenfone 4 max pro, mới hôm nay cứ bị nhảy thông báo như thế này, tí lại bị, mình đang dùng cái khác cũng cứ nhảy xong lại mất rồi lại thế. Đt của mình bị sao vậy, tư vấn giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.380028,
+         "id": "1006757",
+         "field_search": "question",
+         "question": "Chào QTV, cho em hỏi ở Thế giới di động có bán máy nghe nhạc mp3 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.366264,
+         "id": "1134070",
+         "field_search": "question",
+         "question": "Xin chào! Em cần hỏi cái này ạ?Em muốn thay bàn phím laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.34811,
+         "id": "1155588",
+         "field_search": "question",
+         "question": "Mình mua máy mobell s60 ở thế giới di động, bảo hành còn hơn 10 tháng không có bất kì lỗi nào thì giờ thế giới di động có hỗ trợ mua lại ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.302568,
+         "id": "1160405",
+         "field_search": "question",
+         "question": "Ho em hỏi em mua dt samsung gls A6+ ở thế giới di động chưa được 1 năm .bây giờ thế giới di động thu lại khoảng bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.28439,
+         "id": "1023198",
+         "field_search": "question",
+         "question": "qtv ơi bên thế giới di động có cho vay tiền mặt phải k ạ. cứ 1 2 ngày là có người gọi hỏi có muốn tham gia vay k. 2 hôm nay có số xxxx2888628 gọi e. cho e hỏi số này phải số của bên thế giới di động k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.223133,
+         "id": "1155994",
+         "field_search": "question",
+         "question": "hello anh chị ! máy mình not 8 mua ở thế giới di động ko hiểu sao phím chữ P không bấm được ? nhờ anh chị trợ giúp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.205503,
+         "id": "1011696",
+         "field_search": "question",
+         "question": "- mình dùng máy sony xperia xa khi lắp 2 sim vào cài đặt mạng chỉ dùng được ở 1 sim. tắt 3g ở sim 1 bặt 3g sim 2 nhưng nó vẫn lên 3g ở sim 1 là sao. - Làm sao để cài đặt giới hạn cuộc gọi dưới 10 phút ở máy sony xperai XA",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.187422,
+         "id": "1137009",
+         "field_search": "question",
+         "question": "Cho em hỏi thế giới di động mua giúp em được phần mềm photoshop cs6 không ạ.Nếu được phí mua là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.187202,
+         "id": "1165688",
+         "field_search": "question",
+         "question": "em quên mất mật khẩu hình samsung j4 rồi mà điện thoải này em mua ở thế giới di động liệu có thể mở mật khẩu được không mà không mất dữ liêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.185001,
+         "id": "1155713",
+         "field_search": "question",
+         "question": "Thế giới di động có hỗ trợ root máy sony Android khong ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.182045,
+         "id": "1018811",
+         "field_search": "question",
+         "question": "Cho em hỏi là em vừa sửa mic phụ của iphone 6, xong về nhà, tình trạng giật, đơ, bấm phím không được, nhất là nút xoá, và chữ P của bàn phím thì hầu như bị liệt, lúc được, lúc không?!? Điện thoại em còn bảo hành ạ?!? Cho em hỏi đây là lỗi hệ thống hay do màn hình ngta càn cho em không đúng, tình trạng này trước khi em mang tới thế giới di động chua hề có, và em mong anh chị giúp em!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.14198,
+         "id": "807549",
+         "field_search": "question",
+         "question": " Cho em hỏi khi mua laptop của thế giới di động thì có được vệ sinh laptop không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.13776,
+         "id": "802285",
+         "field_search": "question",
+         "question": "Xin hỏi , thế giới di động có bán iphone 6 của nhật bản phải không , anh mình cũng có mua 1 cái như vậy ở thế giới di động , giá chỉ khoảng 3 triệu mấy à , thế giới di động có bán không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.129013,
+         "id": "1019397",
+         "field_search": "question",
+         "question": "Chào bạn, mình vừa mua máy Samsung S8 màu đen. mình mua bằng hình thức trả góp. Nhưng hiện tại mình muốn trả lại máy này, vậy thế giới di động có nhập lại không, và nhập lại như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.055931,
+         "id": "1010647",
+         "field_search": "question",
+         "question": "Chào admin,Hiện tại em đang dùng Laptop Asus X541-uv. Hôm nay nó gặp tình trạng mất tất cả các dữ liệu cũng như tài khoản Google, Facebook mà em đã đăng nhập trên tất cả các trình duyệt (Coccoc, chrome, firefox) khi tắt máy hoặc khởi động lại.Admin vui lòng tư vấn giúp em cách khắc phục ạ!Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.055166,
+         "id": "995625",
+         "field_search": "question",
+         "question": "thế giới  di động có dịch vụ sữa chữa điện thoại sony ko",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,809 @@
+{
+   "id_query": "841848",
+   "total": 28515,
+   "total_current": 100,
+   "max_score": 54.14726,
+   "origin_question": " cài đặt nhạc chuông từ zing mp3 cho iphone 6s như thế nào ạ? ",
+   "hits": [
+      {
+         "score": 54.14726,
+         "id": "841848",
+         "field_search": "question",
+         "question": " cài đặt nhạc chuông từ zing mp3 cho iphone 6s như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.588993,
+         "id": "811118",
+         "field_search": "question",
+         "question": " Nhạc từ zing mp3 trên Lenovo A2010a, làm sao để cài thành nhạc chuông ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.303047,
+         "id": "784032",
+         "field_search": "question",
+         "question": " Cho em hỏi làm thế nào để chèn nhạc từ zing mp3 vào vivavideo ạ e dùng iPhone 4? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.880955,
+         "id": "1156523",
+         "field_search": "question",
+         "question": "Tai sao toi không cài đc nhạc chuông đt thoại tí Zing mp3",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.245995,
+         "id": "880214",
+         "field_search": "question",
+         "question": " Thế giới cho e hỏi làm thế nào để cài MP3 làm nhạc chuông chi iphone 4s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.042538,
+         "id": "744413",
+         "field_search": "question",
+         "question": " Cài đặt nhạc chuông tự chọn cho oppo neo 7 như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.674868,
+         "id": "767520",
+         "field_search": "question",
+         "question": " Ad ơi làm sao thay đổi nhạc chuông của iPhone 5 vậy...muốn dùng nhạc trong zing MP3  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.851875,
+         "id": "1006587",
+         "field_search": "question",
+         "question": "cho mình hỏi cách chuyển nhạc từ thư viện nhạc trên zing mp3 qua trình nghe nhạc của note 5 như thế nào. Mình mới mua dt ở TGDD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.71271,
+         "id": "1009424",
+         "field_search": "question",
+         "question": "Trong mục cài đặt nhạc chuông, phần nhạc chuông thêm từ điện thoại của samsung j7 pro, t lỡ chọn onedrive, giờ muốn thoát ra làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.451948,
+         "id": "853758",
+         "field_search": "question",
+         "question": " có cách nào để tải nhạc có bản quyền từ zing mp3 trên iphone không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.25061,
+         "id": "880253",
+         "field_search": "question",
+         "question": " Cho e hỏi cài nhạc chuông MP3 cho iphone 4s thì làm sao được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.601007,
+         "id": "825395",
+         "field_search": "question",
+         "question": "em muốn chuyển nhạc đã tải trên app zing mp3 vào phần nhạc của iphone thì phải làm thế nào ạ ?máy của e là iphone 5s ios 9.3.1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.553272,
+         "id": "1021326",
+         "field_search": "question",
+         "question": "Làm sao để chuyển nhạc từ zing mp3 qua Huawei y7 prime ạ? Máy không dùng thẻ nhớ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.275562,
+         "id": "800578",
+         "field_search": "question",
+         "question": " Chào ad, cho em hỏi cách tải nhạc về samsung j5 để cài nhạc chuông như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.092558,
+         "id": "801037",
+         "field_search": "question",
+         "question": " Em hiện đang dùng iphone 5. Em muốn chuyển các bài hát từ zing mp3 sang Nhạc trong máy luôn thì làm bằng cách nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.66052,
+         "id": "832308",
+         "field_search": "question",
+         "question": " tại sao đt của mình lại không có phần ÂM BÁO ?làm sao cài MP3 làm nhạc chuông iphone ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.285126,
+         "id": "1010881",
+         "field_search": "question",
+         "question": "Giải đáp Cách cài nhạc chuông ở điện thoại it1516 như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.93984,
+         "id": "1022935",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi làm sao để đặt nhạc mp3 thành nhạc chuông, nhạc thông báo ạ. E đag dùng máy Mobell tab 7s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.757597,
+         "id": "1024231",
+         "field_search": "question",
+         "question": "Mìk xài iphone 4 mìk mún tải nhạc thì zing mp3 để là phiên bản dùng thử đã hết hạn, cập nhật version 4 và mở bài khác ngoài album thì zing mp3 để là  Expected status code in (200-299), got 404 là như thế nào giúp mình vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.982645,
+         "id": "903379",
+         "field_search": "question",
+         "question": "em cài nhạc chuông cho 6s. tại sao khi đồng bộ hóa itunes đã báo thành công nhưng trong iphone lại không tìm thấy bản nhạc chuông ấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.567623,
+         "id": "762507",
+         "field_search": "question",
+         "question": " iPhone cách tải Zing Mp3 hướng dẫn cách tải Zing Mp3 về máy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.523108,
+         "id": "784290",
+         "field_search": "question",
+         "question": " Em muốn tải nhạc chuông cho ios 8 thì làm như thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.502802,
+         "id": "850808",
+         "field_search": "question",
+         "question": " Em muốn chuyển các bài hát tải về từ ứng dụng Zing MP3 vào thư mục nhạc của máy iphone 4, em phải làm sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.372028,
+         "id": "1165236",
+         "field_search": "question",
+         "question": "mình dùng nokia 3.1 nhưng không thể cài đặt nhạc chuông thì làm cách nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.17287,
+         "id": "747338",
+         "field_search": "question",
+         "question": " Mình đang sử dụng iPad 4 Mình muốn hỏi làm sao chèn nhạc có Lời từ zing MP3 vào viva video? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.07034,
+         "id": "777916",
+         "field_search": "question",
+         "question": " Tải nhạc chuông cho iPhone bằng bài hát trên mạng thì làm như nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.958044,
+         "id": "876211",
+         "field_search": "question",
+         "question": " Có cách nào chuyển nhạc từ zing vào iPhone để xài Vivavideo k ạ , cách đơn giản nhất ấy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.957897,
+         "id": "998233",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại samsung galaxy j2 prime của em tải nhạc trên mp3 về sau đó di chuyển hết vào thẻ nhớ mà sao khi vào phần nhạc chuông để cài nhạc từ bpoj nhớ trong lại ko có bài hát nào hết v :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.856401,
+         "id": "996612",
+         "field_search": "question",
+         "question": "cho em hỏi làm thế nào để cài nhạc chuông báo thức và nhạc chuông thông báo trên ss galaxy j5. Cài nhạc chuông cho tất cả báo thức về 1 bào nhạc mình muốn ý. Và làm sao để máy chọn ra đoạn nhạc hay trong bài máy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.828602,
+         "id": "992697",
+         "field_search": "question",
+         "question": "Cho mình hỏi là muốn tạo nhạc chuông theo bài hát mình yêu thích trên iphone 6 thì làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.809729,
+         "id": "819603",
+         "field_search": "question",
+         "question": " Làm thế nào để cài thêm nhạc chuông cho điện thoại obi khi đã tải nhạc về máy?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.566465,
+         "id": "742928",
+         "field_search": "question",
+         "question": " em muốn cài nhạc chuông cho máy iphone 4s thỉ phải làm thể nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.551357,
+         "id": "1000785",
+         "field_search": "question",
+         "question": "làm sao để upload nhạc lên zing mp3 ?? upload trên Android",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.491217,
+         "id": "901843",
+         "field_search": "question",
+         "question": " Cho e hỏi cách cài nhạc vào iphone như thế nào ạ?xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.446135,
+         "id": "816038",
+         "field_search": "question",
+         "question": "Tại sao khi nghe nhạc bằng Zing Mp3 trên Iphone 6 plus, khi tắt màn hình thì nhạc cũng tắt theo luôn? Có cách nào khắc phục không ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.438293,
+         "id": "786905",
+         "field_search": "question",
+         "question": " Tôi mua máy iPhone 6 ở Thế Giới Di Động, tôi muốn nhờ thế giới di động cài đặt nhạc chuông dùm tôi có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.377243,
+         "id": "813625",
+         "field_search": "question",
+         "question": "Cách cài nhạc chuông trên iphone 6 như thế nào ah. khi em tải itune về thì giao diện không có phần tones như hướng dẫn là sao ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.259449,
+         "id": "1010880",
+         "field_search": "question",
+         "question": " cách thay đổi nhạc chuông điện thoại it1516 như thế nào  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.12374,
+         "id": "1010929",
+         "field_search": "question",
+         "question": " Cách chụp nhạc ở zing mp3 ở điện thoại vào thẻ nhớ điện thoại oppo? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.823423,
+         "id": "1134607",
+         "field_search": "question",
+         "question": "Làm sao để zing mp3 có thể phát nhạc trong thẻ nhớ được ạ? Máy em không còn bộ nhớ nên em chuyển nhạc sang thẻ nhớ nhưng zing mp3 lại không phát được nhạc trên thẻ nhớ. Em phải làm sao mới phát được nhạc đây ạ? Em dùng máy ss j5 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.823423,
+         "id": "1134606",
+         "field_search": "question",
+         "question": "Làm sao để zing mp3 có thể phát nhạc trong thẻ nhớ được ạ? Máy em không còn bộ nhớ nên em chuyển nhạc sang thẻ nhớ nhưng zing mp3 lại không phát được nhạc trên thẻ nhớ. Em phải làm sao mới phát được nhạc đây ạ? Em dùng máy ss j5 2015",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.770258,
+         "id": "767500",
+         "field_search": "question",
+         "question": " Cài nhạc chuông iPhone phải làm sao để cài nhạc có lời ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.76191,
+         "id": "1138698",
+         "field_search": "question",
+         "question": "làm sao để tãi nhạc vào thẻ nhớ bằng zing mp3 trên oppo a3s?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.712759,
+         "id": "1156916",
+         "field_search": "question",
+         "question": "Chào TGDD:mình đang dùng nokia 3.1cập nhật androi 9(bản cập mới nhât cho nokia),mình có tải nhac trên zingmp3 về để cài làm nhạc chuong cho đt nhưng không cài đặt làm nhạc chuông không được,trước đó bản 8.1 thì cài được.Có phải bản 9.ko hỗ trợ...Vui lòng hướng dẫn cài nhạc chuông tải về từ zmp3.Thanks.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.681911,
+         "id": "1020801",
+         "field_search": "question",
+         "question": "Tại sao khi em nghe nhạc cá nhân trong zing mp3 nó nói là cần kết nối mạng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.680382,
+         "id": "923227",
+         "field_search": "question",
+         "question": "Em bật 3g để lên zing tải nhạc, khi tìm được nhạc ấn tải thì được báo là máy chưa cài đặt phần bật 3g để tải nhạc trong khi đó e đã bật rồi, mn cho e ý kiến với( zing bản cập nhập mới nhất trên iphone )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.442965,
+         "id": "903388",
+         "field_search": "question",
+         "question": " làm sao để tải nhạc có bản quyền trên Zing Mp3, máy mình là laptop windows 10, ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.339394,
+         "id": "756916",
+         "field_search": "question",
+         "question": "Ad ơi..muốn cài đặt nhạc chuông cho iPhone thì dùng máy tính cây được không hay nhất thiết phải dùng laptop mới được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.281748,
+         "id": "1141819",
+         "field_search": "question",
+         "question": "tôi đang dùng microsoft lumia640.  tôi đã cài đặt zing mp3 thành công. nhưg ứng dụng đã hết hạn sd. tôi k thể tìm thấy bất cứ thông tin gì trên ứng dụng zing mp3 đó hết. làm ơn giúp tôi cách cập nhật zing mp3 mới nhất với ạk. tôi k tìm thấy bản cập nhật mới.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.134659,
+         "id": "1148718",
+         "field_search": "question",
+         "question": "Hướng dận cách xài nhạc chuông iphon x. Như thế nào ai chỉ dùng mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.054731,
+         "id": "1013708",
+         "field_search": "question",
+         "question": "Chỉ mình cách tải nhạc mp3 tren đt sony xz premium với. Mình vào web mp3 zing ấn tải thì nó ghi đã đc tải nhưng vào phần chữ nhạc trên máy lại không thấy bài nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.001354,
+         "id": "974400",
+         "field_search": "question",
+         "question": "Hỏi Cài Game Ứng dụng từ file IPA trên iPhone như thế nào Cho mình hỏi, iPhone có thể cài đặt ứng dụng từ file IPA giống như file APK trên Android phải không? Nếu làm được thì cách làm như thế nào và có thể hướng dẫn cho mình được không ạ. Xin cám ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.927774,
+         "id": "1139472",
+         "field_search": "question",
+         "question": "cho mình hỏi là mình dùng máy oppo f3 thì làm thế nào để cắt chỉnh nhạc để đặt làm nhạc chuông hay là mình phải tải app mới làm đk ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.911911,
+         "id": "1013587",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi. Điện thoại SamSung J2 cài nhạc chuông riêng thông báo riêng. Mà sao khi có thông báo tin nhắn lại đổ chuông như âm nhạc chuông luôn ạ?? Làm sao để thay đổi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.79789,
+         "id": "761569",
+         "field_search": "question",
+         "question": "Cho tôi hỏi: HTC 826 Dual Sim sau khi reset và cài đặt lại, giờ vào phần nhạc chuông cho sim1, sim2 và nhạc chuông báo thức. . .nói chung phần nhạc chuông, bấm vào không có tác dụng hiện lên để chọn đổi nhạc chuông. Đã khởi động lại máy vẫn không hiện lên những nhạc chuông khác để đổi.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.740955,
+         "id": "844135",
+         "field_search": "question",
+         "question": " cho mình hỏi chia sẻ nhạc zing mp3 lên zalo trên iphone5. mình chỉ thấy chia sẻ lên facebook đc? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.720566,
+         "id": "1019926",
+         "field_search": "question",
+         "question": "E đang dùng điện thoại ASUS tải nhạc trên zing mp3 về nhưng lại không có trong album nhạc . bh e phải làm ntn để có nhạc trong album ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.70873,
+         "id": "1001377",
+         "field_search": "question",
+         "question": "Cài đặt nhạc chờ cho điện thoại oppa a37 thì lm như nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.678162,
+         "id": "968740",
+         "field_search": "question",
+         "question": " Bên tgdd có cài nhạc chuông cho iphone 5s được ko vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.662525,
+         "id": "1009292",
+         "field_search": "question",
+         "question": "Zing mp3 không hiển thị lời bào hát làm thế nào để hiển thị các bài hát",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.610552,
+         "id": "997555",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao khi chuyển nhạc zing mp3 vào thẻ nhớ thì khi bật nhạc lên thì máy báo bài hát này đã bị xóa hoặc bị đổi tên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.535921,
+         "id": "775763",
+         "field_search": "question",
+         "question": " Cho em hỏi ứng dụng diệt virus của iPhone 4 là cài đặt như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.454878,
+         "id": "990912",
+         "field_search": "question",
+         "question": "để cài nhạc chuông từ phần mềm nhaccuatui của dòng máy iphone5s thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.316875,
+         "id": "1009727",
+         "field_search": "question",
+         "question": "Ad ơi em đang dùng j7 2016 và khoảng 2 tháng nay zing mp3 lại không tải được nhạc US-UK ạ nhạc Việt thì vẫn tải bình thường được ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.290873,
+         "id": "753838",
+         "field_search": "question",
+         "question": " Oppo Neo 7 khôi phục cài đặt gốc lại nhạc chuông hệ thống mất hết vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.161564,
+         "id": "1024239",
+         "field_search": "question",
+         "question": "Mìk xài đt iphone 4 màk zing mp3 báo lỗi vậy nếu xoá tải lại thì có bị mất hết nhạc kh?? Giúp mìk vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.036253,
+         "id": "781393",
+         "field_search": "question",
+         "question": " Cho em hỏi là em đang dùng iPhone 6 khi vào phần cài đặt   quyền riêng tư lại không thấy có phần nhạc là thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.019148,
+         "id": "997593",
+         "field_search": "question",
+         "question": "Cho mình hỏi. Mk dùng huawei y5ll tại sao mk cài đặt nhạc chuông tin nhắn rồi mà sao nó k kêu yh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.888855,
+         "id": "1144932",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j8 khi tải nhạc từ google về thì mình làm như thế nào đểnghe toàn bộ số nhạc đó ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.851088,
+         "id": "771215",
+         "field_search": "question",
+         "question": " a qtv..em tải nhạc từ mp3 hay youtobe đều ko thể mở xem được ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.826588,
+         "id": "903886",
+         "field_search": "question",
+         "question": "- Câu hỏi 1: Làm thế nào để trang Word nằm ngang và chia đôi ra hai dãy?- Câu hỏi 2: Làm thế nào để biết Iphone thuộc nhà mạng nào?- Câu hỏi 3: Có nên lên IOS cho Iphone 5 không?- Câu hỏi 4: Làm thế nào để chuyển nhạc từ ZING MP3 sang ứng dụng Nhạc mặc định của máy (IOS)?- Câu hỏi 5: Làm sao để chuyển Video tự quay sang video tại nhà?- Câu hỏi 6: Tại sao Video trên IOS dung lượng lại lớn như vậy, một video 3p tốn 60 MB , có cách khắc phục không ạ?Email duyphuongitaly@icloud.com (mong tgdd giúp em)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.815834,
+         "id": "907979",
+         "field_search": "question",
+         "question": " ad ơi em muốn chuyển nhạc từ mp3 của iphone 4s sang thẻ nhớ được không?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.804022,
+         "id": "793390",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tại sao mỗi kho em vào ứng dụng như mp3 zing, Facebook hay chrome thì nó đều bắt nhập ID Apple để tiếp tục, làm thế nào để xoá nó đi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.751665,
+         "id": "772575",
+         "field_search": "question",
+         "question": " Cho mình hỏi cài đặt imessge như thế nào. Sao mình cài đặt không được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.563793,
+         "id": "1150293",
+         "field_search": "question",
+         "question": "Xin hỏi tại sao khi mình vào phần cài đặt rồi, mình đã đặt nhạc chuông bài hát của mình nhưng khi gọi điện đến thì lại là nhạc chuông mặc định của máy. Máy mình là samsung galaxy j4 2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.435858,
+         "id": "765993",
+         "field_search": "question",
+         "question": " Em nghe nhạc trên Zing Mp3 nhưng rất nhỏ, em đã tăng âm lượng hết rồi nhưng nghe vẫn nhỏ, điện thoại J5? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.428782,
+         "id": "816469",
+         "field_search": "question",
+         "question": "Mình mới mua Iphone 6, nhưng thời gian gấp nên chưa kịp yêu cầu thegioididong hỗ trợ cài nhạc chuông. Admin cho mình hỏi mình muốn cài nhạc chuông bằng itunes nhưng ko thể truy cập itunes được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.3737,
+         "id": "846745",
+         "field_search": "question",
+         "question": " cách nào để cài nhạc chuông iphone 5 bằng mp3tôi không thể làm được mong chỉ giúp tôi cảm ơi nhiều ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.326397,
+         "id": "777813",
+         "field_search": "question",
+         "question": "Bạn Cho mình hỏi chút. Mình đang dùng Samsung a8 tự dưng chuông báo thức không kêu khi vào cài đặt chọn nhạc chuông thì không phát nhạc chuông để nghe thử mà lại hiện ra dòng chữ \" không thể phát khi đang gọi\" có thể giúp m không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.29732,
+         "id": "763065",
+         "field_search": "question",
+         "question": " Mọi người cho mình hỏi có thể tải zing mp3 trên laptop không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.231634,
+         "id": "1148011",
+         "field_search": "question",
+         "question": "Bên mình có giúp đăng kí gói vip cho zing mp3 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.203169,
+         "id": "873455",
+         "field_search": "question",
+         "question": " mình xài iphone muốn cài nhạc chuông về điện thoại thì phải làm sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.165148,
+         "id": "779892",
+         "field_search": "question",
+         "question": " Em mua iphone 6s plus  ở TGDD em muốn tải nhạc chuông vậy bên mình có hỗ trợ không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.100046,
+         "id": "996635",
+         "field_search": "question",
+         "question": "samsung ace S5830 không có chia bộ nhớ trong và thẻ nhớ thì lsao để em chuyển nhạc zing mp3 vào thẻ SD được đây ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.048243,
+         "id": "986166",
+         "field_search": "question",
+         "question": "Em mua đt cách đây hơn 1 tuần nhưng sao em không tải nhạc từ zing được ạ y",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.946377,
+         "id": "876993",
+         "field_search": "question",
+         "question": " Qtv ơi. Ios 9.0.1 rồi thì cài đặt chế độ mạng như thế nào ạ. Iphone 4s ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.923819,
+         "id": "1141024",
+         "field_search": "question",
+         "question": "TGDĐ có hỗ trợ cài nhạc chuông cho iphone không? Có kd sp sạc dự phòng 20.000 mah không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.907946,
+         "id": "923883",
+         "field_search": "question",
+         "question": "Mình mới mua máy EDGY bên mình, mà khi có cuộc gọi đến máy tự động bật loa ngoài, không tắt được, gọi đi thì vẫn loa trong bình thường ạ. Với cả máy này làm thế nào để cài được nhạc chuông tải xuống (không phải nhạc chuông có sẵn trong máy) thế ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.794302,
+         "id": "779699",
+         "field_search": "question",
+         "question": " Mình muốn thay đổi nhạc chuông của Samsung A7 2016 thì làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.787802,
+         "id": "1167238",
+         "field_search": "question",
+         "question": "Em không thể phát nhạc trong zing mp3 cả khi có wifi . Nhưng khi e bật 3G thì phát được giúp e vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.763035,
+         "id": "908990",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi, mình dùng IP 6s plus, mình cài Ứ. D Zingmp3 và tải nhạc về. Giờ mình muốn phần mềm nghe nhạc chính của IPhone nhận và đọc các bài hát đó thì làm thế nào ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.741493,
+         "id": "1166279",
+         "field_search": "question",
+         "question": "Dạ máy em  Nokia 3.1 TA10630DS 332 SKU  11ES2B21A13 có cách nào đê cài nhạc chuông về máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.653328,
+         "id": "874821",
+         "field_search": "question",
+         "question": " Làm sao để xóa nhạc chuông của iphone khi đã cài bằng phần mềm ituns ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.643023,
+         "id": "815291",
+         "field_search": "question",
+         "question": " Cách định vị iPhone 6s khi bị thất lạc như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.621107,
+         "id": "880818",
+         "field_search": "question",
+         "question": " Cho mình hỏi cài đặt zalo trên máy java như nokia xpressmusic 5310 có được không và cài đặt như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.619835,
+         "id": "1021579",
+         "field_search": "question",
+         "question": "Thẻ nhớ của mình có 720 bài hát, nhưng khi lắp vào máy Itel S11 Plus, hđh Andoird thì dù mở app Play Âm nhạc, Zing mp3, NCT,...thì nó chỉ có 369 bài.Mặc dù khi mình vào cài đặt, xem các file nhạc của mình thì nó vẫn đủ 720 bài, và vẫn nghe được.Làm ơn giúp mình với :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.603922,
+         "id": "762961",
+         "field_search": "question",
+         "question": " iPhone 4 sao không tải Zing mp3 về đuợc, hướng dẫn cách tải về. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.589693,
+         "id": "743175",
+         "field_search": "question",
+         "question": " Cho tôi hỏi cách cài đặt Tango cho android như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.584246,
+         "id": "1165084",
+         "field_search": "question",
+         "question": "chào bạn mình xài oppo a3s chơi lq vs livestream cube tv vs độ sáng khoảng 10% dùng dc 2h30p từ 82%-31% và có nghe zing mp3 còn lại không có ung dung chạy ngầm như thế có phải bị chai k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.571352,
+         "id": "852583",
+         "field_search": "question",
+         "question": " Làm thế nào để tải video từ website về máy iphone 6s plus? ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

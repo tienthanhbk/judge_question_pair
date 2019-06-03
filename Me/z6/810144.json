@@ -1,0 +1,809 @@
+{
+   "id_query": "810144",
+   "total": 22472,
+   "total_current": 100,
+   "max_score": 55.089737,
+   "origin_question": " Làm thế nào để truy cập ứng dụng cửa hàng google play trên máy tính ? ",
+   "hits": [
+      {
+         "score": 55.089737,
+         "id": "810144",
+         "field_search": "question",
+         "question": " Làm thế nào để truy cập ứng dụng cửa hàng google play trên máy tính ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.02504,
+         "id": "768883",
+         "field_search": "question",
+         "question": "Em tải game trong google play mà nó báo như thế này là sao Bạn chưa truy cập ứng dụng Cửa hàng Google Play (biểu tượng giỏ hàng màu trắng) trên thiết bị của bạn bằng tài khoản email này.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.533312,
+         "id": "1017717",
+         "field_search": "question",
+         "question": "   Tôi bị đẩy ra khi mua hàng trong trò chơi và 1 số ứng dụng ko truy cập được thỳ làm thế nào để khắc phục ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.013247,
+         "id": "827560",
+         "field_search": "question",
+         "question": " Làm sao để khắc phục việc đang truy cập ứng dụng mà bị thoát ra trên máy iPad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.18135,
+         "id": "1134369",
+         "field_search": "question",
+         "question": "Em đã lỡ tay xoá Cửa hàng CH play, giờ chỉ còn dịch vụ của Google Play. Làm sao để lấy lại Cửa hàng CH play vậy? Trước khi em xoá thì màn hình chính cũng không còn biểu tượng mặc dù trong cài đặt vẫn còn cả Cửa hàng CH play và Dịch vụ của Google Play",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.656523,
+         "id": "801759",
+         "field_search": "question",
+         "question": " Mã lỗi 18 trên cửa hàng CH Play không tải được ứng dụng là sao ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.877266,
+         "id": "1009786",
+         "field_search": "question",
+         "question": "Ứng dụng thường bị out ra ngoài và fb không truy cập được vào các link trên samsung galaxy j7 thì phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.750963,
+         "id": "1007422",
+         "field_search": "question",
+         "question": "Em lỡ xoá bản cập nhật của google play giờ cập nhật lại phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.524023,
+         "id": "784075",
+         "field_search": "question",
+         "question": " cho hỏi làm sao để tải phần mềm google play về máy tính laptop? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.507774,
+         "id": "1020651",
+         "field_search": "question",
+         "question": " Làm thế nào để sử dụng trợ lý ảo Google trên Nokia 3  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.36773,
+         "id": "825367",
+         "field_search": "question",
+         "question": " Làm thế nào để tải ch play cho máy tính chạy win 7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.3318,
+         "id": "1159205",
+         "field_search": "question",
+         "question": "Cách tải ch play cho điện thoại Nokia trên Google và đăng nhập tài khoản để vào ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.27863,
+         "id": "1143869",
+         "field_search": "question",
+         "question": "AD cho mình hỏi làm sao để cập nhật  Dịch vụ của Google Play trên HTC one Me ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.682213,
+         "id": "794156",
+         "field_search": "question",
+         "question": "Tại sao iphone lại khôg cho thay đổi trạng thái truy cập ảnh của các ứng dụng? Máy em bị thế này thì phải làm thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.38446,
+         "id": "1149240",
+         "field_search": "question",
+         "question": "Cập nhật cửa hàng dich vụ goog play về máy điện thoại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.212524,
+         "id": "815276",
+         "field_search": "question",
+         "question": " Tải ứng dụng trên Điện thoại Philips S307 thế nào ak trên Ch play ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.06683,
+         "id": "828801",
+         "field_search": "question",
+         "question": "Tại sao zalo+ google vẫn truy cập bình thường nhưng khi truy cập Facebook thì lại bị như vậy , tôi đang sử dụng nokia lumia 530 ! Như vậy thì có cách nào để khắc phục không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.880745,
+         "id": "751765",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi? điện thoại iPhone 4s em mua được mấy tháng, bây giờ em truy cập vào Google Play để tải trò chơi và nhiều ứng dụng khác, nhưng khi mua điện thoại về e không biết mật khẩu ID Apple.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.795067,
+         "id": "1024639",
+         "field_search": "question",
+         "question": "Em dùng huawei mini gold. Do vào hệ thống máy mầy mò, giờ cửa hàng ứng dụng ch play k nhận truy câp. Em thử rất nhiều lần nhưng k nhận mail. Giúp e vs ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.60362,
+         "id": "1152814",
+         "field_search": "question",
+         "question": "Em mới tải 1 số app trên CH Play về máy nhưng khi mở app để sử dụng thì máy báo là ứng dụng không phản hồi. Vậy thế nào để khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.493294,
+         "id": "1149972",
+         "field_search": "question",
+         "question": "Tại sao trên máy tính PC khi nhắn tin zalo cho người lạ chưa kết bạn thì vẫn nhìn thấy họ truy cập, còn khi nhắn tin zalo trên điện thoại IP 8plus thì không thấy họ hiện truy cập hay không truy cập luôn, vậy có cách nào khắc phục trên đt để khi nhắn tin và hiển thị hiện trạng họ truy cập không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.359644,
+         "id": "1017834",
+         "field_search": "question",
+         "question": "Điện thoại em là oppoa37f nó tự nhien ko cai đc ứng dụng trên ch play xong em đã gỡ dịch vụ của google giờ ch play ko cập nhập lại được mà em khôi phục rồi nó vẫn thế em cần câu trả lời",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.307484,
+         "id": "825750",
+         "field_search": "question",
+         "question": "Mình đến cửa hàng chạy lại máy tính Asus giờ ứng dụng mất hết và ngôn ngữ bị chuyển sang Tiếng Anh thì cài lại thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.24754,
+         "id": "1150523",
+         "field_search": "question",
+         "question": " Làm thế nào để mk có thể cùng lúc sử dụng tính năng ghi âm ở cả 2 ứng dụng cùng 1 lúc trên Huawei y9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.244581,
+         "id": "1015251",
+         "field_search": "question",
+         "question": "Máy e đang dùng IPad mini 2Tất cả ứng dụng của e đều không được phép truy cập vào quyền riêng tưVí dụ: Ứng dụng Uber cần truy cập vị trí nhưng vào cài đawtj chỉ có quyền làm mới trong nền thôiMột vài ứng dụng sử dụng lâu hơn như fb thì có quyền thông báo, còn camera, mic, thư viện đều không có ứng dụng nào được phép truy cập",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.113832,
+         "id": "1022446",
+         "field_search": "question",
+         "question": " làm sao để cài CH play để tải các ứng dụng về máy tablet  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.091932,
+         "id": "1152967",
+         "field_search": "question",
+         "question": "cho mình hỏi mình dùng máy samsung j5 Prime và muốn đăng xuất tài khoản google khỏi CH Play mà các ứng dụng khác thì vẫn giữ nguyên bình thường thì làm thế nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.067923,
+         "id": "1001578",
+         "field_search": "question",
+         "question": "Mà e đang xài samsung j2 prime, ma trên trang chủ của google chrome thị có đến 8 biểu tượng của các trang mạng truy cập thường xuyên, nhưng trên google của đt e hiện chỉ có được 4 biểu tượng thôi, mình có cách nào để bổ sung thêm biểu tượng vào trang chính của google để mình tiện truy cập không. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.004272,
+         "id": "1153839",
+         "field_search": "question",
+         "question": "Lỗi ứng dụng của dịch vụ google play và không đăng nhập được ch play ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.88699,
+         "id": "1010627",
+         "field_search": "question",
+         "question": "Cho hỏi làm cá ch nào để khôi phục lại ứng dụng Ch play  khi xóa tại phần ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.84014,
+         "id": "804614",
+         "field_search": "question",
+         "question": " Làm thế nào để cài mật khẩu ứng dụng trên oppo neo 7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.696703,
+         "id": "1145524",
+         "field_search": "question",
+         "question": "Sao tải ứng dụng trên CH play không được vậy ạ ? Làm sao để khắc phục được ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.649197,
+         "id": "1021886",
+         "field_search": "question",
+         "question": "anh/chị cho em hỏi sao em truy cập trên google thì nó lại hiệ lên như vậy ạ . Còn truy cập trên Cốc Cốc thì lại được vậy ạ​",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.647047,
+         "id": "1015626",
+         "field_search": "question",
+         "question": "Làm sao để tắt tính năng vuốt xuống hiển thị google trên màn hình chính đây ad chỉ mình với.  Và làm sao để tắt các ứng dụng của google  đây. Mong ad sớm trả lời  câu hỏi của  mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.512655,
+         "id": "913036",
+         "field_search": "question",
+         "question": "tôi sử dụng samsung j2 nhưng khi tôi vừa cập nhật fb phiên bản mới thì nói không chuyển sang thẻ SD được nhưng khi kiểm tra ứng dụng thì thấy nó là ứng dung của máy đem ra nguyễn kiêm để xóa thì bảo cập nhật nhật xóa tất cả nhưng vẵn không xóa dc họ bảo phải cập nhậ trên Ch play fb dg cap nhat tren google nhưng tui đâu có cập nhật trên google xin xem xét giúp. Root thì bảo mất bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.409805,
+         "id": "891734",
+         "field_search": "question",
+         "question": " Em có thể đem iPhone ra cửa hàng để cài đặt miễn phí các ứng dụng tính phí đc ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.35327,
+         "id": "1013902",
+         "field_search": "question",
+         "question": "Máy e bị cập nhật dịch vụ google thì phải làm sao ạ.e không vào đc ch play",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.31049,
+         "id": "768382",
+         "field_search": "question",
+         "question": "Tại sao iPhone 5 ( có Jaibreak) của em không truy cập được địa chỉ Google, tất cả các ứng dụng sử dụng địa chỉ Google để tìm kiếm đều không vào được ( không load được tẹo nào ), cả Youtube cũng không vào được ạ. ...( Nếu vào Safari cài đặt Bing hoặc Yahoo làm công cụ tìm kiếm thì vẫn tra cứu được, nhưng các phần liên quan đến google và truy cập youtube qua safari đều không có kết nối )....Mong được thegioididong trợ giúp khắc phục , em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.93186,
+         "id": "1139936",
+         "field_search": "question",
+         "question": "Mình đang xài oppo a37 mình gỡ cài đặt ứng dụng không xài như Google play trò chơi, Google play phim thì có ảnh hưởng gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.901089,
+         "id": "1167955",
+         "field_search": "question",
+         "question": "hôm nay mình xem youtube thì nó bảo không có dich vụ của google play nên k xem dc, mình kiểm tra thì phát hiện cửa hàng google play tự động bị xóa khỏi tivi, cho mình hỏi phải làm sao bây giờ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.814312,
+         "id": "1141148",
+         "field_search": "question",
+         "question": "Máy Lenovo vào ứng dụng cửa hang may bao gloole play đã dừng lại làm sao mới khác phục đc z",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.787209,
+         "id": "1148661",
+         "field_search": "question",
+         "question": "Làm cách nào để có Google assistant trên máy Mobiistar LAI Z2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.703117,
+         "id": "791087",
+         "field_search": "question",
+         "question": " Anh hay chị cho em hỏi làm thế nào để tải ứng dụng gọi video trên laptop ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.64656,
+         "id": "1003390",
+         "field_search": "question",
+         "question": " Cho mìh hỏi là tải ứng dụng trên ch play như thế này là lỗi j và cách khắc phục như thế nào.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.645687,
+         "id": "772958",
+         "field_search": "question",
+         "question": " Làm thế nào để xóa tài khoản Microsoft trên máy tính vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.643692,
+         "id": "1168340",
+         "field_search": "question",
+         "question": "Không thể truy cập vào Viber lỗi như này là bị sao vậy bạn.Làm thế nào để mình truy cập lại Viber đc vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.556177,
+         "id": "1023792",
+         "field_search": "question",
+         "question": "mình dùng 6s. bây giờ làm thế nào để tải flie trên google drive về máy vậy. cảm ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.546217,
+         "id": "813053",
+         "field_search": "question",
+         "question": "Tải ứng dụng trên CH Play ko được cứ báo mã lỗi thì làm sao qtv- : Máy chủ Google không phản hồi, lỗi tạm thời.- : Xoá dữ liệu  và Dịch vụ Google Play.: Vào.: Chọn : Chọn.: Chọn .Các bạn thực hiện tương tự cho .Sau đó bạn có thể cần tắt nguồn  khởi động lại.- : Do thời gian máy của bạn bị sai với giờ hệ thống Google khiến CH Play báo lỗi.- : Bạn có thể vào \" cập nhật lại cho đúng với hiện hành.Nếu đã đúng ngày giờ bạn có thể tham khảo thêm cách sau: \"\".- : Tải ứng dụng từ CH Play bị gián đoạn.- : Do bộ nhớ cache của thiết bị đã đầy, vì vậy bạn nên xóa những ứng dụng (File) không cần thiết. Khởi động thiết bị vào chế độ rồi chọn \"\".>>> Bạn có thể tham khảo cách vào để reset một số dòng máy sau trong .- : Không tải được vì dính.- : Bạn sẽ thao tác tương tự lỗi đầu tiên và kết hợp với buộc dừng ứng dụng.Nếu vẫn chưa được bạn cần tiến hành sao lưu khôi phục gốc lại máy.- : Không tải được app khi 2  đã từng mua ứng dụng trên 1 thiết bị.- : Truy cập vào  với đúng tài khoản Google đang dùng >  > Sau đó “mua” lại.Trên đây là tổng hợp lỗi  cũng như . Chúc các bạn thao tac thành công.>>> >>> >>>",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.368822,
+         "id": "1146980",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi làm sao để sử dụng google Play music tren iOS khi bị này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.344137,
+         "id": "830496",
+         "field_search": "question",
+         "question": " Quên pass truy cập vào menu iPhone 5s thì phải làm thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.312782,
+         "id": "1136719",
+         "field_search": "question",
+         "question": "Sao Google play music không hoạt động ứng dụng có cũng như không vậy ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.204811,
+         "id": "1001529",
+         "field_search": "question",
+         "question": "  máy của em truy cập vào ứng dụng hay hiện lên bảng này nhưng em không biết cách làm . chỉ em với ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.074581,
+         "id": "1162429",
+         "field_search": "question",
+         "question": "làm thế nào để chuyển ứng dụng sang thẻ SD khi sử dụng vivo y71,nếu máy ko hỗ trợ thì có ứng dụng nào ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.041067,
+         "id": "1141751",
+         "field_search": "question",
+         "question": "ad ơi mình cần trợ giúp : mh đang dùng máy redmi note5 pro hiện tại mình không truy cập đc tât cả các ứng dụng của google ngoài ra không hiển thị phần bàn phím có cách nào khác phục lỗi này k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.032616,
+         "id": "1149385",
+         "field_search": "question",
+         "question": "Làm thế nào để thêm số điện thoại vào tài khoản Google trên Samsung J7.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.012514,
+         "id": "1137030",
+         "field_search": "question",
+         "question": "Cho em hỏi là làm thế nào để không hoàn toàn xóa ảnh vĩnh viễn ạ, làm thế nào mà ảnh vừa chụp được lưu trên google drive hay bất cứ ứng dụng nào mà khi mình bấm xóa ảnh trong thùng rác thì em vẫn có thể tìm lại ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.002815,
+         "id": "1000965",
+         "field_search": "question",
+         "question": "làm sao để tải ứng dụng trong CH Play về thẻ nhớ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.864235,
+         "id": "1144357",
+         "field_search": "question",
+         "question": "Lỗi không tải được ứng dụng trên ch play, mã lỗi 490, ứng dụng nào cũng ko tải đượcKhắc phục như nào vậy ad, em dùng máy redmi 5 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.84426,
+         "id": "1015752",
+         "field_search": "question",
+         "question": "Anh ơi em lỡ dùng lucky patcher để vô hiệu hóa quảng cáo của Khung Dịch vụ của Google với cửa hàng Google play nên giờ nó cứ hiện liên tục \"Rất tiếc,quá trình com.google.process.gapps đã dừng lại\" giờ em phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.840754,
+         "id": "795434",
+         "field_search": "question",
+         "question": "mình dùng android mà zalo lúc nào cũng trong tình trạng vừa mới truy cập lúc mình bật mạng. làm sao để tắt truy cập hả ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.800945,
+         "id": "991764",
+         "field_search": "question",
+         "question": "Cho e hỏi cửa hàng có bán thẻ megacard ko ạ ? Làm thế nào để tìm được những cửa hàng bán thẻ này ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.788595,
+         "id": "1150943",
+         "field_search": "question",
+         "question": "Lm thế nào để khoá từng ứng dụng trên iphone 6s ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.782757,
+         "id": "1163903",
+         "field_search": "question",
+         "question": "làm sao để bật được quyền truy cập ứng dụng khi hiện ra câu \"àm sao để tắt nếu hộp thoại yêu cầu quyền bị chặn bởi một ứng dụng nào đó, hãy di chuyển hoặc đóng ứng dụng đó\"? tôi đã cố gắng tìm cách giải quyết nhưng không thành, thậm chí rết cả điện thoại vẫn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.75915,
+         "id": "1154394",
+         "field_search": "question",
+         "question": "Một số ứng dụng, game cài thêm của laptop win 10 home tự mất khi truy cập vào mà không có thông báo thì phải làm như nào để không bị mất nữa vậy ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.756603,
+         "id": "998762",
+         "field_search": "question",
+         "question": "Android 6.0 tự động tắt khả năng truy cập của ứng dụng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.753418,
+         "id": "1139740",
+         "field_search": "question",
+         "question": "em mới sửa máy tính mà bị mất pp, work 2013 thay vào đó là ứng dụng khác. Vậy em có thể đến cửa hàng để cài đặt lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.71029,
+         "id": "1149150",
+         "field_search": "question",
+         "question": "Cho mình hỏi : Mình dùng Oppo a3s , tại sao mình không tải các ứng dụng trên Google Play về thẻ SD được mà nó lại tải trên lưu trữ thiết bị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.687956,
+         "id": "1151594",
+         "field_search": "question",
+         "question": "làm cách nào để xóa xác minh  tài khoản google  trên máy GR5KIIL21",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.681942,
+         "id": "1134481",
+         "field_search": "question",
+         "question": "XIN CHÀO! E XÀI DT OPPO F9, KHI E TẢI PHẦN MỀM ĐỊNH VỊ VỀ MÁY OPPO THÌ KHI XÀI 3G, NO K TỰ ĐỘNG CẬP NHẬT VỊ TRÍ , CHỈ KHI NÀO VÀO ỨNG DỤNG ĐỊNH VỊ ĐÓ THÌ MỚI HIỂN THI VỊ TRÍ , MÀ KHI XEM TRÊN THIẾT BỊ KHÁC THÌ NO ĐỂ KHÔNG CÓ TÍNH HIỆU 3G HOẶC LÀ ĐT OPPO ĐÓ K  TRUY CẬP.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.642809,
+         "id": "1002926",
+         "field_search": "question",
+         "question": "các anh chị cho em hỏi là: e bị mất máy điện thoại oppp F1s mấy hôm rồi. Trên máy đó e đã từng dùng tài khoản Google để truy cập và đồng bộ. Sau khi mất e lên máy tính làm theo hướng dẫn tìm điện thoại, cài đặt khóa máy. Thỉnh thoảng lại vào tìm thiết bị, nhưng ko tiếp cận được thiết bị, thời gian đồng bộ lần cuối vẫn là ngày 3.7. E hiểu là điện thoại của em có thể vẫn bị tắt nguồn, hoặc mở nguồn nhưng ko truy cập internet. Nếu khi người ta kết nối internet,truy cập  vào google, youtobe,... thì trên máy tính em đang tìm có báo cho em biết thời gian đồng bộ mới nhất của máy Oppo F1s đó ko? Và nếu báo và có vị trí của máy thì e làm gì tiếp theo?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.597145,
+         "id": "1145538",
+         "field_search": "question",
+         "question": "Tại sao máy mình k tải đc ứng dụng trên ch play vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.55619,
+         "id": "785084",
+         "field_search": "question",
+         "question": " Mã lỗi tải về 902 trên cửa hàng CH play nghĩa là sao? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.518028,
+         "id": "1153628",
+         "field_search": "question",
+         "question": "Có nên cập nhật thường xuyên các ứng dụng trong ch play k...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.48468,
+         "id": "1153168",
+         "field_search": "question",
+         "question": "mk lỡ ẩn mục tâm sự đêm khuya cùng bạn bè đang truy cập hiện lúc khoảng 21h24 làm thế nào để nó hiện lại ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.450375,
+         "id": "1134635",
+         "field_search": "question",
+         "question": "cho e hỏi đth e kêu cập nhattj dịch vụ ch play nếu k mấy ứng dụng k thể chạy và e cập nhật xong thì vẫn tiếp tục thông báo như trên và hình ứng dụng ch play của e cũng là hình mặc định mong giúp đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.43223,
+         "id": "1164132",
+         "field_search": "question",
+         "question": "Tại sao máy samsung j4 core không tải được ứng dụng trên ch play",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.403648,
+         "id": "834474",
+         "field_search": "question",
+         "question": " toi muốn tai CH play ve iPhone 4 làm thế nào tôi đã sử dụng nhiều ứng dụng đề tài mà không có kết quả? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.389153,
+         "id": "1147923",
+         "field_search": "question",
+         "question": "Cho em hỏi làm cách nào để tắt tính năng tìm kiếm bằng giọng nói của google trên máy realme c1. Em đã vô cài đặt google đã bấm tạm dừng mà ko dc. Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.3704,
+         "id": "1169402",
+         "field_search": "question",
+         "question": "Làm thế nào để tắt lớp phủ màn hình trên máy Mobistar Lai ZumboS ạ? Khi em vào cài đặt -> ứng dụng -> icon cài đặt trên cùng -> vẽ lên trên ứng dụng khác -> chọn \"các ứng dụng có quyền\" thì có 1 số ứng dụng không hiện ở đây. Mong anh/chị trợ giúp em với ạEm cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.368612,
+         "id": "1166026",
+         "field_search": "question",
+         "question": "Điểm truy cập cá nhân của iphone 6s đang phát tự tắt? Để khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.359034,
+         "id": "852646",
+         "field_search": "question",
+         "question": " CH Play khi cập nhật ứng dụng bị lỗi 104 là sao ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.34931,
+         "id": "825919",
+         "field_search": "question",
+         "question": " Muốn đăng xuất tài khoản google trên máy Oppo neo7 làm thế nào ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.334967,
+         "id": "1161651",
+         "field_search": "question",
+         "question": "Phiên bản ứng dụng trên Samsung J8 mới nhất có chế độ đa cửa sổ k ạk. E vừa cập nhật mà không biết mở lại như thế nào. Nhờ trợ giúp.. tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.257277,
+         "id": "1005323",
+         "field_search": "question",
+         "question": "Máy mình không thể truy cập vào một vài ứng dụng trên máy, một thời gian sau đó thì máy lại không thể kết nối được với thẻ nhớ. Máy mình bị làm sao vậy? Ai cho mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.206863,
+         "id": "767288",
+         "field_search": "question",
+         "question": " Làm thế nào để sử dụng Appstore trên iphone ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.193735,
+         "id": "882322",
+         "field_search": "question",
+         "question": " cho em xin mật khẩu itunes của của hàng để cập nhập ứng dụng ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.165346,
+         "id": "1018738",
+         "field_search": "question",
+         "question": "Cho em hỏi đt của em bị gì vậy ạ,  reset lại rồi vẫn bị,  không đăng nhập vào được google,  google play,  youtube.... Em nên làm thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.143484,
+         "id": "750273",
+         "field_search": "question",
+         "question": " Làm sao để phát wifi trên ipad air 2 ios 9.1 . Ipad của em không có  điểm truy cập cá nhân .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.086998,
+         "id": "996755",
+         "field_search": "question",
+         "question": "Em lở tắt ứng dụng ch play bây giờ làm sao để mở nó lên lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.067566,
+         "id": "827510",
+         "field_search": "question",
+         "question": "e dùng máy c2 00 khi vào ứng dụng fb thì máy báo là cài đặt không cho phép truy cập ứng dụng..giúp e khăc phục e cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.978218,
+         "id": "1149774",
+         "field_search": "question",
+         "question": "làm thế nào để chuyển ứng dụng sang thẻ SD khi sử dụng vivo y71",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.969734,
+         "id": "573805",
+         "field_search": "question",
+         "question": " Cách khắc phục một số lỗi phổ biến trên CH Play  Google Play Store? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.920744,
+         "id": "776770",
+         "field_search": "question",
+         "question": " Mã lỗi  18 trên CH Play khi cài ứng dụng vào máy Galaxy Core 2?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.916243,
+         "id": "1016675",
+         "field_search": "question",
+         "question": "Minh tải ứng dụng trên ch play về thì tải xong thì ứng dụng đó tự mở dù minh đang mỏ ứng dụng khác muốn khắc phục thì phải làm sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.906796,
+         "id": "1166392",
+         "field_search": "question",
+         "question": "Làm thế nào để tải ứng dụng gmail cho iPhone 4s ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.902655,
+         "id": "635973",
+         "field_search": "question",
+         "question": " Nếu tắt wifi trên máy tính để bàn thì phải làm thế nào?cho em hỏi bật lại kiểu gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.872816,
+         "id": "1153170",
+         "field_search": "question",
+         "question": "mk lỡ ẩn mục tâm sự đêm khuya cùng bạn bè đang truy cập hiện lúc khoảng 21h24trên zalo làm thế nào để nó hiện lại ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.853422,
+         "id": "796839",
+         "field_search": "question",
+         "question": "Anh chị ơi làm sao để vào CH play khi cứ vào là bị đuổi ra rồi xuất hiện dòng chữ: \"The application Cửa Hàng Google Play(process com.android.vending) has stopped unexpectedly.please try again\"Rồi bắt buộc đóng. em xóa cache và data vẫn ko được. đóng cũng ko được . anh chị nào giúp em với ạ, em đang rất cần ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.718788,
+         "id": "1007153",
+         "field_search": "question",
+         "question": "Giúp em với Làm thế nào để dòng máy sony c1905 chuyển ứng dụng vào thẻ nhớ được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.696598,
+         "id": "842964",
+         "field_search": "question",
+         "question": " Làm thế nào tôi có thể chơi hoiquan52 trên máy vi tính ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

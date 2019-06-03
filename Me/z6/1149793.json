@@ -1,0 +1,809 @@
+{
+   "id_query": "1149793",
+   "total": 24438,
+   "total_current": 100,
+   "max_score": 52.063236,
+   "origin_question": "Mình muốn bảo hành iPhone thì mang giấy tờ gì đi hả ad?",
+   "hits": [
+      {
+         "score": 52.063236,
+         "id": "1149793",
+         "field_search": "question",
+         "question": "Mình muốn bảo hành iPhone thì mang giấy tờ gì đi hả ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.27138,
+         "id": "814913",
+         "field_search": "question",
+         "question": " Đem laptop đi bảo hành thì cần mang theo giấy tờ hay gì không ạ? Và thời gian bảo hành cần bao lâu?? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.10365,
+         "id": "1021370",
+         "field_search": "question",
+         "question": "Cho e hỏi là e muốn mua máy iPhone 7 plus trả góp lãi xuất 0 thì khi đi mua phải mang theo giấy tờ gì đi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.729927,
+         "id": "1138530",
+         "field_search": "question",
+         "question": "Cho em hỏi, hiện tại em đang là sinh viên muốn trả góp điện thoại thì cần những giấy tờ gì (giấy tờ nào công ty tài chính giữ và giấy tờ nào được mang về) và có được hưởng ưu đãi gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.503601,
+         "id": "1020859",
+         "field_search": "question",
+         "question": "mất giấy tờ mua bán mang máy không đến có được  bảo hành không,còn 10 tháng bh cơ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.794174,
+         "id": "1020328",
+         "field_search": "question",
+         "question": "E mới mua điện thoại kẻ của hàng, e muốn bảo hành lại nhưng bị mất giấy tờ mua bán. Vậy e có được bảo hành máy khi k còn giấy tờ mua bán k ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.66341,
+         "id": "1018221",
+         "field_search": "question",
+         "question": "Mình có mua macbook air ở tgdđ giờ mình muốn mang máy tới tgdđ để chạy lại chương trình giúp mình thì có cần mang theo giấy tờ hay gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.138224,
+         "id": "1141240",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp thì cần những giấy tờ gì vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.679777,
+         "id": "924943",
+         "field_search": "question",
+         "question": " Lap của mình vẫn còn bảo hành nhưng hiện mất giấy bảo hành thì vẫn có thể mang ra bảo hành được chứ ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.312151,
+         "id": "1019510",
+         "field_search": "question",
+         "question": "tháng 3 năm 2017 e có mua một iphone 7plus và giờ màn hình bị đơ thì liệu e còn được bảo hành không và khi mang đi bảo hành thì cần mang những gì??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.127392,
+         "id": "994008",
+         "field_search": "question",
+         "question": " Em muốn mua đt trả góp , không trả trước , cần giấy tờ sao hả? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.818361,
+         "id": "1134826",
+         "field_search": "question",
+         "question": "Cho e hỏi, muốn mua dt trả gopsbeen mình thì cần những loại giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.74139,
+         "id": "999118",
+         "field_search": "question",
+         "question": "em mạng điện thoại J7 Prime bị vỡ màn hình đến cơ sở TGDĐ để chuyển về bảo hành thì cần những giấy tờ gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.509583,
+         "id": "908767",
+         "field_search": "question",
+         "question": " Mua laptop cần những giấy tờ gì vui lòng cho biết và cần những giấy tờ gì ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.183533,
+         "id": "1023067",
+         "field_search": "question",
+         "question": "ad cho e hỏi e đang ở Lâm Đồng muốn mua trả góp thì cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.10118,
+         "id": "1164565",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại trả góp thì cần giấy tờ gì vậy anh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.011732,
+         "id": "998640",
+         "field_search": "question",
+         "question": "em 20 tuổi , muốn mua trả góp iphone 6s plus cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.793524,
+         "id": "1000321",
+         "field_search": "question",
+         "question": "muốn mua trả góp điện thoại không lãi xuất thì cần giấy tờ gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.731953,
+         "id": "1169290",
+         "field_search": "question",
+         "question": "E muốn mua trả góp máy ip xs thì cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.731953,
+         "id": "1007186",
+         "field_search": "question",
+         "question": "t muốn mua trả góp oppo f3 thì cần những giấy tờ gì vậy b",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.72373,
+         "id": "990695",
+         "field_search": "question",
+         "question": "Mình có mua 1 chiếc laptop khoảng 3 tháng trước. Giờ mình muốn đem nó đến bảo hành vi cảm thấy nó chạy ko mượt lắm. Những giấy bảo hành thì mình đã làm mất rồi. Xin hỏi là mình có thể đem nó đi bảo hành thì có được không và cần phải làm gì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.681366,
+         "id": "789451",
+         "field_search": "question",
+         "question": "Em mua con Hp Pavilion 15 ờ TGDDbây giờ em muốn lắp thêm ram thì ra trung tâm HP 521 Kim Mã có cần mang theo giấy tờ gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.651325,
+         "id": "1011267",
+         "field_search": "question",
+         "question": "Lúc em mua máy thì ko có giấy bảo hành giờ bảo hành kiểu gì đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.436607,
+         "id": "990924",
+         "field_search": "question",
+         "question": "Cho em hỏi, em muốn đổi F1s 2017 sang F3 thì bù nhiều không ad ? Máy em mới dùng được khoảng 3 tháng, phụ kiện và hộp, giấy tờ bảo hành còn nguyên ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.250237,
+         "id": "1015058",
+         "field_search": "question",
+         "question": "Cho e hỏi mua trả góp thì mình cần nhữg giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.204802,
+         "id": "1156162",
+         "field_search": "question",
+         "question": "Điện thoại Samsunggalaxy A7 của mình bị rơi xuống nước, vậy khi mang đến cửa hàng Thế Giới Di Động có được sửa chữa khôgn vậy? Khi mang đi sửa có cần mang giấy bảo hành không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.094994,
+         "id": "811314",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 6 tại thế giới đi động mới được khoảng 2 tháng mà tai nghe mình có vấn đề mình đến bảo hành ở đâu hả AD",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.01407,
+         "id": "990409",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi,sao iphone của em mà đi bảo hành thì toàn mất phí không vậy ? Thế thì còn gì gọi là bảo hành nữa ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.988468,
+         "id": "995111",
+         "field_search": "question",
+         "question": "Mình có mua một laptop Asus tại cửa hàng thế giới di động cách đây khoảng 8 tháng. Theo như thông tin lúc mới mua thì sản phẩm được bảo hành trong 2 năm, nay mình muốn mang đến trung tâm bảo hành để nâng cấp Ram.Vì giấy tờ lúc mua mình không nhớ là để đâu rồi nên mình muốn hỏi nếu mang sản phẩm ra TGDĐ thì có thể nhờ các anh chị nhân viên kiểm tra chứng thực thông tin bảo hành giúp mình không ? ( Lúc mua mình có khai báo họ tên, số đt, CMND...) Xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.85193,
+         "id": "754874",
+         "field_search": "question",
+         "question": " Chào ad. Cho mình hỏi, mình muốn mua điện thoại iphone 6s trả góp. thủ tục và giấy tờ cần chuẩn bị như thế nào ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.755924,
+         "id": "992004",
+         "field_search": "question",
+         "question": "E là sinh viên e muốn mu trả góp oppo a39 thì e cần những giấy tờ gì ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.697933,
+         "id": "996023",
+         "field_search": "question",
+         "question": "Em muốn mua điện thoại trả góp ở sóc sơn hà nội thì cần những giấy tờ gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.432693,
+         "id": "1138538",
+         "field_search": "question",
+         "question": " tôi muốn mua trả góp điện thoại thì cần những giấy tờ gì và lãi suất như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.170124,
+         "id": "1010747",
+         "field_search": "question",
+         "question": "Qtv cho hỏi Mua trả góp thì cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.06673,
+         "id": "1159463",
+         "field_search": "question",
+         "question": "Mình có mua 1 điện thoại Mobistar s2 dual tại TGDD minh khai năm ngoái. Điện thoại mình đg bị hỏng microphone thu. Mình vẫn còn tin nhắn bảo hành từ lúc mua máy. Giờ vẫn trong thời gian bảo hành. Nhưng giấy tờ lúc mua máy mình làm mất rồi. Vậy thì muốn hỏi TGDD là:+ Mình có thể bảo hành máy không ?+ Nếu vẫn được thì giờ mang máy ra chỗ mình đã mua, hay tại TGDD gần nhà cũng được?+ Mình sửa microphone đc bảo hành miễn phí hay mất phí?Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.968554,
+         "id": "1022450",
+         "field_search": "question",
+         "question": "mình mới đổi dt l61y dt khác (1 đổi 1). tgdd có đưa cho 1 tờ giấy để ký tên thì là tờ giấy gì aj. có phải phiếu yêu cầu đổi tra ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.928,
+         "id": "1011730",
+         "field_search": "question",
+         "question": "Em mua đt tại tgdd mà ko dc pát thẻ bảo hành dt nếu em muốn đi bảo hành thì pải mabg gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.865698,
+         "id": "1161114",
+         "field_search": "question",
+         "question": "cho e hỏi tý . e muốn mua trả góp mà ko đủ giấy tờ e chụp hình mang qua được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.82454,
+         "id": "1134703",
+         "field_search": "question",
+         "question": " Mua trả góp thì Cửa hàng có giữ lại giấy tờ gì ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.657671,
+         "id": "1168209",
+         "field_search": "question",
+         "question": "Mình mua máy tính lenovo ideapad 330 cách đây 3 tháng, và mình mới mua thêm 1 ổ cứng và mình muốn thay ổ cứng. Giờ mình có thể lên trực tiếp hãng lenovo để thay được không ạ? Và nếu được, thì cho mình xin địa chỉ của hãng lenovo, và khi đi mình có cần mang theo giấy tờ gì khoong ạ ? MÌnh cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.63223,
+         "id": "1023975",
+         "field_search": "question",
+         "question": "Đt mang đi bảo hành thì mang đến cửa hàng tgdd nào cũng đc ạ hay là phải mang tới tgdd mk mua máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.505407,
+         "id": "1156035",
+         "field_search": "question",
+         "question": "cho mình hỏi máy mi 8 Lite mang đi bảo hành của số dt 0963744369 ở tgdd số 01 Hòn Chồng, phường Vĩnh Phước,tp Nha Trang đã chuyển đi bảo hành chưa ạ và tầm bao nhiêu ngày thì bảo hành xong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.369383,
+         "id": "764664",
+         "field_search": "question",
+         "question": " Mua iPhone 6s rose gold cần những giấy tờ gì vậy Shop. MÌnh chỉ có hộ khẩu ở tỉnh và CMnd thôi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.285116,
+         "id": "1159727",
+         "field_search": "question",
+         "question": "Iphone 7 plus cũ có hổ trợ trả góp 0 k ạ, và cần giấy tờ gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.217001,
+         "id": "760912",
+         "field_search": "question",
+         "question": " Cho em hỏi năm nay em 18t mà mua iPhone 5s gold 16gb trả trước 4 triệu thì cần những giấy tờ gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.176222,
+         "id": "770971",
+         "field_search": "question",
+         "question": " Em là 1 học sinh lớp 12, em muốn mua iPhone 5S 8tr4 trả góp thì cần có những giấy tờ gì và trả góp như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.07794,
+         "id": "1168210",
+         "field_search": "question",
+         "question": "Mình mua máy tính Lenovo ideapad 330 cách đây 3 tháng ở tddd, hiện tại mình muốn thay ổ cứng, thì mình muốn đem lên tận hãng để thayđược k ạ? Với nếu được cho mình xin đia chỉ, và khi đem mình có cần mang theo giấy tờ gì không? Mình cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.07493,
+         "id": "757523",
+         "field_search": "question",
+         "question": "  Cho em hỏi muốn mua trả góp iPhone 6S 16gb có đầy đủ giấy tờ thì trả trước bao nhiêu? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.055748,
+         "id": "999178",
+         "field_search": "question",
+         "question": "tôi muốn mua samsung galaxy s8 plus , trả góp và trả trước 30% , ngoài cmnd và sổ hộ khẩu ra thì tôi còn phải chuẩn bị giấy tờ gì nữa vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.868698,
+         "id": "1005054",
+         "field_search": "question",
+         "question": "Chào TGDD! Em muốn hỏi là với người chử đủ 18 tuổi muốn mua điện thoại trả tiền tại chỗ thì cần những giấy tờ thủ tục gì ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.71655,
+         "id": "993673",
+         "field_search": "question",
+         "question": "Add muốn mua trả góp thì cần những gì ạ     Quê e ở huế nhưng e đang ở vũng tàu  e chỉ có giấy chứng minh nhân dân  K có  giaya tờ xe cx k có giấy tờ điện nước   e muốn mua trả góp thì phải làm s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.664696,
+         "id": "759544",
+         "field_search": "question",
+         "question": " Cho hỏi mình mang laptop đến bảo dưỡng trong thời gian bảo hành có mất phí gì không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.658516,
+         "id": "896095",
+         "field_search": "question",
+         "question": "mình mua laptop tại thegioididong bắc KạnMáy Mình Khởi Động Rất Lâu Mình Đang Học Tại Thái Nguyên.Nhưng Không Mang Giấy Bảo Hành Có mất Phí Không Ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.620853,
+         "id": "1010581",
+         "field_search": "question",
+         "question": "CHo hỏi neeis em mua sản phảm sony xz dual trả góp 0 trả trước 30 thì cần mang theo những giấy tờ nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.562996,
+         "id": "828547",
+         "field_search": "question",
+         "question": "a ơi cho e hỏi.trước khi mang máy đi bảo hành máy của e sạc đầy pin dùng được 4h nhưng khi e mang laptop đi bảo hành về thì máy tính của e pin sạc đầy chỉ dùng được tầm 1h là bị làm sao ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.516613,
+         "id": "1013104",
+         "field_search": "question",
+         "question": "Máy này trả góp 0 cần những giấy tờ gì nhỉvdhdhdhdbdsbsbsvv ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.507847,
+         "id": "994734",
+         "field_search": "question",
+         "question": "Em chưa đủ tuổi để mua trả góp. Phụ huynh đứng ra làm thủ tục trả góp thì có phải đến tận nơi để làm thủ tục không ạ hay chỉ cần em mang giấy tờ đi thôi ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.42031,
+         "id": "1008422",
+         "field_search": "question",
+         "question": "E là sinh viên e muốn mua trả góp thì cần giấy tờ s ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.355103,
+         "id": "1017577",
+         "field_search": "question",
+         "question": "cho mình hỏi là laptop mình còn bảo hành, mình muốn mang ra cài lại win thì có tốn phí ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.270908,
+         "id": "1018242",
+         "field_search": "question",
+         "question": "E muốn mua ip 5s thì cần những giấy tờ và trả trước bao nhiêu a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.251501,
+         "id": "1009678",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu bảo hành điện thoại di động thì cần mang theo gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.169043,
+         "id": "946128",
+         "field_search": "question",
+         "question": "Ad ơi giúp em với . Hiện Tại e đang dùng iphone 7 và sạc trong hộp đi theo máy . Thì trong lúc cắm sạc . e sờ mặt lưng đằng sau có hiện tượng tê tê thì có cần mang đi bảo hành k ạ .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.115217,
+         "id": "1020164",
+         "field_search": "question",
+         "question": "chào a/c e mới mua máy sony xperia XA cũ và đc bảo hành đến 10 tháng( em mới mua dt vào giữa tháng 8). nhưng sau đó e có để giấy tờ bảo hành trong hộp đt nhưng con bé nhà em nó lục ra phá và làm mất giấy bảo hành của em rồi. hiện tại màn hình máy e bị đơ ở góc màn hình và e muốn đc bảo hành. có cách nào cho em không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.092121,
+         "id": "1022217",
+         "field_search": "question",
+         "question": "cho mình hỏi.mình có hồ sơ trên thế giới di động .giờ mình muốn mua điện thoại trả góp vậy có cần đem giấy tờ gì nữa khong vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.067951,
+         "id": "1166857",
+         "field_search": "question",
+         "question": "Mình muốn bảo hành cái nồi cơm điện của mình thì mình mang nó ra điện máy xanh luôn hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.993435,
+         "id": "1001703",
+         "field_search": "question",
+         "question": "ad cho mk hỏi là khi mua máy thì mk nhận được những giấy tờ gì liên quan đến máy ạ...hóa đơn như thế nào ạ ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.985743,
+         "id": "1158030",
+         "field_search": "question",
+         "question": "cho em hỏi. những giấy tờ cần để mua góp có cần đi photo công chứng k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.922932,
+         "id": "1000783",
+         "field_search": "question",
+         "question": "Máy iPhone 7 mang đi bảo hành mà ko thể sửa được phải đổi hỏi máy được đổi là máy cũ hay mới",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.919643,
+         "id": "1001075",
+         "field_search": "question",
+         "question": "Cho em hỏi giấy tờ để mua trả góp galaxy s8 gồm những gì. Em thấy có cmnd và gplx sao e mang ra lại kêu cần thêm hộ khẩu ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.794662,
+         "id": "1002702",
+         "field_search": "question",
+         "question": "Mình mua điện thoại ở điện máy , bây giờ máy mình bị hư, check imei còn bảo hành nhưng giấy bảo hành bị mất thì bên mình có bảo hành cho máy mình không vậy ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.785671,
+         "id": "858438",
+         "field_search": "question",
+         "question": "Do mình quên icloud nên nhập nhiều lần đã bị khóa activation...mình mua máy ở thế giới di động còn trong thời gian bảo hành có đầy đủ giấy tờ có đổi máy khác được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.71804,
+         "id": "995613",
+         "field_search": "question",
+         "question": "Cho em hỏi là bao nhiêu tuổi thì được mua trả góp và cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.688543,
+         "id": "1013110",
+         "field_search": "question",
+         "question": "cho em hỏi thủ tục mua trả góp cần những loại giấy tờ gì ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.677662,
+         "id": "1004969",
+         "field_search": "question",
+         "question": "Chào Admin !Mình muốn hỏi thủ tục mua trả góp. Ví dụ mình mua góp điện thoại. Bên ngân hàng cho vay cần các giấy tờ như là : CMND + Bằng lái xe/ Hộ khẩu + Hoá đơn điện. Vậy mình lấy những giấy tờ đó đi thay bố mình được không. Do bố mình không rành về mấy loại giấy tờ này. Với mình không phải là người đứng tên trong Hoá đơn điện nên không làm thủ tục mua góp được.Mong tư vấn từ Admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.675161,
+         "id": "1155605",
+         "field_search": "question",
+         "question": "bữa em có đặt trước 1 điện thoại samsung A50. Em mua theo phương thức vay trả góp. giờ em qua bên cửa hàng đặt cọc cần mang theo giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.566088,
+         "id": "948444",
+         "field_search": "question",
+         "question": "em mua máy iphone 5s ở TGDD bây giờ tự nhiên không bật nguồn được nữa, em muốn bảo hành thì mang tới TGDD hay trung tâm bảo hành ở đâu ạ, thời gian bảo hành có lâu không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.557209,
+         "id": "999445",
+         "field_search": "question",
+         "question": "Cho e hỏi là e bị mất tờ giấy trả góp ạ. Thì bây giờ e ra đóng tiền trả góp ở ngoài tgdd thì k cần giấy tờ có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.21831,
+         "id": "788037",
+         "field_search": "question",
+         "question": "QTV cho em hỏi giấy bảo hành miến dán màn hình laptop của em bị mờ chữ hết giờ em muốn đi dán lại màn hình phải làm như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.19838,
+         "id": "1142748",
+         "field_search": "question",
+         "question": "em muốn mua điện thoại trả gớp em cần giấy tờ sao đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.18873,
+         "id": "751133",
+         "field_search": "question",
+         "question": "Em nói thật em sợ thế giới di động vô cùng anh ơi chính sách bảo hành quá kinh khủng. Em mua cây ip6 16gb sài đc nửa năm thì bị cảm ứng. Mang đi bảo hành lần 1: gửi đi bảo hành 13 ngày thì đc trả máy kêu là ko có lỗi, em ngồi đó test cho nhân viên coi thì đc mang đi bảo hành lần 2: 13 ngày sau có 1 cây máy mới. Máy mới sài đc 2 ngày thì lỗi wifi, mang đi bảo hành lần 3 mất 12 ngày thì bên tgdd báo về là cần 21 ngày sau thì a ms có máy do chúng em phải đặt hàng. Em chột dạ lên mạng xem thông tin thì thấy tgdd rất bê bối vụ bảo hành nào là trả về máy cũ đã hết bảo hành apple, rồi tự sửa máy để bảo hành, máy mới sài 1 ngày lỗi mà cũng lùm xùm vụ bảo hành. Xem trên báo mới.com với đời sống pháp luật nên chắc không sai đâu. Bất an ghê.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.102179,
+         "id": "1009729",
+         "field_search": "question",
+         "question": "cho em hỏi dịch vụ trả góp ạ? thủ tục và cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.051048,
+         "id": "817064",
+         "field_search": "question",
+         "question": "dạ máy asus e có bản quyền win8 vậy e muốn nâng cấp lên win 10 e vào tgdd nâng cấp được không ạ? mất nhiều thời gian không ạ? khi đi nâng cấp có cần giấy tờ hay gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.046745,
+         "id": "798934",
+         "field_search": "question",
+         "question": "AD cho em hỏi là Laptop của em đã hết hạn bảo hành nhưng em muốn cài lại windows,em mang mẩy cửa hàng thegioididong có bảo hành cho em không ạ.mong Ad trả lời giúp em ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.009642,
+         "id": "989281",
+         "field_search": "question",
+         "question": " AnhChị cho em hỏi, cần có giấy tờ gì khi mua điện thoại trả góp tại cửa hàng? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.902529,
+         "id": "1144365",
+         "field_search": "question",
+         "question": "Chào AdMình muốn mua điện thoại IP7 ở thế giới di động bằng hình thức trả góp qua Home credit hoặc FE credit. Thì cần những giấy tờ gì? và thủ tục thanh toán hằng tháng sẽ như thế nào?Cảm ơn ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.888676,
+         "id": "1003387",
+         "field_search": "question",
+         "question": "e muốn mua iphone 6s 32G thì cần những loại giấy tờ gì ạ mh cần trả trc tối thiểu bao nhiu %...e 21t đi lm hưởg lươg.. thág trc chị e có mua hàng trả gop bên tgdd...bên a chị coa thể đối chiếu thôg tin...mong ace tư vấn rõ ràng giùm em xin tks ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.815637,
+         "id": "1022555",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi. Tình hình là e được a họ mua tặng 1 cái điện thoại j7 prime điện thoại e còn bảo hành nhưng giờ e muốn kiểm tra lại tình hình của máy. E ko biết bên mình bảo hành ntn ạ. Tại a e bảo đợt đi mua thôi ko đăng ký thông tin gì cả thì phải. Vậy giờ e đem ra bảo hành thì chỉ cần đem máy thôi phải ko ạ. A e thì đi thực tế xa rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.699895,
+         "id": "1152898",
+         "field_search": "question",
+         "question": "Cho mình hỏi, mình có nhu cầu mua góp A3s 16Gb, zậy cần những giấy tờ gì để góp, mình chỉ có CmND, bằng lái(B2) thì đang chờ Sở GTVT cấp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.686763,
+         "id": "964223",
+         "field_search": "question",
+         "question": " Mình muốn kiểm tra thời hạn bảo hành iphone 6s thì làm thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.57799,
+         "id": "1006194",
+         "field_search": "question",
+         "question": "Em là tân sinh viên, em muốn mua điện thoại trã góp được không ạ? Nếu được thì cần những loại giấy tờ nào ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.564592,
+         "id": "754301",
+         "field_search": "question",
+         "question": " Tại sao mua iphone mà không có giấy bảo hành xin các ac giúp em với ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.525361,
+         "id": "1014010",
+         "field_search": "question",
+         "question": "Em làm mấy giấy bảo hành luôn rồi ạ ... vậy thì có s koo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.480625,
+         "id": "1016322",
+         "field_search": "question",
+         "question": "Nếu mất giấy bảo hành và phiếu mua hàng thì có thể kiểm tra được là đt còn trong thời gian bảo hành không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.469964,
+         "id": "803760",
+         "field_search": "question",
+         "question": "Em muốn mua Laptop Asus A540LA i3 4005U/4GB/500GB/Win10với hình thức trả góp thì cần những giấy tờ gì ạ. hiện em là sinh viên tại hà nội, em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.364866,
+         "id": "1142110",
+         "field_search": "question",
+         "question": "Em lỡ tháy máy mặt sau của laptop asus làm cho tem bảo hành bị tróc đi trong thời hạn vẫn còn bảo hành thì có được bảo hành máy tiếp tục không vậy ad :(((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.308095,
+         "id": "1139405",
+         "field_search": "question",
+         "question": "Cho em hỏi là trước em vừa trả góp xong 1 con samsung note fe bây giờ em muốn mua trả góp tiếp samsung note 9 thì có cần phải xác nhận lại giấy tờ không ạ. giấy tờ trả góp cũ em vẫn còn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.202343,
+         "id": "1019508",
+         "field_search": "question",
+         "question": "ad cho hỏi là e muốn coi bảo hành máy thì làm sao ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.179039,
+         "id": "1157394",
+         "field_search": "question",
+         "question": "Mình mua máy realme C1 ở thế giới di động cách đây mấy tháng hiện tại máy tự nhiên sập nguồn không lên.mình muốn mang ra bảo hành nhưng mất phiếu mua hàng rồi thì còn được bảo hành nữa không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.16891,
+         "id": "774470",
+         "field_search": "question",
+         "question": "Mình mới mua con 5s, có mỗi hoá đơn không thôi à, mà chị bán hàng bảo là được bảo hành 11 tháng, thế sau này hỏng hóc gì mang mỗi cái máy ra bảo hành có được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.165274,
+         "id": "1135744",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp huawei  nova 3i trả trước 0%  trong vòng 6 tháng gói lãi suất 1% của NH FE CREDIT vậy cho mình hỏi khj đi mình mang gplx + giấy cmnd có dc không?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

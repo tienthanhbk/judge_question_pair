@@ -1,0 +1,809 @@
+{
+   "id_query": "1021121",
+   "total": 33059,
+   "total_current": 100,
+   "max_score": 89.440025,
+   "origin_question": "chào QTV, cho hỏi e vừa mua Sony XA Ultra nhưng giờ muốn trả lại máy hoàn toàn có đc ko ạ,. E vừa lấy máy tối hôm qa",
+   "hits": [
+      {
+         "score": 89.440025,
+         "id": "1021121",
+         "field_search": "question",
+         "question": "chào QTV, cho hỏi e vừa mua Sony XA Ultra nhưng giờ muốn trả lại máy hoàn toàn có đc ko ạ,. E vừa lấy máy tối hôm qa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.687992,
+         "id": "1008784",
+         "field_search": "question",
+         "question": "E vừa mua samsung j2 prime, mà giờ e muốn trả lại. Mà khi mua máy e có dán máy trước sau và mua ốp nữa. Vậy khi trả lại thì được hoàn tiền ốp và miếng dán nữa ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.347137,
+         "id": "883211",
+         "field_search": "question",
+         "question": " Ad ơi. E mới mua 6s bản 16gb tại TGDđ bh e muốn bán lại cho sthi thì có đc k ạ. Máy e mới mua thág 2 vừa qa ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.356245,
+         "id": "1014456",
+         "field_search": "question",
+         "question": "Bên các anh cho e hỏi. E muốn hoàn trả lại điện thoại. Mà e mới mua đc vài tiếng thì mức phí hoàn trả có đc 100 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.914488,
+         "id": "1021612",
+         "field_search": "question",
+         "question": "chào a chủ nhật vừa rồi e có đem 1 điên thoại đi bảo hành cho e hỏi bao giờ e lấy được máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.624798,
+         "id": "1014994",
+         "field_search": "question",
+         "question": "e vừa mới mua một chiếc sony XA1 ultra full bõ ở thegioididong, được 2 ngày . nhưng giờ e muốn đổi lên iphone 6 plus hoặc sony xz dual thì phải bù  thêm bao nhiêu tiền ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.64217,
+         "id": "1023952",
+         "field_search": "question",
+         "question": "Cho em hỏi qtv ơi.e mua đt xperia xa dual Em mới mang bảo dưỡng máy về lỗi hay tắt nguồn.e vừa nên lấy hôm 22/9/2017 về giờ lại bị liệt phím nguồn ấn phải 10 lần mới nên được màn hình.giờ e phải làm ntn ạ có bảo dưỡng đc nữa k.mong sớm phản hồi.01633286006.nguyễn anh tuấn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.591007,
+         "id": "1020782",
+         "field_search": "question",
+         "question": "Cho mình  hỏi  điện thoại sony xa ultra có  trả góp  o ko bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.328074,
+         "id": "1021853",
+         "field_search": "question",
+         "question": "cho e hỏi đơn hàng 13127151  là sony xperia XA Ultra màu gì ạ? lúc e đặt hàng quên chỉnh màu giờ đổi được ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.310215,
+         "id": "992765",
+         "field_search": "question",
+         "question": "Tgdd cho e hỏi. E mua máy samsung tab e trả gop tai tgdd giờ e có đc trả lại máy ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.032417,
+         "id": "1165791",
+         "field_search": "question",
+         "question": "E mua máy f9 trả góp đc 2 tháng rùi giờ e muốn đổi máy f9 phụ thêm tiền lấy máy oppo f11 có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.999937,
+         "id": "1153698",
+         "field_search": "question",
+         "question": "Tôi muốn mua trả góp ĐT sony xperia xa 1 ultra màu đen",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.90855,
+         "id": "1019990",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi. E đang sử dụng sony xa ultra f3216. Hôm qua e có khôi phục cài đặt gốc. Sau khi khôi phục thì camera truoc bị rung không lấy nét được. Nó cứ rung rung hình ảnh mờ. Xin quản trị viên giúp e cách khắc phục và chỉnh lại ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.764797,
+         "id": "995746",
+         "field_search": "question",
+         "question": "Cho e hỏi e mún trả lại máy samsung s8 mới mua đc 3 hôm ạ h e trả lại thì bị mất j ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.710932,
+         "id": "992405",
+         "field_search": "question",
+         "question": "E có mua đt trả góp sony xperia ultra cách đây 2 tháng. vậy TGDd có thu mua lại máy của e ko ạ? Mặc dù e chưa thanh lý hợp đồng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.454315,
+         "id": "1138797",
+         "field_search": "question",
+         "question": " Cho e hỏi nếu mua máy hôm trước hôm sau đổi trả lấy dòng máy khác thì có bị mất phí ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.281366,
+         "id": "1156407",
+         "field_search": "question",
+         "question": "Mình mua máy samsung m20 vừa tròn 1 thang máy ko có vẫn đề gì. Nhưng mình muốn đổi trả để mua máy khác có đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.970304,
+         "id": "1134862",
+         "field_search": "question",
+         "question": "Cho e hỏi e vừa mới mua con hưawei nova2i h e muốn đoỉi lại con 3e có đc khg ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.970196,
+         "id": "1017963",
+         "field_search": "question",
+         "question": "cho e hỏi e có mua con iphone 7 32gb ở TGDD cách đây 2 tuần nhưng giờ e đổi iphone 7 để lấy Sony XZ1 vừa ra mắt thì có cần phải bù thêm tiền không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.783482,
+         "id": "1146608",
+         "field_search": "question",
+         "question": "A Chị ơi cho e hỏi với.e vừa kết thúc hợp đồng hôm 20/1 nhưng mấy hôm nay con j8 của e loa trong ko nghe đc toàn phải nghe loa ngoài.e ko biết là máy của e còn bảo hành ko ạ.e mong A Chị hồi Âm sớm e xin cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.741894,
+         "id": "1016468",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi là: bây giờ em mua máy rồi nhưng không có nhu cầu sử dụng nữa thì có được trả lại không ạ? ( em vừa mua chiều hôm nay)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.668472,
+         "id": "1012884",
+         "field_search": "question",
+         "question": "Em mua sony xa đc 2 tháng. Giờ muốn đổi sang sony xa1 thì bên mình có hỗ trợ mua lại máy xa và bù tiền sang để mua xa1 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.489779,
+         "id": "999854",
+         "field_search": "question",
+         "question": "dạ chào ad ạ e có mua trả góp bên thế giớ di động nhưng e bị mất máy giờ e muốn mua trả góp nữa được ko ạ e vẫn trả tiền đầy đủ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.322773,
+         "id": "1000039",
+         "field_search": "question",
+         "question": "Mình tên Nguyễn Công Đức Cmnd 024898377 mình muốn bán lại máy J7 prime vừa mua đc ít hôm !! Mình muốn đổi máy J7 pro thì đc ko ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.298817,
+         "id": "1167690",
+         "field_search": "question",
+         "question": "Cho e hỏi tgdd có thay màn hình sony xperia xa1 ultra ko ạ. Máy của e bị sọc màn hình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.903048,
+         "id": "1004655",
+         "field_search": "question",
+         "question": "Cho em hỏi e vừa mua cái dt sam sung j7 đc 5 tháng . Tự nhiên đang nghe nhạc nó tắt màn hình tối thui . Nhưng người lại có tính hiệu . Nhưng màn hình ko sáng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.882841,
+         "id": "1008779",
+         "field_search": "question",
+         "question": "Cho mình hỏi.  Sony XA ultra có bán trả góp không?  Có lãi suất không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.861233,
+         "id": "1001349",
+         "field_search": "question",
+         "question": "Máy sony XA1 e mua đc 3tháng nhưng màn hình cảm ứng bị liệt  pin giống như muốn phù ( e ko cắm sạc chơi game ) . giờ e muốn bảo hành thì đi đâu bảo hành lấy liền đc ko vì e cần đt sài nên ko thể chờ mấy ngày đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.800005,
+         "id": "1162486",
+         "field_search": "question",
+         "question": "Dạ, chào shop, không biết bên mình có sạc dành cho sony XA Ultra không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.74745,
+         "id": "1018812",
+         "field_search": "question",
+         "question": "cho em hỏi là e vừa mua dt J7 prime dc hơn 1t.. bây giờ em muốn đổi sang sony xa1 có dc k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.627802,
+         "id": "1013321",
+         "field_search": "question",
+         "question": "mún mua trả góp sony xa ultra trả trước 10 có gói nào không hả chị",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.59596,
+         "id": "1023729",
+         "field_search": "question",
+         "question": "mình mua cái Sony Xperia XA Ultra đã xài đc gần 1 năm, bây giờ mình muốn bán lại để mua chiếc Oppo F1s 2017 thì phải bù bao nhiêu tiền?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.53706,
+         "id": "1013046",
+         "field_search": "question",
+         "question": "E muốn mua máy đổi trả mà e ở xa không biết tgdd có ship hàng đc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.491806,
+         "id": "1143466",
+         "field_search": "question",
+         "question": "Máy em vừa chơi game vừa nghe nhạc ko đc liệu máy e đc bảo hành ko ạ em xài Oppo f9 ms mua ở trung tâm mình đc 4 tháng rồi ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.462923,
+         "id": "1006222",
+         "field_search": "question",
+         "question": "Vào youtube thi xảy ra lỗi, khi tắt máy khởi động lại thi khoảng vài tiếng bị lỗi lại... ad cho e hỏi la máy bị gì vậy. Sony xa ultra.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.285755,
+         "id": "1145041",
+         "field_search": "question",
+         "question": "Xin chào tgdd, Em có mua 1 chiếc laptop đã qua sử dụng. Máy có bị lỗi và em tới bảo hành nhưng đc vài hôm lại bị lỗi như vậy ạ. Tgdd cho e hỏi em có thể đổi trả máy đó  đc ko và cách tính giá như thế nào ạ ,e mua ngày 14/12/2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.202118,
+         "id": "788623",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi.. Em mới mua máy Iphone 5s Gray 16GB ở Thế Giới Di Động... Em Còn toàn bộ giấy tờ,phiếu bảo hành, máy còn mới như vừa mới mở hộp.Giờ em muốn trả lại cửa hàng để hoàn tiền thì e chịu lỗ bao nhiều % và tính sao ạ.. 2 tuần trước e mua là 8 Triệu 490 nghìn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.172747,
+         "id": "897631",
+         "field_search": "question",
+         "question": "Chào qtv. Iphone 6s của e vừa mua đk 3tuan. Jo bắt nâg cấp lên ios 10. Cho e hỏi ios10 dùg có ok ko. Hao bin k, ổn địh ko. E cam on",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.120897,
+         "id": "1148132",
+         "field_search": "question",
+         "question": "Em vừa mua 1 đt samsung hôm qua nhưng giờ em muốn đổi sang iphone 6s plus được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.077314,
+         "id": "999042",
+         "field_search": "question",
+         "question": "e là sv cơ khí. e muốn mua máy nào vừa hok vừa chơi game  lol,outlast,... e nên mua máy ntn thì phù hợp ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.892591,
+         "id": "1141019",
+         "field_search": "question",
+         "question": "Cho e hỏi là vợ e hôm qua vừa mua máy oppop f9 nhưg về chưa dùng tí nào bh muốn ra đổi màu khác thì ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.558249,
+         "id": "991737",
+         "field_search": "question",
+         "question": "Mình mới mua đt ss galaxy a9 pro tối nay nhưng mua máy đổi ttrar. Nhưg h về mình lại ko thích nữa. Mình muốn trả lại lấy tiền lại được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.455353,
+         "id": "1019397",
+         "field_search": "question",
+         "question": "Chào bạn, mình vừa mua máy Samsung S8 màu đen. mình mua bằng hình thức trả góp. Nhưng hiện tại mình muốn trả lại máy này, vậy thế giới di động có nhập lại không, và nhập lại như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.822123,
+         "id": "990227",
+         "field_search": "question",
+         "question": "Adm cho e hỏi bh em muốn bán lại máy nitr5 mua đc mấy hôm thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.793932,
+         "id": "1152521",
+         "field_search": "question",
+         "question": "hôm qua e vừa mua   Laptop HP 15 da1023TU i5 8265U/4GB/1TB/Win10/(5NK81PA)    ở shop nhưng hôm nay mở nguồn máy không lên ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.720387,
+         "id": "898782",
+         "field_search": "question",
+         "question": "Chào admin.Tháng trước e vừa mua 1 cái đt ip6s 64GB của tgdđ. E thấy đt sạc pin nhanh đầy quá.Ad cho e hỏi có phải pin có vấn đề hay ko ?Nếu có e có đc bảo hành pin hay ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.710068,
+         "id": "1010048",
+         "field_search": "question",
+         "question": "Cho hỏi máy e mua ở tgdt vừa hơn tháng. Quạt của máy chạy bị rè . E đã gửi cho tgdt sửa. Vậy khi e lấy máy e Co phải tốn tiền K.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.686926,
+         "id": "1016502",
+         "field_search": "question",
+         "question": "Ad ơi hôm nay e vừa mua mt chiếc điện thoại mobell nhưng e cảm thấy k thích thì mai em mang trả được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.637379,
+         "id": "1151082",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi là hôm vừa rồi mình có đặt gạch 1 cái S10+ màu xanh nhưng hôm lấy máy mình có thể đổi màu khác được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.554716,
+         "id": "998460",
+         "field_search": "question",
+         "question": "Cho e hỏi máy sony Xa ultra có mấy bài nhạc có sẳn trong máy. Khi em tải ứng dụng Mp3 thì có mấy bài đó trong đó luôn. Nhưng em không thích nghe mấy bài đó. Vậy làm sao để xóa mấy bài đó ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.537262,
+         "id": "993571",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Mấy tháng trước e có mua j7 prime nhưng giờ e muốn đổi lấy j7pro thì có dc hỗ trợ ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.49753,
+         "id": "1165484",
+         "field_search": "question",
+         "question": "Mình có mua iPhone xr qua sử dụng qua trả góp fecredit, giờ muốn huỷ hợp đồng có đc ko ạ, vừa mới mua khoan 2 ngày gần đây",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.48347,
+         "id": "837693",
+         "field_search": "question",
+         "question": "Các bạn cho mình hỏi bây giờ mình bị mất mật khẩu icloud mình mua máy ở quán xa giờ k đến hỏi đc có ai biết lấy lại được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.434422,
+         "id": "1166741",
+         "field_search": "question",
+         "question": "Mình mua máy trả góp nhưng bây giờ muốn trả lại máy và chịu phí thì tgdd sẽ hoàn lại tiền cho mình và mình vẫn trả góp hàng tháng hay là ntn ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.39811,
+         "id": "879722",
+         "field_search": "question",
+         "question": "Hiện e đang sử dụng laptop Asus A540LJ i3, cho e hỏi pin có thể tháo rời ra khỏi máy ko ạ?. Nếu đc thì e có thể tháo pin ra đến khi cần thì mang theo để lắp vào máy, còn lúc ở nhà thì có thể vừa cắm điện vừa xài mà ko cần pin ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.37241,
+         "id": "1006535",
+         "field_search": "question",
+         "question": "Cho e hỏi bên mình có chính sách thu mua lại máy cũ k ạ !Hiện e có đang dùng máy Sony Xperia XA hàng chính hãng còn bảo hành tới 05/11/2017.Nếu bên mình có thu mua lại thì e đem ra chi nhánh để đc định giá ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.232279,
+         "id": "1024319",
+         "field_search": "question",
+         "question": "E mới mua dt sony xa utra o tgdd dc 3 thag e k muôn dung nữa muốn bán lại cho tgdd có dc ko. Ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.16196,
+         "id": "1165103",
+         "field_search": "question",
+         "question": "Cho e hỏi bây giờ e mới mua con ip 6s plus. Mà còn trả góp 2 tháng nữa. Nhưng bây giờ em muốn lên đổi 6s plus lấy con 7 plus trả góp tiếp thì có được ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.141415,
+         "id": "995060",
+         "field_search": "question",
+         "question": "E muốn mua máy củ mà e cần trả góp vì e ở xa nếu trả góp e có cần đến cửa hàng để trả tiền k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.131964,
+         "id": "1010171",
+         "field_search": "question",
+         "question": "Chào add.   Cho mình hỏi,  trước mình có dán màn hình cả mặt trc và sau máy sony X ở tgdd. Và đc dán miễn phí 2 lần tiếp theo. Bây giờ mình đổi máy s7e nhưng ko phải mua của tgdd,  liệu giờ cầm s7e đến có đc dán ko hay chỉ đc dán lại bảo hành của sony X?  Sony x mình mới dán có 1lần hôm mua máy tại tgdd.  Và vẫn trong thời gian 3thang.  Sdt của mình 0984422510.Mong phản hồi sớm cho mình nhé.  Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.098057,
+         "id": "1024238",
+         "field_search": "question",
+         "question": "alo bạn cho mình hỏi .mình vừa mua cái nokia 5 được 2 ngày mình mua trả góp . bây giờ mình cảm thấy ko vừa ý mình muốn đổi sang cái sony xperia xa1 urtra . thì sẽ bị mất bao nhiêu phần trăm vậy bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.09677,
+         "id": "999412",
+         "field_search": "question",
+         "question": " Em vừa mua máy J7 Prime trả góp ngày 37 bây giờ em lên đổi lấy iPhone 5s được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.091333,
+         "id": "1023205",
+         "field_search": "question",
+         "question": "Cho e hỏi, e mua máy asus zenphone live ngày 12/8/2017. Sau 1 khoảng thời gian sử dụng e cảm thấy ko phù hợp nên e muốn đổi trả lại có đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.07155,
+         "id": "1006591",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi chút... Mình vừa mua máy redmi 4x này đc 5hôm giờ dùng máy nóng quá muốn đổi sang iphone 5s cũ có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.057928,
+         "id": "1160445",
+         "field_search": "question",
+         "question": "Giờ e muốn bán lại cái sony e mới mua ở thế giới di động được 5 có đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.05541,
+         "id": "829016",
+         "field_search": "question",
+         "question": " Cho e hỏi e vừa mua cái máy tính asus windows 10 e su dụng thấy rất chậm e muốn chuyển xuống windows 8 có dc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.040903,
+         "id": "927271",
+         "field_search": "question",
+         "question": "cho e hỏi là e vừa mua cái ip5s từ bạn e. e muốn reset máy như mới cho dễ xài. Nên e hỏi các anh là có nên hay ko và nên làm như thế nào. tks ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.968689,
+         "id": "1000963",
+         "field_search": "question",
+         "question": "Hôm qua e mua máy có đc tặng phiếu 300 nên mua dây nốiAi ngờ ko xài đc vs máy e hay bất cứ máy nào trong nhàE ra tiệm đổi dây nối để lấy gậy tự sướng đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.936596,
+         "id": "915083",
+         "field_search": "question",
+         "question": "E vừa mua sp ip7 plus nhưng tại sao phím home ảo của e ko di chuyển được toàn màn hình mà chỉ di chuyển đc nửa màn hình thôi ạ. E keo lên đến nửa màn hình là đứng im ko di chuyển nữa.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.934332,
+         "id": "988714",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang mua trả góp điện thoại oppo F1s mới xài dc 1 tháng vậy giờ e muốn đổi lấy iphone 5s trả góp dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.931198,
+         "id": "1159173",
+         "field_search": "question",
+         "question": "Ss A50 e lâu lâu mở máy bị tối màn hình và giật giật như tivi bị lỗi giờ ra tgdd xem mà nó ko bị gì thì e có thể đổi lại máy a50 khác đc ko ? Hiện e đag trả góp chưa đc 10 ngày",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.905468,
+         "id": "783144",
+         "field_search": "question",
+         "question": "E mới mua ipad, lúc vừa mua thì e đăng nhập tk của người khác nên số điện thoại và các thông tin khác của người đấy có hết trong ipad. bjo e muốn thoát hoàn toàn ra và nhập lại tài khoản mới của e như lúc mới mua thì cần làm những bước nào để sau này tải ứng dụng hay cài đặt ko bị hỏi mk cũ nữa (hiện giờ e còn mk của bạn)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.878939,
+         "id": "996446",
+         "field_search": "question",
+         "question": "Sony Xperia XA Ultra có lên  Android 7.0 được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.868362,
+         "id": "1156498",
+         "field_search": "question",
+         "question": "Cho e hỏi. Hôm mua lap e có mua thêm microsoft office 365 để dùng Word, PowerPoint, Exel. Nhưng hôm máy bị hư ra cài lại Win thì  Word, PowerPoint, Exel lại bị đổi thành WPS. giờ e muốn dùng lại bản Microsoft thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.850279,
+         "id": "1000666",
+         "field_search": "question",
+         "question": "cho e hỏi hồi trước e có làm hồ sơ trả góp và đã hoàn thành xong.h e muốn mua máy mới trả góp thì làm lại hồ sơ hay sao ak.hồ sơ em bên FEcredit",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.827131,
+         "id": "990690",
+         "field_search": "question",
+         "question": "Chào anh chị,em vừa mua một sản phẩm của thế giới di động tuần trước nếu em đổi trả thì có đượ hoàn phí 100 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.808393,
+         "id": "999385",
+         "field_search": "question",
+         "question": "Mình vừa mua máy c9pro màu vàng gold , đc 1 tuần  lúc mua nhân viên bảo có 1 màu thôi bây giờ có màu đen r mình đổi lấy máy đen đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.785208,
+         "id": "1141017",
+         "field_search": "question",
+         "question": "ad cho e hỏi e mua bản quyền kaspersky loại 180k trong quá trình sử dụng e có nhập vào máy có vài lần máy hư phải nhập key lai giờ thì nó báo quá số lần kích hoạt tối đa cho phép đối với mã kích hoạt vừa nhập . e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.781857,
+         "id": "1011832",
+         "field_search": "question",
+         "question": "Cho e hỏi tgdd có lại win ko ạ.máy e bị lỗi nhưng e ko mua máy ở tgdd vậy có đc sửa ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.7294,
+         "id": "1156103",
+         "field_search": "question",
+         "question": "Tôi vừa mua máy samsung M20.mấy ngày hôm nay máy của tôi cảm ứng không nhạy. Tôi vừa mua trả góp chưa được 1tháng. Vậy tôi có đổi máy khác được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.718304,
+         "id": "999705",
+         "field_search": "question",
+         "question": "Chào ad, mình vừa mua 1 con tab 7s 1tr690 tại thế giới di động hôm qua nhưng do nhu cầu công việc không cần nữa nên mình muốn trả sản phẩm lại. Mình tham khảo thấy giá trả sản phẩm sẽ còn lại 80% giá mua ban đầu. Sản phẩm mình đã mở hộp nhưng chưa cài đặt gì nhiều. Cho hỏi có đúng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.682772,
+         "id": "1019609",
+         "field_search": "question",
+         "question": "Ad cho hỏi là. Hiện minh đang sử dụng sony xa ultra. Giờ muốn nâng cấp lên androi 7.0 có thể mang điện thoại ra tgdd nâng cấp được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.613985,
+         "id": "1158065",
+         "field_search": "question",
+         "question": "Tôi muốn hỏi sony Xperia Z Ultra C6802 có update đc phiên bản androi mới ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.585773,
+         "id": "840066",
+         "field_search": "question",
+         "question": "điện thoại iphone 5s e vừa bị mất vài hôm, e có cài đặt tk va mk icloud nhưng e không cài mk màn hình, e vào tim ip bi mất thi báo là ngoại tuyến, e có báo chế độ mất va khoá từ xa, nhưng báo lệnh sẻ đươc thực hiên khi máy co kết nối mạng..máy e giờ đã thuê bao. Vậy cho e hỏi: trường hợp của em thì người ăn cắp đó có thể làm gi với máy e? và e có thể có cơ hội tìm chuộc lại máy k ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.5091,
+         "id": "1146684",
+         "field_search": "question",
+         "question": "e vừa đặt mua samsung j4+ ở trên này có khuyến mãi một phía mua hàng trị giá 100k nhưng e k muốn lấy mà trừ thẳng vào tiền đt dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.501917,
+         "id": "1009589",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi. Tối hqua e có đặt onl 1 thẻ nhớ 16g. Tổng đài TGDĐ cũng đã gửi mã xác nhận và e cũng đã nhập vào khung r. Và TGDĐ trả lời là sẽ có nhân viên gọi điện hoặc có tin nhắn gửi lại để xác nhận 1 lần nữa. Nhưng hôm qua giờ k thấy gì. Tại e tính làm sớm để thứ 7 tuần này lại lấy cho tiện. Mong qtv giải đáp giùm e ! Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.462763,
+         "id": "1139514",
+         "field_search": "question",
+         "question": " Em mới mua trả góp bên mình máy Oppo A3S mà giờ e muốn đổi sang máy khác ngang giá đc ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.438812,
+         "id": "1138434",
+         "field_search": "question",
+         "question": " e bị rơi máy giờ nó đổi  icloud  giờ tìm lại sim có lấy lại đc  icloud  k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.355158,
+         "id": "1020164",
+         "field_search": "question",
+         "question": "chào a/c e mới mua máy sony xperia XA cũ và đc bảo hành đến 10 tháng( em mới mua dt vào giữa tháng 8). nhưng sau đó e có để giấy tờ bảo hành trong hộp đt nhưng con bé nhà em nó lục ra phá và làm mất giấy bảo hành của em rồi. hiện tại màn hình máy e bị đơ ở góc màn hình và e muốn đc bảo hành. có cách nào cho em không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.334047,
+         "id": "1004645",
+         "field_search": "question",
+         "question": "E chào anh chị hôm vừa rồi có một chị bên thế giới đi động có giới tới em là vay tiền mặt ấy thì giờ ntn rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.318302,
+         "id": "996144",
+         "field_search": "question",
+         "question": "chào ạem muốn hỏi là, oppo neo 9 e mới vừa mua e k biết thay đổi kiểu chữ bên shop tư vấn giúp e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.31333,
+         "id": "1151114",
+         "field_search": "question",
+         "question": "Chào cả nhà...cho e hỏi tý ạE muốn mua oppo a3s phiên bản 16GMà e có 2tr...e có thể mua trả góp đc hk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.274187,
+         "id": "1156414",
+         "field_search": "question",
+         "question": "m có đặt cọc để lấy máy samsunga50 giờ mình, không muốn mua samsunga50 thì có hoàn lại được tiền cọc không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.213398,
+         "id": "1142801",
+         "field_search": "question",
+         "question": "E vừa mua con vivo v11i đc gần 2 tháng dùng cảm giác nó đơ k đc mượt giờ e muốn đổi sang ss a7 mất phí là bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.17205,
+         "id": "1006769",
+         "field_search": "question",
+         "question": "Em vừa mua dt mobiistar prime x1Hôm qua bây giờ e muốn đổi lại oppo a37 thì có bị trừ tiền không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.167936,
+         "id": "995532",
+         "field_search": "question",
+         "question": "Chào qtv , hiện tại e muốn mua 1 chiếc iphone với trả góp 0 đồng thì cần những điều kiện gì ạ? Và sau này nếu như e hoàn trả trước thời hanh thì có đx giảm lãi suất hay ưu đãi gì k ạ? E xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.14585,
+         "id": "1014249",
+         "field_search": "question",
+         "question": "ad cho e hỏi tối hum nay e có qua quán mua điện thoại nhưng em không cầm đủ tiền nên mua trả góp nhưng ngân hàng đóng cửa rồi nên em chưa lấy được máy nên cho em hỏi ngày mai nếu em không mua trả góp nữa mà trả hết tiền thì có được không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.101141,
+         "id": "1160098",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua dt sam sung a50 tối qua giờ e muốn đổi qua đt a7 128g được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.062021,
+         "id": "1150165",
+         "field_search": "question",
+         "question": "Em mới mua con A7 2018 vài hôm, khi ve xài rất mượt nhưg khi e vừa chơi game vừa nhắn tin tren zalo(ở chế độ mini chat) thì e lại bị mất kết nói với sever game mà e đag chơi...e mún hỏi là do máy hay sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.054508,
+         "id": "996571",
+         "field_search": "question",
+         "question": "cho em hỏi là máy mới mua hôm nay mà thấy ko thích nữa vẫn còn nguyên ko bị lỗi gì thì muốn đổi lại có được hoàn 100% số tiền ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

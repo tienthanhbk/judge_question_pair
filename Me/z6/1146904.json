@@ -1,0 +1,809 @@
+{
+   "id_query": "1146904",
+   "total": 28863,
+   "total_current": 100,
+   "max_score": 75.967964,
+   "origin_question": "Làm sao ẩn imei điên thoại oppo a3s để nhà phát hành game không tìm được bị khi chơi game",
+   "hits": [
+      {
+         "score": 75.967964,
+         "id": "1146904",
+         "field_search": "question",
+         "question": "Làm sao ẩn imei điên thoại oppo a3s để nhà phát hành game không tìm được bị khi chơi game",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.3024,
+         "id": "1134193",
+         "field_search": "question",
+         "question": "làm thế nào để  biết nhà phát hành đã có bản sữa lỗi tự khởi động lại khi chơi game trên samsung j3 pro ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.958557,
+         "id": "1168794",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi, sao vsmart joy 1 khi chơi game crossfire lenged thì không ẩn được 3 phím điều hướng. Có cách nào để ẩn không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.125166,
+         "id": "1153460",
+         "field_search": "question",
+         "question": "E dùng Oppo a3s mấy ngày nay chơi game free fire bỗng dưng bị loạn nút di chuyển giờ phải làm sao ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.057573,
+         "id": "1153015",
+         "field_search": "question",
+         "question": "tai sao toi mua điện thoại Oppo A3S ve su dung khi tôi tai game d_day ve may đuoc nhung khi vào chơi game d_day nay toàn bi thoat ra không là nguyên nhân gì vay",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.565437,
+         "id": "1147894",
+         "field_search": "question",
+         "question": "Em mới mua oppo a3s loại 32gb mà sao em thấy chơi nó lag hơn con a3s 16gb vậy anh. ( Game bị lag , nhập bàn phím thì cực chậm)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.098906,
+         "id": "1156225",
+         "field_search": "question",
+         "question": "cho em hỏi sao máy oppo a3s e ms tải môi game bupg chơi mak sao máy đơ z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.052279,
+         "id": "1167239",
+         "field_search": "question",
+         "question": "Tôi sài realme 2 pro chơi liên quân hay bị lag. Làm thế nào để biết là lag do điên thoại hay do wifi nhà tôi vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.904644,
+         "id": "1158105",
+         "field_search": "question",
+         "question": "Em dùng oppo f9 đang chơi game khi có cuộc goi đến không nhận được, phải làm thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.793674,
+         "id": "1162421",
+         "field_search": "question",
+         "question": "Em đang sử dụng redmi 7, lên CH Play thì game Asphalt 9 không tìm thấy và không tải được. Tải game từ nguồn khác thì không được vào game thì bị như này ! Em cần trợ giúp để có thể chơi game asphalt 9 ạ !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.47247,
+         "id": "1163590",
+         "field_search": "question",
+         "question": "Làm sao để root trên điện thoại Oppo A3s mong được giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.165688,
+         "id": "925250",
+         "field_search": "question",
+         "question": " Samsung galaxy grand 2 làm sao tắt chế độ rung khi chơi game trong game không có phần vibration ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.011011,
+         "id": "773730",
+         "field_search": "question",
+         "question": " Ad cho em hỏi là làm sao để cài và chơi được game liên minh huyền thoại trên laptop vậy à? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.953491,
+         "id": "993851",
+         "field_search": "question",
+         "question": "Mình chơi game trên ipad nhưng màn hình không hiển thị được hết. Phải làm sao để hiển thị hết màn hình game vậy. Thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.667156,
+         "id": "1162652",
+         "field_search": "question",
+         "question": "Máy e sam sung j8 khi chơi game bị che khuất 1 phần màn hình và làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.65,
+         "id": "1147254",
+         "field_search": "question",
+         "question": "Anh ơi, họ quá em có mua máy Oppo a3s về máy chơi game thì nóng lắm tạo thư mục thì các ứng dụng trong thư mục có khi vào được khi lại hông được. Em muốn đem ra bảo hành thì cũng đổi lại cái a3s hay em muốn đổi cái kháv cũng được hả anh ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.193047,
+         "id": "1157972",
+         "field_search": "question",
+         "question": "Điện thoại của em là Xiaomi a2lite và em có vấn đề là khi em cài trò chơi mới rồi chơi được một thời gian thì khi vào lại trò chơi kia để chơi thì bị lỗi treo khi khởi động game (tức game treo chứ máy vẫn hoạt động ổn định ) em cần giải pháp cho tình trạng này vì con game đó là thứ để chơi với bạn thân. Em cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.14323,
+         "id": "757167",
+         "field_search": "question",
+         "question": " Laptop Asus TP550LD i3 chơi game Liên minh huyền thoại bằng wifi 150mbps 2 nhà xài có mượt không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.040071,
+         "id": "1138567",
+         "field_search": "question",
+         "question": "cho em hỏi là làm sao để sử dụng tính năng không gian trò chơi trên colorS 5.1 ạ em đang dùng oppo a3s mà không biết làm sao để sử dụng cái tính năng đó hiệu quá nhất  mỗi khi vào game là em phải vào đó trước rồi chọn chế độ làm việc thì chế độ đó mới có tác dụng phải không ạ ?hay là em chọn chế độ làm việc xong rồi để đó, out ra tắt máy rồi vào lại game thì chế độ làm việc đó còn tác dụng không ạ ?hay là em phải vào lại không gian trò chơi chọn lại chế độ đó rồi vào game mới có tác dụng ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.035618,
+         "id": "754106",
+         "field_search": "question",
+         "question": "Cho mình hỏi về ứng dụng game trên điện thoại: hiện tại mình có cài game Plant vs Zombie 2 trên cả 2 hệ điều hành ISO và Android, mỗi khi xóa game hay cài lại hệ điều hành thì dữ liệu game đều bị mất mặc dù mình đã kết nói game với facebook và dùng địa chỉ ID apple và google play để mua game đó nhưng vào game thì bị mất hết save và phải chơi lại tự đầu cho mình hỏi có cách nào có thể giữ lại save khi phải cài lại điện thoại được không, hoặc mình muốn chuyễn game từ hệ máy ISO sang Androi mà muốn giữ lại save thì phải làm thế nào...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.84314,
+         "id": "1014620",
+         "field_search": "question",
+         "question": "Làm sao để vô hiệu hóa thanh trạng thái khi chơi game ạ. Chơi game moba mỗi lần kéo tứ dưới lên nó cứ kéo thanh trạng thái xuống khó chịu lắm ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.813978,
+         "id": "1165096",
+         "field_search": "question",
+         "question": "Xaomi Redmi go chơi được liên quân không vậy sao chơi toàn bị văng game",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.672058,
+         "id": "1151769",
+         "field_search": "question",
+         "question": "Cach chuyển ứng dụng game qua thẻ nhớ cho oppo a3s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.666342,
+         "id": "994015",
+         "field_search": "question",
+         "question": "Cho hỏi mình đang xài iphone 6 plus sao khi chơi game dream language soccer 2017.mới tải về chơi rất mượt nhưng khi chơi được 3,4 game là bắt đầu giật lag là sao cho hỏi máy mình đang bị gì và cách khắc phục lag khi chơi game này.trong khi đó máy mình cấu hình rất mạnh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.538786,
+         "id": "1161467",
+         "field_search": "question",
+         "question": "E dùng oppo a3s dung lượng trong đt đầy nhưng thẻ sin còn trống vậy làm thế nào để đưa game vào thẻ sim ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.221548,
+         "id": "1151785",
+         "field_search": "question",
+         "question": "Smartphone tầm trung nào chơi game tốt,mượt?Không tính các smartphone chuyên dùng để chơi game",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.217379,
+         "id": "870020",
+         "field_search": "question",
+         "question": " Ipad khi chơi game bị nóng bên trái có sao k ạ admim ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.175945,
+         "id": "1166201",
+         "field_search": "question",
+         "question": "Sao em chơi game hay bị văng game vậy ạ ?? vsmart joy 1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.166454,
+         "id": "1141810",
+         "field_search": "question",
+         "question": "Mình sài oppo a3s có thẻ nhớ muốn tải game mà chuyển qua thê nhớ được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.058414,
+         "id": "1157809",
+         "field_search": "question",
+         "question": "Điện thoại oppo A3s của em giờ không lên nguồn được phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.979939,
+         "id": "1164159",
+         "field_search": "question",
+         "question": "Điện thoại em tải game pubg mobile về mà chơi được lần đầu còn lần sau vào lại không được là bị gì vậy..em đang dùng oppo f11",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.966806,
+         "id": "1166607",
+         "field_search": "question",
+         "question": "Tại sao máy Vivo y85 không bắt được WiFi 4 râu trở lên WiFi để chơi game",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.880144,
+         "id": "1159501",
+         "field_search": "question",
+         "question": "vì sao e chơi game omg 3q bằng máy xaiomi note 6 pro lại không được full màn hành nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.876377,
+         "id": "1153922",
+         "field_search": "question",
+         "question": "mình muốn tìm 1 chiếc điện thoại để chơi game chụp ảnh mượt giá tầm 10tr đến 12tr ở huyện gia lâm xã yên thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.819923,
+         "id": "1152244",
+         "field_search": "question",
+         "question": "Cho mình hỏi có phụ kiện làm mát điện thoại khi chơi game nặng như liên quân ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.786135,
+         "id": "1146621",
+         "field_search": "question",
+         "question": "Cho e hỏi tắt chế độ nhà phát triển ở oppo f5 thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.729538,
+         "id": "1156425",
+         "field_search": "question",
+         "question": "Làm sao để xem Youtube và chơi game full màn hình tai thỏ của dòng vsmart",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.72047,
+         "id": "1151016",
+         "field_search": "question",
+         "question": "AD ơi tui muốn hỏi điện thoại nào chơi game tốt tầm giá 4 AD Tìm cho mình nha",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.63571,
+         "id": "745212",
+         "field_search": "question",
+         "question": "Sony Vaio SVF1421DSG/ i3-3217U/2G/500GB cho mình hỏi máy như vậy có chơi được game đột kích không? Nếu không chơi được thì làm như thế nào để chơi được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.626194,
+         "id": "1133971",
+         "field_search": "question",
+         "question": "Em muốn hỏi sao máy J3 pro khi chơi game nó cứ sập nguồn khởi động lại quài vậy ạ ! Game nào cũng bị !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.623245,
+         "id": "868807",
+         "field_search": "question",
+         "question": " asus a456u có chơi được game liên minh huyền thoại không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.575201,
+         "id": "1017077",
+         "field_search": "question",
+         "question": "Vợ mình vừa mua con oppo F3 mới tinh. Nhưng mình thử chơi game lỗi kinh khủng.  Vừa vào game thì lỗi. Bị ddis ra. Rồi sim2 vina k bắt được 3g nghĩa là sao???????.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.566347,
+         "id": "830301",
+         "field_search": "question",
+         "question": "mình xài iphone có chơi game clash of clan đã liên kết vs game center nhưng mik đã khôi phục máy lại từ đầu cũng dùng tài khoản id dok nhưng tại sao lại ko thể chơi game lại nhà củ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.486155,
+         "id": "1145088",
+         "field_search": "question",
+         "question": " Máy Oppo chơi dream league soccer có lag k ạ sao mấy game kia chơi bình thường mà cứ cho dream là bị ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.469349,
+         "id": "1161479",
+         "field_search": "question",
+         "question": "Làm sao để chơi game full màn hình tai thỏ trên chiếc máy nokia 6.1 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.45219,
+         "id": "1133854",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi sao đt nhà em dùng wii ko chơi game đc mà lên wed YouTube thì đc ạ,ra ngoài quán thì wifi của quán lại chơi game dc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.444307,
+         "id": "998468",
+         "field_search": "question",
+         "question": "Sao khi chơi game avatar musik trên đt WD bật vị trí game ko lên kì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.439064,
+         "id": "1161556",
+         "field_search": "question",
+         "question": "cho em hỏi làm fullscreen ở máy xiaomi mi a2 lite khi chơi game sao ạ? mấy đang ở hệ điều hành android 9 ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.373724,
+         "id": "1165713",
+         "field_search": "question",
+         "question": "Làm sao để thoát khỏi chế độ trẻ em trên Oppo a3s khi quên mật khẩu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.347876,
+         "id": "1157022",
+         "field_search": "question",
+         "question": "Mình muốn kiểm tra imei của máy Oppo a3s thì làm thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.32456,
+         "id": "1156085",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo neo5 mà nó ko hỗ trợ game Pubg, có cách nào giúp mình tải game đó về chơi được không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.308567,
+         "id": "1149584",
+         "field_search": "question",
+         "question": "Tại sao máy r11 lại không chơi được game liên quân",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.285378,
+         "id": "766570",
+         "field_search": "question",
+         "question": " Laptop Asus A43S series chơi được game liên minh huyền thoại không bạn? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.275969,
+         "id": "796700",
+         "field_search": "question",
+         "question": " Mobiistar Kool Lite có chơi mượt game clash of clans không ạ.và có chơi được game aphlas 8 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.227097,
+         "id": "883403",
+         "field_search": "question",
+         "question": " Laptop win 7 có chơi được game spore không vậy ? loại máy nào có thể chơi được game spore vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.19764,
+         "id": "1149676",
+         "field_search": "question",
+         "question": "Chị em hỏi sao điện thoại em mới  về được mấy bữa tải được vài game rồi lại đầy máy có cach nào giúp em ko ạ em đang dùng Oppo A3S xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.188799,
+         "id": "895579",
+         "field_search": "question",
+         "question": " Anh ơi nâng cấp máy tính như thế nào để chơi game không bị giật ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.150148,
+         "id": "1019159",
+         "field_search": "question",
+         "question": "Anh cho hỏi làm sao để sạc pin siêu nhanh ạ? Và làm thế nào để tiết kiệm ?vói làm sao để giảm hao pin lhi chơi game ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.145714,
+         "id": "1140921",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao điện thoại Oppo a3s 16G mà chỉ xài được có 8G thôi ạ Làm sao để mở thêm G ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.11245,
+         "id": "758136",
+         "field_search": "question",
+         "question": " Em có Laptop Asus 453s chơi game liên minh huyền thoại được không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.076073,
+         "id": "1003920",
+         "field_search": "question",
+         "question": "Cho em hỏi em mới mua điện thoại samsung galaxy j7 prime mua về cài game chơi bị lỗi cảm ứng di chuyển không đi được giờ em phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.032223,
+         "id": "802127",
+         "field_search": "question",
+         "question": " Em có cài game tập kích trên Zenfone 5 nhưng lại không vào được game em phải làm thế nào mới vào chơi được ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.026596,
+         "id": "1165017",
+         "field_search": "question",
+         "question": "Cho em hỏi là samsung j4 thường làm sao để gỡ cái bản cập nhật phần mềm mới nhất ạ. Cập nhập xong em chơi game bị giật quá hông chơi được ạ...em muốn gỡ thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.012657,
+         "id": "1166449",
+         "field_search": "question",
+         "question": "Điện thoại nào dưới 2 triệu chơi game pokemon go được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.003508,
+         "id": "1133450",
+         "field_search": "question",
+         "question": "Nokia 3 lỗi cảm ứng khi chơi game có cách khắc phục được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.936142,
+         "id": "1142656",
+         "field_search": "question",
+         "question": "Ad e mua máy oppo a3s phiên bản 16g mà bây h dung lượng bên trong hết rùi làm cách nào để chuyển ứng dụng game qua thẻ nhớ ko ạ..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.88092,
+         "id": "753097",
+         "field_search": "question",
+         "question": "Qtv ơi. Nhà mình mạng wifi là 150mbps thì khi mình chơi game Liên minh huyền thoại  trên Laptop acer E5 573G i7 thì khi đang trong trận có hiện tượng chậm hay lag gì không ( bên nhà mình có 1 ông xài ké wifi nữa)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.84877,
+         "id": "1163405",
+         "field_search": "question",
+         "question": "Em đang dùng oppo a3s Làm sao để chuyện sang phiên bản colorOS được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.83471,
+         "id": "1144457",
+         "field_search": "question",
+         "question": "Mình muốn mua 1 chiếc điện thoại để chơi game và pin dung lượng cao , khống biết mình lên mua chiếc điện thoại nào mình mong thế giới di đông đề xuất cho mình những chiếc điện thoại tốt để chơi game",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.811495,
+         "id": "744868",
+         "field_search": "question",
+         "question": "  Em muốn tìm Laptop có thể chơi được các game của Vinagame anh chị cho em ý kiến? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.787926,
+         "id": "1144282",
+         "field_search": "question",
+         "question": "Làm cách nào để cho sm j4 chơi game liên quân nhanh hơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.649067,
+         "id": "761666",
+         "field_search": "question",
+         "question": "Máy mình bị lỗi display driver stopped responding and has recovered thường xảy ra mỗi khi chơi game mặc dù cấu hình máy mình vượt xa cấu hình tối thiểu để chơi game đó, ai biết cách khắc phục lỗi này thì làm ơn hướng dẫn mình với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.599234,
+         "id": "895785",
+         "field_search": "question",
+         "question": " Cho mình hỏi máy tính acer E5575G3330 chơi game như liên minh huyền thoại được không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.559847,
+         "id": "1158324",
+         "field_search": "question",
+         "question": "Cho em hỏi cách chuyển dung lượng của ứng dụng hoặc game sang thẻ nhớ trên oppo a3s thì phải làm thế nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.516098,
+         "id": "756717",
+         "field_search": "question",
+         "question": "Máy nhà em  Laptop Dell Inspiron 3551 Pentium N3540/2GB/500GB/Win8.1 thì nên dùng card đồ hoạ rời nào để chơi game lol ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.500786,
+         "id": "1148489",
+         "field_search": "question",
+         "question": "Xin chào,Tôi muốn T ắt giám sát quyền  trên OPPO F7 thì phải làm sao?PS Không sử dụng tùy chọn nhà phát triển.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.426125,
+         "id": "886167",
+         "field_search": "question",
+         "question": "Tgdd cho mình hỏi máy mình 5s khi gọi điện thì màn hình giáp loa nóng ran dù gọi vài giây khi chơi game thì cũng nóng hơn chỗ khác mà cảm ứng hay loạn khi chơi game tgdd cho mình hỏi máy bị làm sao thế cách khắc phục luôn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.389103,
+         "id": "919845",
+         "field_search": "question",
+         "question": "Khi chơi game candy crush chua đồng bộ với fb được cấp 800 mấy rồi mình đồng bộ với fb thi choi lại từ đầu làm sao để lấy lai cấp 800 may",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.323917,
+         "id": "897708",
+         "field_search": "question",
+         "question": " Làm sao thay đổi Navigation Bar trên Mobiistar Lai Zumbo ạ, Tuy chọn của nhà phát triển ở đâu e tìm ko thấy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.321987,
+         "id": "1165716",
+         "field_search": "question",
+         "question": "Làm sao để thoát khỏi chế độ trẻ em trên Oppo a3s khi quên mk màn hình khoá ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.320461,
+         "id": "1159487",
+         "field_search": "question",
+         "question": "nếu mình chuyển game sang thẻ nhớ thì khi chơi game có bị lỗi gì ko. mình dùng huawei thẻ nm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.297552,
+         "id": "811298",
+         "field_search": "question",
+         "question": " Sao tải game trên windows không được ad,chỉ em cách cài game trên máy tính có hệ điều hành windows 10 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.289814,
+         "id": "1162850",
+         "field_search": "question",
+         "question": "Tại sao sam sung j1 vao game ica lại bị văn ra không chơi đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.241152,
+         "id": "1138931",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e bị gì mà khi nạp tiền vào game để mua là nó bị v ạ sài oppo a83  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.220818,
+         "id": "790901",
+         "field_search": "question",
+         "question": " Vì sao em tải game tập kích về máy android tải trên chplay mà khi ghi chữ tập kích rồi tìm kiếm sao ko xuất hiện game? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.198685,
+         "id": "1151772",
+         "field_search": "question",
+         "question": "Cho mik hỏi cách chuyển ứng dụng game qua thẻ nhớ SD cho máy oppo a3s ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.170498,
+         "id": "1164503",
+         "field_search": "question",
+         "question": "Con realme 3 chơi game thì mượt nhưng mà khi thoát game ra dể nhs tin thì vô lai game thì game bị load lai mac dù thoát ra là vô lại liền????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.165768,
+         "id": "1142236",
+         "field_search": "question",
+         "question": "Tôi thắt mắt không biết làm s để kết nối 2 giả lập nds trên 2 android khác nhau mà chơi được cùng 1 game?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.163177,
+         "id": "767249",
+         "field_search": "question",
+         "question": "  Tại sao em không nghe phát âm thanh được loa ngoài khi vào nghe nhạc cho điện thoại Oppo Neo 7 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.162191,
+         "id": "1141510",
+         "field_search": "question",
+         "question": "Em bị mất con a3s. Giờ em muốn coi số imei của máy thì phảo làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.148077,
+         "id": "1011665",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi , điên thoại em mua mới 1 tuần mà bị nứt màn hình bảo hành có được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.1172,
+         "id": "764673",
+         "field_search": "question",
+         "question": "Cho em hỏi là laptop em mới mua về win 10. tại sao không tải được game online và không chơi game online trên zing được ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.116512,
+         "id": "1154349",
+         "field_search": "question",
+         "question": "Sao máy samsung j4 lúc trc chơi pubg mượt mà h chơi lại bị giật lag. Có cách nào để chơi game mượt như cũ ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.095236,
+         "id": "1161310",
+         "field_search": "question",
+         "question": "Em có như cầu chơi game trồng tầm giá 4triệu đổ xuống thì nên chọn máy nào ngon để chơi game ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.067972,
+         "id": "1133973",
+         "field_search": "question",
+         "question": "Em muốn hỏi sao máy J3 pro chơi game nào cũng bị sập nguồn hết vậy ạ ! Game nào cũng bị hết !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.064789,
+         "id": "1152334",
+         "field_search": "question",
+         "question": "mk mới mua oppo a3s mà sao chụp ảnh mờ quá k được nét,cứ bị xanh xanh.trong khi để chế độ chụp ảnh gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.058054,
+         "id": "1142061",
+         "field_search": "question",
+         "question": "Admin tư vấn cho em các dòng điện thoại chỉ để chơi game mượt mà giá của nó dưới 4tr được không ạCảm ơn admin ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.054821,
+         "id": "994805",
+         "field_search": "question",
+         "question": "Cho mình hỏi là: Nếu điện thoại còn trong thời gian bảo hành, mà có lỗi kỹ thuật do nhà sản xuất rồi đem đi bảo hành 2 lần không khắc phục được 1 lỗi, mà còn phát sinh thêm 1 lỗi nữa thì phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.049873,
+         "id": "853241",
+         "field_search": "question",
+         "question": "Mình xài iphone 4 phiên bản 7.1.2 cứ mỗi lần chơi game ngôi sao thời trang lại bị văng ra màn hình chủ ! làm sao để khắc phục vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.0427,
+         "id": "1154717",
+         "field_search": "question",
+         "question": "Máy em mới mua mà chơi game cảm ứng đa điểm nó bị giật thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

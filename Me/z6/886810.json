@@ -1,0 +1,809 @@
+{
+   "id_query": "886810",
+   "total": 28858,
+   "total_current": 100,
+   "max_score": 62.02323,
+   "origin_question": " Dùng chung iCloud trên iPhone thì có đọc đc tin nhan facebook và zalo ko a ",
+   "hits": [
+      {
+         "score": 62.02323,
+         "id": "886810",
+         "field_search": "question",
+         "question": " Dùng chung iCloud trên iPhone thì có đọc đc tin nhan facebook và zalo ko a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.94185,
+         "id": "1156338",
+         "field_search": "question",
+         "question": "e có dùng chung tk icloud với bạn. bây giờ e đăng xuất tk icloud ra iphone của mình rồi thì liệu bạn e có thể xem được ảnh hoặc tin nhăns imess của em không ạ. em nghe nói dùng chung icloud sẽ đọc được tn và xem được ảnh của iphone dùng chung icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.65206,
+         "id": "911960",
+         "field_search": "question",
+         "question": "Mình và bạn mình dùng chung một Icloud Mỗi khi bạn mình nhắn tin trên máy bạn đó thì máy mình lại nhận được. Vậy nên mình hỏi cách không chia sẻ tin nhắn giữa 2 máy khi dùng chung 1 Icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.299183,
+         "id": "814689",
+         "field_search": "question",
+         "question": "khi gửi tin nhắn trên facebook mà bạn mình chưa đọc vậy nếu mình xóa facebook đi thì bạn mình có đọc được tin nhắn đó không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.17337,
+         "id": "900530",
+         "field_search": "question",
+         "question": " Nếu dùng chung ip Apple thì có sao ko? Em ko dùng iCloud. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.42533,
+         "id": "997724",
+         "field_search": "question",
+         "question": " Cho mình hỏi iPhone và iPad có nên dùng chung iCloud không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.576635,
+         "id": "796140",
+         "field_search": "question",
+         "question": "Ad ơi cho e hỏi: cùng 1 icloud, dùng Zalo trên 2 máy (vd như ipad và iphone) thì có được không ạ? Ví dụ như đang dùng zalo trên iphone, lên ipad đăng nhập cũng tài khoản zalo đó, thì bên iphone có bị out không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.527946,
+         "id": "761587",
+         "field_search": "question",
+         "question": "Ad cho m hỏi lấy mã kích hoạt này ở đâu khi  mình muốn xem tin nhắn trên 2 iphone dùng chung iCould  vào Cài đặt  > Tin nhắn > Chuyển tiếp Tin nhắn văn bản > Bật thiết bị sẵn có (khi dùng chung iCloud) > Nhập mã kích hoạt được gởi đến máy tính.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.450323,
+         "id": "1021801",
+         "field_search": "question",
+         "question": "Cho em hỏi chút ạ: em và bạn trai dùng chung icloud, mà lại ko xem được tin nhắn imessage hay ảnh. Chỉ xem đc danh bạ và cuộc gọi thôi. Vậy làm cách nào để có thể xem được ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.079273,
+         "id": "914360",
+         "field_search": "question",
+         "question": "Mình và bạn gái dùng chung tài khoản icloud khi mình gửi tin nhắn trên điện thoại bạn gái vẫn nhận đc. Nhưng cứ phải kết nối internet thì mình mới nhận được tin nhắn từ điện thoại của bạn mình. Cho mình hỏi như vậy là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.026726,
+         "id": "1159153",
+         "field_search": "question",
+         "question": "mình mới mua nokia 6,1 plus nhưng khi dùng video cal trên zalo hay facebook camera rất tối, có cách nào khác phục ko a?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.778412,
+         "id": "828394",
+         "field_search": "question",
+         "question": "mình dùng dữ liệu thì vẫn vào được n dùng wifi thì ko kết nối facebook đc lại ko thể nhắn tin trên messenger.Mình đã thử mấy mạng wifi khác nhau nhưng vẫn ko được,giứp mình đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.427088,
+         "id": "1001746",
+         "field_search": "question",
+         "question": "E mua dien thoai chung xe sh khi nhan giai mang thu tuc gi a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.36818,
+         "id": "824615",
+         "field_search": "question",
+         "question": " cho minh hoi nho minh muon nhan tin bang zalo ma nguoi nhan tin nhan ban sms thi phai lam sao ban ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.06281,
+         "id": "1024038",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Nếu mình và bạn trai mình dùng chung một tài khoản icloud. Sau đó bạn trai mình đổi mật khẩu icloud. Thì ảnh, tin nhắn, cuộc gọi trong máy bạn trai mình có hiện trong máy mình nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.875793,
+         "id": "920998",
+         "field_search": "question",
+         "question": " Nếu 2 máy dùng chung ilcoud . Đồng bộ zalo có thấy đươc tin nhắn với hình ảnh trong không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.86103,
+         "id": "1019133",
+         "field_search": "question",
+         "question": "em mua lại iphone, giờ em với chủ cũ dùng chung icloud. vậy em muốn dùng riêng icloud đấy thì phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.852236,
+         "id": "1014032",
+         "field_search": "question",
+         "question": "Icloud có quản lý được toàn bộ tin nhắn zalo,fb,line,....đã từng truy cập trên iphone không ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.79922,
+         "id": "922948",
+         "field_search": "question",
+         "question": " Toi gui tin nhan cho ban thi trên Facebook ghi Hiện bây giờ người ấy không thể nhận được tin nhắn từ bạn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.611555,
+         "id": "905724",
+         "field_search": "question",
+         "question": " Cách de nhan tin nhan Nang cap iOS 712 len 8.0 de tai ung dụng Facebook ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.49107,
+         "id": "884378",
+         "field_search": "question",
+         "question": " lam the nao đê tai lai cac tin nhan củ đa xoa trên đien thoai hoac zalo cua mình ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.410425,
+         "id": "1163254",
+         "field_search": "question",
+         "question": "2 iphone chung 1 icloud, giờ đăng xuất icloud trên 1 máy đã tắt hết đồng bộ thì máy còn lại có ảnh hưởng gì không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.398033,
+         "id": "1146679",
+         "field_search": "question",
+         "question": "Mình có cài Zalo trên PC và điện thoại, khi mình bị mất điện thoại và chuyển sang điện thoại mới thì những tin nhắn zalo trên điện thoai không còn, nhưng zalo trên PC thì vẫn còn tin nhắn. Vậy có cách nào đồng bộ tin nhắn Zalo trên điện thoại từ PC không? Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.34416,
+         "id": "884766",
+         "field_search": "question",
+         "question": " Ad cho mình hỏi Icloud và ID Apple mình dùng chung 1 tài khoản được ko vậy? Thanks Ad nhiều. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.849789,
+         "id": "1003045",
+         "field_search": "question",
+         "question": "2 máy e dùng chung tài khoản icloud, nếu xoá tài khoản icloud ở 1 máy thì máy kia có bị ảnh hưởng j ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.831394,
+         "id": "1006773",
+         "field_search": "question",
+         "question": "Làm sao để biết hình ảnh danh bạn đã đc lưu vào icloud trên iphone vậy a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.801546,
+         "id": "1135777",
+         "field_search": "question",
+         "question": " Cho em hỏi 2 máy Oppo dùng chung Ocloud thì có hiển thị được cuộc gọi hay tin nhắn gửi chung không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.746103,
+         "id": "1136996",
+         "field_search": "question",
+         "question": "Mình đang sử dụng một tài khoản icloud và id apple trên 2 thiết bị iPhone và iPad, người mình muốn xoá và thoát tk icloud trên iPad thì tk trên iPhone có bị xoá không, nếu sau này mình lấy tk icloud này đăng nhập lại trên iPad đó có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.601496,
+         "id": "926787",
+         "field_search": "question",
+         "question": " tai sao tai khoan zalo tui gui tin nhan cho nguoi duoc nhung nguoi nhan lai cho toi khong duoc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.51117,
+         "id": "852799",
+         "field_search": "question",
+         "question": "Mình su dung facebook cua trinh duyet chrome, co tin nhan thi bao la vao messenger nhung khi tai messenger ve cung khong doc duoc tin nhan",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.452682,
+         "id": "993153",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình sử dụng zalo trên iphone,khi đăng nhập tài khoản zalo trên một máy tính khác thì trên máy tính có thấy những tin nhắn cũ có trên iphone k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.423738,
+         "id": "909706",
+         "field_search": "question",
+         "question": "Cho mình hỏi 2 máy cùng dùng 1 TK iCloud muốn đọc đc tin nhắn của máy kia mà ko muốn đọc đc tin nhắn của máy mình thì làm ntn bạn?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.416084,
+         "id": "877823",
+         "field_search": "question",
+         "question": "mình xài icloud chung vs 1 ng. vừa rồi tình cờ biết dc người đó vào xem tn zalo của mình nhưng mình ko hề hay biết. cho mình hỏi có phải do xài icloud chung k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.295467,
+         "id": "1016505",
+         "field_search": "question",
+         "question": " Sao mà điện thoại của em là PHILIPS sao ko nhắn tin đc a chỉ nhận tin trong messenger thời có dịch vụ thì cũng ko có  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.204763,
+         "id": "1148236",
+         "field_search": "question",
+         "question": "Oppo f9 khong co nut tra loi tin nhanEm muonbtl tin nhan thi bam vao dau a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.075502,
+         "id": "1006132",
+         "field_search": "question",
+         "question": "có cách nào biết được ai đang dùng chung tài khoản icloud với máy mình ko ạ .em cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.039452,
+         "id": "937281",
+         "field_search": "question",
+         "question": "Mình đang sài iphone 5 và ipad cùng chung 1 accounds , mỗi lần mình nhắn tin hay gọi điện thoại trên iphone nó đều hiển thị trên ipad . Mình muốn chặn tin nhắn hay cuộc gọi hiển thị trên ipad thì làm thế nào ad giúp mình với . Tks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.9854145,
+         "id": "840947",
+         "field_search": "question",
+         "question": " Muon xem lai tin nhan da xoa tren zalo co duoc khong? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.971593,
+         "id": "994287",
+         "field_search": "question",
+         "question": "   E vừa đoc tin của tgdd đăng là. Coi iphone còn bảo hành ko. E coi xo ng thì như vậy. Vậy có đc bảo hành ko a. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.971289,
+         "id": "769045",
+         "field_search": "question",
+         "question": " Ad ơi giúp mình tắt âm báo và rung khi có tin nhắn zalo trên iPhone 6s plus với! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.971007,
+         "id": "806977",
+         "field_search": "question",
+         "question": " Xóa tin nhắn zalo trên máy tính thì trên điện thoại các tin nhắn zalo đó còn không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.83205,
+         "id": "1003616",
+         "field_search": "question",
+         "question": "Sao máy j7 prim của e mới mua.e cài đặt nhấp nháy đèn led cho các cuộc gọi và tin nhắn trên sim đến thì có cháy đèn. Còn các thông báo  cho tin nhắn đến hay cuộc gọi  wa ứng dụng facebook. Zalo thì đèn led ko nhấp nháy vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.818178,
+         "id": "931231",
+         "field_search": "question",
+         "question": " Nit icloud bị khóa do nhập trên wes nhìu lần thì co thể đăng nhập vô máy bị activate lock để vô dao diện đc ko a ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.810477,
+         "id": "800376",
+         "field_search": "question",
+         "question": "Khi tạo xong icloud thì có thông báo 'dữ liệu Safari của bạn trên iphone này sẽ đc tải lên và nhập với icloud nêu chọn nhập thì sao và không hợp nhất thì sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.783059,
+         "id": "907836",
+         "field_search": "question",
+         "question": "Chào ad! Em muốn hỏi khi dùng iphone và có tài khoản icloud. Nếu xóa ảnh trên iphone thì tại tài khoản icloud có còn ảnh đó nữa hay không? Thank ad!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.7703705,
+         "id": "1138019",
+         "field_search": "question",
+         "question": "Oppo f1s sao không mời live chung trên facebook được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.680999,
+         "id": "914727",
+         "field_search": "question",
+         "question": "Tại sao viber của tôi ko gửi dc tin nhan cho người khác nữagữi tin nhắn xong chỉ báo là đã chuyển,nhưng người bên kia ko nhận đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.676101,
+         "id": "780873",
+         "field_search": "question",
+         "question": " Chào ad xin cho hỏi máy tính bảng có dùng chung tài khoản zalo với iPhone không ạ xin cảm ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.671449,
+         "id": "1159112",
+         "field_search": "question",
+         "question": "zalo của mình báo có tin nhắn chưa gửi được do lỗi mạng, nhưng khi mình click vào thì ko thấy gì? vì sao lại vậy và làm sao để khắc phục a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.604816,
+         "id": "828779",
+         "field_search": "question",
+         "question": "mình dùng facebook trên máy tính. Nhưng gần đây khi facebook thông báo có tin nhắn, mình mở xem được nhưng trả lời không được. Nó cứ hiện \"Tin nhắn chưa đc gửi, vui lòng thử gửi lại\".",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.591494,
+         "id": "939701",
+         "field_search": "question",
+         "question": " cho minh hoi sao dt cua minh zalo ko viet dc tin nhan vay? ban nao biet giup minh voi....thank nhieu ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.549422,
+         "id": "840999",
+         "field_search": "question",
+         "question": "MOD cho mình hỏi 1 chút:Mình muốn xem lại toàn bộ tin nhắn zalo trên PC khi tài khoản zalo đã bị xóa thì xem lại tin nhắn như thế nào?Trên máy tính mình thấy trong thư mục zalo có file zalo_messages.db thì có xem được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.48886,
+         "id": "829100",
+         "field_search": "question",
+         "question": "Có 1 bạn đang dùng chung tài khoản zalo với mình mà mình ko bít làm cách nào để xoá tk đó. Làm sao để có thề xoá tk zalo trên các thiết bị hiện tại để mình có thể cài đặt lại trên 1 thiết bị khác?Cám ơn bạn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.464489,
+         "id": "535748",
+         "field_search": "question",
+         "question": " k gửi đc tin nhắn Facebook trên điện thoại android?nó toàn ra ! không gửi đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.454713,
+         "id": "768525",
+         "field_search": "question",
+         "question": "Ad giúp mình tắt âm thanh và chế độ rung khi có tin nhắn zalo trên iPhone 6S với (cuộc gọi và tin nhắn điện thoại vẩn bình thường nha)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.412417,
+         "id": "1164489",
+         "field_search": "question",
+         "question": "Add cho mình hỏi ạ: Mình dùng 2 ip chung 1 icloud nhưng anr và danh bạ 2 máy khác nhau nhưng khi vk mình mua ip khác thì khi nhập vào icloud ko thấy có ảnh và danh bạ ở máy cũ của vk mình ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.379631,
+         "id": "767527",
+         "field_search": "question",
+         "question": "A/c cho em hỏi em và vợ em cung dùng một tài khoản icloud nên khi em tải ứng dụng về máy em thì máy vợ em cũng tự tải về A/c cho em biết làm thế nào để khắc phục đc lỗi trên .xin cảm ơn A/c!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.305269,
+         "id": "1001741",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang dùng đt android, khi đang xuất ra zalo và dùng zalo trên ipad thì bị mất hết tin nhắn cũ, mà phần tn đó nếu thoát ipad qua lại android cũng k còn, có cách nào đồng bộ tin nhắn 2 máy k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.218198,
+         "id": "836720",
+         "field_search": "question",
+         "question": " xóa tin nhắn zalo trên PC thì tin nhắn trong điện thoại có mất không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.169976,
+         "id": "994445",
+         "field_search": "question",
+         "question": " Cho mình hỏi: Mình và bạn gái mình đều dùng iphone và dùng chung tài khoản icloud. Mỗi khi có ai đó gọi điện cho mình thì iphone của bạn gái mình cũng nhận được số đó và ngược lại. Làm thế nào để tắt được tính năng này vậy? Cảm ơn ad và mọi người",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.156172,
+         "id": "888297",
+         "field_search": "question",
+         "question": "1. Cho tôi hỏi: tôi dùng mất iphone 6 rồi mua lại iphone 6 dùng chung một icloud. Nay bị báo icloud đã đầy, trong đó iphone cũ 4,8Gb, (hình 1) vậy tôi xóa dung lượng trên iphone 2 (hình 2) để giải thoát bộ nhớ có ảnh hưởng gì không vây (kèm hình) .rất mong được phản hồi, ĐT: 0985027327, kybv.dnpc@gmail.com2. tôi muốn đổi pass icloud nhưng chưa biết cách thực hiện.3. Nâng cấp tài khooản icloud thì cần thẻ tín dụng và tài khoản nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.028411,
+         "id": "845189",
+         "field_search": "question",
+         "question": "Cho hỏi sau khi báo mất iPhone trên iCloud thì các trang mạng xã hội trên iPhone bị mất người lấy cắp có thể sử dụng được không ah? Và mình có thể đăng nhập iCloud trên thiết bị khác được nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.025542,
+         "id": "755911",
+         "field_search": "question",
+         "question": "QTV cho em hỏi chút ạ. Em vừa dùng iPhone nên chưa iCloud là cái gi và chức năng của nó là như thế nào, dù đã tìm hiểu trên internet nhưng còn lơ mơ. Nên em muốn hỏi là mỗi máy sẽ có 1 tài khoản iCloud riêng hay là một người có một tài khoản iCloud là dùng chung cho iPhone nào cũng được hay là sao ạ? Em cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.02172,
+         "id": "897276",
+         "field_search": "question",
+         "question": " Điện thoại iphone 5 nếu quên cả pass icloud và email đăng kí icloud thì có xóa đc icloud khỏi đt kh ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.974611,
+         "id": "886031",
+         "field_search": "question",
+         "question": "Cho mình hỏi dùng 1 điện thoại mà truy cập vào hai tài khoản Zalo sau khi nhắn tin bằng tk Zalo 1 đọc xong xóa đi luôn thì có khôi phục lại những tin nhắn đã xóa bằng tài khoản zalo thứ 2 ko?(trên cùng 1 điện thoại)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.971565,
+         "id": "904613",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi mình mất điện thoại Iphone 6 plus mình có khóa màn hình và dùng icloud thì khi mình xóa iphone thì pass màn hình có mất ko người lấy trộm máy có dùng dc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.948142,
+         "id": "939194",
+         "field_search": "question",
+         "question": "Mình chơi hayday trên ipad, có đăng nhập gamecenter, icloud, Facebook đầy đủ, sau này bị mất facebook, và không còn đc chơi trên ipad nữa, giờ mình đang chơi trên ANDROID, muốn lấy lại tài khoản đó thì phải làm thế nào? Làm sao để lấy lại tài khoản HAYDAY ĐÓ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.930607,
+         "id": "801391",
+         "field_search": "question",
+         "question": "Cho mình hỏi: Sau khi đã cài zalo trên laptop và quét QR xong và cũng đã đăng nhập thành công, nhưng sao mình ko thấy hiển thị các tin nhắn zalo trên laptop vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.870478,
+         "id": "840675",
+         "field_search": "question",
+         "question": "     Tại sao iphone 5 lock lại ntn a. Nó ko lắp sim thì dùng đc lắp sim là nó báo vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.867947,
+         "id": "1141824",
+         "field_search": "question",
+         "question": "E dùng Hawei Y5 IICho hỏi : e lỡ tắt cái ứng dụng chạy ngầm, zalo facebook , ngta nhắn tin e e cũng chẳng nhận đc thông báo, k biết gì hết, e muốn bật lại thì làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.867588,
+         "id": "888989",
+         "field_search": "question",
+         "question": "Tại sao khi e đang nhắn tin trên Zalo và thoát ứng dụng ra thì k nhận đuợc tin nhắn nữa mà phải vào lại Zalo mới thấy tin nhắn vậy ?.có cách khắc phục không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.848907,
+         "id": "839781",
+         "field_search": "question",
+         "question": "Minh dang su dung iphone 6. may cua minh cu thinh thoang lai phat am bao nhu co alert cua tin nhan ma chua doc nhung thuc su thi ko co tin nhan nhu vay. nhu vay la may co bi sao ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.820762,
+         "id": "755908",
+         "field_search": "question",
+         "question": "Xin chào! Các bạn tư vấn giúp mình với,hiện nay mình đang dùng ipad và mac còn bà xã dùng iphone, vì cả 3 thiết bị này đều dùng chung 1 tài khoản iCloud nên khá phiền,hiện nay iphone mình đã đăng xuất tài khoản chung và tạo tài khoản mới nhưng nếu muốn tải hoặc cập nhật thì iphone bắt nhập mật khẩu của tài khoản cũ. Vậy mình cần làm như thế nào để đăng xuất hết tài khoản cũ trên iPhone?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.789386,
+         "id": "1164490",
+         "field_search": "question",
+         "question": "Mình và vk mình đều dùng ip6 và chung 1 icloud nhưng danh bạ và ảnh thì 2 máy là khác nhau nhưng khi vk mình dùng ip7 thì nhập lại icloud để lấy dữ liệu từ máy cũ của vk mình thì không thấy mà chỉ thấy ảnh va danh bạ của máy mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.764306,
+         "id": "874111",
+         "field_search": "question",
+         "question": " Sao vào facebook duoc ma vao trang ca nhan ko dc vay ad. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.754536,
+         "id": "814080",
+         "field_search": "question",
+         "question": "A oi giúp e với , bạn bè gởi tin nhắn trên zalo cho e thì nó báo \" xin lỗi , tạm thời chúng tôi ..... \" , nhưng e nhắn tin lại thì bạn bè e nhận được , bạn e hỏi e có chặn tin nhắn không thì e dzo xem không có",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.740565,
+         "id": "1156079",
+         "field_search": "question",
+         "question": "Xin hỏi dung chung ic và id có xem dc tin nhắnvaf hình ảnh của zano và fb kg. Môt máy ở  nước  ngoài và một ở viet nam. Và khi dùng chung có hiện cuộc  gọi hay tin nhắn  tren 2 máy ở hai nước  khác nhau dc kg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.733078,
+         "id": "1115292",
+         "field_search": "question",
+         "question": "Điện thoại của em và của me dùng chung icloud nên bị đồng bộ danh bạ. Em đã thoát icloud bên mẹ rồi nhưng danh bạ đã bị đồng bộ. Ko biết có cách nào trở lại như cũ ko ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.706098,
+         "id": "1023971",
+         "field_search": "question",
+         "question": "chao a...em co mua mot cai ipad wifi 32g 2017 o tgdd gan 1 thang..ma nay sao mesenger bao co tin nhan nhung mo ko duoc..va quay ve man hinh la sao a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.697838,
+         "id": "787754",
+         "field_search": "question",
+         "question": "Em dùng chung tài khoản icloud vs 1nguoi bây h e muốn đổi nhung e chua có tài khoản khac muốn lập thì phải lập ở dâu và như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.684111,
+         "id": "1152368",
+         "field_search": "question",
+         "question": "Cho r hỏi. Máy iphone của e mua đc 5 ngày, nhưng ko bt tại s hôm nay zalo ô nhận được tin nhắn thoại (đeo tai nghe vào thì nghe đc. Ko đeo thì ko nghe) là do lỗi đt hay lỗi app ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.65286,
+         "id": "914968",
+         "field_search": "question",
+         "question": "E dùng facebook ios bản mới nhất 67.0 khi cập nhật lên thì thanh phí dưới mất đi phần kết bạn chỉ còn lại 4 mục là bản tin, nhắn tin, thông báo và tuỳ chọn khi tìm hiểu thì phần kết bạn đã gộp chung với phần thông báo vậy là sao ạ có phải do bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.578249,
+         "id": "1164088",
+         "field_search": "question",
+         "question": "iPhone hay hiện dòng tin “bạn có thể bị tính phí khi dùng tin nhắn SMS để kích hoạt iCloud “có phải tôi bị ai đó đăng nhập iCloud ? “",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.532978,
+         "id": "1142577",
+         "field_search": "question",
+         "question": "Mình đánh rơi iphone bị hỏng,số điện thoại đăng ký icloud trc đây thì mình ko dùng nữa, vậy có cách nào lấy lại ảnh trên icloud ko?Mong mọi người ai biết chỉ mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.496766,
+         "id": "837782",
+         "field_search": "question",
+         "question": "Em dùng Samsung galaxy a5, mới hnay thôi các app cần mạng vx kết nối đc, nhg facebook, messenger thì k ttheer kết nối đc giúp e đc k a??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.441279,
+         "id": "757090",
+         "field_search": "question",
+         "question": " Cho em hỏi dùng iphone 5 lên Facebook mà muốn xem tin mới nhất thì chỉnh sao ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.434322,
+         "id": "830086",
+         "field_search": "question",
+         "question": "nếu mình đăng nhập song song tk zalo cùng 1 lúc trên máy tính và đt thì khi có tin nhắn báo đến mình xoá trên đt đi thì máy tính có còn lưu tin đó nữa k?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.423478,
+         "id": "1141600",
+         "field_search": "question",
+         "question": "Cho mình hỏi, zalo của mình vừa sử dụng trên điện thoại và trên laptop, lúc trước khi đăng nhập zalo vào laptop thì nó còn báo về điện thoại là có thiết bị đăng nhập, nhưng hiện tại thì không thấy có thông báo về nữa. Thứ 2 là hình như có người đăng nhập vô zalo của mình, vì có tin nhắn đến mình ko có thông báo, và thậm chí là tin nhắn đó đã được đọc nhưng mà không phải là mình, có phải zalo mình đã bị hack ko ạ. Cảm ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.397643,
+         "id": "807476",
+         "field_search": "question",
+         "question": "Mình có con Iphone 4, nếu mình mua một cái Iphone 5S đã qua sử dụng của thegioididong thì khi đó nếu mình đăng nhập cùng tài khoản facebook, instagram trên cả 2 máy thì chuyện gì sẽ xảy ra? Có thể dùng 1 tài khoản Icloud trên cả 2 máy được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.3895035,
+         "id": "855361",
+         "field_search": "question",
+         "question": " có thể xem lại tin nhắn đã xóa và không lưu trữ lại trên facebook không ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.366961,
+         "id": "999990",
+         "field_search": "question",
+         "question": "Facebook và mess có chuyển đc sang thẻ nhớ ko nhỉ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.357875,
+         "id": "1166502",
+         "field_search": "question",
+         "question": "2 iPhone của mình dùng chung 1 iCloud mà 1 cái bị mất. Giờ mình có thể khoá tk điện thoại đó không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.351858,
+         "id": "1022945",
+         "field_search": "question",
+         "question": "Mình đang dùng XA Ultra nhưng sao Facebook và Zalo hiện thời gian không đúng?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.322367,
+         "id": "776490",
+         "field_search": "question",
+         "question": "Mình dùng iphone 5 tại sao những tin nhắn và hình ảnh trong zalo của mình lại ko lưu được hết nó cứ bị xoá dần theo thời gian",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.311921,
+         "id": "807456",
+         "field_search": "question",
+         "question": "Mình có con Iphone 4, nếu mình mua một cái Iphone 5S đã qua sử dụng của thegioididong thì khi đó nếu mình đăng nhập cùng tài khoản facebook, instagram trên cả 2 máy thì chuyện gì sẽ xảy ra? Có thể dùng 1 tài khoản Icloud trên cả 2 máy được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.267782,
+         "id": "862506",
+         "field_search": "question",
+         "question": "Hoàng Long- cho e hỏi, bạn e nó có share cho e 1 cái video ngắn trong tin nhắn riêng trên zalo, nhưng nó ko có trang wep nào hết, ấn zô là xem thôi, vậy để làm sao mới có thể tải và gửi cái video tương tự và gửi vào tin nhắn trên zalo...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.257931,
+         "id": "824082",
+         "field_search": "question",
+         "question": "Minh muon xoa hinh tai tu tin nhan zalo, ve may dien thoai oppo , nhung ko xoa dc bao nao biet CHI minh dum xin cam on nhieu.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.245534,
+         "id": "1135057",
+         "field_search": "question",
+         "question": "mình vừa mua máy mới .và đăng nhập icloud lại trên máy mới thì k có hình ảnh . và trên iphone báo dung lượng icloud đầy .mong ad chỉ mình cách khắc phục !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.202677,
+         "id": "830206",
+         "field_search": "question",
+         "question": "Tôi có đăng nhập zalo trên pc. nhưng khi vào thì luôn hiện lên cửa sổ bắt buộc phải xóa tin nhắn mà tôi chưa đọc, và zalo pc không bao giờ lưu lại tin nhắn. khi vào thường không có tin nhắn. t nghĩ chỉ xóa tin nhắn trên điện thoại thi trên pc vẫn lưu lại chứ ạ. xin giải đáp giúp. thank",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.197746,
+         "id": "1142768",
+         "field_search": "question",
+         "question": "AD ơi cho mình hỏi. M lỡ khôi phục tin nhắn cũ zalo trên đt nhưng quên ko sao lưu trc đó nên bị mất tin nhắn gần nhất. Nhưng trên máy tính thì vẫn còn. Vậy ad chỉ mình cách đồng bộ lại tin nhắn đó từ máy tính sang điện thoại đc ko? Tks ad nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

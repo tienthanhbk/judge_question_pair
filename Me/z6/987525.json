@@ -1,0 +1,809 @@
+{
+   "id_query": "987525",
+   "total": 30840,
+   "total_current": 100,
+   "max_score": 55.82979,
+   "origin_question": "cho hỏi có bán lens cho iphone 6 ko? Có loại nào rõ nét ko ạ?",
+   "hits": [
+      {
+         "score": 55.82979,
+         "id": "987525",
+         "field_search": "question",
+         "question": "cho hỏi có bán lens cho iphone 6 ko? Có loại nào rõ nét ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.598806,
+         "id": "998243",
+         "field_search": "question",
+         "question": "bên mình có bán iphone 6 16gb bản quốc tế ko ạ bởi vì e thấy có mấy shop cx bán mà sao bên mình ko bán loại đó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.171358,
+         "id": "1000290",
+         "field_search": "question",
+         "question": "Cho e hỏi là điện thoại phù hợp vs nữ tầm 4-6tr5 thì loại nào tốt nhất v ạ? E muốn mua 1 chiếc nhưng ko biết rõ đc loại nào tốt hết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.940926,
+         "id": "1011559",
+         "field_search": "question",
+         "question": "cho hỏi thế giới di động có bán pin của philips s307 ko ạ, hoặc loại pin phù hợp với điện thoại s307 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.638891,
+         "id": "1141279",
+         "field_search": "question",
+         "question": "Cho mình hỏi thế giới di động có bán pin cho iphone 6 không vậy ạ. Sao tìm trên trang web ko thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.350237,
+         "id": "810726",
+         "field_search": "question",
+         "question": " Cho mình hỏi mình dùng Dell 3563 sao thấy màn hình mờ mờ không rõ nét, có cách khắc pục nào không ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.087564,
+         "id": "1168618",
+         "field_search": "question",
+         "question": "ad cho em hỏi là thay pin iphone 6 plus thì bn tiền và là loại pin gì đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.035505,
+         "id": "756403",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 5 lên IOS 9.1 có phải là làm cho Camera chính và phụ không được rõ nét và bị hơi mờ không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.877207,
+         "id": "1144459",
+         "field_search": "question",
+         "question": "Iphone 7s plus 128gb nào có lại ạ Em muốn mua iphone ko biết loại nào tốt",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.673931,
+         "id": "963811",
+         "field_search": "question",
+         "question": " Em muốn mua thêm thẻ nhớ ngoài cho iPhone vậy cho em hỏi bên tgdd có ko? Gồm những loại nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.598366,
+         "id": "989895",
+         "field_search": "question",
+         "question": "TGDĐ cho mình hỏi. Mình đang xài ip 6plus. Hiện camera trước của mình chụp hình thì bị hơi mờ, cảm giác như bị chá sáng ko được rõ nét như trước. Mình có thể đem ra trung tâm tgdđ nhờ hỗ trợ ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.163593,
+         "id": "846765",
+         "field_search": "question",
+         "question": " AChị cho e hỏi là e muốn mua điện thoại iphone 6 cũ mà bên mình điện thoại cũ có bán trả góp ko ạ !! tks ac ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.829903,
+         "id": "1020918",
+         "field_search": "question",
+         "question": "Cho mình hỏi oppo f1s có những loại ốp lưng nào. Có đa dạng ko? Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.78384,
+         "id": "1012939",
+         "field_search": "question",
+         "question": "cho hỏi nokia 6 có màu xanh dương ko, có bán thì call báo mình nhé  0913132393  HOÀNG",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.765823,
+         "id": "1019914",
+         "field_search": "question",
+         "question": "cho e hỏi, e xài iphone 6 ios10.3.3 restore lại có thành iphone lock ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.743183,
+         "id": "1143583",
+         "field_search": "question",
+         "question": "bên TGDD có bán dây cáp sạc ko ạ, loại có 3 đầu á, cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.68122,
+         "id": "1159503",
+         "field_search": "question",
+         "question": "Cho hỏi các loại máy iphone 6 mới có những mức giá gì ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.556528,
+         "id": "1145494",
+         "field_search": "question",
+         "question": "Xin chào.Cho tôi hỏi shop có bán loại ốp lưng trong của samsung s9 ko ạ, tôi có hình đính kèm. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.476442,
+         "id": "1001346",
+         "field_search": "question",
+         "question": "cho e hỏi ở các chi nhánh tgdđ có bán hàng xách tay iphone ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.45096,
+         "id": "1143365",
+         "field_search": "question",
+         "question": "Cho mình hỏi hiện tại iphone 6 bị mất cân tay có sửa dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.442423,
+         "id": "1143763",
+         "field_search": "question",
+         "question": " Cho mình hỏi có bán tai phone zin iphone 7 plus ko. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.434597,
+         "id": "1143782",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6, 6s bên cửa hàng còn có bán không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.390965,
+         "id": "1157649",
+         "field_search": "question",
+         "question": "TGDD có bán cáp OTG cho iphone 6s trở lên ko ạ..........",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.198896,
+         "id": "1015646",
+         "field_search": "question",
+         "question": "cho em hỏi sạc ipad 2 mình nên mua loại nào và có sạc cũ ko add",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.185204,
+         "id": "1023694",
+         "field_search": "question",
+         "question": "cho mình hỏi iphone 6 lock nhật có lên ios 11 được ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.1444,
+         "id": "1024467",
+         "field_search": "question",
+         "question": "cho em hỏi tháng 11 tgdđ có bán iphone 8 ko ạ, nếu có là vào ngày mấy vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.094234,
+         "id": "793617",
+         "field_search": "question",
+         "question": " cho e hỏi bên tgdd có bán iPhone 6 cũ k, có trả góp đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.03766,
+         "id": "762824",
+         "field_search": "question",
+         "question": " Cho em hỏi ở đây có bán sim ghép cho iphone 6 lock Nhật không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 17.036646,
+         "id": "1159451",
+         "field_search": "question",
+         "question": "cho mình hỏi thế giới di động có bán loại  USB Sandisk iXpand Mini cho iphone không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.96242,
+         "id": "1161042",
+         "field_search": "question",
+         "question": "Tai nghe iphone 6 plus có giá như thế nào và dán kính cường lực thì có những loại nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.832668,
+         "id": "782489",
+         "field_search": "question",
+         "question": " Cho em hỏi bên cửa hàng có bán hàng like new iPhone 6 16gb không ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.80905,
+         "id": "1135971",
+         "field_search": "question",
+         "question": "Chào tgdđ ! Hiện tại tôi muốn mua 1 tai nghe iphone 6 thì bên tgdđ có bán riêng ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.748966,
+         "id": "1008414",
+         "field_search": "question",
+         "question": "Cho em hỏi ở tgdđ có bán keo tản nhiệt loại dùng cho laptop không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.604214,
+         "id": "991764",
+         "field_search": "question",
+         "question": "Cho e hỏi cửa hàng có bán thẻ megacard ko ạ ? Làm thế nào để tìm được những cửa hàng bán thẻ này ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.450977,
+         "id": "1148397",
+         "field_search": "question",
+         "question": "Cho em hỏi chỗ mình có pin Samsung J2 prime ko ạ? Ko biết mấy loại pin kia có tương thích với máy không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.443443,
+         "id": "1133969",
+         "field_search": "question",
+         "question": "cho e hỏi e định mua ip8 plus bản 64g  e mua trả góp vậy có thể tư vấn rõ cho e đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.392878,
+         "id": "827866",
+         "field_search": "question",
+         "question": "TGDĐ cho em hỏi em có 1 con IPhone 6 nhưng lại bị dính icloud có cách nào khắc phục ko ạ e có thể đung dịch vụ bẻ khoá icloud được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.329872,
+         "id": "781788",
+         "field_search": "question",
+         "question": " Mình mới mua cái iphone 6.iphone 6 có phát được wifi cho máy tính ko bạn. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.226254,
+         "id": "1013936",
+         "field_search": "question",
+         "question": "Cho em hỏi thegioididong có bán dây sạc đa năng cho mọi loại cổng điện thoại k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.18629,
+         "id": "1007404",
+         "field_search": "question",
+         "question": "có pin của Iphone 6 s plus ko ạ? cho em xin giá luôn ik?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.167164,
+         "id": "1150295",
+         "field_search": "question",
+         "question": "cho em hỏi samsung galaxy m20 cửa hàng mình có loại 4GB ram, 64GB rom ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.145336,
+         "id": "1015947",
+         "field_search": "question",
+         "question": "QTV cho em hỏi tgdd có bán ram laptop asus X540LA ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.114368,
+         "id": "1012877",
+         "field_search": "question",
+         "question": "Cho e hỏi IG của e khi đăng,ảnh vẫn nét nhưng sau 1 thời gian có nhiều tấm bị mờ k nhìn rõ:-) n bị gì v ạ? Cách khắc phục ntn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.04432,
+         "id": "1141369",
+         "field_search": "question",
+         "question": "Alo anh chị cho em hỏi .các của hàng tgdd có bán điện thoại ulefon power 5 ko ạ .em đang cần mua loại điện thoại này .pin 13 000 ý",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.006174,
+         "id": "1164516",
+         "field_search": "question",
+         "question": "Cho mình hỏi cửa hàng có bán cục sạc samsung a50 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 16.006174,
+         "id": "1164674",
+         "field_search": "question",
+         "question": "cho e hỏi chỗ mình có bán cục sạc  nokia 7plus ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.992863,
+         "id": "1138765",
+         "field_search": "question",
+         "question": " Cho e hỏi iphone tải chplay đc ko z hay có phần mềm thứ 3 nào để tải ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.992759,
+         "id": "1150482",
+         "field_search": "question",
+         "question": "Cho em hỏi bây jo dt tầm 6-7 tr thì loại nào chơi mượt các gam thịnh hành hiện nay  , ko quá nóng máy , pin trâu , máy bền về sau z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.951486,
+         "id": "1134695",
+         "field_search": "question",
+         "question": " Cho mình hỏi có loại máy tính bảng tầm 58tr chơi pubg mobile tốt ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.921309,
+         "id": "994176",
+         "field_search": "question",
+         "question": "Add cho mình hỏi,mình mua lenovo p70 mà bị mất sạc,gìơ có mua đựơc sạc chính hãng ko? Nếu ko thì dùng loại sạc nào cho hợp lý. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.825623,
+         "id": "820429",
+         "field_search": "question",
+         "question": "A ơi! Đợt cuối tháng 12 e có mua 1 iPhone 5s của chương trình bán 3000 sản phẩm giá tầm 8 triệu 5 ( e cũng ko nhớ rõ lắm) có được tặng 1 sạc dự phòng. Cho e hỏi là sạc dự phòng này có được bảo hành ko và bảo hành trong bao nhiêu tháng ạ! E cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.816416,
+         "id": "1002899",
+         "field_search": "question",
+         "question": "Thế giới di động có bán bộ sạc cho iphone 6 110w không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.811377,
+         "id": "992816",
+         "field_search": "question",
+         "question": "Cho mình hỏi cửa hàng có bán cáp sạc của Lenovo ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.764245,
+         "id": "1014547",
+         "field_search": "question",
+         "question": "bqt cho hỏi hiện nay có loại đt nào giá tầm 3tr đến 3tr5 mà chơi game mượt chụp hình đẹp ko zậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.760315,
+         "id": "880412",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi iphone có virut ko ạ nếu có diệt virut bằng cách nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.717627,
+         "id": "1021741",
+         "field_search": "question",
+         "question": "ad cho e hỏi  bên mình có bán oppo r11 bản tfboys ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.717627,
+         "id": "1017066",
+         "field_search": "question",
+         "question": "Cho hỏi bên mình có bán dây khóa laptop ko ạ ? mình muốn mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.701361,
+         "id": "1149877",
+         "field_search": "question",
+         "question": "Cho em hỏi bên mìk có bán cái cáp sạc của miban2 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.701361,
+         "id": "1144414",
+         "field_search": "question",
+         "question": "Cho e hỏi bên mìh có bán bộ sạc vuông oppo f1s ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.701361,
+         "id": "1135362",
+         "field_search": "question",
+         "question": "Cho e hỏi thế giới di động có bán điện thoại cũ ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.698292,
+         "id": "1014152",
+         "field_search": "question",
+         "question": "Anh ơi cho em hỏi ngày mai em sẽ đi mua iphone 6 (32GB).nhưng em ko bít o tp hcm quận Tân Bình còn cửa hàng nào có so ko anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.650827,
+         "id": "1011158",
+         "field_search": "question",
+         "question": "Cho hỏi tgdđ có bán giá đỡ cho điện thoai đe xem phim . live ko z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.650827,
+         "id": "1139787",
+         "field_search": "question",
+         "question": "cho em hỏi cửa hàng có bán dây sạc cho máy tính bảng huawei t170 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.584026,
+         "id": "1139464",
+         "field_search": "question",
+         "question": " Cho mình hỏi bên thế giới đi động có bán con Honor Play ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.579573,
+         "id": "1019654",
+         "field_search": "question",
+         "question": "Cho e hỏi ở thị xã Thuận An-BD có samsung galaxy j7 prim củ ko ạ. GPLX của e bị nhòe ko nhìn rõ hình nhưng CMND thì bình thường. Vậy có đk mua trả góp đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.558741,
+         "id": "1135367",
+         "field_search": "question",
+         "question": "Alo cho e hỏi có bán cục pin của máy lenovo a6260 ko ạCửa hàng tại biên hoà đồng nai có ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.532776,
+         "id": "743990",
+         "field_search": "question",
+         "question": " Admin ơi ! Cho e hỏi bên mình có bẻ khóa iCloud của iPhone 6 ko? Giá bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.529783,
+         "id": "1159794",
+         "field_search": "question",
+         "question": "cho e hỏi sắp tới bên mình có bán sam sung M10 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.503348,
+         "id": "1022255",
+         "field_search": "question",
+         "question": "Em chào anh chị ạ, cho em hỏi tgdd có bán sim bùm vinaphone ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.502475,
+         "id": "1151335",
+         "field_search": "question",
+         "question": "Realme e pro coi clip trên fb ko đuowkc sắc nét, điện thoại khác thì ko. Vậy có phải lỗi ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.456075,
+         "id": "1024157",
+         "field_search": "question",
+         "question": "Máy j3 của e mua được 9 tháng nhưng pin nhanh hết có cách nào làm cho pin đỡ hao ko ạ.tgdd có bán pin j3 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.439298,
+         "id": "1007811",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có bán riêng cục pin của windows phone ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.425555,
+         "id": "1013935",
+         "field_search": "question",
+         "question": "Shop cho em hỏi là chỗ của shop có bán pin của laptop ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.4162,
+         "id": "1020415",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mình đang dùng máy iphone 6 plus chạy bản ios 8.4.1 vậy mình có nên cho lên bản 10.3.3 ko và lên thì máy có bị lỗi gì ko ạ mình thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.346897,
+         "id": "1003309",
+         "field_search": "question",
+         "question": "thiết bị kích sóng wifi thật sự có mạnh ko ad có thể giới thiệu loại nào tốt ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.317759,
+         "id": "1157527",
+         "field_search": "question",
+         "question": "Anh chị ơi...cho em hỏi ở online có bán ốp mobistar e sefi ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.312746,
+         "id": "1152947",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn chiếu màn hình của điện thoại(iphone 6, iphone 8 plus) lên laptop để stream vậy nên dùng loại cap nào và có những công cụ,phần mềm nào hỗ trợ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.29835,
+         "id": "785738",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi cách khắc phục cái này với. Mỗi lần vào fifa online 3 là xuất hiện hàng loại như vậy. Có cách nào chặn ko cho xuất hiện như vậy nữa ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.284534,
+         "id": "1002767",
+         "field_search": "question",
+         "question": "Cho e hỏi e đang dùng ss a5 2017 nhưng camera sau chụp hình mờ. K lấy nét . Chụp xa k rõ. Vậy e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.284361,
+         "id": "868599",
+         "field_search": "question",
+         "question": " cho mình hỏi iphone 6 của mình nó có để app bị nhiễm virus nvay cơ bị nhiễm ko ah ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.277649,
+         "id": "1010027",
+         "field_search": "question",
+         "question": "cho mình hỏi tgdd có bán sạc cho samsung j7 prime ko vậy? sao mình tìm ko thấy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.258043,
+         "id": "1140333",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi bên mình có bán bin samsung galaxy note3 ms900 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.255512,
+         "id": "996787",
+         "field_search": "question",
+         "question": "Tại sao máy samsung galaxy j2 prime chụp camera thường và camera snow b612 hay tất cả các camera khác hình đều mờ ko rõ nét. Nhất là snow và b612. Chụp có ánh sáng cao cũng vậy. Camera của máy em có phải bị hư không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.251801,
+         "id": "987111",
+         "field_search": "question",
+         "question": "Tgdđ cho em hỏi siêu thị tgdđ có bán các loại sạc laptop không ạ ??? E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.238823,
+         "id": "1158281",
+         "field_search": "question",
+         "question": "Cách để khôi phục ảnh đã xóa trên android bằng điện thoại rõ nét",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.234038,
+         "id": "1146480",
+         "field_search": "question",
+         "question": "Anh cho hỏi mục định giá máy cũ sao ko có loại a9 pro 2016 vậy anh. Định đổi a9 pro 2016 lên a9 2018 mà ko biết định giá như nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.166128,
+         "id": "994649",
+         "field_search": "question",
+         "question": "chào bạn, cho mình hỏi bên bạn có bán Pin Samsung A5 2016 ko bạn? giá thế nào bạn nhì?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.112806,
+         "id": "1133310",
+         "field_search": "question",
+         "question": "Các chuyên gia cho em hỏi em đang dùng Xiaomi MiA1 dùng hđh Android 8.1.0, mua tại TGDD được khoảng hơn 3 tháng.Dạo gần đây em thấy có hiện tượng quảng cáo không rõ nguồn gốc tự động hiện lên màn hình chính của em, hay cả lúc em sử dụng app trên điện thoại. Các chuyên gia có cách nào giúp em loại bỏ quảng cáo đó ko ạ, và cho hỏi đt em đang bị sao, liệu có dính viruss ko? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.077722,
+         "id": "1009173",
+         "field_search": "question",
+         "question": "cho em hỏi bên mình có bán phụ kiện là tai nghe apple iphone 5 chính hãng ko ạ? nếu có e muốn đặt một cái. e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.072263,
+         "id": "1015034",
+         "field_search": "question",
+         "question": "Có bán gear s3 dùng sang tay ở cửa hàng ko ạEm muốn hỏi cửa hàng nào có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.067446,
+         "id": "1145446",
+         "field_search": "question",
+         "question": "Cua hang có bán iphone 6 plus cũ k vậy có bán thì giá bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.047064,
+         "id": "797714",
+         "field_search": "question",
+         "question": " Cho mình hỏi dùng iphone 5 thường thì ko cài được mật khẩu 6 ký tự đúng ko à ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 15.040409,
+         "id": "1134682",
+         "field_search": "question",
+         "question": " tgdd có bán xiaomi redmi 6 pro ko ạ. Nếu có thì giá tầm khoảng từ bao nhiêu đến bao nhiêu vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.995378,
+         "id": "1019743",
+         "field_search": "question",
+         "question": " cho mình hỏi bên hàng còn bán iphone SE ko ạ? mà dòng máy này ram bao nhiêu ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.984496,
+         "id": "797726",
+         "field_search": "question",
+         "question": " Cho e hỏi iphone 4s 9.2 có đặt được mật khẩu 6 số ko? Hay từ 5s trở lên ms đc ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.974038,
+         "id": "1159144",
+         "field_search": "question",
+         "question": "Cho mình hỏi Asus zenfone 5 có còn bán ko vậy. Nếu còn bán cho mình tham khảo giá với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.967276,
+         "id": "991256",
+         "field_search": "question",
+         "question": "cho e hỏi là e đang chủ quán nét e chỉ có hóa đơn tiền quán nét v có trả góp đc k vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.935852,
+         "id": "901846",
+         "field_search": "question",
+         "question": " Shop cho mình hỏi chỗ shop có thay mặt kính ip 6 ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.9112015,
+         "id": "990269",
+         "field_search": "question",
+         "question": "ac cho em hỏi , cửa hàng nhà mình có bán trả góp với giá 0đ ko ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 14.87027,
+         "id": "998178",
+         "field_search": "question",
+         "question": "Cho hỏi iphone 6 32gb tới tháng 9 còn hàng ơ tp hcm ko",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

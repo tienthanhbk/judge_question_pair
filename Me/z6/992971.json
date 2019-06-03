@@ -1,0 +1,809 @@
+{
+   "id_query": "992971",
+   "total": 25010,
+   "total_current": 100,
+   "max_score": 77.87919,
+   "origin_question": "sau 1 tháng mua trả góp có cần bằng lái xe nữa ko . hay có người đó đi cùng nữa ko",
+   "hits": [
+      {
+         "score": 77.87919,
+         "id": "992971",
+         "field_search": "question",
+         "question": "sau 1 tháng mua trả góp có cần bằng lái xe nữa ko . hay có người đó đi cùng nữa ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 39.178223,
+         "id": "1011121",
+         "field_search": "question",
+         "question": "mua trả góp bằng bằng lái xe và cmnd thì có bị giữ bản gốc ko hay cần bản photo ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.01523,
+         "id": "997696",
+         "field_search": "question",
+         "question": "ad cho em hỏi.... em 18 tuổi có CMND   bằng lái xe...em muốn trả góp 1 sản phẩm...cần gì nữa hk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.536842,
+         "id": "991366",
+         "field_search": "question",
+         "question": "cho e hỏi thủ tục trả góp cần những gì ạ có cần bằng lái xe ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.87675,
+         "id": "1147146",
+         "field_search": "question",
+         "question": " em mua trả góp bằng CMND  bằng lái xe sao ko được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.64096,
+         "id": "999849",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua trả góp 0% note 5 dc 15 ngày . giờ mình muốn mua trả góp thêm 1 dt khác trên 10 triệu nữa . vậy có dc ko . mình chỉ có cmnd và bằng lái xe .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.008705,
+         "id": "988983",
+         "field_search": "question",
+         "question": "cho e hỏi e chưa có bằng lái xe thì có mua trả góp đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.007626,
+         "id": "1145742",
+         "field_search": "question",
+         "question": "CMND bằng lái xe có trả góp hai điện thoại cùng một lúc đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.00747,
+         "id": "1014528",
+         "field_search": "question",
+         "question": "Cho mình hỏi, không có bằng lái xe nhưng có hồ sơ gốc thi sát hạch lái xe và cmnd có đc duyệt hồ sơ không ạ. Hồi trước mình có đứng tên mua trả góp 1 lần rồi, bây giờ có cần thiết giấy tờ trên nữa không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.52173,
+         "id": "992384",
+         "field_search": "question",
+         "question": "Em đang là sinh viên đủ 20 tuổi có Giấy cmnd và bằng lái xe khi đi góp thì có cần phãi đưa sđt người thân nữa không ạ.hay chỉ thông tin cá nhân th ạ.Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.718395,
+         "id": "1137374",
+         "field_search": "question",
+         "question": "Cho e hỏi,E tính mua sp iPhone 6s plus 32gb với hình thức trả góp ko lãi suất. E chỉ có bằng lái xe và cmnd thì có mua đc sp đó ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.097878,
+         "id": "1004826",
+         "field_search": "question",
+         "question": "Mình muốn hỏi giờ mua điện thoại trả góp bằng cmnd cũ và bằng lái xe cũ chưa chuyển đổi đk ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.0404,
+         "id": "1021369",
+         "field_search": "question",
+         "question": "ad cho mình hỏi giải thích về việc mua trả góp bằng homecredit là mình cần mang cmnd , bằng lái xe bảng gốc hay bảng photo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.919361,
+         "id": "991010",
+         "field_search": "question",
+         "question": "em muốn mua trả góp điện thoại oppo f3 gớp 4 tháng. e không có bằng lái xe thay bằng hộ khẩu được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.722528,
+         "id": "1006401",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp điện thoại Xiaomi Redmi 4X. Thấy có chương trình trả góp lãi suất 0%. Yêu cầu CMND và bằng lái xe. Vậy mình có thể thay Bằng lái xe bằng Sổ hổ khẩu được không ? Và có còn được trả góp lãi suất 0% khi lấy hộ khẩu thay cho bằng lái xe ?Mong phản hồi từ ADMIN !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.711323,
+         "id": "1145832",
+         "field_search": "question",
+         "question": "Mua điện thoại  trả góp không có bằng lái xe có đc k ạ . Mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.332975,
+         "id": "1164983",
+         "field_search": "question",
+         "question": "Cho em hỏi CMND + Bằng Lái xe otô của em đã đăng ký góp 2 máy đt , 1 cái của bạn và 1 cái của em, nhưng máy em mất nên em muốn góp 1 máy a50 nữa có đc không ạ... Hàng tháng em vẫn trả góp đầy đủ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.32993,
+         "id": "1018674",
+         "field_search": "question",
+         "question": "e đi làm xa giờ chỉ có giấy chưng minh với bằng lái xe có thể mua trả góp được không vậy Ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.02898,
+         "id": "1147058",
+         "field_search": "question",
+         "question": "mình muốn mua trả góp Samsum J6, mình chỉ cần bằng lái xe thôi hả shop , hay có cần xác minh thông tin từ gia đình không ạ, cảm ơn shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.455532,
+         "id": "830839",
+         "field_search": "question",
+         "question": " Bây giờ mình muốn mua iphone 6s trả góp mà mình có cmt vs bằng lái xe có đc ko vậy shop. mình năm nay 20t rồi. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.034597,
+         "id": "996958",
+         "field_search": "question",
+         "question": "em 20t đang là sv có thể mua đt trả góp đc k ak . e chưa có bằng lái xe thì cần những giấy tờ j ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.903326,
+         "id": "998187",
+         "field_search": "question",
+         "question": "cho em hỏi em muốn mua trả góp nhưng hiện e 19t, e có thể mượn giấy cmnd và bằng lái xe của người thân e để mua trả góp k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.768106,
+         "id": "1152868",
+         "field_search": "question",
+         "question": "Chào anh /chị.mình đang tính mua trả góp 1 laptop .mình chỉ cần mang cmnd+bằng lái xe và trả trước ví dụ 30% tiền.là có thể làm thủ tục nhận máy ngay đúng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.697758,
+         "id": "1160968",
+         "field_search": "question",
+         "question": "Em sinh năm 2000 đã có bằng lái xe và cmnd có dc trả góp k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.629297,
+         "id": "1159193",
+         "field_search": "question",
+         "question": "Muốn mua trả góp mà ko càm hộ khẩu có cmt vs bằng lái có dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.446667,
+         "id": "1165133",
+         "field_search": "question",
+         "question": "Em muốn mua  trả góp galaxy note 8 thủ tục mua trả góp cần hộ khẩu chứng minh nhân dân bằng lái xe không hóa đơn điện được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.410282,
+         "id": "1016538",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi mua trả góp 5s . trả trước o% có bằng lái xe và chứng minh chênh lệch bao nhiêu so với trả thẳng và mỗi tháng trả bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.244183,
+         "id": "1001401",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình muốn mua đt trả góp mà k có bằng lái xe đc k vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.147865,
+         "id": "1153194",
+         "field_search": "question",
+         "question": "Mình đang trả góp 1 con điện thoại , giờ muốn mua thêm một máy trả góp nữa có được ko ạ . Máy trước mình trả được 4 tháng rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.113396,
+         "id": "995478",
+         "field_search": "question",
+         "question": "em muốn mua điện thoại trả góp nhưng k có bằng lái xe chỉ có CMND có đc k ạk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.027222,
+         "id": "998548",
+         "field_search": "question",
+         "question": "em muốn mua trả góp 0Đ hiện e đang có các giấy tờ cmt và sổ hộ khẩu phô tô công chứng bằng lái xe oto gốc có dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.900461,
+         "id": "1009309",
+         "field_search": "question",
+         "question": "em mua trả góp trả trước 0 đồng , nhưng hộ khẩu em không cầm thì thay bằng bằng lái xe có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.81794,
+         "id": "1010760",
+         "field_search": "question",
+         "question": "Em muốn mua trả góp điện thoại có cmnd với bằng lái xe thì có gói lãi suất nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.699486,
+         "id": "987230",
+         "field_search": "question",
+         "question": "cho e hỏi e muốn mua trã góp nhưng àm e có chứng minh nhân dân chưa có bằng lái xe có dc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.225025,
+         "id": "995738",
+         "field_search": "question",
+         "question": "E hiện chưa đủ tuổi để mua trả góp. E muốn nhờ mẹ đk hồ sơ nhưng mẹ e không có bằng lái. Vậy có thể dùng bằng lái xe của em được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.206968,
+         "id": "1160496",
+         "field_search": "question",
+         "question": "em mua trả góp nhưng giả người thân vì ko muống gia đình biết ,nhưng người giả người thân trả lời sai và ko dc duyệt,vậy cho em hỏi có được vay góp nữa ko ậ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.145351,
+         "id": "867886",
+         "field_search": "question",
+         "question": " EM MUỐN MUA TRẢ GÓP IP6S PLUA GẦN 22 TRIỆU, TRẢ 50 NHƯNG CÓ CHỨNG MINH GỐC VÀ BẰNG LÁI XE ĐƯỢC K Ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.124619,
+         "id": "1151875",
+         "field_search": "question",
+         "question": "Em đang trả góp điện thoại sam sung.. Hai tháng nữa là hết.. Giờ em muốn mua trả góp thêm 1 cái nữa có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.998903,
+         "id": "989610",
+         "field_search": "question",
+         "question": "Tôi cần mua điện thoại trả góp, tôi có hộ khẩu, cmnd, giấy phép lái xe nhưng là bản photo có công chứng, tôi có thể mua trả góp được không. cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.995768,
+         "id": "1000975",
+         "field_search": "question",
+         "question": "Có bằng lái chứng minh mà ko đủ 20 tuổi cho hỏi mua trả góp dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.93144,
+         "id": "1008512",
+         "field_search": "question",
+         "question": "Mua trả góp Iphone 6 plus 16gb có hộ khẩu TPHCM và bằng lái xe phải trả trước tối thiểu bao nhiêu tiền mới được mua ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.931059,
+         "id": "999624",
+         "field_search": "question",
+         "question": "Cho em hỏi.  Em vừa 18 tuổi. Chưa có bằng lái xe. Vậy e co mua trả góp diền thoại được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.836632,
+         "id": "990616",
+         "field_search": "question",
+         "question": "Cho hỏi nếu muốn mua đt trả góp mà chứng minh nhân dân bị hết hạn có thể thay bằng hộ khẩu hay giấy phép lái xe được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.784065,
+         "id": "992505",
+         "field_search": "question",
+         "question": "sao ko thấy trả góp của acs nữa nhỉ? sao ko thấy trả góp của acs nữa nhỉ?   sao ko thấy trả góp của acs nữa nhỉ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.711,
+         "id": "1160376",
+         "field_search": "question",
+         "question": "Em sinh ngày 8.7.2000 có bằng lái xe. cmnd. Sổ hộ khẩu v có mua trả góp được không ạ. Cảm ơn ad ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.668524,
+         "id": "995643",
+         "field_search": "question",
+         "question": "admin cho em hỏi em còn 1 tháng trả góp nữa thì có đc mua trả góp tiếp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.410492,
+         "id": "1147534",
+         "field_search": "question",
+         "question": " Mua trả góp 2 sản phẩm được không vậy thế giới di động có hồ sơ góp r có cần làm nữa ko vậy ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.37005,
+         "id": "1008514",
+         "field_search": "question",
+         "question": "Mua trả góp Iphone 6 plus 16gb có hộ khẩu TPHCM và bằng lái xe phải trả trước tối thiểu bao nhiêu tiền mới được mua ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.37005,
+         "id": "1008513",
+         "field_search": "question",
+         "question": "Mua trả góp Iphone 6 plus 16gb có hộ khẩu TPHCM và bằng lái xe phải trả trước tối thiểu bao nhiêu tiền mới được mua ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.24297,
+         "id": "1155842",
+         "field_search": "question",
+         "question": "Hiện tại em 16 tuổi và có cmnd vs bằng lái xe của mẹ thì có tự góp samsứng Galaxy M20 đc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.202133,
+         "id": "989067",
+         "field_search": "question",
+         "question": "Cửa hàng cho mình hỏi, mình là sinh viên, chỉ có cmnd và bằng lái xe, có đăng kí mua trả góp ở cửa hành đc k ạ. Và khi mua trả góp 0% có yêu cầu gọi về xác nhận người nhà k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.162481,
+         "id": "792988",
+         "field_search": "question",
+         "question": "Em muốn mua laptop asus a540 gia 9tr4 trả góp trước 1tr5 góp trong vòng 12 tháng được không em có cmnd và giấy phép lái xe?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.036068,
+         "id": "1009165",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi mình có mua trả góp cái ipad 2017 nay mình đã trả đc 4 tháng còn lại 8 tháng nữa nếu mình trả luôn 1 lần 8 tháng này thì có giảm tiền ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.832682,
+         "id": "1147847",
+         "field_search": "question",
+         "question": "Cho mình hỏi lúc trước mình đã có trả góp 1 chiếc xe và đã trả xong. Thì mình bây giờ muốn 1 điện thoại trả góp có cần sổ hộ khẩu khi mua hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.790787,
+         "id": "1163544",
+         "field_search": "question",
+         "question": "Bạn ơi.. Mình chỉ có cmnd và  bằng lái xe thôi. Có thể mua oppo f11 pro dc ko ban.? Mình đưa trước 30% và trả gop trong vòng 4 tháng bên cty tai chính Home credit",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.707315,
+         "id": "1017641",
+         "field_search": "question",
+         "question": "cho e hỏi trả góp chỉ co bằng lái xe có được k ạcmt e bị mất chưa làm đc lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.528515,
+         "id": "1163542",
+         "field_search": "question",
+         "question": "Bạn ơi.. Mình chỉ có cmnd và  bằng lái xe thôi. Có thể mua oppo f11 pro dc ko ban.? Mình đưa trước 30% và trả gop trong vòng 4 tháng bên cty tai chính Home credit",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.506783,
+         "id": "756886",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình có sổ hộ khẩu photo có công chứng+ cmnd+ bằng lái xe có được sử dụng để mua trả góp 0% cho iPhone 6s không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.373,
+         "id": "996087",
+         "field_search": "question",
+         "question": "cho hỏi muốn mua trả góp nhưng chỉ có giấy phép lái xe với cmnd vậy có mua được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.355295,
+         "id": "1141913",
+         "field_search": "question",
+         "question": "HIỆn em có sổ tạm trút tạm vắng và bằng lái xe, smnd thì em có thể mua đt trả góp bên mjh k ạ. Và em có thể mua trả góp như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.178785,
+         "id": "1012005",
+         "field_search": "question",
+         "question": "Tiền nợ 0đ có cần trả góp nữa k ạ hay là nó để vậy thoi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.17833,
+         "id": "1004817",
+         "field_search": "question",
+         "question": "Cho hỏi 1 người có thể đứng mua trả góp 2 máy cùng 1 lúc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.776356,
+         "id": "778586",
+         "field_search": "question",
+         "question": "Mình muốn mua trả góp iPhone 5s thì cần những gì mình đã đã từng mua trả góp cách đây 2 tháng và không được chấp nhận liệu có được mua trả góp nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.764797,
+         "id": "1010241",
+         "field_search": "question",
+         "question": "Cho mình hỏi nếu mình mua trả góp điện thoại 6 tháng nhưng sau đó có việc nên mình chỉ muốn trartrong 4 tháng thì các tháng sau mình tăng tiền lên trả có được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.752089,
+         "id": "995590",
+         "field_search": "question",
+         "question": "hôm bữa có hỏi s8+ mua trả góp thì em cần trả trước 6tr5 sau đó có thêm hộ khẩu( vì mức vay trên 10tr) nếu bây h đth này 20tr mà em trả trước 11tr thì có cần hộ khẩu nữa k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.40067,
+         "id": "1142751",
+         "field_search": "question",
+         "question": "hiện tại em đang có giáy chứng minh bằng lái xe em có mua điện thoại trả gớp được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.396038,
+         "id": "1154820",
+         "field_search": "question",
+         "question": "Cho e hỏi ,bây giờ e đang trả góp điện thoại hiện còn 1 tháng nữa là xong,nhưng bây giờ e muốn mua trả góp thêm  1 chiếc điện thoại nữa thì có được không vậy???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.323717,
+         "id": "748164",
+         "field_search": "question",
+         "question": "Cho hỏi iPhone 4s mua trả góp có bằng lái chứng minh trả trong vòng 10 tháng. Trả trước 50% Thì lãi xuất một tháng là bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.239632,
+         "id": "774328",
+         "field_search": "question",
+         "question": " Mình muốn trả góp iphone 4s thẻ căn cước công dân này thay giấy hộ khẩu bằng lái xe không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.227322,
+         "id": "987510",
+         "field_search": "question",
+         "question": "mình mua đt trả góp ngân hàng HD hôm 15/3 mìh đã góp trước đc 4 kỳ ( tính ra mới 2 nhưng mìh đã góp 4) thế có đc đăng ký góp tiếp 1 máy khác ko và đky tiếp có cần mang theo hộ khẩu hay chỉ cần cmnd ( mìh còn 15 ngày nữa mới 21 tuổi )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.037373,
+         "id": "1014433",
+         "field_search": "question",
+         "question": "e đang trả góp 1 cái điện thoại mà chưa hết thời gian trả góp. cho e hỏi nếu trong tháng này e trả hết tiền góp còn lại. sau đó e trả góp 1 cái điện thoại khác trong tháng này luôn có đc ko. tháng này e trả góp rồi và điện thoại hư nên e muốn trả hết tiền chiếc đt đó và góp cái đt mới khác.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.031897,
+         "id": "1144773",
+         "field_search": "question",
+         "question": " Cho mik hỏi mik có góp 1 cái điện thoại đã góp xong bây h mún góp thêm 1 cái nữa thì có cần làm hồ sơ lại ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.963127,
+         "id": "995644",
+         "field_search": "question",
+         "question": "bạn ơi mình muốn mua đt với laptop trả góp mà mình không có hộ khẩu với bằng lái xe vậy mình còn cách nào để mua được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.907614,
+         "id": "999165",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi e không có bằng lái xe mà e chỉ có cmnd và hộ khẩu gốc vậy e có thể mua trả góp điện thoại tại tgdd được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.890858,
+         "id": "1155522",
+         "field_search": "question",
+         "question": "E có cmt và bawfng lái xe có trả góp 0 đ dc không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.849596,
+         "id": "787179",
+         "field_search": "question",
+         "question": "em trả góp iPhone 5strả trước 10%trong 12 thángcủa FECreditmình đi trả góp chỉ cần cmnd vs hộ khẩu thôi được không ad? mìn có cần đem theo gì nữa không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.819313,
+         "id": "1145962",
+         "field_search": "question",
+         "question": " Chào anhchị. Cho em hỏi em có thể mua trả góp 2 đt cùng 1 lúc ko ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.631195,
+         "id": "1004955",
+         "field_search": "question",
+         "question": "Chào ac..em ở thị trấn Bình Đại cần mua một máy oppo f3 trả góp trong thời gian 4 tháng...trả trước 30% nhưng còn 1 tháng nữa mới đủ 20 tuổi vậy e có được hổ trợ không ac...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.60193,
+         "id": "1001664",
+         "field_search": "question",
+         "question": "Cho mình hỏi một băng lái xe thi mua 2dt trả góp dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.572857,
+         "id": "1018305",
+         "field_search": "question",
+         "question": "ad oi cho em hỏi nay em học THPT nên em ch có bằng lái xe nhưng em muốn mua trả góp đt ạ em chỉ có CMND thôi giờ phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.546934,
+         "id": "1020561",
+         "field_search": "question",
+         "question": "Mua đt chưa hết thời gian trả góp mà ko muốn xài nữa thì thế giới dd có thâu lại ko ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.419485,
+         "id": "1006646",
+         "field_search": "question",
+         "question": "cho e hỏi,nếu trả góp thì cần Gì vậy ạ,nếu không có bằng lái thi phải thay thế bằng Gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.313099,
+         "id": "998498",
+         "field_search": "question",
+         "question": "cho em hỏi là. em muốn mua trả góp điện thoại Desire 628 với lãi suất trả trước 0% với giấy tờ là CMND + Bằng Lái Xe Thì Làm Thế Nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.218178,
+         "id": "996342",
+         "field_search": "question",
+         "question": "Cho em hỏi là em muốn mua điện thoại tầm 4,5 triệu (xiaomi redmi note 4) với hình thức trả góp 0%, trả trước tầm 2 triệu. Em hiện 20 tuổi, có CMND và bằng lái xe. Em còn cần thêm giấy tờ gì hay không và có cần hỏi ý kiến phụ huynh để xin xác nhận trả góp từ phía công ty trả góp hay không? Tại vì em đang có 1 chiếc điện thoại rồi,  sợ ba mẹ sẽ không cho mua thêm, nên em hỏi xem lúc làm hồ sơ trả góp là có điện thoại cho phụ huynh xác nhận hay không. Nhờ anh/chị tư vấn giúp. Em cám ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.159367,
+         "id": "1017054",
+         "field_search": "question",
+         "question": "Mẹ em muốn mua đt trả gópnhưng trước đó mẹ e có mua 1 cái trả góp rồi vẫn chưa trả xong nếu bây h muốn mua thêm 1c trả góp nữa liệu có được hỗ trợ k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.101404,
+         "id": "996442",
+         "field_search": "question",
+         "question": "chào QTVem có mua trả góp 1 sản phẩm giờ em muốn mua trả góp thêm 1 sản phẩm nữa thì có được khộng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.081018,
+         "id": "993378",
+         "field_search": "question",
+         "question": "Cho mình hỏi trước mình đã mua trả góp 1 điện thoại rồi, giờ mình mua trả góp 1 cái nữa nhưng có cần phải làm lại thử tục hồ sơ mới không? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.052109,
+         "id": "998772",
+         "field_search": "question",
+         "question": "Mình mới mua trả góp 1 cái điện thoại sony trong 6 tháng vậy mình không muốn góp nữa mà muốn thanh toán hết có được không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.966946,
+         "id": "1015019",
+         "field_search": "question",
+         "question": "e muốn mua trả góp mà chưa có bằng láy xe phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.962482,
+         "id": "1142727",
+         "field_search": "question",
+         "question": "cho em hỏi là nếu em mua trả góp đt và trả trước 40%và góp 12 tháng, và số tiền còn lại trả góp hàng tháng em có thể trả theo từng tháng. Nhưng nếu còn góp khoảng 4 tháng phải góp nữa mới xong mà em có tiền đủ trả hết luôn trong 1 lần thì có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.922012,
+         "id": "1004969",
+         "field_search": "question",
+         "question": "Chào Admin !Mình muốn hỏi thủ tục mua trả góp. Ví dụ mình mua góp điện thoại. Bên ngân hàng cho vay cần các giấy tờ như là : CMND + Bằng lái xe/ Hộ khẩu + Hoá đơn điện. Vậy mình lấy những giấy tờ đó đi thay bố mình được không. Do bố mình không rành về mấy loại giấy tờ này. Với mình không phải là người đứng tên trong Hoá đơn điện nên không làm thủ tục mua góp được.Mong tư vấn từ Admin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.815636,
+         "id": "1023431",
+         "field_search": "question",
+         "question": "Chào add, em muốn mua trà góp lãi suất 0% điện thoại Asus zenfone 4 max pro. Em có thể thay bằng lái xe bằng sổ hộ khẩu được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.814249,
+         "id": "1008458",
+         "field_search": "question",
+         "question": "Em 20 tuổi có cmnd và bằng lái thì có mua đt trả góp được k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.814249,
+         "id": "1006514",
+         "field_search": "question",
+         "question": "em chỉ có cmnd  bằng lái thì có mua trả góp oppo f3 được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.80873,
+         "id": "1136738",
+         "field_search": "question",
+         "question": "Cho e hỏi e trả góp điện thoại trong 6 tháng và bây giờ đã trả đủ xong 6 tháng.vậy bây giờ có cần hủy hợp đồng hay làm gì nữa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.790665,
+         "id": "1014214",
+         "field_search": "question",
+         "question": "Tôi muốn mua laptop Lenovo bên thế giới di động với chương trình 0% lãi suất. Giấy tờ yêu cầu gồm có CMND với bằng lái xe nhưng hiện tôi chưa có bằng lái xe nhưng có hộ khẩu. Không biết lấy hộ khẩu thay bằng lái xe có được hưởng chương trình lãi suất 0% không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.779911,
+         "id": "1156363",
+         "field_search": "question",
+         "question": "Trả góp chỉ cần giấy tờ của người thân thôi hay người thân phải lên cửa hàng mua ạ. Tại em chưa đủ tuổi trả góp nhưng người thân em khó đi xa được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.657503,
+         "id": "1001473",
+         "field_search": "question",
+         "question": "Ad cho em hỏi nếu trước đó em đã mua trả góp 1 điện thoại nhưng chưa hết thời gian đáo hạn trả góp thì em có thể mua trả góp thêm một máy nữa được không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.632437,
+         "id": "870926",
+         "field_search": "question",
+         "question": "Em đã mua trả góp 1 Laptop. Em mới đóng được 2 tháng. Giờ em muốn mua trả góp nữa đc k? Hộ khẩu đứng tên ba của em thì có đc k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.590261,
+         "id": "990054",
+         "field_search": "question",
+         "question": "Cho em hỏi là em mua trả góp, đã trả xong 4 tháng và còn 2 tháng, vậy thì giờ em có được mua trả góp nữa không ạ? Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

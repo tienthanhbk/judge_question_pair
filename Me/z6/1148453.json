@@ -1,0 +1,809 @@
+{
+   "id_query": "1148453",
+   "total": 28732,
+   "total_current": 100,
+   "max_score": 101.338684,
+   "origin_question": "Cửa hàng bên mình ở huyện trực ninh nam định có máy xiaomi note 6 pro ko nhỉ. Mua dịp này có ưu đãi j ko",
+   "hits": [
+      {
+         "score": 101.338684,
+         "id": "1148453",
+         "field_search": "question",
+         "question": "Cửa hàng bên mình ở huyện trực ninh nam định có máy xiaomi note 6 pro ko nhỉ. Mua dịp này có ưu đãi j ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.260937,
+         "id": "1137008",
+         "field_search": "question",
+         "question": "e muốn mua redmi note 6 pro mà đc ưu đãi giảm giá 600k thì nhận tại cửa hàng điện máy xanh đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.815165,
+         "id": "1146717",
+         "field_search": "question",
+         "question": "Xiaomi redmi note 6 pro giá mua ở cửa hàng tgdt là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.12172,
+         "id": "1140223",
+         "field_search": "question",
+         "question": " Tôi định mua laptop nhưng không biết dô dịp tết âm lịch này cửa hàng có chương trình khuyến mãi gì đặc biệt ko ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.29471,
+         "id": "1162543",
+         "field_search": "question",
+         "question": "alo . cho mình hỏi dt  sam sung a50 hiện có ưu đãi j k ạvà sắp tới có ưu đãi j k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.121029,
+         "id": "1163069",
+         "field_search": "question",
+         "question": "Mình muốn mua samsung A80 . Có đặt trước được không ? TGDD Có ưu đãi trong dịp lễ 30_4 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.794317,
+         "id": "999836",
+         "field_search": "question",
+         "question": "e muốn hỏi e đợi ngày máy ra rồi mua trực tiếp tại cửa hàng thanh toán bằng tiền mặt thì sẽ được ưu đãi gì k vậy qtv sản phẩm samsung galaxy j7 pro ạ! thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.230717,
+         "id": "1156002",
+         "field_search": "question",
+         "question": "Bên mình có ép mặt lưng s8 ko nhỉ...........địa chỉ ở lý nhân hà nam",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.225266,
+         "id": "1000935",
+         "field_search": "question",
+         "question": "điện thoại zenfone 3 max 5.5 hiện giờ giá bao nhiêu và khi mua có nhận được ưu đãi j ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.19517,
+         "id": "1163052",
+         "field_search": "question",
+         "question": "xiaomi redmi 7 pro  bên mình có hàng ko ad ...................................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.15426,
+         "id": "818510",
+         "field_search": "question",
+         "question": " cho mjh hỏi mình mua iphone 6 dổi trả ở tgdd ở Ninh Bình,nhưng mình ở Bắc Ninh,có đc ko vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.787397,
+         "id": "1019191",
+         "field_search": "question",
+         "question": "tôi ở xuân trường nam định mua hàng có gửi về tận nhà ko ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.722466,
+         "id": "1141680",
+         "field_search": "question",
+         "question": "cho mình hỏi ở Tp. BẮc Ninh có cửa hàng nào còn iphone 8 ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.35718,
+         "id": "1017600",
+         "field_search": "question",
+         "question": "ad cho mình hỏi..mình mua máy ở tgdđ dc khoảng 3 tháng. v còn ưu đãi mua sim vina bùm ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.918713,
+         "id": "1143541",
+         "field_search": "question",
+         "question": "em muốn mua điện thoại Sam sung Galaxy J6+ bằng hình thức trả góp. Thế giới di động ở Cổ Lễ - Huyên Trực Ninh - Tỉnh Nam Định có không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.542753,
+         "id": "1022089",
+         "field_search": "question",
+         "question": "Mình ở Hà Nội, đang muốn mua máy theo diện đổi trả ở một cửa hàng thuộc hệ thống Thế giới di động ở Quảng Ninh. Vậy mình phải làm sao khi mà không thể đến cửa hàng đó để trực tiếp mua máy được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.01525,
+         "id": "1147399",
+         "field_search": "question",
+         "question": "Bên cừa hàng có kinh doanh dt xiaomi redmi note 5 pro Ko vậy và nếu có thì giá hiện tại là bn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.856905,
+         "id": "1009041",
+         "field_search": "question",
+         "question": "Mình mua điện thoại bằng app của THẾ GIỚI DI ĐỘNG THÌ CÓ ĐƯỢC HƯỞNG ƯU ĐÃI hay ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.77288,
+         "id": "1169070",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi tgdd ở ninh bình có thay mặt kính của xiaomi not5 pro ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.707794,
+         "id": "1154129",
+         "field_search": "question",
+         "question": "Xiaomi redmi note 6 pro e mới mua được 5 6 tháng mà để qua đêm cí khi xuống pin 6 có bin s ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.26198,
+         "id": "1166170",
+         "field_search": "question",
+         "question": "Bên cửa hàng  có cường lực của xiaomi redmi note 7 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.190954,
+         "id": "1136022",
+         "field_search": "question",
+         "question": "mình vừa mua xiaomi redmi note 6 pro nhưng mình muốn đổi lại sang xiaomi redmi note 5 thì có được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.190819,
+         "id": "1136722",
+         "field_search": "question",
+         "question": "redmi 6 còn ở thị trấn tân sơn huyện ninh sơn tỉnh ninh thuận k v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.164965,
+         "id": "1159745",
+         "field_search": "question",
+         "question": "bên cửa hàng mình còn máy xiaomi redmi note 7 không ạ? Nếu hết hàng thì bao giờ có hàng lại ạ? cảm ơn shop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.982706,
+         "id": "1133577",
+         "field_search": "question",
+         "question": "cho mình hỏi là shop ở ninh bình thì có bán điện thoại xiaomi redmi 5 plus chính hãng mới 100 ko và còn hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.835321,
+         "id": "1138859",
+         "field_search": "question",
+         "question": "Bên cửa hàng tại địa chỉ n5 d10 mỹ phước 1 bến cát Bình Dương có xiaomi not 6 ko ah ac ơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.826887,
+         "id": "1138580",
+         "field_search": "question",
+         "question": "Vsmart active 1 có khuyến mãi giảm 700k đến ngày 2412 n chỗ mình hết hàng thì có thể đặt trước để hưởng ưu đãi ko???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.690811,
+         "id": "1167060",
+         "field_search": "question",
+         "question": "Mau trả góp chiếc xiaomi redmi note 7 như thế nào ? Ở s ố 355 đường Quốc Lộ 20, Khu Phố   Hiệp Quyết, Thị Trấn Định Quán, huyện Định Quán, tỉnh Đồng Nai khi nào có hàng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.558487,
+         "id": "838629",
+         "field_search": "question",
+         "question": " E muốn mua con 5s 99 ở Ninh Bình có còn hàng ko? Vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.54192,
+         "id": "1000918",
+         "field_search": "question",
+         "question": "Cửa hàng thegioididong ở thị xã quảng yên, quảng ninh có iphone 6 32gb màu vàng k ah ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.500149,
+         "id": "1164788",
+         "field_search": "question",
+         "question": "Chi mình hỏi đt xiaomi note 6 pro có kết nối ogt và kết nối vs smatr tivi đc ko ak. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.436811,
+         "id": "1149427",
+         "field_search": "question",
+         "question": "E có thể đổi Xiaomi redmi note 6 pro 32g lấy 62g ko ạ.Bù trừ như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.32596,
+         "id": "996428",
+         "field_search": "question",
+         "question": "Mình có con 6plus 16gb lúc update lên 10.3.2 bị treo táo và giờ ko khởi động lên đc. Bên cửa hàng giúp mình đc ko nhỉ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.286894,
+         "id": "1019978",
+         "field_search": "question",
+         "question": "Ad cho mik hỏi , nếu mua hàng nhiều với cùng 1 sđt đăng kí mua hàng và chi phí trả cũng nhiều vậy mik có được nhận ưu đãi gì ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.259224,
+         "id": "903281",
+         "field_search": "question",
+         "question": " cho mình hỏi có những ưu đãi gì đối với khách hàng mua latop lần đâu kv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.25779,
+         "id": "1133346",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở cửa hàng có bán kính cường lực đt Xiaomi Redmi Note 5 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.246153,
+         "id": "1147802",
+         "field_search": "question",
+         "question": "Thegioididong cho em hỏi bên đó có miếng dán màn hình xiaomi note 6 pro k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.21185,
+         "id": "1160665",
+         "field_search": "question",
+         "question": "Mình mới mua con Xiaomi note 6 pro đc 2 tháng. Giờ m mới để khi nghe nhạc thì 1 bên loa ko có âm thanh. Điện thoại chưa hề rơi vỡ hay bị và đập mạnh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.18903,
+         "id": "1135571",
+         "field_search": "question",
+         "question": "Cho mình hỏi Xiaomi Redmi Note 4x bên cửa hàng còn kinh doanh không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.073046,
+         "id": "1160065",
+         "field_search": "question",
+         "question": "cho e hỏi là, oppo f11 khi nào có hàng ở TGDD ạ ? e ko có cọc trước e định mua tại cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.020256,
+         "id": "1151758",
+         "field_search": "question",
+         "question": "Shop ơi. E mua xiaomi redmi note 7 kphai ở cửa hàng tgdd và bây h e muốn up rom thì có đc up bên tgdd k ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.01951,
+         "id": "1140907",
+         "field_search": "question",
+         "question": "Cho e hỏi là e mua trả góp ở cửa hàng này nhưng nhận máy cửa hàng khác được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.919857,
+         "id": "1134765",
+         "field_search": "question",
+         "question": "Điện Thoại Realme 2 3GB/32GB Hiện Tại Có còn hàng ở Thành phố Phủ Lý, tỉnh Hà Nam không? Ở địa điểm nào còn hàng? Có khuyến mại gì về sản phẩm này khi mua trả tiền trực tiếp ko? sản phẩm có ốp lưng kèm theo phải ko? ở tgdd Có dán kính cường lực cho sản phẩm này không?  Cảm Ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.863604,
+         "id": "1137335",
+         "field_search": "question",
+         "question": "Ad cho e hỏi hiện tại máy xiaomi 8lite 6/128gb màu xanh ở bình dương huyện dầu tiếng còn hàng kh ạ. Với bên e mua online trả gớp trả trước 50%.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.832165,
+         "id": "1151675",
+         "field_search": "question",
+         "question": "Ở thế giới di động  phước thái,  huyện Long thành , đồng nai,  có bán xiaomi redmi note 5 ko ạ  nếu có thì Cho em Xin giá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.712444,
+         "id": "992779",
+         "field_search": "question",
+         "question": "cửa hàng ở nawm cawn có bán máy nghe nhạc mini thứ này ko ạ !  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.617838,
+         "id": "1146567",
+         "field_search": "question",
+         "question": "Xiaomi redmi note 5 pro có hỗ trợ 4G ko ạ ,,,,,,,,,,,,,,,,,,",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.566673,
+         "id": "1162524",
+         "field_search": "question",
+         "question": "Mình muốn đặt trước xiaomi redmi note 7 4g,64g. Tư vấn giúp mình. Đặt bao tiền. Có km j ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.559677,
+         "id": "1149288",
+         "field_search": "question",
+         "question": "bên TGDD có dán cường lực có máy Xiaomi redmi note 4 ko a",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.48421,
+         "id": "1168737",
+         "field_search": "question",
+         "question": "Chào anh/chị ạ.Hiện tại,trên trang web của mình có nói rằng redmi 7 đc giảm 200k từ 19/6 đến 26/6.Vậy thì chủ nhật (26/6) còn giảm ko ạ.Mình định mua ở cửa hàng aeon bình tân.Thanks anh/chị ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.435762,
+         "id": "1143222",
+         "field_search": "question",
+         "question": "Viên pin xiaomi note 6 pro 5 sử dụng hết 1 pin là ổn định hay là kém ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.42647,
+         "id": "1003832",
+         "field_search": "question",
+         "question": "cho toi hỏi, mua điện thoại online thì có thanh toán bằng thẻ mastercard đc ko? và sd thẻ đó có đc ưu đãi gì ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.388844,
+         "id": "1139192",
+         "field_search": "question",
+         "question": " Máy Vsmart đã có hàng trải nghiệm ở các cửa hàng TGDD chưa nhỉ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.372162,
+         "id": "1133814",
+         "field_search": "question",
+         "question": "Mình mún đổi d0lt xiaomi note 6 pro nhưng mà mình cũng mún thanh lý dt xiaomi note 4x đag xài thì k biết tgđ có thu mua lại k ..???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.353321,
+         "id": "1005385",
+         "field_search": "question",
+         "question": "E có con j5 prime mua đc 6 tháng tại tgdd. Bjo e có nhu cầu đổi từ j5 sang xiaomi note 4 có đc không ạ hiện tại em ở ninh bình. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.35114,
+         "id": "1018337",
+         "field_search": "question",
+         "question": "bên cửa hàng còn điện thoại xiaomi redmi 4x không ạ,  với lễ có chương trình khuyến mãi gì không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.349602,
+         "id": "1159517",
+         "field_search": "question",
+         "question": "bên cửa hàng mình có hổ trợ mở khóa màn hình không ạ. em sài iphone 6 plus . và em mua máy ở cửa hàng khác. em không đăng nhập icloud",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.226624,
+         "id": "1138675",
+         "field_search": "question",
+         "question": " Từ ngày mai đến CN tuần này, các chi nhánh ở huyện Mê Linh, Vsmart Active 1 có nhập hàng kịp ko shop? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.181591,
+         "id": "1159821",
+         "field_search": "question",
+         "question": "Chào  mình muốn đổi máy redmi 5 plus lấy redmi 6 note pro cáp thêm tiền có đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.065735,
+         "id": "1159866",
+         "field_search": "question",
+         "question": "Mình muốn đổi máy redmi 5 plus lấy redmi 6 note pro đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.045631,
+         "id": "1022161",
+         "field_search": "question",
+         "question": "mua nhiều lần ở tgdđ khách hàng được hưởng quyền lợi gì ạ. xin cho biết để quyết định có nên mua tiếp hay ko ạ.mình định mụa galaxy note 8",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.959625,
+         "id": "987030",
+         "field_search": "question",
+         "question": " Bên cửa hàng mình có hỗ trợ dán phần viền dưới máy ko ad ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.920084,
+         "id": "1148254",
+         "field_search": "question",
+         "question": "e muốn mua  Xiaomi Redmi Note 6 Pro 32GB thì có đc trả góp không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.879745,
+         "id": "1134758",
+         "field_search": "question",
+         "question": "bạn ơi cho mình hỏi cái, hiện tại mình muốn mua oppo A3s 32G không biết cửa hàng mình ở Yên Thành Tản Lĩnh Ba Vì có còn máy này không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.876942,
+         "id": "1166465",
+         "field_search": "question",
+         "question": "redmi note 7 và redmi 7 có bán ở chi nhánh thành phố uông bí, quảng ninh ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.646622,
+         "id": "923920",
+         "field_search": "question",
+         "question": " Em có mua máy bên mình giờ em có thể ra cửa hàng ha cấp win dow xuống được ko ak.và có bị mất phí ko zy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.628479,
+         "id": "1163931",
+         "field_search": "question",
+         "question": "Cho em hỏi con xiaomi note 6 pro mỗi khi nghe nhạc, xem phim thì nó phát nhạc  bằng 2 loa ở bên dưới máy đúng không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.588055,
+         "id": "986198",
+         "field_search": "question",
+         "question": "bạn cho mình hỏi ở TGDD có bán pin đt Xiaomi redmi note 4 ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.546143,
+         "id": "1162530",
+         "field_search": "question",
+         "question": "Mình có đt Xiaomi redmi note 6 pro bị vỡ cam sau có thay dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.50512,
+         "id": "1168317",
+         "field_search": "question",
+         "question": "Máy j6  e muốn đổi máy khác có chưa trình nào u đãi ko. SDT, mua hàng 0933491508",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.400745,
+         "id": "1161932",
+         "field_search": "question",
+         "question": "Mình mới mua máy xiaomi redmi note 6 pro chưa được 1tháng dạo gần đây mình sạc máy hay bị nóng.cho hỏi là máy có bị sao k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.354277,
+         "id": "1145136",
+         "field_search": "question",
+         "question": " E ở bình phước nhũng làm ở tây ninh thì có mua trả gop ở tây ninh đv ko ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.332207,
+         "id": "1005387",
+         "field_search": "question",
+         "question": "Em muốn đổi từ j5 prime mua đc 7 tháng còn nguyên phụ kiện máy bt k xước. Sang xiaomi note 4 e ở ninh bình liệu ở đó có hàng xiaomi k ạ. E sẽ đc tính bao nhiêu phần trăm cho máy j5 ạ. Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.260334,
+         "id": "1016008",
+         "field_search": "question",
+         "question": "Xin chào admin,Mình mới nhận được thông báo trúng thưởng PMH  3 triệu từ sdt 02839719975 nhân dịp khai trương chi nhánh  ở Vũng Tàu.Cho mình hỏi bên mình có chương trình này hay ko vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.257912,
+         "id": "992861",
+         "field_search": "question",
+         "question": "Ở công ti có đang có ưu đãi trúng iphone 7 mỗi ngày không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.204304,
+         "id": "1145868",
+         "field_search": "question",
+         "question": "Cho hoi bên cửa hàng của mình có Tai nghe Iphone 5 không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.1721,
+         "id": "1166807",
+         "field_search": "question",
+         "question": "Cho mình hỏi bên tgdd có chuyển tiền trực tiếp vô tk thẻ ngân hàng ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.130266,
+         "id": "1144113",
+         "field_search": "question",
+         "question": "xiaomi mi a1 32gb con bán không ạ . mình ở huyện định quán tỉnh đồng nai ,chổ minh có bán xiaomi mi a1 32 gb k ạ (hoặc xiaomi mi a1 64gb)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.126705,
+         "id": "1145623",
+         "field_search": "question",
+         "question": "Cửa hàng nhập xiaomi redmi 6 pro chưa vậy loại 4GB ram bộ nhớ trong 64GB",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.119102,
+         "id": "1161423",
+         "field_search": "question",
+         "question": "điện thoại a6 bên mình còn hàng tại khu vực bắc ninh ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.092407,
+         "id": "1147688",
+         "field_search": "question",
+         "question": "Cho mình hỏi ở tp nam định còn máy ip 7plus hàng đổi trả không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.080675,
+         "id": "1008320",
+         "field_search": "question",
+         "question": "Chính sách  trả góp và vấn đề liên quan. Là học sinh,  sinh viên có được ưu đãi gì ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.077982,
+         "id": "1161896",
+         "field_search": "question",
+         "question": "Cửa hàng mình có thay pin xiaomi redmi 6 không ạ . Pin máy em sạc rất lâu vô",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.073957,
+         "id": "1167962",
+         "field_search": "question",
+         "question": "asus max pro m1 bên cửa hàng mình còn bán ko ạ và giá là bao nhiêu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.973852,
+         "id": "1016005",
+         "field_search": "question",
+         "question": "mua máy rẻ online là may như thế nào vậy ad ? giả sử e đặt hàng online theo sđt nhưng e lại ra trực tiếp cửa hàng để mua máy theo đơn hàng onlinethì có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.90535,
+         "id": "1008653",
+         "field_search": "question",
+         "question": "cho hỏi khách hàng mua nhiều.khi mua điện thoại có được miễn giảm hay chính sách ưu đãi nào không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.888151,
+         "id": "906971",
+         "field_search": "question",
+         "question": "bạn bên mình trên cửa hàng ở hòa khánh có cho trả góp laptop lenovo yoga300 lãi xuất 0% ko vậy bạn,có gì bạn gởi email phamcong04071993@gmail.com cho mình để mình biết thêm về hình thức trả góp với mình mún mua máy đó định trả trc 30%",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.887976,
+         "id": "1147082",
+         "field_search": "question",
+         "question": " Xiaomi Redmi Note 6 Pro 64GBMua hiện tại có khuyến mãi gì không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.887976,
+         "id": "1159610",
+         "field_search": "question",
+         "question": "Xiaomi redmi note 6 pro có nên cập nhật phần mềm hay không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.864637,
+         "id": "1134172",
+         "field_search": "question",
+         "question": "Bên shop có dán màn hình cho Xiaomi Redmi Note 6 Pro không? Giá bao nhiêu và bảo hành như thế nào vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.860752,
+         "id": "1011634",
+         "field_search": "question",
+         "question": "Dạ cho mình hỏi bên bạn có thu mua laptop và tablet cũ ko ạ , máy này ko phải mua ở thegioididong",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.728962,
+         "id": "1163935",
+         "field_search": "question",
+         "question": "Cho mình hỏi giá của chiếc xiaomi redmi 5plus với so này bên mình còn hàng ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.708466,
+         "id": "1136955",
+         "field_search": "question",
+         "question": "Cho mình hỏi Điện thoại Samsung J7 Pro của mình còn 6 tháng bảo hành. Giờ muốn mua máy khác ở TGDD, các bạn có mua lại máy của mình không nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.592731,
+         "id": "994956",
+         "field_search": "question",
+         "question": "cho mình hỏi ốp lưng xiaomi note 4 ở củ chi có hàng không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.574888,
+         "id": "1135194",
+         "field_search": "question",
+         "question": "Cửa hàng có thay màn hình trong điện thoại xiaomi redmi 4a ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.541006,
+         "id": "1005233",
+         "field_search": "question",
+         "question": "Xin chào! Mình có mua 1 laptop Dell Inspiron 15-3552 ở cửa hàng vào tháng 2/2017, hiện tại mình muốn bán lại, ko biết cửa hàng thu lại với giá thế nào? Mình đã mất hóa đơn, cửa hàng có thu lại dc ko?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.48741,
+         "id": "1008808",
+         "field_search": "question",
+         "question": "Ở hải phòng có tt nào bán xiaomi redmi note 4 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.469189,
+         "id": "1004718",
+         "field_search": "question",
+         "question": "Ở cửa hàng không có miếng dán màn hình của xiaomi redmi note 3 thì ra tgdd có được dán màn hình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.445831,
+         "id": "997583",
+         "field_search": "question",
+         "question": "T thấy bên cửa hàng đang bán giảm giá tai nghe khi mua online. V giờ t đặt hàng online rồi trực tiếp đến cửa hàng nhận có dk k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.431381,
+         "id": "1000413",
+         "field_search": "question",
+         "question": "chào tgdd, mình hỏi giờ mình muốn đặt cọc máy này nhưng giờ không ra cửa hàng trực tiếp được. vậy có hỗ trợ chuyển khoản qua ngân hàng k",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

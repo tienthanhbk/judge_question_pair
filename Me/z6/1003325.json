@@ -1,0 +1,604 @@
+{
+   "id_query": "1003325",
+   "total": 28001,
+   "total_current": 100,
+   "max_score": 25.766954,
+   "origin_question": "Cho em hỏi đốm màn là gì ạ...............................................",
+   "hits": [
+      {
+         "score": 25.766954,
+         "id": "1003325",
+         "field_search": "question",
+         "question": "Cho em hỏi đốm màn là gì ạ...............................................",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.895648,
+         "id": "793601",
+         "field_search": "question",
+         "question": " Cho hoi màn hình iPhone 4 bị sọc rồi sữa được không bi đốm đen   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 13.860667,
+         "id": "777879",
+         "field_search": "question",
+         "question": " iPad tôi mới mua mà mở ứg dụg thấy cái đốm đỏ ở giữa màn hình là sao?????? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.456998,
+         "id": "783750",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách chụp màn hình Viettel V8514 là gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 12.022956,
+         "id": "773223",
+         "field_search": "question",
+         "question": " Cho em hỏi điện thoại iPhone 4 vô camera 360 bị out ra màn hình chính là bị gì ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.608778,
+         "id": "1003963",
+         "field_search": "question",
+         "question": "Cho tôi hỏi cái máy tính bảng cua tôi mới mua đc 1thang máy lại co tình trạng nổi đốm sáng bất thường cái này là do bi sao QTV",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.581509,
+         "id": "1008882",
+         "field_search": "question",
+         "question": "Cho em hỏi là J7 của em nửa màn hình phía dưới hay bị nháy là bị gì vậy ạ? Nếu máy bị hư hỏng thì em phải sửa ở đâu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.474656,
+         "id": "746631",
+         "field_search": "question",
+         "question": " Cho e hỏi máy này là máy gì ạ cho em hỏi máy này là máy gì ạ . Quốc tế hay lock ạ .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.445742,
+         "id": "1134148",
+         "field_search": "question",
+         "question": "Cho e hỏi là máy e là a8 star khi lướt màn hình xuống thì nó chạy ngược lên vậy máy em bị gì vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.430104,
+         "id": "1168268",
+         "field_search": "question",
+         "question": "8 plus camera bị đốm cam khi lấy tay che thì em nên thay cam hay khắc phục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.1755085,
+         "id": "1017979",
+         "field_search": "question",
+         "question": "Cho em hỏi là điện thoại Sam Sung J5 Prime đang xài bị treo và đứng màn hình k bấm gì đc... h nó tắt đen màn hình và mở k lên lun rồi ạ .... cho em hỏi nó bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.166151,
+         "id": "847290",
+         "field_search": "question",
+         "question": " Ad cho em hỏi lớp phủ màn hình là gì ạ và làm sao đẻ tắt nó vì em cứ bị nó hiện lên hoài . cám ơn ad ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.070953,
+         "id": "1137817",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi là đt s8 của em hôm nay có triệu chứng là bị xanh màn hình sọc sọc và đơ màn hình em khởi đôgj lại thì bình thường sau 1 hồi lại bị tiếp đt em bị gì v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 11.050265,
+         "id": "1163827",
+         "field_search": "question",
+         "question": "QTV cho em hỏi sao máy em cứ tắt màn hình là tự động tắt nguồn luôn là bị lỗi gì vậy ? Máy em samsung a8 star",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.808561,
+         "id": "918241",
+         "field_search": "question",
+         "question": " cho e hỏi iphone bị tắt nguồn mà màn hình hiện lên màu xanh là bị gì v ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.757244,
+         "id": "875623",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao cái iphone6 của em nó vẫn sáng đèn màn hình nhưng màn hình lại ko hiện gì cả mà chỉ thấy 1 màu đen thôi ạ. em phải làm gì để sửa đc nó ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.63321,
+         "id": "1162741",
+         "field_search": "question",
+         "question": "Dear Thế Giới Di Động,Tôi có mua một laptop envy 13 tại Thế Giới Di Động vào hồi tháng 9/2018. Hiện tại, màn hình máy tính của tôi có xuất hiện 2 vết đốm sáng trên màn hình. Thì không biết là lỗi này do nguyên nhân gì? Và tôi có thể mang ra để nhờ nhân viên tư vấn và bảo hành được không?Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.528778,
+         "id": "1010434",
+         "field_search": "question",
+         "question": "Cho em hỏi bản Ch play mới nhất hiện nay là gì ạ cho em biết",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.496059,
+         "id": "929395",
+         "field_search": "question",
+         "question": " Em không vào được App Store ạ . Cho em hỏi là lí do gì vậy ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.392636,
+         "id": "1007157",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang xài 7plus 32gb nhưng em không bật được bluetooth ở thanh công cụ ngoài màn hình,phải vào cài đặt mới bật được, vậy là lỗi gì vậy ạ?và cho em cách khắc phục nhé, em cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.38994,
+         "id": "1009834",
+         "field_search": "question",
+         "question": "Cho em hỏi, điện thoại em đang dùng là Lenovo A7010. Hiện tại máy em không thể download bất kỳ file gì cả trên web lẫn trên mail. Em chụp ảnh (máy ảnh và chụp màn hình) cũng không lưu được. Vậy cho em hỏi máy em bị lỗi gì và sửa như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.340078,
+         "id": "996110",
+         "field_search": "question",
+         "question": " Cho em hỏi này là gì vậy ạ ? Con samsung galaxy j7 primeCho em xin cách giải quyết ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.199312,
+         "id": "1136140",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại em là vivo v7+, bị vỡ và đen 2/3 màn hình. Thì cho em hỏi là nếu thay màn hình thì mất bao nhiêu và mất bao lâu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.176614,
+         "id": "1146049",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi, laptop của em là HP Pavilion 14. Em của em có reset máy thì có bấm vào clear all drive giờ thì mở máy lên không còn gì hết chỉ có màn hình đen. Cho em hỏi sửa hết bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.174807,
+         "id": "1143784",
+         "field_search": "question",
+         "question": "Cho em hỏi Nút cạnh camera mặt trước của oppo a3s là gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.126106,
+         "id": "823236",
+         "field_search": "question",
+         "question": " bqt cho e hỏi iphone của e cứ bị xanh màn hình rồi khởi động lại .như vậy là bị lỗi gì ạ. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.103797,
+         "id": "1135376",
+         "field_search": "question",
+         "question": "Cho em hỏi là có một số máy lạ gọi đến không ghi tên gì cả chỉ ghi là số riêng Vậy số riêng là gì ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.1018915,
+         "id": "1000643",
+         "field_search": "question",
+         "question": "a chị cho em hỏi tí ạ. hóa đơn điện có nghĩa là gì đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.092789,
+         "id": "1148945",
+         "field_search": "question",
+         "question": "Cho em hỏi trên oppo f7 youth có phần mềm gì mà mỗi lần tắt mở là tự động thay đổi màn hình khóa mong admin hỗ trợ giúp em tên phần mềm em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.092602,
+         "id": "1162973",
+         "field_search": "question",
+         "question": "Cho em hỏi là thay màn kính iphone 5s thì giá bao nhiêu ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.036292,
+         "id": "1001991",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi là màn hình đt của em tự nhiên bị tối bên góc phải màn hình như vậy là bị lm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.014564,
+         "id": "1148847",
+         "field_search": "question",
+         "question": "Cho em hỏi thay màn hình zin j7 pro ở tgdd là bn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.010964,
+         "id": "773442",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi. Là em dùng iPhone 5s em sặc củ iPhone 6 bị nhiễm điện ra vỏ ngoài liệu có ảnh hưởng gì tới máy và màn hình cảm ứng ko ạ. Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 10.000959,
+         "id": "760381",
+         "field_search": "question",
+         "question": "Cho em hỏi là sao gửi mà nó cứ hiện vậy , em đã hỏi lại bạn rồi là có chặn gì không bạn em nói không có , kiểm tra lại hết rồi . Như vậy là bị gì vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.994631,
+         "id": "1144377",
+         "field_search": "question",
+         "question": " Cho em hỏi là điện thoại sony xperia xa untra xài chip gì vậy ạ ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.952622,
+         "id": "1134841",
+         "field_search": "question",
+         "question": "Cho em hỏi là cửa hàng mình có thay màn hình iphone không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.952622,
+         "id": "996477",
+         "field_search": "question",
+         "question": "AD cho em hỏi 1 lần dán màn hình là bao nhiêu tiền ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.917263,
+         "id": "1140379",
+         "field_search": "question",
+         "question": "Cho em hỏi màn hình của honor có hàng không ạ và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.9135895,
+         "id": "881686",
+         "field_search": "question",
+         "question": " cho em hỏi thời hạn bảo hành dán màn hình laptop là bao nhiêu ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.896063,
+         "id": "746455",
+         "field_search": "question",
+         "question": " Cho em hỏi iphone 6 lúc thì bị lỗi mở không lên, lúc thì tắt màn hình cứ kêu như mở radio là bị gì vậy ak? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.871261,
+         "id": "1159714",
+         "field_search": "question",
+         "question": "Cho em xin hỏi em xài oppo f1s , sao album ảnh của em bị gì như ảnh em chụp màn hình .  Giải đáp giúp em với .  em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.848063,
+         "id": "829228",
+         "field_search": "question",
+         "question": " Cách chụp ảnh màn hình máy mobell nova i6 là gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.84692,
+         "id": "750734",
+         "field_search": "question",
+         "question": " Cho e hỏi điện thoại samsung galaxy j2 chụp màn hình kiểu gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.80354,
+         "id": "994788",
+         "field_search": "question",
+         "question": "cho mình hỏi, ss note 5 khi sạc ở cạnh màn hình chớp chớp là bị gì vậy bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.788987,
+         "id": "1010589",
+         "field_search": "question",
+         "question": "admin ơi cho em hỏi em là sinh viên  muốn mua máy trả góp thì em cần những gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.722995,
+         "id": "998538",
+         "field_search": "question",
+         "question": "Cho em hỏi muốn ghim màn hình đt trên máy mobiisstar laizoro2 thì làm kiểu gì ạ trong khi đó em đã bật chế độ ghim rồi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.675867,
+         "id": "1143680",
+         "field_search": "question",
+         "question": "cho e hỏi màn hình điện thoại itel 1508 plus cứ để android đang khởi động đang tối ưu hóa ứng dụng là bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.66218,
+         "id": "753581",
+         "field_search": "question",
+         "question": "Cho em hỏi là em làm rơi iPhone xuống đất nhặt lên khởi dộng lại nhưng máy chỉ hiện vạch màu trắng như kiểu bị nhiễu màn hình vậy ạ . Cho em hỏi là máy bị hỏng cáp màn hình hay sao vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.6187105,
+         "id": "1161957",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi giờ em muốn thay màn hình cho asus zenphone m1 là bao nhiêu ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.604533,
+         "id": "1168618",
+         "field_search": "question",
+         "question": "ad cho em hỏi là thay pin iphone 6 plus thì bn tiền và là loại pin gì đc ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.591606,
+         "id": "1155246",
+         "field_search": "question",
+         "question": "Cho em hỏi, ĐT Oppo A37 em tải ứng dụng gì về không thấy nó hiện trên màn hình mà bị ẩn, làm sao để chữa lại ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.590006,
+         "id": "998234",
+         "field_search": "question",
+         "question": "Ad oi, cho em hỏi, điện thoại của em bị nứt góc trái bên dưới. Em có thể dán lại màn hình được không ạ? Chỉ dán mà ko thay màn hình mới có ảnh hưởng gì đến cảm ứng không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.581703,
+         "id": "1143184",
+         "field_search": "question",
+         "question": "thế giới di động cho em hỏi laptop của em khỏi động lên rất lâu, bị treo màn hình đen 1 lúc rồi mới vào được là bị gì ạlaptop em sử dụng là dell vostro 3568 service tag: D9B44F2",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.580716,
+         "id": "1152309",
+         "field_search": "question",
+         "question": "cho em hỏi đt oppo a71 nếu bị bể màn hình thay lại là bao nhiu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.580514,
+         "id": "1141384",
+         "field_search": "question",
+         "question": "Cho em hỏi là samsung j7plus có hỗ trợ chạm 2lần để mở màn hình không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.568203,
+         "id": "1151998",
+         "field_search": "question",
+         "question": "Đt e là Sony XA1+ mấy bữa nay không biết gì mà cứ bị đơ màn hình rồi hiện lên quá trình system không phản hồi, 1 ngày bị hơn chục lần. Cho e hỏi máy bị gì và chữa làm sao ạ. Em cám mơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.566732,
+         "id": "791975",
+         "field_search": "question",
+         "question": "Iphone 5 của em mới bị rớt và bị đơ màn hình nhưng nút home ẩn vẫn nhấn và di chuyển được, cho em hỏi máy em bị gì ạ ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.540349,
+         "id": "925289",
+         "field_search": "question",
+         "question": " Điện Thoại Iphone 6 của em dùng cứ đến 70  lại bị sập nguồn cho em hỏi là do lỗi gì ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.506482,
+         "id": "776486",
+         "field_search": "question",
+         "question": "Màn hình Laptop Dell Inspiron 15R của em nó bị rung như trong clip:https://www.youtube.com/watch?v=rJhUhNXanFEmà nó còn rung hơn thế nữa, cho em hỏi là nó bị gì thế.?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.506063,
+         "id": "1164176",
+         "field_search": "question",
+         "question": "cho em hỏi là máy tính của em hiện có hiện chữ activate windows bên phải màn hình thì là thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.497345,
+         "id": "759105",
+         "field_search": "question",
+         "question": " Cho em hỏi mật khẩu Apple ID của thegioididong là gì vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.495247,
+         "id": "776688",
+         "field_search": "question",
+         "question": " Cho em hỏi cách hiển thị tin nhắn trên màn hình khóa Oppo r7 lite kiểu gì? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.49157,
+         "id": "1134775",
+         "field_search": "question",
+         "question": "Cho em hỏi. Iphone X em mới mua ở tgdd dc hơn 3 tháng. Tự nhiên bị đen màn hình. Restore k đc. Máy k bị rơi hay va đập gì cả. Cắm vô máy tính cũng k nhận là bị gì ạ. Em hiện tại đang ở nhật. Có thể đến app bảo hành dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.483261,
+         "id": "912435",
+         "field_search": "question",
+         "question": " Qtv cho em hỏi iphone phiên bản quốc tế là gì vậy và sim gép là gì vậy quản trị viên ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.445949,
+         "id": "1163045",
+         "field_search": "question",
+         "question": "Cho em hỏi, giá thay màn hình redmi note 5 là bao nhiêu ạ. E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.408962,
+         "id": "1001360",
+         "field_search": "question",
+         "question": "Cho e hỏi là cái đt của e là samsung e500 hôm nọ bị rơi. E thấy bị vỡ màn hình và k lên gì hết. Nhưng đt vẫn nhận thông báo và kêu được. Thế là hỏng gì vậy cửa hàng? Và chi phí sửa chữa ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.389887,
+         "id": "919259",
+         "field_search": "question",
+         "question": "Cho em hỏi ID của em là ở Việt Nam nhưng tại sao bây giờ em tải app là chuyển qua tiếng Nhật. Có cách gì giúp em được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.384011,
+         "id": "926002",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là máy của em cứ dùng lâu lâu là lại bị màn hình biến thành màu xanh dương xong rồi có chữ trắng chạy trên màn hình nó báo là recovery gì đó không biết có phải bị nhiễm virus hay bị sao không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.374473,
+         "id": "904741",
+         "field_search": "question",
+         "question": "Cho em hỏi là em dùng ip5s đã thay màn hình, e vừa nâng cấp ios10 gần đây, máy cảm ứng bình thường nhưng khi lên facebook, zalo thì hàng dứoi cảm ứng không đc, không coi thông báo fb hoặc tin nhắn đc vì cảm ứng không ăn. Cho em hỏi máy em như vậy là bị gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.327314,
+         "id": "748110",
+         "field_search": "question",
+         "question": "tgdd cho mình hỏi màn hình Galaxy J7 bị loang màu hồng và các ứng dụng bị giật là bị lỗi gì vậy? nếu màn hình hỏng mình muốn thấy ở tgdd chi phí hết nhiều không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.32372,
+         "id": "1150434",
+         "field_search": "question",
+         "question": "Cho mình hỏi là mình đang dùng ss A7. Khi tắt màn hình thì có biểu tượng hình vuông dưới màn hình. Nó có tác dụng gì ajk. Mình bấm vào đó mà k có tác dụng gì cả",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.289419,
+         "id": "995613",
+         "field_search": "question",
+         "question": "Cho em hỏi là bao nhiêu tuổi thì được mua trả góp và cần những giấy tờ gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.283138,
+         "id": "1134467",
+         "field_search": "question",
+         "question": "cho e hỏi, em mua điện thoại nokia 3 ở cửa hàng TGDĐ, em làm rơi điện thoại hư màn hình cảm ứng. Vậy bên mình có thay màn hình ko ạ, nếu có cho em xin giá thay màn hình là  nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.27371,
+         "id": "885056",
+         "field_search": "question",
+         "question": " ad cho e hỏi activate windows là gì vậy ạ, làm ntn ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 9.268659,
+         "id": "1160527",
+         "field_search": "question",
+         "question": "cho em hỏi em sạc pin điện thoại vẫn hiện thông báo sạc nhưng ko lên phần trăm là do bị gì vậy ạ"

@@ -1,0 +1,809 @@
+{
+   "id_query": "852259",
+   "total": 32182,
+   "total_current": 100,
+   "max_score": 186.35207,
+   "origin_question": "máy e là acer aspire e5-571-31 hd intel core 3i-4030u (1.9ghz,3mb l3 cache) thiếu driver tuochpad hay gì mà giờ chuột cảm ứng không hoạt động nữa chỉ cắm chuột rời mới hiện chuojt và sử dụng được v e phải tải driver tuochpad đó ở đâu ạ",
+   "hits": [
+      {
+         "score": 186.35207,
+         "id": "852259",
+         "field_search": "question",
+         "question": "máy e là acer aspire e5-571-31 hd intel core 3i-4030u (1.9ghz,3mb l3 cache) thiếu driver tuochpad hay gì mà giờ chuột cảm ứng không hoạt động nữa chỉ cắm chuột rời mới hiện chuojt và sử dụng được v e phải tải driver tuochpad đó ở đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 47.099785,
+         "id": "1006923",
+         "field_search": "question",
+         "question": "Cho e hỏi tại sao mấy ngày trước chuột usb e cắm vào cũng sử dụng đc ở chuột cảm ứng trên máy sao giờ cắm chuột vào sử dụng chuột bấm usb thì được còn bấm ở chuột cảm ứng thì không đc , còn nếu tháo chuột usb ra thì k còn con trỏ và cũng không điều khiển đc gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 41.346825,
+         "id": "918045",
+         "field_search": "question",
+         "question": "Laptop Dell latitude 3450 CPU Intel Core i5-5200U (2.2GHz up to 2.7Ghz, 3MB Cache L3)/ Ram 4GB DDR3L 1600Mhz/ HDD 500GB 5400rpm/ VGA Intel HD Graphics 5500có chơi được GTA 4 không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.693806,
+         "id": "1012783",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua laptop   Acer Aspire E5 575 525G i5 7200U/4GB/500GB/Win10/(NX.GE6SV.007) mà e thấy máy hoạt động k tốt. nhiều lúc e thấy máy khá đơ và giật, hay bị lỗi ứng dụng. e muốn đổi trả thì phải làm như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 37.442177,
+         "id": "800843",
+         "field_search": "question",
+         "question": " Ad ơi cho e hỏi e cắm cáp vào laptop thì hiện như này là thiếu driver đúng ko ạ?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.68042,
+         "id": "988768",
+         "field_search": "question",
+         "question": "cho mình hỏi máy mình là asus x441u , tại sao máy tự nhiên đang sử dụng tự khởi động lại , mà hiện màn hình lên lại mất con chuột , khi cắm dây chuột ngoài vào mới sử dụng được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.627453,
+         "id": "992159",
+         "field_search": "question",
+         "question": "Máy của em là lap top dell inprision 15 core intel i5. Em lỡ xóa cái driver màn hình. Và driver âm thanh bây giờ cài lại làm sao cho em link nữa.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.9056,
+         "id": "786189",
+         "field_search": "question",
+         "question": "chào mấy anh chị. em muốn hỏi vì sao mà máy tính em gửi đi bảo hành 2 lần rồi mà đều ghi là chuột cảm ứng khó tác dụng. xong rồi không biết tại sao mà một thời gian sau về tới nhà thì máy tính em lại bị lại tình trạng chuột cảm ứng khó tác dụng, nên em cắm chuột có dây vào. xong nhiều khi chuột có dây không tác dụng được thì em lại sài chuột cảm ứng. mấy anh chị cho em hỏi tình trạng như vậy thì nguyên nhân là do đâu và em phải làm cách nào để khắc phục ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.8591,
+         "id": "1009071",
+         "field_search": "question",
+         "question": "cho em hỏi chuột em mới mua khoảng 6 tháng nhưng em đang sài thì chuột kh nhận được nữa ! đèn của chuột máy tính vẫn hoạt động usb chuột vẫn hoạt động em sài chuột không dây 200k genius ấy anh chị em đổi lại có được kh ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.509,
+         "id": "1154740",
+         "field_search": "question",
+         "question": "Em có cài đặt ứng dụng driver booster 6.3 sau đó cập nhật driver cho máy. Sau khi cập nhật xong thì máy em bị mất mạng, mất âm thanh, chuột không di chuyển được và em cũng không biết còn bao nhiêu lỗi nửa nhưng trước mắt có 3 lỗi nghiêm trọng như v. Dùng trình tự sửa lỗi của máy cũng không fix được. Trước khi cập nhật driver em không sao lưu driver nên không quay về bản cũ được giờ lại không có mạng nửa. Có cách gì để giúp em không ạ. Em cám ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.108036,
+         "id": "1145656",
+         "field_search": "question",
+         "question": "Máy e sau khi cài lại win 10, dùng 1 lúc thì gặp lỗi ko nhận usb chuột, e thử up driver mà ko đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.616077,
+         "id": "869301",
+         "field_search": "question",
+         "question": "E vừa đi cài win về, laptop e chạy vẫn khá tốt, nhưng khi e cắm thử  vào và rút ra thì phần cảm ứng của máy e không điều khiển được nhưng khi cắm chuột vào lại thì vẫn sử dụng được, bàn phím e cũng không thao tác nhanh như trước. A/c cho e hỏi đấy là lỗi gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.59811,
+         "id": "805147",
+         "field_search": "question",
+         "question": "E vừa mua máy tính dell inspiration N5458 cua tgdd được 1tuần thì mcAfee hết hạn, chuột cảm ứng và bàn phím ko sử dụng được e tắt máy bằng nút nguồi rồi mở lại dùng được lúc lại bị như vậy, giờ e phải làm gì ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.408825,
+         "id": "903127",
+         "field_search": "question",
+         "question": "Mình mới mua máy tính Dell 3578 cảm ứng gập lại được 360' nhưng không xoay được màn hình. Đây là link driver kèm theo để tải cảm biến và các tính năng khác: ftp://support.digiworld.com.vn/DRIVERSnhưng mình không biết sử dụng và tải thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.379128,
+         "id": "897496",
+         "field_search": "question",
+         "question": "Em mới mua lap Lenovo khoảng 5 tháng ở thegioididong nhưng vài ngày nay chuột cảm ứng trên lap k hoạt động nữa. Em muốn hỏi phải khắc phục như thế nào hoặc là còn bảo hành được k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.28669,
+         "id": "1134383",
+         "field_search": "question",
+         "question": "E dùng laptop asus a504l tại sao sau khi e gia hạn office 365 thi thanh cuộn chuột cảm ứng e ko dùng được nữa ạ.  E có mang ra thế giới di động rồi và mấy a ấy sửa cho e rồi nhưng được vài ngày thì nó lại ko hoạt động nữa. E phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.198784,
+         "id": "1144561",
+         "field_search": "question",
+         "question": "Cho mình hỏi là máy Acer Aspire E15 E5 576G 52YG có thể sử dụng chung 2 ổ cứng SSD và HDD được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.143124,
+         "id": "773078",
+         "field_search": "question",
+         "question": "Chuột cảm ứng laptop của e đang dùng thì không đi được, nó hiển thị đèn báo vàng ở chuột cảm ứng, cho em hỏi nó hỏng hay thế nào ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.099243,
+         "id": "1155698",
+         "field_search": "question",
+         "question": "đây có phải là thiếu drive không ạ lỗi màn hình cảm ứng không hoạt động được ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.964209,
+         "id": "999128",
+         "field_search": "question",
+         "question": "Cho e hỏi, e đang sử dụng oppo F3, mà radio di động là gì. E không bật ứng dụng đó, thấy hao pin qua và chỉ e cách tắt ứng dụng này",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.78666,
+         "id": "1024339",
+         "field_search": "question",
+         "question": "Cho em hỏi vào ngày 30/11/2016 e có mua 1 laptop tại tdgđ và được tặng 1 chuột k dây ạ. Em mới sử dụng chuột k dây được tầm 3 tháng thì chuột có hiện tượng nhanh hết pin và bị lỗi nháy đúp ( khi e chỉ nháy 1 lần ). Vậy cho em hỏi cách giải quyết để sửa lỗi của chuột được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.607866,
+         "id": "1163560",
+         "field_search": "question",
+         "question": "Laptop của em lúc mới mở máy thì card màn hình rời vẫn nhận driver bình thường nhưng sau khi em sự dụng được tầm 30p thì card màn hình rời không nhận driver nữa . Anh chị cho em xin cách khác phục ạ. Xin cám ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.605284,
+         "id": "1014404",
+         "field_search": "question",
+         "question": "cho em hỏi em vừa mua máy acer f5 cài đầy đủ driver và các ổ usb vẫn hoạt động bình thường nhưng sáng nay em cắm tay cầm gamepad đang sử dụng bt vào chơi mà nó không nhận, lỗi not reconizing. Em có làm 1 số cách khắc phục mà vẫn không được!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.457945,
+         "id": "1149236",
+         "field_search": "question",
+         "question": "Cho e hỏi, e mới mua máy được 10 ngày nhưng xài cảm ứng có khi không nhạy vs điện thoại hay tự động tắt ứng dụng, e muốn đổi lại máy Huawei Nova 3i mới có được ko? Có phải bù tiền gì ko và đổi thì lại cửa hàng tgdđ lúc mua đổi hay đổi ở bất kỳ hệ thống tgdđ nào cũng đc ạ. E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.901888,
+         "id": "1013409",
+         "field_search": "question",
+         "question": "cho hỏi tại sao khi tôi rê chuột cảm ứng thì lại tăng zoom giảm zoom vậy? còn chuột trái bấm không ăn mà đổi chức năng khác, chuột phải bình thường. Là chuột cảm ứng Laptop",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.529303,
+         "id": "866622",
+         "field_search": "question",
+         "question": "Bộ vi xử lý: Intel Core i5 2520M (2x2.5GHz Turbo Boost 3.2GHz, Cache 3MB, Bus 2500) Chipset: Intel HM67 Express Bộ nhớ trong: 4GB DDR3 1333MHz Ổ đĩa cứng: 250GB SATA Cạc màn hinh: Intel HD Graphics 3000 Màn hình: 15.6 inch HD LED (1366x768) Ổ đĩa quang: đọc và ghi DVD Webcam: 1.3 Megapixels Kết nối: HDMI, E-SATA, VGA, USB 2.0 và 3.0, Ethernet (LAN), Card-Reader Thời lượng pin: 6 cells (sử dụng liên tục được 2-3 giờ) Kích cỡ: Trọng lượng: 2.3 kgcấu hình như thế chơi được lmht hay fifa online 3 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.461962,
+         "id": "1164024",
+         "field_search": "question",
+         "question": "Mod cho e hỏi thế này là driver nó bị sao mà cứ bị dấu chấm vàng náy làm bàn di chuột của em nó không dùng đc  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.065313,
+         "id": "906788",
+         "field_search": "question",
+         "question": " Cho mình hỏi PCI Device là driver gì và nó quan trọng không tại laptop mình còn thiếu cái này. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.990385,
+         "id": "917282",
+         "field_search": "question",
+         "question": "Anh(chị) ơi cho e hỏi:e mới mua chuột máy tính ở điện máy xanh(chợ mới) khi xách về thì thấy chuột cũ nhà e chuôi tròn nhưng e chuột chuôi dẹp .gắn chuột vào chỗ nào của máy tính chỉ dùm em với!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.989096,
+         "id": "997242",
+         "field_search": "question",
+         "question": "shop ơi giúp em với ạ. mọi khi e dùng đầu đọc thẻ nhớ cắm vào máy tính acer thì được vẫn lưu hay tải và hiện ở mục ổ lưu trữ ạ. nhưng lần này vẫn cắm vào được mà nó lại không hiện ở mục luu trữ mà đưa luôn tới mục thiết bị và máy in ạ. bây giờ e phải làm thế nào để hiện ở muc ổ lưu trữ để dùng được bình thường ạ.mong shop và mọi người chỉ e với ạ.e cám ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.67862,
+         "id": "1151597",
+         "field_search": "question",
+         "question": "cho mình hỏi làm sao để bật intel optane trên acer aspire e5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.50478,
+         "id": "886687",
+         "field_search": "question",
+         "question": "E muốn mua laptop cấu hình liệu có chơi được lmht không ạ.... CPU Intel® Core™ i5 2540M Processor ( 2.6Ghz upto 3.2Ghz ,cache 3Mb/Bus 1333Mhz )Ram: 4 Gb - DDR3 - Bus 1333.HDD:250GBVGA : Intell HD 3000Màn hình 14 inch WXGA anti-glare & Ambient light sensor ( cảm biến ánh sáng)Độ phân giải cao 1366x768",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.282013,
+         "id": "1146429",
+         "field_search": "question",
+         "question": "Mình muốn hỏi laptop mình trước đây chơi game ok nhưng đột nhiên nay vào game không được và máy báo là game bị đóng vì không tìm thấy thiết bị hoặc gặp vấn đề với diver . vui lòng cập nhật driver mới nhất hoặc phiên bản driver ổn định nhất. Ad có thể chỉ mình cách cập nhật driver hay không ạ. Mình sử dụng laptop HP. Thanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.117054,
+         "id": "783169",
+         "field_search": "question",
+         "question": "  Cho em hỏi máy laptop  Acer Aspire E5 473 i3 5005U4G500GWi có tích hợp sẵn card màn hình rời không?   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.82416,
+         "id": "1152808",
+         "field_search": "question",
+         "question": "shop cho e hỏi , e có mua con laptop Acer Aspire E14 có intel optain . Sau 4 tháng sử dụng tự nhiên máy em chậm kinh khủng từ mở máy cho tới vào ứng dụng và khi tắt máy nó vẫn chậm kinh khủng. E đã recovery máy 2 lần từ lúc bị chậm mà vẫn ko cải thiện được. Xin hỏi shop giờ em phải làm sao ạ? E đã nâng cấp ram từ 4gb lên 8gb ( thêm 1 thanh 4gb nữa ) mà vẫn chậm. Có khi nào do ổ cứng intel optain bị lỗi ko shop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.790707,
+         "id": "796993",
+         "field_search": "question",
+         "question": "Cho mình hỏi : Dell Inspiron 5548 Intel® Broadwell Core™ i7 _ 5500U _ 8GB _ 1TB SSHD _ AMD Radeon HD R7 M270 4GBCPU: 5th Generation Intel® Broadwell Core™ i7 _ 5500U Processor ( 2.4 GHz, 4MB L3 Cache w/Turbo Boost up to 3.0GHz ) Thế hệ mới nhất RAM: 8GB DDR3L Bus 1600 Mhz Ổ cứng: 1TB (1000GB) Hybrid SSHD Màn Hình: 15.6 inch Led backlit display HD (1366 x 768) VGA: AMD Radeon HD R7 M270 4GB with Optimus technology / Integrated Intel® HD Graphics 5500 ( Hỗ trợ tốt game & đồ họa) Ở Thế Giơi Di Động có bán không ạ nếu có thì giá bao nhêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.7257,
+         "id": "998477",
+         "field_search": "question",
+         "question": "dạ cho e hỏii tại sao e chuyển ứng dụng sang thẻ sd thì ứng dụng đó được báo là không hoạt động được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.4986,
+         "id": "992631",
+         "field_search": "question",
+         "question": "Mình mới mua con lap Dell N3567c i3 6006u ngày kia. Ngày đầu cắm tai nghe thì nghe được bình thường, hôm nay cắm vào thì lại ko nghe đc gì nữa cả? vậy có phải là lỗi do máy hay lỗi do driver?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.444698,
+         "id": "1162109",
+         "field_search": "question",
+         "question": "Chào ad, laptop mình sau khi nâng ram lên 8gb và chip từ i5 lên i7 thì usb, chuột dây, và bluetooth bị mất. Mình gỡ driver và update lại những vẫn hiện lỗi như ảnh. Giờ phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.436352,
+         "id": "998532",
+         "field_search": "question",
+         "question": "Cho e hoỉ laptop của em tự dưng chuột cảm ứng kéo xuống k được , với tắt máy hay khởi động lại cũng k tắt được luôn. vậy làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.411749,
+         "id": "892783",
+         "field_search": "question",
+         "question": "Em mới mua máy Asus X540LJ. Máy chạy khá ok nhưng không hiểu sao không tìn thấy bluetooth, cả driver cũng không. Em lên trang chủ asus tải driver bluetooth về cà thì nó báo máy bị gì đó cài không được. Có cách nào giúp em với ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.290453,
+         "id": "1141860",
+         "field_search": "question",
+         "question": "chuột không dây của mình dù đã tháo đầu thu khỏi lap nhưng vẫn sáng mà lại không hoạt động gì cả dù lắp hay tháo đầu thu>>>>mong nhận được phản hồi!Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.224123,
+         "id": "1010733",
+         "field_search": "question",
+         "question": "Laptop của e tự nhiên bị mất driver wifi, e cài lại rồi mà vẫn không hiển thị driver wifi đó, có cách nào khắc phục vấn đề này không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.018198,
+         "id": "907817",
+         "field_search": "question",
+         "question": "em có mua laptop win 10 Acer aspire e5 575g chơi game vs xem phim lúc sao bật game lại nó báo lỗi display driver stopped responding and has recovered là sao ạ em xin luon cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.948013,
+         "id": "896427",
+         "field_search": "question",
+         "question": " cho em hỏi cách sử dụng chuột không dây genius...em mới mua máy dell mà không biết dùng thế nào..em cảm ơn ạ!! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.757027,
+         "id": "845547",
+         "field_search": "question",
+         "question": "cho em hỏi máy em có chơi csgo dc không? :))cpu: Intel Core i5 - 5200U 2.2 GHz (3M Cache, up to 2.7 GHz)Intel HD Graphic 5500",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.713276,
+         "id": "863665",
+         "field_search": "question",
+         "question": "Laptop của mình, mỗi lần mình click chuột trái vào file nó hiện ra bảng propeties, bàn phím đánh chữ cũng ko được luôn, chuột phải vẫn hoạt động bình thường, làm sao bây giờ, giúp mình với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.65667,
+         "id": "842200",
+         "field_search": "question",
+         "question": " add ơi!!! cho e hỏi chuột cảm ứng của máy tính bị đơ có lúc dùng được có lúc không? thì phải làm s ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.62985,
+         "id": "814756",
+         "field_search": "question",
+         "question": " Em dùng laptop ASUS F454L .Cho em hỏi cắm chuột vào laptop thì cắm ở đâu ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.513174,
+         "id": "819321",
+         "field_search": "question",
+         "question": "cho em hỏi máy em có chơi gta 5 dc khôngcpu: Intel Core i5 - 5200U 2.2 GHz (3M Cache, up to 2.7 GHz)Intel HD Graphic 5500",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.487692,
+         "id": "1023663",
+         "field_search": "question",
+         "question": "anh em vừa mới mua laptop cho em. em sử dụng được tối nay là 3 tuần và em mới reset máy tính lại. nhưng mà bây giờ em cài đặt lại word, excel, powerpoint các ứng dụng cần thiết thì yêu cầu phải có 25 ký tự gì đó. mà em không biết mà 25 ký tự này ở đâu giờ em pphai làm sao đây?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.462488,
+         "id": "917203",
+         "field_search": "question",
+         "question": "Ban quản trị cho em hỏi. Laptop e đang sử dụng bình thuờng đột nhiên 2/3 cổng usb của máy không sử dụng đuợc. Cắm usb hoặc chuột vào không sử dụng được thì pgải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.428957,
+         "id": "1138216",
+         "field_search": "question",
+         "question": "E mới mua oppo a3s mà khi tải file từ facebook xuống thì máy hiện k có sẵn ứng dụng nào để mở tập tin này. Vậy là sao ạ và e có cần tải thêm ứng dụng gì k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.233377,
+         "id": "1145340",
+         "field_search": "question",
+         "question": "Cho mình hỏi Laptop của mình là Asus Vivobook S15 X510UQR. Hôm qua mình cập nhật Win xong thì máy kêu khởi động lại máy. Khi khởi động lên thì bị mất Wifi. Mình đã dùng mọi cách để khắc phục nhưng không được. Sau đó cài Driver Wifi thì mới sử dụng được Wifi. Và tình trạng khi tắt máy mở máy lên vẫn mất Wifi, tiếp tục cài Driver mới sử dụng được Wfifi. Ngay cả phím chức năng Fn cũng vậy. Kỹ thuật viên có thể giúp mình giải quyết vấn đề được không. Mình xin cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.101702,
+         "id": "998111",
+         "field_search": "question",
+         "question": "Máy e là galaxy on7 2016 đã up rom tiếng việt. Nhưng bây giờ e muốn up rom khác. Khi cắm máy vào máy tính thì ko hiện cổng com. Mặc dù e đã cài driver và bật usb debug",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.098124,
+         "id": "1004145",
+         "field_search": "question",
+         "question": "Cho e hỏi mây tính e mới mở liền thì màn hình thì bị tắt đen máy vẫn sáng vẫn thấy con chuột nhưng lại không thể nào sử dụng được. Không thực hiện thao tác tắt máy được luôn ạ Cho e hỏi như thế này là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.837017,
+         "id": "1162306",
+         "field_search": "question",
+         "question": "em mua máy laptop dell vostro 3568 được một thời gian, khi chơi game hay sử dụng 1 số ứng dụng, nó có hiện tường nhân vật tự di chuyển, hay chuột tự di chuyển, em muốn hỏi đây có phải là do máy bị nhiễm virus ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.802126,
+         "id": "782166",
+         "field_search": "question",
+         "question": " ad cho e hỏi laptop dell nhà e sau khi nâng cấp lên win 10 bị lỗi mất con chuột cảm ứng e phải lam sao bây giờ ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.666187,
+         "id": "1004851",
+         "field_search": "question",
+         "question": "chào shop cho em hỏi 1 chút được không ạem có cái máy acer b1-723 bị vỡ 1 góc ở màn hình khi sử dụng cảm ứng thì bị liệt ở giữa thì bây giờ em phải cái gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.650608,
+         "id": "1016735",
+         "field_search": "question",
+         "question": "hồi bữa em có đặt con chuột mà hỗm giờ 3 bữa rồi vẫn chưa ship tới nữa kì v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.513887,
+         "id": "891812",
+         "field_search": "question",
+         "question": " cho e hoi lam sao moi vao dc WC cua may acer aspire E5 vay ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.487015,
+         "id": "837525",
+         "field_search": "question",
+         "question": "Cho e hỏi ngày mà hãng apple ngừng sảm xuất sản phẩm iphone 5s và máy mua ở thế giới di động vào ngày 31/05/2016 và được bóc hộp thì là máy mới hay máy dựng...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.40503,
+         "id": "993164",
+         "field_search": "question",
+         "question": "E mua chuột ở đó nhưng nó ko nhận e muốn đổi dc ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.401953,
+         "id": "1160164",
+         "field_search": "question",
+         "question": "Chuột mays tinh nhà em bị hư mua chuột không dây mới nhưng chuột này chỉ kết nối với máy tính bằng máy tính đc thôi Cho em hỏi  còn cách kết nối nào khác không ạ? ( nó không có thiết bị cắm vào máy tính để kết nối )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.3606,
+         "id": "753850",
+         "field_search": "question",
+         "question": "QTV cho em hỏi. Em đang sử dụng laptop Acer Aspire E5 571 core i5 4210U CPU 1.70 GHz  2.40 GHz, mua tại TGDD. Lúc mua cài sẵn win 8.1 Single Language bản quyền . Sau đó em update lên win 10 và dùng một thời gian thấy nó rất chậm và hay bị đơ . Bây giờ em muốn cài lại win 7 thì làm thế nào ạ? Và sau khi cài lại có bị mất bản quyền win không? Vì máy em không có bản backup win 7. Rất mong được sự tư vấn của A/C kỹ thuật. Em xin trân thành cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.245256,
+         "id": "789979",
+         "field_search": "question",
+         "question": "Cho e hỏi sau khi jailbreak máy iPhone/iPad thì ứng dụng Cydia tự động xuất hiện trên màn hình chính hay là phải cài đặt?Và máy iPad của e chưa được jailbreak thì có thể nhờ tiệm của mình jailbreak giùm được không ạ và việc đó có mất phí không?Em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.201897,
+         "id": "1168644",
+         "field_search": "question",
+         "question": "Cho e hỏi Điện thoai huawei nova 3i xem youtube, nghe zing không có âm thanh chỉ cắm tai nghe mới nghe được là bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.977638,
+         "id": "899159",
+         "field_search": "question",
+         "question": "laptop của mình mỗi lần vào mạng thì k sử dụng chuột di chuyển nhưng các tab mở ra cứ tự động chạy xuống trang cuối, lúc này mình điều khiển chuột lên đầu trang cũng tự động chạy xuống lại. hiện tượng này 2-3h xảy ra 1 lần, nó k liên tục nên mình khó mang ra trung tâm vì sợ khi đến đó hiện tượng này chưa xảy ra thì phải đợi lâu ? k biết là do bị kẹt phím nào đấy hay do lỗi Win ạ ? vì khi mình mở máy nhấp chuột vào 1 file nào đó trên destop thì lại k đc mở file đó mà tự động vào 1 file mình k hề nhấp vào ? 2 hiện tượng đó của máy mình phải khắc phục ra sao ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.97017,
+         "id": "1158008",
+         "field_search": "question",
+         "question": "Cho e hỏi là bên mình có sửa chuột máy tính ko ạ chuột của e nó bị lỗi là lúc bấm được lúc khlông",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.934162,
+         "id": "998331",
+         "field_search": "question",
+         "question": "Điện thoại kingzone N3 của mình không khởi động được.. phải làm gì? Ai và ở đâu làm được việc đó..? Cảm ơn nhiều..!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.921116,
+         "id": "931924",
+         "field_search": "question",
+         "question": "em đang xài laptop lenovo g50, máy mới mua hồi tháng 6,em xài cũng cẩn thận lắm,tự nhiên hôm nay thanh touchpad không hoạt động nữa quẹt qua quẹt lại mà k ăn đành phải xài chuột. Ad hướng dẫn cách sử lại giùm em đi vs",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.826607,
+         "id": "928889",
+         "field_search": "question",
+         "question": "Cho em hỏi là hiện tại tddđ có laptop dell inspiron i5-7200u không ạ? Và nếu mình mua dell thì máy có cài sẵn chương trình cho mình không ạ? Mình mua về thì sử dụng liền hay có cần cài driver hay wireless không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.631315,
+         "id": "886691",
+         "field_search": "question",
+         "question": "Cấu hình thế này liệu có chơi lmht mượt được không a.. mạng cáp quang viettell 20Mb CPU Intel® Core™ i5 2540M Processor ( 2.6Ghz upto 3.2Ghz ,cache 3Mb/Bus 1333Mhz ) Ram: 4 Gb - DDR3 - Bus 1333.HDD:250GBVGA : Intell HD 3000Màn hình 14 inch WXGA anti-glare & Ambient light sensor ( cảm biến ánh sáng)Độ phân giải cao 1366x768 sáng đẹp, nét căng...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.62108,
+         "id": "752315",
+         "field_search": "question",
+         "question": " Laptop Acer Aspire e14 bị treo không làm được gì nữa phải làm sao vậy ad? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.613405,
+         "id": "999209",
+         "field_search": "question",
+         "question": "Các ac cho em hỏi là trên z1 sao e nghịch ltinh cái gì giờ cứ vuốt cảm cung hay chạm  vào đâu là noa có. 1 chấm tròn màu trắng chạy theo , chỉ e cách tắt. Caia đó được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.587225,
+         "id": "918044",
+         "field_search": "question",
+         "question": "laptop em đang sử dụng laptop dell, dạo gần đây máy thường hay bị nhảy chuột lung tung, màn hình không kéo xuống được, soạn văn bản thì trỏ chuột bị nhảy ra đầu dòng. Cho hỏi máy em bị gì và có thể tự thao tác khắc phục được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.577799,
+         "id": "1164592",
+         "field_search": "question",
+         "question": "Cho em hỏi e sử dụng realms C1 có hỗ trợ otg.. và em gắn chuột và bàn phím và cáp OTG có thể sử dụng đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.494398,
+         "id": "1142436",
+         "field_search": "question",
+         "question": "Mình dùng hp pavilion 360x được tầm 1 năm, vài tháng gần đây máy thường xuyên bị loạn chuột phải với với chuột trái, đôi khi còn bị đơ bàn phím, phải sleep bất lại thì máy chuột và bàn phím mới bình thường. Vậy có cách nào để khắc phục lỗi đó không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.467957,
+         "id": "1001364",
+         "field_search": "question",
+         "question": "Ad cho e hỏi e dùng zenf 5 mà khoảng gần 1 năm r ko sài h bật lại sạc thì nó chỉ hiện lên logo intel thôi chứ ko vô dc máy có phải máy bị hư hay là đang cập nhập v ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.408373,
+         "id": "1004168",
+         "field_search": "question",
+         "question": "Máy của e k sử dụng các ứng dụng mà ad nói ở trên thì có cách nào khắc phục k ạ. Hiện giờ phiên bản ở máy là 10.3.2.Tại sao máy của e lại gặp tình trạng như vậy và có sửa đc k ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.348394,
+         "id": "884345",
+         "field_search": "question",
+         "question": "Trong ứng dụng facebook, đọc văn bản dài, mỗi khi kéo màn hình là hiện lên khung \"sao chép văn bản\". Trong khi ở ứng dụng duyệt web hay các văn bản khác phải giữ thì mới hiện khung đó. Là lỗi gì vậy ạ? E dùng HTC desire 820G+ nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.318544,
+         "id": "992309",
+         "field_search": "question",
+         "question": "cho e hỏi: chuột máy tính e mua tại thế giới di động, mà nó dây chuột bị chóc lớp nhựa ngoài thì có thể đổi dc không, nó còn trong thời gian bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.235569,
+         "id": "827582",
+         "field_search": "question",
+         "question": "Em mua laptop acer aspire v13 tại thegioididong, bình thuờng lap vào mạng được nhưng khi cắm sạc lại tự động bị ngắt mạng wifi, cho em hỏi lap e bị gì và cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.17186,
+         "id": "1149921",
+         "field_search": "question",
+         "question": "Cho e hỏi, e đăng ký chạy grab trên iphone 5s mà khi đăng nhập vào grab driver nó lại báo điện thoaik bạn có thể bị jailbreak và ko cho đăng nhập. Điện thoại e mua mới ở thế giới di động. Có hướng gì để khắc phục. Cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.14648,
+         "id": "836297",
+         "field_search": "question",
+         "question": "Không biết latop này có choei được lmht khôngCHI TIẾT SẢN PHẨMDòng sản phẩm ACER ASPIRE V3-472-33LNMàu BạcBộ vi xử lý Intel 4th Generation Core i3-4005U - 1.7 GHz (3MB L3 Cache)Bộ nhớ DDR3L SDRAM 4GBỔ đĩa cứng Serial ATA (SATA) 500GB - 5400rpmỔ đĩa quang N/ACard đồ họa Intel HD Graphics - Technology DDR3 SDRAM - SharedMàn hình LED HD 14 inch CineCrystal - Active Matrix TFT Color LCD - Resolution 1366 x 768 pixelsÂm thanh High Definition AudioWebcam YesChuẩn WiFi IEEE 802.11 b/g/nNetwork (RJ-45) N/ACổng giao tiếp USB 3.0 / USB 2.0HDMICard ReaderHeadphonesMicrophoneBàn phím Standard full sizeTouchpad Multi-touch TouchpadHệ điều hành Free DOSPin - Battery 4 cell Lithium Ion (Li-Ion)Kích thước 345 x 249 x 30.4 mmTrọng lượng 2.1 kg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.07697,
+         "id": "827114",
+         "field_search": "question",
+         "question": "cho e hỏi từ khi bảo hành bàn phím ở trung tâm bảo hành dell tại hà nội về thì chuột di của e rất chậm.đây là lỗi hay do e cài win ak,e đang dùng win 7 mà trước khi đi bảo hành về máy e chuột di chuyển rất mượt và nhanh.pjo nó chậm đi trông thấy ak",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.059292,
+         "id": "781108",
+         "field_search": "question",
+         "question": "Laptop dell của em đang cài win 8.1 có cạc màn hình 2gb, em có cài NVIDIA GeForce Experience mà sao không thể update driver được, mỗi lần download driver mới là không được, cho hỏi bị lỗi gì vậy, xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.052053,
+         "id": "1157687",
+         "field_search": "question",
+         "question": "e mới mua đt A7 2018 sử dụng được 1 tuần thì thấy jack cắm tai nghe là 3.5mm tai nghe 3.5mm mỗi lần cắm vào tai nghe nó dễ bị tuột lắm ạ. e k biết là do thiết kế máy hay do lỗi jack sạc v ad? e sử dụng tai phone của samsung có sẵn trong hộp phụ kiện luôn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.040623,
+         "id": "928728",
+         "field_search": "question",
+         "question": "Chào ad. Mình mua lap ở Điện máy xanh được 1 năm. Lúc mua được cài win 8.1. Giờ máy cứ hiện lỗi explorer.exe và bị màn hình đen khi khởi động, chỉ thấy trỏ chuột. Giờ mình đến ĐMX cài lại win có bị mất phí ko? Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.958235,
+         "id": "998666",
+         "field_search": "question",
+         "question": "USB 3G xài như thế nào? Có phải là chỉ cần mua cái USB đó rồi cắm vô LAPTOP là xài được luôn hay sao? Hay là cần đóng phí gì không? nếu có thì nó như thế nào? Mình tính mua USB 3G Viettel mà không biết hoạt động thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.915928,
+         "id": "747485",
+         "field_search": "question",
+         "question": "CPU Intel Core i5 4200H 2.8GHz up to 3.4GHz 3Mb  RAM 6...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.86958,
+         "id": "744426",
+         "field_search": "question",
+         "question": "Laptop Acer Aspire Z1402 52KX i5 5200U/4GB/500GBcó sài được chuột không dây không vậy ạ ! Nếu mua thì thegioididong có cài win 8.1 Pro miễn phí không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.84824,
+         "id": "986711",
+         "field_search": "question",
+         "question": "cho mình hỏi mình mới mua máy dell core i3 đã qua sử dụng tại thegioididong. nhưng về cắm tai nghe hay loa vi tính vào máy thì âm thanh không phát vô dược chỉ nghe được ở trong máy tính thôi. vậy có phải do jack cắm trên máy tính bị hư không vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.831312,
+         "id": "816436",
+         "field_search": "question",
+         "question": "Bạn ơi cho mình hỏi mình mua máy tính Acer aspire E5 571 5099 tại TGDĐ giờ mình tìm lại cấu hình máy đó ko thấy. Máy tính mình hơn 1 tháng nay ko dùng được camera vào cứ sáng đèn rồi tắt luôn cho mình hỏi như vậy lỗ gì sửa như thế nào với. Cám ơn bạn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.829927,
+         "id": "869740",
+         "field_search": "question",
+         "question": "mình mới đi sửa ở thế giới di độnng về được cỡ 1 tháng nay lại bị lỗi này nữa. laptop asus win 8mình bật máy khởi động thì chỉ lên được hình cửa sổ windows 8 ban đầu rồi không thấy lên gi nữa, màn hình đen. Máy vẫn nhận chuột, vẫn có hình con trỏ chuột trên máy. Minh thử khởi động lại nhưng không thể vào được safemode, cũng không dùng tổ hợp phím Ctrl + Atl + Del được. Màn hình vẫn đen xì. Cho mình hỏi là máy mình bị làm sao và khắc phục thế nào? Xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.807554,
+         "id": "1151764",
+         "field_search": "question",
+         "question": "Laptop Acer Aspire E5 575G 53EC i5 7200U4GB500GB2GB 940MXWin10NX.GDWSV.007 là xài ram j ạ   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.695839,
+         "id": "1133398",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi là. Em vừa mới mua samsung j6+ nên chưa biết sử dụng rõEm vừa tải game xog mà trog màn hình chính đt thì không có ứng dụng đó nhưng CH play thì để là đã cài đặtVậy làm sao để e đưa ứng dụng đó ra màn hình chính của đt được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.69234,
+         "id": "1146324",
+         "field_search": "question",
+         "question": "Cho tôi hỏi tớ mua Nokia 3 cách đâu 10 tháng bây giờ máy có hiện tượng cắm sạc nạp pin là máy sập nguồn và có lúc không sập máy nhưng khi sử dụng tốc độ rất châm, sau đó đủ pin thì phải khởi động lại . Tôi hỏi cách khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.63472,
+         "id": "905862",
+         "field_search": "question",
+         "question": "tại sao bấm phím f2 f3 ... để giảm tăng âm lượng hay chỉnh sáng tối màn hình không được máy em loại dell ạ và sao chuột không dây của em đang sử dụng bình thường rồi tự nhiên không dùng được nữa!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.570143,
+         "id": "992723",
+         "field_search": "question",
+         "question": "Chào ad cho e hỏi ip6+ của e bị lỗi có sọc trắng trên màn hình mà khi nó xuất hiện thì k di đc cảm ứng đó là do đâu và mất bn tiền nếu sửa e cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

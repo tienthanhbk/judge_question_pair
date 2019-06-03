@@ -1,0 +1,809 @@
+{
+   "id_query": "833506",
+   "total": 32131,
+   "total_current": 100,
+   "max_score": 61.477165,
+   "origin_question": " cho em hỏi đc k ạ. e dùng iphone 5se gọi video mà bên kia k thấy hinh mình ạ ",
+   "hits": [
+      {
+         "score": 61.477165,
+         "id": "833506",
+         "field_search": "question",
+         "question": " cho em hỏi đc k ạ. e dùng iphone 5se gọi video mà bên kia k thấy hinh mình ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.428165,
+         "id": "923364",
+         "field_search": "question",
+         "question": "Tại sao khi em gọi messenger bật video lên e nói bên kia k nghe thấy nghe thấy gì nhưng e vẫn nghe họ nói bình thương ( tắt video tjif gọi bình thường ạ ) e dùng iphone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.659758,
+         "id": "1021620",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi chút ạ.Đt e đang dùng là ip6. Bt e nghe gọi vẫn bt nhưng gọi video qua mesenger(gọi bt vẫn nghe đc nhưng gọi video lại k nge) thì người bên kia k nghe e nói gì. E đã kiểm tra trong cài đặt micro e đã mở rồi nhưng vẫn k được. Cho hỏi đt e bị sao vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.516535,
+         "id": "1014392",
+         "field_search": "question",
+         "question": "làm ơn cho em hỏi. e đang dùng máy tính ASUS. Kki gọi video e nghe rõ người bên kia nói j. nhưng đầu dây bên kia lại ko nghe thấy j ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.787563,
+         "id": "1004957",
+         "field_search": "question",
+         "question": "em có gọi video cho bạn mình nhưng bên kia không nghe thấy thì phải làm sao ạ ????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.366743,
+         "id": "885514",
+         "field_search": "question",
+         "question": " Cho e hỏi, e dùng iphone4 khi gọi messenger thì người bên kia k nge gì cả, mà khi gọi số đt bình thường lại nge dc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.178164,
+         "id": "1023687",
+         "field_search": "question",
+         "question": "E dùng đt samsung tab à ..mà khi mình gọi video trên fb thì e nghe được giọng bên kia nói , nhg bên kia thì không nghe được giọng mình với lại khi gọi đt thì khi e bật loa ngoài thì bên kia không nghe mình nói gì được con k bật loa ngoài thì họ nghe đc bt , vậy là sao ạ mn.. e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.172024,
+         "id": "840672",
+         "field_search": "question",
+         "question": "cho e hỏi với ạe dùng laptop gọi video call or cuộc gọi thoại trên facebook thì mình nghe được người bên kia nói nhưng người bên kia không nghe được mình nói là sao ạ?e cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.658579,
+         "id": "896949",
+         "field_search": "question",
+         "question": "TGDĐ cho e hỏi là máy tính em đang dùng win8...e gọi video qua fb mà e nói nhưng người bên kia k nghe....còn họ nói e vẫn nghe bình thường..cho e hỏi là phải khắc phuc lỗi như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.318558,
+         "id": "813936",
+         "field_search": "question",
+         "question": "Sao e gọi video call trên facebook massenger người bên kia k nghe được tiếng e nói??? Tronh khi gọi điện thoại bình thường vẫn được?? E dùng sky a900 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.265804,
+         "id": "954088",
+         "field_search": "question",
+         "question": " cho mình hỏi tại sao laptop của mình gọi video mà bên kia không nghe thấy mình nói gì là sao vậy??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.233912,
+         "id": "833216",
+         "field_search": "question",
+         "question": "E đang dùng iPhone 6. Lúc gọi Zalo, Facebook,tango, mở loa ngoài mình nói bên kia k nghe thấy j, họ nói mình nge rõ, gọi thường thì mở loa ngoài vẫn nghe nói bình thường, xin cho hỏi máy e bị j ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.126013,
+         "id": "1135675",
+         "field_search": "question",
+         "question": "Tại sao máy em vừa mua ở tgdd khi về nhà gọi nói thì đầu dây bên kia nói mình lại nghe thấy mà mình nói đầu dây bên kia k nghe thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.94478,
+         "id": "839322",
+         "field_search": "question",
+         "question": "Cho mình hỏi:Mình dùng iPhone 5 mình tải line về xong mình gọi cho bạn minh lần đầu thì có chuông xong mấy lần sau gọi k thấy chuông nữa mà nguoi mình gọi cũng k thấy j.Xong nguoi đấy gọi cho mình thì đc gọi video nhé.Mình goi nó như ảnh.Ad giúp hộ cái",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.691055,
+         "id": "1140608",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy nova 3i mình gọi video trên mess và zalo với gọi bình thường mà bật loa ngoài là người bên kia không nghe gì. Còn k gọi video và k bật loa ngoài là vẫn nghe bình thường là do gì vậy??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.626558,
+         "id": "833508",
+         "field_search": "question",
+         "question": "ĐT e vừa mua ở tgdd hàng đổi trả E dùng vấn bt nc ks nhưng e gọi video call messigger thấy mặt nhau nhưng lúc e nói đầu dây bên kia lại k nghe thấy e đang thắc mắc ĐT e có bị hỏng gì k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.56669,
+         "id": "1021440",
+         "field_search": "question",
+         "question": "cho mình hỏi với, mình mới mua điện thoại j7 pro, hôm nay gọi điện mà đầu bên kia k nghe thấy là lỗi gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.4161,
+         "id": "1151169",
+         "field_search": "question",
+         "question": "cho mình hỏi chút ạ mình dùng máy ip6s plus mà khi goi video bằng mesenger hoặc zalo mình nói mà bên kia ko nghe thấy là tại sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.073967,
+         "id": "929057",
+         "field_search": "question",
+         "question": "cho e hỏi là sao khi e gọi video trên laptop, e nghe rõ tiếng người bên kia nhưng họ lại k nghe được e nói gi? cách khắc phục là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.391088,
+         "id": "1019798",
+         "field_search": "question",
+         "question": "cho em hỏi tại sao em gọi trên zalo bên kia nghe mà em nói mà bên kia nói em ko nghe được. em đang dùng con XA1 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.37766,
+         "id": "895505",
+         "field_search": "question",
+         "question": " tại s máy dell i3 gọi video thì bên kia k nghe được ad ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.326143,
+         "id": "1011314",
+         "field_search": "question",
+         "question": "QTV cho e hỏi, dây phone của Em bây giờ nghe cứ chập chờn bên nùa nghe đc nhưng bên kia lại k nghe đc vậy có đc đổi lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.0589,
+         "id": "816589",
+         "field_search": "question",
+         "question": "Cho hỏi mình dùng iphon 6+ mình gọi zalo, facebook, thi đầu dây bên kia k nghe dk ma minh vẫn nghe tốt, gọi điện bình thường thi bên kia cung nghe dk chi goi zalo với facebook ben kia la k nghe dk",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.555351,
+         "id": "864722",
+         "field_search": "question",
+         "question": "Message vs viber gọi video bên kia nói mình nghe nhưng mình nói bên kia không nghe.nhưng gọi không thì nghe.chỉ gọi video là không nghe thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.531887,
+         "id": "837872",
+         "field_search": "question",
+         "question": " em dùng chiếc hkphon h8 3gvậy em có gọi meesingger video đc k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.446531,
+         "id": "880492",
+         "field_search": "question",
+         "question": " Cho em hoi sao e tải viva video cho iPhone 4s k đc ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.326336,
+         "id": "884327",
+         "field_search": "question",
+         "question": "e dùng laptop win 10 khi gọi video call trên fb thì ng bên kia ko nghe đc tiếng e nói nhưng e vẫn nghe đc tiếng ng đó nói. QTV giúp e khắc phục lỗi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.241552,
+         "id": "916413",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi tại sao tại nghe của máy Lenovo a2010 mình dùng lúc gọi điện khi nói thì bên kia đường dây họ lại k nghệ thấy j là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.852886,
+         "id": "1020642",
+         "field_search": "question",
+         "question": "laptop mình khi gọi video có nghe thấy nhìn thấy ........bên kia.thì k hiện hình và ko nghe thấy zì là sao......  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.647736,
+         "id": "873616",
+         "field_search": "question",
+         "question": "A ơi. E gọi FaceTime nhưng bên kia k nghe đc tiếng. Vào micro thì ntn. E muốn bật FaceTime của micro thì làm thế nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.12444,
+         "id": "1163930",
+         "field_search": "question",
+         "question": "Mình đang dùng iphone 6 mà gọi messenger đầu kia không nghe thấy mình nói gì. Còn gọi bình thường vẫn nghe rõ. Thế điện thoại mình bị sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.05843,
+         "id": "945837",
+         "field_search": "question",
+         "question": "ad cho mình hỏi mình gọi face time thì 2 bên đều nghe rất rõ nhưng gọi face book thì mình nói bên kia ko nghe thấy gì nhưng bên mình thì nghe bình thường , mình dùng máy iphone 5",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.02015,
+         "id": "1165382",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi bên tgdd với chuỗi đmxanh mình có liên kết với công ty thương mại dịch vụ product không ạ? Cty Kêu có chương trình giới triệu sphẩm mới cho các khách hàng không ạ, cty đó có chương trình tặng phiếu mua hàng 4 triệu k ạ, được qui đổi sang đồng hồ đeo tay cho KH k ạ. Em đc cty gọi và đc tặng pmh mà k biết đúng k ạ? 02862853406 - 02822538395 2sdt của cty gọi cho e đây ạ? Bên mình tư vấn giúp em với ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.942728,
+         "id": "858607",
+         "field_search": "question",
+         "question": " CHO HỎI MÌNH DÙNG ĐIỆN THOẠI OPPO f1 KHI GỌI VIDEO VIBER KHÔNG CÓ HÌNH CỦA NGƯỜI BÊN KIA LÀ LỖI GÌ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.533606,
+         "id": "922937",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao mình gọi viber ,bên kia bắt máy nhưng mà mình bật video lên thì nó báo hiện tại số đien thoại này ko thể gọi video ,nhưng người bên kia không biết gì về thông báo đó ,rồi một lát sau lại gọi được vậy là bị gì vậy ,giup mình vơi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.500414,
+         "id": "1015814",
+         "field_search": "question",
+         "question": "Mình hiện có đt iPhone 5se mới mua đc 9 tháng mình muốn đổi đt và trả góp có đc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.481245,
+         "id": "843224",
+         "field_search": "question",
+         "question": "Ad ơi cho mình hỏi. Mình gọi video call bang mesenger.nhưng cứ bật video lên là đầu bên kia không nghe được gì.tắt video đi lại nghe được.mình đã xoá và tải lại mà vẫn không được.ad jup mình với.m dùng iphone5s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.337095,
+         "id": "758826",
+         "field_search": "question",
+         "question": "iPhone có 2 hay 1 micro vậy? Em nghe gọi nói chuyện thoải mái, nhưng khi dùng ứng dụng Messeger facebook nói chuyện Video loa ngoài thì bên kia không nghe thấy gì, nói chuyện loa trong bên kia lại nghe rõ bình thường? các ứng dụng khác phát loa ngoài rồi nói bên kia cũng không nghe thấy gì (thử facetime loa ngoài bên kia vẫn nghe bình thường).",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.31301,
+         "id": "1162184",
+         "field_search": "question",
+         "question": "cho em hỏi em dùng iphone 8 plus mà em k đăng nhập đc vào appstori  và k truy cập đc trang wep , thì phải làm sao ạ ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.27546,
+         "id": "1023996",
+         "field_search": "question",
+         "question": "E đang dùng ip5s nhưng 2 ngày nay khi gọi điện hay có cuộc gọi tới bắt máy vẫn nhảy giây bình thường nhưng mình ko nge đc ..và nói bên kia cũng không nge đc ...nhưng thử gọi zalo , faccebook ..vẫn nge vs nói đc ạ ...cho e hỏi vậy là bị gì ạ ..e cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.253382,
+         "id": "1141089",
+         "field_search": "question",
+         "question": "Hiện tại máy iphone 5s mình bị lỗi gọi video nói chuyện bên kia không nghe, quay video cũng không có âm thanh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.23034,
+         "id": "842391",
+         "field_search": "question",
+         "question": "Oppo f1 của e sao phần mềm fb zalo k gọi đk. Kết nối đk mà mình nghe được. Còn bên kia đầu dây không nghe tiếng mình nói.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.221949,
+         "id": "1001055",
+         "field_search": "question",
+         "question": "xiaomi 4a của e cắm tai nghe nhạc xem phim bình thuờng như khi gọi video call thì chỉ nghe bên kia nói mình nói lại ngta k nghe dc e đã kiểm tra micro trog cuộc gọi tất cả nhưng vẫn k dc máy e mới mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.015062,
+         "id": "749049",
+         "field_search": "question",
+         "question": " Cho e hỏi oppo neo7 gọi video đk k ạ...nếu được thì mình phải làm sao...ad cho mình biết nha? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.922438,
+         "id": "878208",
+         "field_search": "question",
+         "question": " Cho e hỏi..ip 5s 16GB e mua đc 6 tháng r..h e mún đổi mua ip 5se..v có trả góp đc k v ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.828259,
+         "id": "1146886",
+         "field_search": "question",
+         "question": "E dùng đt Xiaomi red mi 5A kết nối wifi đc nhưng khi vào fb vẫn lướt đc mà k xem video đc  k xem đc youtobe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.713495,
+         "id": "1012759",
+         "field_search": "question",
+         "question": "Em đang dùng ip6, máy em gọi video Call trên messenger ko thấy hiện hình nhưng máy khác gọi thì thấy được. Cho em hỏi máy em bị làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.687643,
+         "id": "1138246",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua nova3i ở thế giới di động nhưng sài thấy pin tụt hơi nhanh, không biết phải bị lỗi do máy k ak? Mình dùng 3g lướt fb, yotube... Gọi video fb k dùng game nặng ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.676445,
+         "id": "793617",
+         "field_search": "question",
+         "question": " cho e hỏi bên tgdd có bán iPhone 6 cũ k, có trả góp đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.648577,
+         "id": "1137732",
+         "field_search": "question",
+         "question": "Cho e hỏi điện thoại e sao trong cuoc gọi e nghe đc nta nói mà sao họ k nghe đc mình nói",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.592323,
+         "id": "885014",
+         "field_search": "question",
+         "question": "ad cho e hỏi e gọi facetime cho người khác họ k nghe thấy e nói mà e nghe thấy họ nói lỗi này là sao ạ e dung iphone5 nhé gọi điện mic thoại vẫn oke",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.401121,
+         "id": "1012758",
+         "field_search": "question",
+         "question": "Em đang dùng ip6, máy em gọi video Call trên messenger ko thấy hiện hình nhưng máy khác gọi thì thấy được. Cho em hỏi máy em bị làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.262386,
+         "id": "1019825",
+         "field_search": "question",
+         "question": "cho e hỏi bị mất icon danh bạ với cuộc gọi mà k tìm thấy trong ứng dụng thì làm sao để lấy lâij đc .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.18033,
+         "id": "988179",
+         "field_search": "question",
+         "question": "Mình xài iPhone 6 , gọi messenger với Zalo bấm loa ngoài hay video thì nói bên kia không nghe còn bên kia nói mình vẫn nghe bình thường . Còn mình gắn dây phone vào hay gọi bình thường không video không loa ngoài thì bình thường không bị gì hết  Gọi FaceTime củng bình thường không có lỗi vậy cho mình hỏi đó có phãi chịu chứng lỗi main không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.17858,
+         "id": "1157915",
+         "field_search": "question",
+         "question": "Add cho e hỏi,bên mình có iphone X 64gb củ k ạ?giá Bn ạ?em cam ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.052752,
+         "id": "890187",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại của mình gọi video từ messenger(fb) mình nói thì bên kia không nghe được.còn họ nói thì mình vẩn nghe.trong khi micro vẩn cho truy cập bình thường.gửi tin nhắn thoại thì vẩn ghi âm bình thường.chỉ riêng cái gọi video fb và đọc chính tả của apple là k ghi được.Iphone 6plus ios10",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.010979,
+         "id": "1159279",
+         "field_search": "question",
+         "question": "Dt e cứ báo chặn cuộc gọi từ 1 số nhưng e xem trong danh bạ lại k có thông báo chặn thì lm như nào để số bên kia gọi đk ạk. E đang dùng a7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.004423,
+         "id": "1016168",
+         "field_search": "question",
+         "question": "Em dang dùng j2 prime mới mua dc nửa tháng bh em dùng facebook gọi video mà nó cứ tối om màn hình của người nhận cuộc gọi. Máy a dùng bt thì k sao nhưng cứ gọi là ng nhận chỉ thấy tổi và nhìn dc một ít hình a từ may e thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.90818,
+         "id": "815251",
+         "field_search": "question",
+         "question": "Mình đang dùng oppo f1, máy của mình khi gọi zalo và fb thì đầu dây bên kia k nghe đc (điện thoại vẫn nghe gọi bt nhé), đã gỡ đi , cài lại vẫn bị tình trạng như cũ, mình phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.837135,
+         "id": "948243",
+         "field_search": "question",
+         "question": " cho e hỏi sao fb của e người khác gọi đến thì k báo cuộc gọi mà toàn thành gọi nhỡ nhưng mình gọi đi thì vẫn được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.806639,
+         "id": "1008765",
+         "field_search": "question",
+         "question": "Mình đang dùng 6s+ khi gọi video call thì nghe bên kia nói và mình trả lời lại thì bên đó thì không nghe mình có vào setting -> micrô tắt xong bật lại và reset nhưng gọi vẫn tình trạng ban đầu ạ mong các mod giúp mình ạ :(",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.803465,
+         "id": "980925",
+         "field_search": "question",
+         "question": "anh ơi e hỏi e dùng e dùng laptop win7 khi em gọi video hoặc gọi thoại trên facebook cho máy khác thì họ không nghe được e nói gì mà em vẫn nghe được họ nói là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.733923,
+         "id": "912628",
+         "field_search": "question",
+         "question": "làm ơn cho mình hỏi mình đang dùng laptop Lenovo mà mình gọi facebook, skype, zalo,.... mà đầu dây bên kia không nghe mình nói. Cho mình hỏi lý do tại sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.623394,
+         "id": "1140711",
+         "field_search": "question",
+         "question": "Cho E hỏi E có đặt mua 1c đt vismart1 nhưng k thấy bên tgdd gọi điện chốt hàng. K biết sp có hàng hay có trục trặc gì k. Để E biết và mua khác. Tks ạ. Đuôi sdt 0961.xxx.061",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.623043,
+         "id": "792911",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4, phần mềm 7.1.2, khi gọi video bằng ứng dụng line thì bên người nghe không nghe thấy tiếng mà vẫn nhìn thấy hình. Xin quản trị viên hỗ trợ dùm mình. Thanks bạn nhé",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.603167,
+         "id": "1016531",
+         "field_search": "question",
+         "question": "Cho em hỏi e mới mua chiếc iPhone 5s mà lúc e k dùng điện thoại mà pin vẫn giảm mà còn giảm nhanh bây giờ e đi đổi cái khác có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.507914,
+         "id": "1136700",
+         "field_search": "question",
+         "question": " Cho e hỏi ! có video gửi qua mess cho e nhưng e k nghe đc âm thanh thì phải alfm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.496992,
+         "id": "1020755",
+         "field_search": "question",
+         "question": "em đag xài lap asus, cho hỏi sao khi em gọi messenger thì bên kia họ k nghe được em nói ạ? em đã thử tắt máy mở lại. Em mua máy ở nha trang, hiện đag ở sài gòn thì có được bảo hành k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.496702,
+         "id": "946156",
+         "field_search": "question",
+         "question": "Tại sao khi mình gọi ft mà bên kia k nghe được mình nói, mình đã tải lại và cập nhật phiên bản mới nhất của Messenger rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.491632,
+         "id": "999681",
+         "field_search": "question",
+         "question": "Mình dùng iphone 4s khi nói chuyện Facetime mình nói nhưng đầu dây bên kia không nghe thấy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.4515,
+         "id": "996809",
+         "field_search": "question",
+         "question": "Mình dùng oppo a37, 3 hôm nay khi gọi đi hay nhận cuộc gọi đến bên kia đều không nghe thấy tiếng bên mình còn mình nghe rất rõ, gọi qua Wi-Fi cũng bị, nhưng đeo tai nghe thì bị. Cho mình hỏi là tại sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.408436,
+         "id": "995762",
+         "field_search": "question",
+         "question": "Các anh cho e hỏi e dùng iphone 4 mà ngày nào e cũng dùng kiệt pin r ms sạc k bt như thế có hại pin k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.332863,
+         "id": "841824",
+         "field_search": "question",
+         "question": "em dùng ip6 ... không hiêu sao k xem đc video tự quay. bấm vào video đó nó có vòng xoay như load mạng, đợi mãi cũg k xem đc. ??? ai giúp e trl vs ... e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.320755,
+         "id": "988183",
+         "field_search": "question",
+         "question": "Mình xài iPhone 6 , gọi messenger với Zalo bấm loa ngoài hay video thì nói bên kia không nghe còn bên kia nói mình vẫn nghe bình thường . Còn mình gắn dây phone vào hay gọi bình thường không video không loa ngoài thì bình thường không bị gì hết  Gọi FaceTime củng bình thường không có lỗi vậy cho mình hỏi đó có phãi chịu chứng lỗi main không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.295536,
+         "id": "1012760",
+         "field_search": "question",
+         "question": "Mọi người cho mk hỏi tại sao 2 thuê bao k thể gọi cho nhau. Lúc gọi cho máy bên kia chưa rung chuông đã báo cuộc gọi kết thúc r là s...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.276821,
+         "id": "928866",
+         "field_search": "question",
+         "question": " choi hỏi iphone 4 có tải video lên facebook đc k và gửi trong messen đc k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.274387,
+         "id": "874866",
+         "field_search": "question",
+         "question": "mình sử dụng iphone 5, có nhiều lúc sim điện thoại có sóng nhưng mình nhắn tin hay gọi điện thoại cho người khác không được, và có tình trạng mình nghe đầu dây bên kia nói rất rõ nhưng mình nói thì bên kia k nghe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.223883,
+         "id": "1019629",
+         "field_search": "question",
+         "question": "Cho e hỏi pin y325 10.000mah có đi chung vs dây cáp k ạ? Tại hôm bữa e mua mà k thấy có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.203451,
+         "id": "939027",
+         "field_search": "question",
+         "question": " Ad cho e hỏi em xóa hội thoại trên messenger rồi thì người bên kia có nhìn thấy nữa không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.200836,
+         "id": "1144321",
+         "field_search": "question",
+         "question": "Cho e hỏi còn iphone 7 plus cũ k ạ ! Và giá bên mình là bn ạ ! Máy 32gb ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.193369,
+         "id": "1023198",
+         "field_search": "question",
+         "question": "qtv ơi bên thế giới di động có cho vay tiền mặt phải k ạ. cứ 1 2 ngày là có người gọi hỏi có muốn tham gia vay k. 2 hôm nay có số xxxx2888628 gọi e. cho e hỏi số này phải số của bên thế giới di động k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.142094,
+         "id": "1167401",
+         "field_search": "question",
+         "question": "cho em hỏi là dòng xiaomi redmi 32G khi mua có kèm tai nghe k ạ, em thấy bên phần mở hộp k có ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.133307,
+         "id": "1000173",
+         "field_search": "question",
+         "question": "e mua hàng thì bên mình có chuyển đi k ạ...nếu k đến đc nơi để mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.11115,
+         "id": "1131793",
+         "field_search": "question",
+         "question": "Cho e hỏi đt cũ của e bị bể e thay đt mới cũng hãng samsung luôn. Em nhớ tk samsung account của máy cũ thì e vào có thấy hình ảnh máy bên kia còn trong samsung cloud nhưng k sao lưu đc. Vậy làm sao để lưu hình về lại v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.093899,
+         "id": "1016198",
+         "field_search": "question",
+         "question": "ADM cho mình hỏi. Mình dùng máy SamSung S6 khi gọi điện mình nghe rõ còn đầu dây ben kia không nghe thấy gì. là bị làm sao ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.08143,
+         "id": "885425",
+         "field_search": "question",
+         "question": " Mobistar lai zum j gọi video trog messeger đc k ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.078579,
+         "id": "1001337",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới mua ip 6s dc 2 ngày r mà khi gọi nghe đầu dây bên kia nc rất nhỏ. Đó là do máy hay mạng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.075018,
+         "id": "1160535",
+         "field_search": "question",
+         "question": "cho hỏi sao iphone 7 plus mình chạy ios 10 . khi quay video camera trước không có âm thanh mà chỉ nghe đc xoè xoè . khi dùng app khác quay video camera trước lại nhận âm thanh bình thường . mình đã test 3 mic trên đt nghe gọi và ghi âm bình thường , và đã reset như mới mà vãn z / k biết đay là lỗi gì ạ . cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.05674,
+         "id": "1019734",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại e mới mua mà e thấy tụt pin nhanh thì có được đổi k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.037006,
+         "id": "844981",
+         "field_search": "question",
+         "question": "Điện thoại htc d728x của e gọi nói chuyện bình thường vẫn được. Sao e bật video ở messenger mí line lên lại k nghe thấy gìMọi ng cho e biết lí do và cách sửa vớiE xóa messenger đi cài đặt lại mà vẫn k được các bác ạ :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.977777,
+         "id": "996319",
+         "field_search": "question",
+         "question": "Laptop của em khi gọi video thì nó ko có hình ảnh... nhấn vào biểu tượng video thì nó hiện lên không tìm thấy máy ảnh của bạn.. kết nối với máy ảnh của bạn.. là sao vậy ạ mà e dùng những cái khác như chụp ảnh thì vẫn sử dụng webcam bình thường còn gọi video trên facebook thì ko dùng đc.. mọi người giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.97238,
+         "id": "996001",
+         "field_search": "question",
+         "question": "Cho mình hỏi là sao k đăng nhập được vào iTunes nó chỉ hiện ẩn thế kia k ấn vào đc ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.93465,
+         "id": "1160073",
+         "field_search": "question",
+         "question": "Chào add! Mình muốn hỏi iPhone 4 có gọi video thông qua ứng dụng đuoc hay k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.904446,
+         "id": "1022634",
+         "field_search": "question",
+         "question": "shop ơi cho e hỏi sao máy tính e đăng nhập vào gmail để cahyj các bài giảng video của e trên drive mà  k chạy đuovự video là sao hả . giúp e dk k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.838688,
+         "id": "1148540",
+         "field_search": "question",
+         "question": "Mình mua đt samsung a7 2018 hàng đổi trả chưa đcc. 1 tháng. Gọi video cho bạn mà bên kia ko nghe tiếng, gọi bth thì ko sao. Ad cho kình hỏi trường hợp này nên làm ntn? Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.835318,
+         "id": "746007",
+         "field_search": "question",
+         "question": "Cho e hỏi e mới dùng galaxy a8 dc 3 hôm. Nhưg khi e thực hiện cuộc gọi video trong ứng dụng viber thì hôk thấy có video. Và hiện lên dòg chữ đó. Qtv có thể cho e biết lý do đc ko ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.825352,
+         "id": "925813",
+         "field_search": "question",
+         "question": "admin cho mình hỏi: sao icloud của mình sao lưu ảnh đc 2 máy iPhone 6s mà mình nhập vào iPhone 7 plus sao k thấy sao lưu ảnh đc vao máy nhi? admin giải thích dùm minh với đc k?Xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.77625,
+         "id": "1020139",
+         "field_search": "question",
+         "question": "Cho mình hỏi các dòng máy sam sung androi ngày trước từ s5  đảo lai đều goii video khi bấm số đee gọi bên cạnh nút gọi có phím gọi video ý gọi đc rất ngon. Mà giơg minh mua s6 sao ko goii được nửa nhỉ. Có 3g mà",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.773108,
+         "id": "881615",
+         "field_search": "question",
+         "question": " cho e hỏi sao máy em có kiết nối wifi vào đc goolge mà vào zalo, fb k vào đc rồi báo k có kết nối ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.709282,
+         "id": "986214",
+         "field_search": "question",
+         "question": "Cho e hoi ạ. E dùng ip6plus đc gần 1 tháng. Mọi thứ vẫn bt. Tự nhiên bây giờ gọi bên mesenger. Mở loa ngoài hay video thì mình nói họ ko nghe. Ko mở loa thì nghe bt là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

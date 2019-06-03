@@ -1,0 +1,809 @@
+{
+   "id_query": "871512",
+   "total": 35145,
+   "total_current": 100,
+   "max_score": 156.54042,
+   "origin_question": "Cho em hỏi, Laptop của em là Acer như trong hình, 2 hôm trước em đang dùng bình thường, bỗng dưng máy tắt và phải cắm điện trực tiếp mới dùng được vì hình như máy không nhận pin. Cho em hỏi là máy hư gì vậy ạ? Em mua máy vào tháng cuối tháng 3/2016. Em mua máy ở chi nhánh Cao Lãnh và hiện tại em ko có giấy tờ mua máy thế thì có được bảo hành ko ạ? Và có mất tiền ko ạ?",
+   "hits": [
+      {
+         "score": 156.54042,
+         "id": "871512",
+         "field_search": "question",
+         "question": "Cho em hỏi, Laptop của em là Acer như trong hình, 2 hôm trước em đang dùng bình thường, bỗng dưng máy tắt và phải cắm điện trực tiếp mới dùng được vì hình như máy không nhận pin. Cho em hỏi là máy hư gì vậy ạ? Em mua máy vào tháng cuối tháng 3/2016. Em mua máy ở chi nhánh Cao Lãnh và hiện tại em ko có giấy tờ mua máy thế thì có được bảo hành ko ạ? Và có mất tiền ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.431725,
+         "id": "1020164",
+         "field_search": "question",
+         "question": "chào a/c e mới mua máy sony xperia XA cũ và đc bảo hành đến 10 tháng( em mới mua dt vào giữa tháng 8). nhưng sau đó e có để giấy tờ bảo hành trong hộp đt nhưng con bé nhà em nó lục ra phá và làm mất giấy bảo hành của em rồi. hiện tại màn hình máy e bị đơ ở góc màn hình và e muốn đc bảo hành. có cách nào cho em không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.25687,
+         "id": "1162591",
+         "field_search": "question",
+         "question": "cho em hỏi là em có mua Iphone 6s plus lúc tháng 9, máy mới 100%, nhưng hiện tại máy xuống pin rất nhanh và dùng tầm 10 phút máy hơi bị nóng thì có đc bảo hành thay pin mới ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 69.116135,
+         "id": "965162",
+         "field_search": "question",
+         "question": "Em mới mua con ASUS core i5-62000U,tên nó là DESKTOP-SD3LBC8 đang chạy win10.. hôm qua em có cắm sạc để sạc pin từ chiều đến tối rồi quên rút sạc để đến sáng nay... lúc nãy rút sạc ra thì bật máy không lên,khi em cắm sạc vô thì máy lên và hoạt động bình thường,cho em hỏi vậy là máy bị lỗi pin hay bị gì ạ...Vì mới mua đầu tháng 3 nên em có thể đem ra TGDĐ để trực tiếp chỉnh máy hay không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.63187,
+         "id": "1015305",
+         "field_search": "question",
+         "question": "Máy em mua đang trong tg bảo hành,  và em có dán màn hình ở thegioididong,  miếng dán của em bị bong, em muốn dán lại thì có mất tiền ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.63514,
+         "id": "772636",
+         "field_search": "question",
+         "question": "Cho em hỏi,  của em mới thay pin 1 tháng, sạc thì điện thoại  nhưng , rút sạc ra thì máy tắt nguồn. Và cắm sạc lại thì vẫn như vậy.Với  bị vô hiệu hoá (bật/ tắt không được) vậy cho em hỏi máy bị gì ạ? Và sửa phải mất bao nhiêu tiền? !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 66.5662,
+         "id": "806677",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi là bên TGDD có nhận restore cho iphone không ạ (máy em mua ở tgdd và còn bảo hành ạ), tại vì em không biết restore và sợ hư hỏng hoặc gặp vấn đề gì về máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.72261,
+         "id": "1009573",
+         "field_search": "question",
+         "question": "Em có mang một chiếc laptop Asus đi bảo hành hôm 26/07 và nhận giấy hẹn là ngày 10/08 đến nhận máy. Hôm nay là đúng 1 tuần rồi em mới nhận được điện thoại từ trung tâm bảo hành và họ nói là mất 3 tuần để sữa chữa nữa??? Trong trường hợp này thì em có thể nhận được máy đúng hẹn không ạ? Vì em chuẩn bị đi học rồi và không thể ở nhà 3 tuần nữa để nhận máy được đâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.62851,
+         "id": "1001648",
+         "field_search": "question",
+         "question": "shop cho em hoi là em muốn mua máy iphone 6s plua 32 gb củ của bên chi nhánh thuận an mà nhà em thì ở bình phước khác tỉnh  nếu em chạy xuống chi nhánh mua máy thì sau khi mua máy em có được bảo hành tại chi nhánh noi em ở tức là ờ bình phước khong   ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.10942,
+         "id": "1009877",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy em mua trong thegioididong và còn bảo hành,giờ máy em bị hỏng và sửa tại thegioididong thì có bị mất phí sửa ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.091,
+         "id": "990924",
+         "field_search": "question",
+         "question": "Cho em hỏi, em muốn đổi F1s 2017 sang F3 thì bù nhiều không ad ? Máy em mới dùng được khoảng 3 tháng, phụ kiện và hộp, giấy tờ bảo hành còn nguyên ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.14475,
+         "id": "1019649",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi, em mới mua máy bên mình được 3 tháng thì hôm nay phát hiện có vệt đen trên màn hình.Máy của em là máy Asus. Thì bây giờ phải làm như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.991478,
+         "id": "919129",
+         "field_search": "question",
+         "question": "ad cho em hỏi là tháng trước em có mua laptop hiệu asus tại thegioididong. Nhưng ngày hôm nay cắm sạc vào ổ điện thì nó nổ cục sạc, không bị gì máy cả. Vậy em có được bảo hành đổi lại cục sạc được không???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.59396,
+         "id": "1134775",
+         "field_search": "question",
+         "question": "Cho em hỏi. Iphone X em mới mua ở tgdd dc hơn 3 tháng. Tự nhiên bị đen màn hình. Restore k đc. Máy k bị rơi hay va đập gì cả. Cắm vô máy tính cũng k nhận là bị gì ạ. Em hiện tại đang ở nhật. Có thể đến app bảo hành dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.563,
+         "id": "772631",
+         "field_search": "question",
+         "question": "Cho em hỏi, iPhone của em mới thay pin 1 tháng, sạc thì điện thoại hiển thị đang sạc nhưng không vào pin, rút sạc ra thì máy tắt nguồn. Và cắm sạc lại thì vẫn như vậy. Với wifi bị vô hiệu hoá (bật/ tắt không được) vậy cho em hỏi bị gì ạ? Và sửa phải mất bao nhiêu tiền?Em xin cảm ơn!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.54336,
+         "id": "928919",
+         "field_search": "question",
+         "question": "Chào anh/chị.Em mới mua máy iphone 6s hôm 19/10 vừa rồi đến nay là được 2 tháng. Cách đây khoảng 1 tháng, máy em có hiện tượng bị lỗi loa. Cụ thể là loa bị rè, phát tiếng rất to khi cắm tai nghe. Có lúc còn bị mất hẳn loa, khi goi điện thoại phải bật loa ngoài, còn nếu không thì không nghe thấy gì hoặc bị rè rất khó chịu. Em có mang máy đến Trung tâm BH thì có chị bên Bảo hành bảo em là có thể máy em bị xung đột phần mềm. Cần đặt lại cài đặt. Xong chị ấy đặt lại cài đặt cho em thì em mang về dùng ko thấy hiện tượng ấy nữa. Khoảng được 2 tuần sau thì lại bị lại. Sau khi khởi động lại máy thì lại trở về bình thường nhưng vài ngày sau lại bị lại. Hiện tại máy em đang là ios 10.0 và em ko muốn nâng cấp phần mềm. Vậy cho em hỏi máy em bị sao ạ.Em đã từng mua 1 máy 6s hồi tháng 8 vừa qua nhưng cũng bị lỗi loa rè như vậy. Và đây là cái máy thứ 2 của e cũng bị lỗi như vậy. Và máy em là máy bóc hộp mới nguyên ạ.Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.922985,
+         "id": "1134856",
+         "field_search": "question",
+         "question": "anh chị ơi giúp em với hiện tại em đang sử dụng oppo a3s và mới mua được 2 tháng và nếu hiện tại em sạc đầy 100 % pin trước khi đi ngủ và khi dậy chỉ còn 48 % thì máy của em đang bị làm sao ạ , và dù cho em không sử dụng máy thì vẫn hết pin ạ dưới đây là ảnh chụp màn hình về tiêu thụ điện năng máy của em ạ ac xem giúp em sửa máy với ạ em cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.511894,
+         "id": "992683",
+         "field_search": "question",
+         "question": "Cho em hỏi! Em mua điện thoại ở tgdd nghệ an!  Hiện tại em đang ở huế! Máy em mua là lenovo p70A , dạo này máy có biểu hiện sạc không vào bin và thường xuyên nhanh hết pin!  E muốn mang đi bảo hành nhưng ra lại nghệ an xa quá!  Và em đã mất phiếu bảo hành!  Hiện tại máy e còn bảo hành đến 25 /6/2017. Vậy cho e hỏi e có thể bảo hành ở tgdd tt huế k ạ!  E cảm ơn. Dưới là ảnh IMEI của máy e ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.4968,
+         "id": "926773",
+         "field_search": "question",
+         "question": "cho em hỏi là máy laptop em hiện đang chạy win 10 và em muốn hạ cấp nó xuống cỡ win 7 hoặc 8.1 có được ko ạ?? nếu được thì em đem ra thế giới di động cài thì có tốn tiền ko ạ?? ( máy laptop này em mua ở thế giới di động luôn ạ)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.10355,
+         "id": "1009834",
+         "field_search": "question",
+         "question": "Cho em hỏi, điện thoại em đang dùng là Lenovo A7010. Hiện tại máy em không thể download bất kỳ file gì cả trên web lẫn trên mail. Em chụp ảnh (máy ảnh và chụp màn hình) cũng không lưu được. Vậy cho em hỏi máy em bị lỗi gì và sửa như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.957176,
+         "id": "1003566",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại của em mới mua được gần 3 tháng và bị bể màn hình cho em hỏi chính sách bảo hành của TGDD có bảo hành và thay màn hình miễn phí không vậy ạ ? Em cảm ơn .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.585995,
+         "id": "1003619",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi mấy tháng trc em có rinh 1 con 5s tại TGDD ở đường Phạm Văn Thuận TP Biên Hòa Tỉnh Đồng Nai ! Mà em sài chừng nửa tháng iphone có dấu hiệu bất thường Đầu tiên là em vào phần giới thiệu chung của máy em thấy tên máy là VN Iphone 's mà không phải là Iphone như mấy cái máy khác ạ ?... Khi em tải app Snow về lúc mới mua sài thì thấy khoảng 5ph máy nóng nên em nghĩ là không có gì bất thg chơi lâu nên nóng thôi nhưng mà nửa tháng sau em mở app lên chụp hình thử khoảng 1ph - 2ph thì thấy máy nóng rồi tự dưng   máy hiện lên màn hình xanh nước biển r tắt r hiện lên trái táo r bật nguồn lại xong em lại mở vào thử nữa thì máy vẫn bị tiếp tục như vậy nên em quyết định đem máy lên TGDD để hỏi thì nhân viên bảo là gửi trung tâm bảo hành để họ sửa r tầm tháng 4 em lên nhận máy thì đc đổi 1 máy mới toanh nhưng lại không nằm trong hộp ạ ? Ad có thể giải thích cho em vì s kh ạ ? Nếu hãng đổi máy mới thì hãng đổi kèm luôn hộp cho em chứ ạ mà s lại kh có hộp ạ ? Và máy của hãng đổi có phải là máy chính hãng không ạ và được xuất xứ ở đâu v ad ? Rồi em đem về sài thì em đăng nhập lại bằng id cũ của mình để vào app store tải game .... thì em thấy máy cái game mà trong máy cũ của em đã được đổi lại nằm trong máy mới này đấy là do game nằm theo id hay là game nằm trong máy vậy ad nhỉ ?? Và mỗi iphone đều có imei khác nhau đúng không ạ và imei đó có thể thay đổi đc kh ad ??? Mong ad phản hồi ạ em cảm ơn ^^",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.449226,
+         "id": "1134321",
+         "field_search": "question",
+         "question": "Trung tâm bảo hành của msi laptop em mua tại tgdd là ở đâu vậy ạ, em muốn đến trung tâm để trực tiếp bảo hành cho máy em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.409386,
+         "id": "1011743",
+         "field_search": "question",
+         "question": "em mới mua máy và mới dán keo điện thoại ở thế giới di động nhưng nó bị tróc ra và em lột miếng dán cả hai mắt điện thoại ra như vậy có được dán lại miễn phí không  Bảo hành 3 tháng là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.353382,
+         "id": "997185",
+         "field_search": "question",
+         "question": "Điện thoại j5 (2016) của e thường xuyên bị hiện quảng cáo, có nhiều lúc hiện trắng màn hình ko bấm trở về được, ko tắt nguồn đc phải tháo pin ra và khởi động lại, cho e hỏi như vậy là bị gì và TGDĐ có bảo hành vs máy bị như vậy ko ? E cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.337955,
+         "id": "788623",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi.. Em mới mua máy Iphone 5s Gray 16GB ở Thế Giới Di Động... Em Còn toàn bộ giấy tờ,phiếu bảo hành, máy còn mới như vừa mới mở hộp.Giờ em muốn trả lại cửa hàng để hoàn tiền thì e chịu lỗ bao nhiều % và tính sao ạ.. 2 tuần trước e mua là 8 Triệu 490 nghìn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.283924,
+         "id": "1134323",
+         "field_search": "question",
+         "question": "Trung tâm bảo hành của msi laptop em mua tại tgdd là ở đâu vậy ạ, em muốn đến trung tâm để trực tiếp bảo hành cho máy em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.119705,
+         "id": "1135919",
+         "field_search": "question",
+         "question": "cho em hỏi ạj4 2018 em mua đc gần 6 tháng rồi,hôm nay bị vỡ hình như là vỡ màn trong và pin bị biến dạng rồi,vỏ thì bị sứt,,có vẻ thân máy bị cong hành chữ S,bây giờ sửa thì tốn nhiều k ạ,mà hình như có bảo hiểm rơi vỡ trong 6 tháng phải k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.087173,
+         "id": "991514",
+         "field_search": "question",
+         "question": "e đang dùng laptop acer aspire E 15, lúc ko cắm sạc thì máy chạy bình thường còn khi cắm sạc vào thì máy rất là lag, load trang rất lâu. cho em hỏi nguyên nhân và cách khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.864437,
+         "id": "1019045",
+         "field_search": "question",
+         "question": "Cho em hỏi với ạ.. Em đang dùng ss a5 2016 bên mình , dạo này có hiện tượng tự động tắt mở nguồn vậy ạ? Vậy đt em đang gặp vấn đề gì và xử lí ra sao ạ,máy em mua hơn 1 năm rồi.. vừa hết bảo hành vậy có được đem xuống bảo hành máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.835365,
+         "id": "852722",
+         "field_search": "question",
+         "question": "Anh ơi! ip 6s bị rơi vào nước và thấm vô màn hinh rồi giờ tắt nguồn mở không lên nữa ạ! điện thoại mua ở cửa hàng mình luôn ạ! em có gọi hỏi tổng đài là vô nước không được bảo hành nên em muốn hỏi như vậy có sửa đc ko nếu mình sửa được thì dữ liệu hình trong máy có bị mất ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.465702,
+         "id": "1157653",
+         "field_search": "question",
+         "question": "Cho em hỏi, máy em mua được 4 tháng rồi. Mà giờ em làm mất phiếu bảo hành. Thì giờ ra có còn được bảo hành bằng cách naod ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.390697,
+         "id": "806176",
+         "field_search": "question",
+         "question": "Cho em hỏi về máy tính tí ạ: em dùng máy tính thì để cả pin và cắm sạc ạ mà lâu nay mất điện máy vẫn dùng bình thường mà hôm vừa rồi xóm em mất điện thì máy sập nguồn luôn ạ. em chẳng biết máy tính bị làm sao hay do pin của em nó bị hỏng rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.249878,
+         "id": "805280",
+         "field_search": "question",
+         "question": "Cho em hỏi em có mua 1 ipad air 2 tại TGDĐ nhưng đã hết bảo hành. Hiện tại máy em bị bể màn hình vậy TGDĐ có thay màn hình và ép kính không và giá là bao nhiêu ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.096348,
+         "id": "997505",
+         "field_search": "question",
+         "question": "em muốn hỏi thế này 1/ nếu máy không mua của thegioididong và máy cũng là đời cũ thì có mua lại ko ạ 2/ nếu máy em mua bên thegioididong không có lỗi zì hết, nhưng mà em muốn bán lại được không ạ, máy vẫn còn bảo hành chính hãng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.068066,
+         "id": "797039",
+         "field_search": "question",
+         "question": "Cho em hỏi. t7 năm 2015 em có mua một máy laptop asusx533m ở tgdd thanh hóa. giờ em vào bình dương dùng được thời gian bây giờ máy bị liệt một số nút bàn phím qtv cho em hỏi đang còn bảo hành thì tgdd có sửa đc không ạ và có còn bảo hành được không ạ em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.854115,
+         "id": "788979",
+         "field_search": "question",
+         "question": "Em có mua 1 máy laptop và vừa đem đi bảo hành do ở cứng HDD em bị treo ứng dụng . KHi nhận máy là thành Win10Liệu bây giờ em đem ra cái lại win 8.1 có mất phí ko ạ ???Máy còn bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.64697,
+         "id": "754388",
+         "field_search": "question",
+         "question": "Ad cho em hỏi . Trước em dùng iphone4 có tài khoản icloud. Bây giờ em dùng sang ip5 e chuyển dữ liệu icloud từ ip4 sang ip5. Bây giờ hiện tại thì máy em đang có 2 bản sao lưu 1 của máy cũ và 1 của máy mới em đang dùng. Mà em muốn xoá dữ liệu của bản sao lưu trước đây vì khi chuyển sang máy mới  em muốn sao lưu lại các dữ liệu mới thì ko được vì bản sao lưu của ip cũ đầy rồi. Vậy ad cho me hỏi em xoá bản sao lưu cũ đi liệu có mất danh bạ ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.602673,
+         "id": "784554",
+         "field_search": "question",
+         "question": "Em có 1 chiếc iphone 4s , em em nghịch đang bình thường thì tự nhiên máy bị lag và đen màn hình em tưởng máy sập nguồn và bật nút nguồn máy không lên em cắm sạc vào máy vẫn rung . cho hỏi máy em bị làm sao và có thể sửa không ạ . em không bỏ được vì có nhiều giữ liệu trong máy . em xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.472874,
+         "id": "1162913",
+         "field_search": "question",
+         "question": "Em có mua một cái máy galaxy a9 ở thế giới di động bị rơi vỡ màn hình, và đang có bảo hành rơi vỡ 6 tháng vậy em muốn thay màn hình mới có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.42636,
+         "id": "1022502",
+         "field_search": "question",
+         "question": "Cho em hỏi là máy oppo a37 em mua ở thế giới di động mới được tháng mà đã bị nhòe màu. Giờ em đưa lên bảo hành có mất chi phí không ạ. Nếu bị hỏng màn hình do lỗi nhà sản xuất gây ra có thay màn hình mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.295982,
+         "id": "1152771",
+         "field_search": "question",
+         "question": "Em đang dùng iphone 6, pin vẫn còn đầy nhưng máy tự khởi động lại và sạc không vào, mở lên dùng được khoảng 1p thì lại tiếp tục tự khởi động lại máy. Cho em hỏi là như thế là điện thoại em bị sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.24619,
+         "id": "1143296",
+         "field_search": "question",
+         "question": "Em đang sử dụng điện thoại Oppo A3s 32GB,Hiện tại thì mới mua được 3 ngày,em thấy camera trước của Oppo có màu sắc không bình thường (màu nâu hay vàng), khi em call video hay chụp selfieEm không biết chỗ điều chỉnh.Em muốn hỏi là do máy có màu như vậy hay người dùng mua về điều chỉnh ạ? và điều chỉnh thì ở đâu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.222183,
+         "id": "1009113",
+         "field_search": "question",
+         "question": "Ad ơi . Cho em hỏi. Tai nghe của samsung J7 prime được bảo hành bao lâu ạ. Em mua Samsung J7prime hôm 25/4/2017 tới hôm nay là hơn 3 tháng . Tai nghe theo máy của em bị hư một bên không nghe được. Em có được đổi tại cửa hàng đã mua không ạ. Trường hợp của em có được hỗ trợ bảo hành không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.190964,
+         "id": "1158288",
+         "field_search": "question",
+         "question": "Em có mua máy oppo A3S bên mình em mua trả góp ạ hiện tại em trả được 2 tháng rồi ạ cho em hỏi máy bây giờ bị sập nguồn và bật không lên . Em muốn hỏi xem có được hỗ trợ sửa máy không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.108837,
+         "id": "1166438",
+         "field_search": "question",
+         "question": "Chào anh(chị). Trước em có mua 1 chiếc laptop bên mình. Hiện tại máy đang bị lỗi. Em muốn đem ra bảo hành bên mình.Có được tính bảo hành kèm theo máy lúc ban đầu ko hay mất thêm phí ạ.. Máy em mua đc gần 1 năm ,và vẫn còn thời gian bảo hành ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.07498,
+         "id": "1152535",
+         "field_search": "question",
+         "question": "Em mới mua Nokia 5.1 plus nhưng về dùng thì lại thường bị đơ cảm ứng. Mà khi tắt màn hình rồi mở lại là dùng bình thường. Cho em hỏi đây là hiện tượng gì vậy? Em mua chưa đầy 30 ngày thì trong trường hợp này em có được đổi lại máy mới hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.93608,
+         "id": "1145041",
+         "field_search": "question",
+         "question": "Xin chào tgdd, Em có mua 1 chiếc laptop đã qua sử dụng. Máy có bị lỗi và em tới bảo hành nhưng đc vài hôm lại bị lỗi như vậy ạ. Tgdd cho e hỏi em có thể đổi trả máy đó  đc ko và cách tính giá như thế nào ạ ,e mua ngày 14/12/2018",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.875206,
+         "id": "1158622",
+         "field_search": "question",
+         "question": "Em mới mua laptop Asus x541ua i3 bên mình vào tháng 8 2018. Nhưng thời gian vừa rồi dùng máy rất chậm, thậm chí còn bị đơ cả tiếng mới trở lại bình thường. Hôm nay máy còn bị lỗi gì đó, máy tự động gõ ra kí tự ***** mặc dù mình ko gõ gì cả. TGDD có thể giúp em khắc phục lỗi này được ko ạ? Và nếu đem máy ra cửa hàng ra sửa thì có mất chi phí gì ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.874737,
+         "id": "834464",
+         "field_search": "question",
+         "question": "Xin chào TGDĐ !Em tên Đặng ngọc tuấn em có mua một điện thoại iphone 4s 8gb trả góp trong vòng một năm với số tiền đóng hàng tháng là 337.000vnd . Nhưng đến hôm nay điện thoại của em bị lỗi không sạc pin được em muốn hỏi TGDĐ là em muốn đem điện thoại đến để kiểm tra sữa chữa cho em nhưng em làm mất giấy bảo hành thì đem biên lau đóng tiền trả góp hàng tháng ra để kiểm chứng được không ạ ? Em vẫm còn chương trình dán màn hình 12 tháng mà ko cần giấy vẫn dán bình thường nhưng bảo hành thì sao ạ mong TGDĐ trả lời em !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.713863,
+         "id": "1156376",
+         "field_search": "question",
+         "question": "Máy em mới mua 3 ngày và mua qua trả góp nhưng em mún đổi máy khác bị mất 20 có được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.645493,
+         "id": "1006214",
+         "field_search": "question",
+         "question": "Mình đang sử dụng J7 Prime được 1 tháng, mua tại TGDD và còn thời hạn bảo hành. Pin ở máy mình hiện đang bị hỏng. Vậy nếu mình mang máy đến thay pin mới thì có mất tiền không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.607285,
+         "id": "1163676",
+         "field_search": "question",
+         "question": "laptop của em sặc đến 60% thì không sặc được nữa. em kiểm tra cục sạc và coi lại các cài đặt trong máy thì không thấy có có vấn đề gì ạ. cho em hỏi là laptop của của em bị gì ạ? có phải pin bị hư không ạ?em xài máy HP, hệ điều hành win10 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.479595,
+         "id": "1009990",
+         "field_search": "question",
+         "question": "Em có mua một con máy tính bảng acer vẫn trong thời gian bảo hành em muốn thay pin cho máy tính bảng vì em thấy pin có thể đã bị chai vậy em thay pin có mất thêm khoản phí nào không ạ và sửa thì mất bao nhiêu ngày ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.270157,
+         "id": "1138977",
+         "field_search": "question",
+         "question": "Em dùng điện thoại Lenovo Fhab. Hôm nay em vẫn dùng bình thường, đến lúc cắm cổng OTG để dùng chuột thì bật không lên nguồn nữa, pin vẫn còn 50%. Em thử reset máy mà vẫn không được. Pin liền nên em không tháo pin ra được. Cho em hỏi máy em bị gì và em phải làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.203247,
+         "id": "779706",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi iphone tự dưng tắt nguồn bật chi hiện màn hình táo, máy nóng và chạy trương trình rất chậm, vậy máy em bị gì và khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.178043,
+         "id": "779105",
+         "field_search": "question",
+         "question": "Laptop của em mua đã được hơn 3 năm tại tgdd chi nhánh Khánh Hoà, hiện tại đã quá hạn bảo hành. Nếu em muốn bảo dưỡng hardware của máy (bụi bẩn, khe gắm lỏng, ...) thì liệu em có được chấp nhận không ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.17341,
+         "id": "1007299",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi, em dùng điện thoại Samsung Galaxy J5 Prime được 2 tháng. Dạo trước vẫn bình thường như 2 đêm nay, điện thoại đã bật máy bay, tắt các ứng dụng chạy ngầm, Wifi,.. trước khi ngủ, nhưng sáng hôm sau thấy lượng pin mất đi 10-13%. Như vậy, pin hay điện thoại em có phải đang có vấn đề gì không ạ? Em muốn xin ý kiến trước khi mang đến cửa hàng kiểm tra. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.12087,
+         "id": "891261",
+         "field_search": "question",
+         "question": "TGDD cho em hỏi.Em mua Ip5s chưa được 1 tháng ,mà về dùng thấy sạc nhanh đầy pịn và cũng rất nhanh hết pin.Với lại khi sạc thì máy rất nóng.vậy em hỏi nếu máy em bị như thế thì có đổi máy mới được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.070286,
+         "id": "996222",
+         "field_search": "question",
+         "question": "Anh, chị cho em hỏi máy bây giờ bị lỗi khi mang ra bảo hành thì chỉ cần mang máy và đọc số điện thoại đăng ký lúc mua là được bảo hành phải không ạ. Em mua acer b1-723 lúc mua không có thẻ bảo hành.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.00461,
+         "id": "998697",
+         "field_search": "question",
+         "question": "em có mua 1 máy ip7 plus và sử dụng chưa tới 1 tháng thì có trục trặc, e đã gửi bảo hành và đổi e 1 máy khác tương tự và số seri máy khác, cho e hỏi là máy mới này có còn bảo hành 1 năm ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.988106,
+         "id": "761444",
+         "field_search": "question",
+         "question": "Dạ em đang dùng iPhone 4S, cách đây khoảng 1 tháng, điện thoại của em có bị thấm nước và em đã đem đi sửa, khi về em dùng đt bình thường, nhưng đt của em không biết sao, màn hình cứ tối đen không lên mấy lần, em có gọi thử thì vẫn gọi được nhưng màn hình đt vẫn tối đen, không lên được. Em phải đợi khi đt hết pin, cắm sạc thì mới có thể sử dụng lại được. Cho em hỏi là đt của em bị gì và sửa chữa như thế nào ạ? Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.930355,
+         "id": "1141274",
+         "field_search": "question",
+         "question": "máy em mơi mua hôm qua hôm nayem khởi động lại thì nó hiện xanh “ windows ready don’t turn off your computer” nhưng không hiện %  Máy em nó để như vậy tầm 15p rồi nó tắt màn hình đen nhưng nút home vẫn còn sáng , mãi không lên phải làm sao đây ạ . với máy em đang còn ít pin em có nên mở máy để như vậy rồi cắm sạc vào đợi ko ạ ? Mong nhận hồi đáp em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.926327,
+         "id": "1142678",
+         "field_search": "question",
+         "question": "máy em là samsung j7, máy xài pin rất thất thường khi đang xài máy còn khoảng 35-40% thì tự động tắt nguồn và sạc gắn sạc thì nó hiện 1%. cho em hỏi máy bị sao ạ khắc phục đc ko ạ? (em có đem máy lên hãng kiểm tra và ngta bảo thông số kỹ thuật bình thường)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.845943,
+         "id": "1152155",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi giúp cái này với ạ. Chuyện là thứ 7 vừa rồi em có mua 1 chiếc oppa a3s tại mình ạ và đc hướng dẫn cụ thể là nếu trong vòng 1 tháng máy hư gì đó sẽ đc đổi trả. Em muốn hỏi là máy em tự nhiên hôm nay ai gọi em nói đầu máy bên kia ko nghe đc ạ và máy có hiện tượng loạn màn hinh, tức là bấm cái này nó chứa thoát lại xuất hiện cái khác chồng lên, và pin tụt hơi nhanh. Dạ cho em hỏi trường hợp này em có đc giải quyết ko ạ. Em cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.84461,
+         "id": "1160992",
+         "field_search": "question",
+         "question": "Xin chào shop. Em từng mua laptop dell tại thegioididong gia lai và hiện máy em hết thời gian bảo hành rồi. Dạo này máy tính em bị lỗi ko tắt được chế độ máy bay nên ko thể vào mạng đc... Ko biết có cách nào sửa ko và e có thể đem ra thegioididong tại tphcm sửa ko ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.63276,
+         "id": "1004193",
+         "field_search": "question",
+         "question": "Cho hỏi máy em đang sử dụng win 10 nhưng bị lỗi không mở được Start Menu Và Window Store. Em muốn cài lại win 10 có tốn tiền không. máy tính em mua ở Điện Máy Xanh Chưa hết thời gian bảo hành nhưng chắc mất giấy bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.30039,
+         "id": "776070",
+         "field_search": "question",
+         "question": "em đang dùng laptop dell vostro, cho em hỏi là tại sao em sạc pin không được, nó luôn hiện 76% và biểu tượng đang sạc nhưng thực ra là không sạc , nhổ sạc ra là tắt máy, khởi động máy thì bảo nhấn F1 vì chế độ nguồn điện thấp ( phải cắm dây sạc ), biểu tưởng sạc pin thì luôn luôn chớp đỏ, em thử dây sạc khác thì vẫn vậy, cho em hỏi là do pin hỏng hay do driver hay gì ạ ! em cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.231712,
+         "id": "926006",
+         "field_search": "question",
+         "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là em có một máy tính win Xp và em muốn chuyển file game từ máy win Xp sang laptop của em nhưng khi em gắm usb vào máy win XP thì tại sao nó lại không hiện ra biểu tượng trong my computer ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.200638,
+         "id": "775912",
+         "field_search": "question",
+         "question": "em đang dùng laptop dell vostro, cho em hỏi là tại sao em sạc pin không được, nó luôn hiện 76% và biểu tượng đang sạc nhưng thực ra là không sạc , nhổ sạc ra là tắt máy, khởi động máy thì bảo nhấn F1 vì chế độ nguồn điện thấp ( phải cắm dây sạc ), biểu tưởng sạc pin thì luôn luôn chớp đỏ, em thử dây sạc khác thì vẫn vậy, cho em hỏi là do pin hỏng hay do driver hay gì ạ ! em cám ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.15656,
+         "id": "1156815",
+         "field_search": "question",
+         "question": "hi shop, em có mua lại 1 chiếc laptop cũ  Acer spin 3 còn bảo hành 6 tháng cho em hỏi bên mình mua laptop bảo hành bằng sdt hay seri máy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.995197,
+         "id": "775630",
+         "field_search": "question",
+         "question": "Máy iphone của embị rơi và bị nứt màn hình. máy em vẫn trong tg bảo hành vậy em mang máy ra tgdd có thay không ạ. Và nếu thay thì màn hình mới có chất lượng tốt như cũ không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.96288,
+         "id": "1010764",
+         "field_search": "question",
+         "question": "Cho em hỏi là cục sạc laptop em có bị chạm và sau khi em mua cục sạc mới về sử dụng lại máy thì em thấy máy bị lag. Không giống như bình thường.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.956486,
+         "id": "973311",
+         "field_search": "question",
+         "question": "mình có mua 5s ở TGDD đươc 5 tháng rồi. mua dùng được hơn tháng là thấy hiện tượng xanh màn hình và khởi động lại. mấy ngày hôm nay máy có hiện tượng như vậy rất nhiều và bị rung màn hình. vậy mình khác phục hiện tượng đó thế nào? Và mang ra siêu thị TGDD bảo hành được ko ạ? Nếu có thể liên hệ giúp m vào số 0165354xxxx . cảm ơn nhóm hỗ trợ TGDD.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.942253,
+         "id": "1156102",
+         "field_search": "question",
+         "question": "Em có con iphone 6 bị mất em ko cài mật khẩu và đã bị đăng xuất icloud máy e mua chính hãng bên tgdd vẫn còn bảo hành và giấy mua em muốn tìm điện thoại bằng imei có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.92683,
+         "id": "1138530",
+         "field_search": "question",
+         "question": "Cho em hỏi, hiện tại em đang là sinh viên muốn trả góp điện thoại thì cần những giấy tờ gì (giấy tờ nào công ty tài chính giữ và giấy tờ nào được mang về) và có được hưởng ưu đãi gì không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.90892,
+         "id": "778923",
+         "field_search": "question",
+         "question": "Cho em hỏi : Em mua máy laptop ở TGDĐ vào lúc 15/11/2015 tới h` còn bảo hành ko ạ và em muốn cài lại Win thì có tốn tiền không em còn giữ biên lai với tài khoản outlook?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.8984,
+         "id": "1012306",
+         "field_search": "question",
+         "question": "Máy samsung j7 pro của em mua được 1 tháng. Trong 3 ngày trở lại đây có hiện tượng sạc không vào pin dù trước đó khi cắm sạc thì máy báo đang sạc. Vậy có ván đề gì vậy mong ad giải đáp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.888824,
+         "id": "1023755",
+         "field_search": "question",
+         "question": "TGDD có bảo hành màn hình cho máy tính bảng Acer ko, mình mới mua được mấy tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.806515,
+         "id": "822384",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi mua mua lap dell ngày 19/2/2016, khi mới mua về dùng pin đc 4h. Nhưng mà hôm nay ngày 30/4/2016 Pin lại báo chỉ đc gần 2h. Như vậy có phải là do chất lượng pin k? Và Bên TGDĐ có bảo hành pin k ạ? Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.74755,
+         "id": "782344",
+         "field_search": "question",
+         "question": "Iphone 4S của em em mới cài đặt Asphalt vào, ( trước vẫn chạy như trâu và chắc chắn vẫn chạy được) rồi bị đơ một lúc do em bật nhiều chương trình quá, sau đó em tắt màn hình rồi bật lại nhập mật khẩu bình thường thì thấy máy treo, như bình thường vẫn làm em lại tắ màn hình để nhập lại tuy nhiên máy không hiện lên gì nữa, cắm vào máy tính vẫn hiện bình thường như thế này là xung đột phần mềm đúng không ạ, em cần phải làm gì để thoát khỏi tình trạng này, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.73533,
+         "id": "1150152",
+         "field_search": "question",
+         "question": "Máy em là OPPO r7s khi nghe gọi đt tì máy bình thường nhưng khi xem phim, nghe nhạc, youtube hay video trên facebook, chơi game thì loa bị mất tiếng. THI thoảng máy bình thường thì tự nhiên mất tiếng. Em có reset lại máy và khôi phục lại máy nhưng chỉ được mấy hôm nó lại như vậy. Cho em hỏi máy em như vậy là bị sao ạ. Em cảm ơn ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.720425,
+         "id": "766786",
+         "field_search": "question",
+         "question": "Anh chị cho em hỏi chút ạ. em dùng ip4s, trước đây, khi em tắt 3g và wifi thì điện thoại vẫn nhận được tin nhắn zalo và messager bình thường, chỉ có ảnh thì không load được hoặc load chậm, nhưng khoảng 1 tuần nay, khi em tắt 3g và wifi thì không nhận được tin nhắn zalo nữa anh chị cho em hỏi là có phải do cài đặt gì không mà điện thoại em bị như vậy ạ? Giờ có cách nào để nó như cũ được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.680744,
+         "id": "833413",
+         "field_search": "question",
+         "question": "Lúc trước em có mua 1 laptop Asus F81se do sử dụng lâu rồi nên tự nhiên hôm nay nó bị hư. Mở máy lên thì bình thường nhưng màu trên màn hình thì bị lem. Với lại máy nóng lắm. Chạy được chút là tắt máy. Anh/chị giải đáp dùm em. Xem laptop của em bị hư gì vậy? Nếu sữa thì khoảng bao nhiêu. Thay mới giá bao nhiêu. Hiện nay em đang sống và làm việc tại TP. Vị thanh. Tỉnh Hậu Giang",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.66084,
+         "id": "1141532",
+         "field_search": "question",
+         "question": "cho em hỏi là máy tính laptop em mua cách đây ko lâu thì làm rơi bị méo 1 góc cạnh máy tính, màn hình ko vỡ nhưng bị vỡ nhẹ bên trong nên màn hình có dấu hiệu nứt. Vậy e phải làm sao ạ? Cái này có thể bảo hành hay gì ko?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.6082,
+         "id": "996500",
+         "field_search": "question",
+         "question": "Cho em hỏi là nếu mình mua máy cũ đỗi trả Nhưng em ở tỉnh Cần Thơ mà máy đó hiện như đang ở Thành Phố Hồ Chí Minh thì có thể đem máy về nhận tại các cửa hàng ở Cần Thơ được ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.602486,
+         "id": "1168672",
+         "field_search": "question",
+         "question": "Ad cho em hỏi..em đang sài con laptop dell e6520 và đang chạy win 10 pro. Máy tính em khởi động 2 lần mới vào win được. Lần đầu thì màn hình đen. Em phải đè nút nguồn r khởi động lần 2 mới vào được win. Cho em hỏi máy em như v là sao ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.52525,
+         "id": "896878",
+         "field_search": "question",
+         "question": "Cho em hỏi sao máy của em bình thường vẫn hiện lên hình ảnh được chụp trong máy mà giờ lại xuất hiện lên hình của bạn em , em và bạn đó không hề xài chung iCloud hay là gì hết mà tại sao lại xảy ra như vậy! Mong mọi người giải thích sớm nhất có thể cho em!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.479652,
+         "id": "1020716",
+         "field_search": "question",
+         "question": "bên trung tâm cho e hỏi máy e mới mua đc 3 tháng mà lúc mua về loa bình thường sau 3 tháng nó lại nhỏ dần đi nếu muốn nghe thì phải đeo tai nghe mới nghe và nói chuyện được thì có được bảo hành không ạ và bảo hành trong bao lâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.390675,
+         "id": "1011152",
+         "field_search": "question",
+         "question": "Cho em hỏi là nếu mình mua máy ở tgdd thì muốn đổi máy mới có phải giá trị điện thoại giảm 10% rồi bù tiền vào máy khác đúng không ạ ?? Điện thoại em còn bh . Mua dc khoảng 1 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.318497,
+         "id": "1157628",
+         "field_search": "question",
+         "question": "em mới mua máy ssa50 em ko để tự động chỉnh sáng tối màn hình mua về được hôm thì nó cứ nháy sáng tối liên tục hôm thứ 2 thì nó bị giảm hết độ sáng và em kéo sáng hết cỡ nó vẫn tối om kể cả nếu em có để auto sáng màn hình thì lúc đó em đứng ngoài trời nó cũng ko thể kéo tối hết cỡ thế được ( thanh kéo sáng tối thì vẫn max độ sáng mà màn hình vẫn tối om ) và em cảm thấy cam trước có vấn đề nó cứ chậm châm dealey kiểu gì ý. cho em hỏi là có ai bị giống em ko và thi thoảng mới bị thì mang ra chỗ bảo hành ngta test có ra luôn ko vì bt chẳng sao cả cứ thi thoảng mới bị mua máy từ hôm bắt đầu cho bán mà thấy buồn quá vì máy mới hầy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.253365,
+         "id": "1134662",
+         "field_search": "question",
+         "question": "Hiện em đang dùng laptop ASUS X555U, gần đây màn hình máy tính của em thường xuyên xuất hiện tình trạng bị nhiễu, chập chờn. Cho em hỏi máy bị làm sao và cách giải quyết như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.194542,
+         "id": "1145555",
+         "field_search": "question",
+         "question": "Em có mua máy ip 8 plus tại thế giới di động , và màn hình có chỗ cảm ứng được, chỗ lại không được. Vậy máy bị lỗi gì vậy ạ ?  Và em có thể ra cơ sở gần nhất để bảo hành không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.17608,
+         "id": "784466",
+         "field_search": "question",
+         "question": "Em dùng iPhone 5s khi chưa cắm sạc thì hiện 14% nhưng sau khi sạc máy thì máy lại hiện đang sạc 18%. Đây mới là lần thứ 2 sạc pin cho máy kể từ hôm mua về. Như vậy là làm sao thế QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.11659,
+         "id": "761787",
+         "field_search": "question",
+         "question": "Laptop asus của em bị hư ( chắc là lỗi hệ thống) không khởi động được, qtv cho em hỏi dữ liệu trong hai ổ đĩa D và E có bị mất không và nếu em mua máy mới thì có cách nào chuyển dữ liệu từ máy bị hư này sang máy mới không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.06962,
+         "id": "1016516",
+         "field_search": "question",
+         "question": "em mới mua samsung j7 pro đc 1 tháng mà điện thoại hình như đi mưa bị nước vô làm màn hình không cảm ứng được dù màn hình vẫn sáng bth . mai em đem lên bảo hành được không ạ . em mua ở dưới chi nhánh thanh khê đà nẵng nhưng em lên bảo hành ở chi nhánh liên chiểu đà nẵng được kh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.058025,
+         "id": "1023203",
+         "field_search": "question",
+         "question": "máy ko sạc vô pin nhưng cắm điện xài trực tiếp thì vẫn bình thường ? có phải thay pin ko và thay pin laptop DELL INSPIRON N4050 giá bao nhiêu?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.022552,
+         "id": "780164",
+         "field_search": "question",
+         "question": "AD cho em hỏi..tại sao máy tính e hay bị mất wifi không như hình không kết nối wifi được..có phải bị lỗi gì hay là hư card mạng wifi không..đôi lúc máy hiện lên thanh wifi.đôi lúc lại mất thanh wifi như hình..nên em toàn dùng cáp chứ ko bắt wifi được..nhờ AD giúp giùm",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.986237,
+         "id": "918441",
+         "field_search": "question",
+         "question": "Em mới mua iPhone  5s ở tgdd, em mới sử dụng được 3 ngày và em thấy Sđt mình chậm kinh khủng. Vuốt qua chụp hình phải đợi cỡ 20s mới chụp được, wifi thì đang có mà nhầm lúc kh vào mạng được. Vậy có phải là do máy không ạ ? Vậy em có được đổi không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.964325,
+         "id": "1021586",
+         "field_search": "question",
+         "question": "Cho em hỏi là con samsung j7 prime của em có sử dụng kính cường lực nhưng bị rớt vỡ màn hình thì có đc bảo hành ko hay là phải trả phí ạ ?? Em mới mua đc 2 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

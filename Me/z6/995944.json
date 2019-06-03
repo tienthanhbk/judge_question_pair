@@ -1,0 +1,809 @@
+{
+   "id_query": "995944",
+   "total": 34625,
+   "total_current": 100,
+   "max_score": 199.19867,
+   "origin_question": "diện thoại e mới mua 2 bữa bị lỗi camera trước có khi vào dược có khi vào k được đêm tới tgdđ thì nhân viên bảo là lỗi có thể đổi sp mới nhưng k có sp ở noi e ở vậy em đêm đt vào cửa  hàng tgdđ ở nơi khác  có hàng em đổi được k ạ    {lúc này e vào camera trước được vậy cửa hàng có đt em cần đổi cho đổi khộng ạ",
+   "hits": [
+      {
+         "score": 199.19867,
+         "id": "995944",
+         "field_search": "question",
+         "question": "diện thoại e mới mua 2 bữa bị lỗi camera trước có khi vào dược có khi vào k được đêm tới tgdđ thì nhân viên bảo là lỗi có thể đổi sp mới nhưng k có sp ở noi e ở vậy em đêm đt vào cửa  hàng tgdđ ở nơi khác  có hàng em đổi được k ạ    {lúc này e vào camera trước được vậy cửa hàng có đt em cần đổi cho đổi khộng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 71.20318,
+         "id": "1149236",
+         "field_search": "question",
+         "question": "Cho e hỏi, e mới mua máy được 10 ngày nhưng xài cảm ứng có khi không nhạy vs điện thoại hay tự động tắt ứng dụng, e muốn đổi lại máy Huawei Nova 3i mới có được ko? Có phải bù tiền gì ko và đổi thì lại cửa hàng tgdđ lúc mua đổi hay đổi ở bất kỳ hệ thống tgdđ nào cũng đc ạ. E cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.58825,
+         "id": "1009089",
+         "field_search": "question",
+         "question": " Mua đt đã đổi sp khác do bị lỗi nhưng bây giờ vẫn bị lỗi tiếp. Có thể đổi sang dòng đt khác đc k.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.55041,
+         "id": "1155363",
+         "field_search": "question",
+         "question": "Đt em Xiaomi a2 lile do bị lỗi hôm qua e có đến cửa hàng p8 đổi máy, đã đổi máy mới nhưng tình trạng vẫn vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 70.095566,
+         "id": "1022430",
+         "field_search": "question",
+         "question": "Qtv cho e hỏi e đặt hàng như vậy rồi nhưng cửa hàng chưa liên hệ xác nhận đặt hàng vậy e có mua được sp này k ạ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.820274,
+         "id": "1000043",
+         "field_search": "question",
+         "question": "Cho em hỏi tầm 14 ngày trước đt của em bị hư và e có mang đến cửa hàng gần nhà để sửa , em vừa lấy về cách đây vài phút và người sửa lại bảo \" tại cục sạc hư về đổi cái mới đi \" . sạc hư gì mà sửa tới 10 mấy ngày bh nói nv mà từ lúc lấy đt về pin nc tuột rất nhanh e sạc ntn cũng k vào pin , sạc bằng mọi loại sạc đều k vào pin thì bh e phải ntn . e đang rất giận vì cách làm việc của nhân viên cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.19565,
+         "id": "1014435",
+         "field_search": "question",
+         "question": "Hôm trước e có mang đt ra cửa hàng để sữa. Mà về vẫn gặp tình trạng nv. Đt e mới mua chưa được 1 tháng có thể 1 đổi 1 không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 67.09905,
+         "id": "1145558",
+         "field_search": "question",
+         "question": "Tôi có mua một head phone tại tgdd nhưng khi gắm vào đt tôi thì bảo là ko hỗ trợ (máy sonym4)  và ko nghe đc gì cả, vậy cho tôi hỏi tôi có thể đêm đến lại cửa hàng TGDD và đổi trả đc ko tôi cũng mới mua vào ngày 17-1-2019 này thôi.  Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.788414,
+         "id": "1136781",
+         "field_search": "question",
+         "question": " E có mua 1 cái điện thoại trả góp được 2 tháng giờ e muốn đổi lại điện thoại khác ở cửa hàng đc không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 65.2219,
+         "id": "1024370",
+         "field_search": "question",
+         "question": "Chào ad, mình ở tp.hcm , có mua hàng đổi trả bên mình , nhưng dt bị lỗi và phải ra trả lại . NHân viên bảo là giờ mình muốn đổi con khác tại cửa hàng phải bù thêm vì giá cao hơn. Mình có coi thông tin thì của hàng ở tỉnh khác đang còn máy ngang giá thì tgdd có hỗ trợ gửi máy về tp.hcm để đổi cho mình được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.94089,
+         "id": "1148995",
+         "field_search": "question",
+         "question": "em mới mua A7 2018 tầm 2 tuần nhưng bây giờ lại phát hiện ra nó có lỗi ở chui cắm sạc cắm vào phải có 1 vật chiêm cho đầu sạc nghiêng lên 1 chút thì mới ăn pinvậy cho em hỏi TH này có dc đổi hàng lỗi sang mới k ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.8009,
+         "id": "1020333",
+         "field_search": "question",
+         "question": "Shop ơi cho e hỏi tí ạ. E có lịch phỏng vấn ở tp Đà Lạt vào lúc 9h,11/09/2017 nhưng bây giờ e ở đang ở quê (Hậu Giang) vậy có thể đến cửa hàng gần nhất hoặc ở tp Cần Thơ phỏng vấn được k ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 64.79157,
+         "id": "997394",
+         "field_search": "question",
+         "question": "Cho em hỏi nếu em muốn đổi điện thoại thì em phải ra cửa hàng lúc em mua, hay em được đổi bất kỳ tại các cửa hàng của TGDĐ ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.941402,
+         "id": "1168554",
+         "field_search": "question",
+         "question": "Cho em hỏi là lúc trước em có mua ip5p ở tgdt. tài khoản icloud cũng do nhân viên tạo dùm khi mới mua máy. Hiện giờ điện thoại em bị khóa bị lỗi bảo mật nhưng em không biết pass icloud thì đem tới tgdđ có giải quyết được không ạ. em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.695953,
+         "id": "1164273",
+         "field_search": "question",
+         "question": "Trước mình có mua tai nghe ở tgdd , giờ được vài tháng thì hay bị lỏng lúc cắm vào thì mình đem ra đổi được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 63.523136,
+         "id": "1001004",
+         "field_search": "question",
+         "question": "Pin điện thoại qmobi vista của em bị nở vậy có thể nhờ cửa hàng chuyển vào hãng để thây pin được không ạ. Điện thoại mua ở cửa hàng ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.899902,
+         "id": "995717",
+         "field_search": "question",
+         "question": "Cáp sạc của em mua ở tgdd ninh bình được 2 tháng. H sạc có khi cả đêm mới được 50%. Nếu vừa dùng vừa sạc còn bị tụt pin nữa. N.thế có thể mang đến đổi được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.554764,
+         "id": "1160082",
+         "field_search": "question",
+         "question": "Sin hỏi. Tôi mua ĐT xiaomi ở tgdđ còn bảo hành khi cài đặt lại máy k biết tại sao lại k đăng nhập được vào mi acc nữa. số điện thoại đăng ký mua ĐT và đk mi acc là của tôi. Dùng ĐT khác đăng nhập vẫn vào được bình thường là sao vậy. Có thể nhờ tgdđ giúp k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.137962,
+         "id": "777459",
+         "field_search": "question",
+         "question": "Mình có mua 1 ốp lưng iPhone 5 ở TGDD nhưng về thử vào máy thì không ưng. Lúc mua nhân viên có nói là đc đổi trả. Vậy cho mình hỏi mình có thể đổi trả ốp được không? Vì mình đọc chính sách thì ốp điện thoại không được đổi trả. Và mình mua TGDD ở Hà Nội mình có thể đổi trả ở TGDD ở Nam định được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 62.047073,
+         "id": "995541",
+         "field_search": "question",
+         "question": "e muốn mua laptop ở diễn châu, nghệ an nhưng sao tìm sp nào cũng bị báo hết hàng vậy ạ,...cho em hỏi ở đấy còn những sp nào hay k có laptop?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.833256,
+         "id": "1024481",
+         "field_search": "question",
+         "question": "e có mua đth Huawei gr5.17 tại tgdđ khoản 1 năm, giờ e có thể tới tgdđ nơi mua sp và đổi thêm tiền mua vivo v7+ đc hok à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.67432,
+         "id": "999568",
+         "field_search": "question",
+         "question": "Chào admin, lúc trước e có mua hàng ở tgdd hình thức trả góp mà k được, nhân viên báo lại là bị nợ xấu. Giờ e muốn kiểm tra có mua được chưa thì làm cách nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.351433,
+         "id": "847629",
+         "field_search": "question",
+         "question": " e mới đi sửa lại máy ở cửa hàng, giờ về app store s lại k vào đc vậy ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 61.025856,
+         "id": "1160065",
+         "field_search": "question",
+         "question": "cho e hỏi là, oppo f11 khi nào có hàng ở TGDD ạ ? e ko có cọc trước e định mua tại cửa hàng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.60108,
+         "id": "1001323",
+         "field_search": "question",
+         "question": "ad cho em hỏi với ạ. Trước em có mua sạc ở TGDD, nhân viên bảo nếu hỏng thì 1 đổi 1 trong vòng 1 năm. Vậy đổi em có cần mang sạc cũ lên không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.54935,
+         "id": "1018416",
+         "field_search": "question",
+         "question": "Anh ơi , cho em hỏi. Em mua đt ở cửa hàng khác thì vào tgdd dán màn hình hết bao nhiêu vậy ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.508118,
+         "id": "1152002",
+         "field_search": "question",
+         "question": "Chào TGDĐ. Mình mới mua Nokia 8.1 trong chưa tới một tuần nhưng bị lỗi. Mình có ra TGDĐ để đổi thì được một máy khác. Nhưng về thì máy này lại bị lỗi là nút bấm tăng giảm âm lượng bị lỏng có dấu hiệu khác thường so với các máy có cùng dòng và trên cảm nhận so với máy trước. Vậy thì trong trường hợp này mình có được tiếp tục đổi mới không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.461052,
+         "id": "1140611",
+         "field_search": "question",
+         "question": "Anh chị cho e hỏi đt samsung j7 pro mua ở cửa hàng mình nhưng đã hết bảo hành bị lỗi liệt cảm ứng do nâng cấp lên android 8.1 thì có cửa hàng có sữa được kh e cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.35673,
+         "id": "954138",
+         "field_search": "question",
+         "question": "Em mới mua 1laptop ở cửa hàng mình Vậy em có được cài đặt lại win và office miễn phí k ạ. Trc đó em đã dc cửa hàng cài cho rồi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 60.275433,
+         "id": "1156518",
+         "field_search": "question",
+         "question": "E mới mua Đt được 4 bữa nhưng bị lỗi nóng máy và không tải game được.....và đã đổi 1 lần....bây giờ Lại lỗi là không chơi game được và không nhận được tin nhắn......cho e hỏi em đổi đt hãng khác được không ạ đt e mua là oppo a7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.754562,
+         "id": "795715",
+         "field_search": "question",
+         "question": "Mình có mua dây sạc ip5s ở cửa hàng. Mình mới mua được 1 tháng bây giờ dây sạc hỏng. Mình cắm vào máy không nhận thì có được 1 đổi 1 dây sạc không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.299675,
+         "id": "1140907",
+         "field_search": "question",
+         "question": "Cho e hỏi là e mua trả góp ở cửa hàng này nhưng nhận máy cửa hàng khác được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.291595,
+         "id": "1010043",
+         "field_search": "question",
+         "question": "Mình có mua dt Huawei gr5 mini 3tr990 ở tgdđ được hơn 1 tháng rồi.  Giờ mình muốn đổi đt này để mua đt khác ở tgdđ thì mình được hoàn lại bao nhiêu vậy ạ. Đt mình còn mới chưa trầy sước hư hỏng gì cả.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.20717,
+         "id": "1016775",
+         "field_search": "question",
+         "question": "Ad cho hỏi điện thoại mới mua được 2 ngày bị lỗi có được đổi k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 59.1528,
+         "id": "936075",
+         "field_search": "question",
+         "question": "Cho e hỏi là: e có mua 1 laptop ở tgdd em k nhớ là còn bảo hành k nữa nhưng giờ máy e k vào được wifi vậy nếu e mang ra tgdd thì có tính phí k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.515583,
+         "id": "1139740",
+         "field_search": "question",
+         "question": "em mới sửa máy tính mà bị mất pp, work 2013 thay vào đó là ứng dụng khác. Vậy em có thể đến cửa hàng để cài đặt lại k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.44164,
+         "id": "1015520",
+         "field_search": "question",
+         "question": "Chào anh chị. Em có mua tai nghe ở một cửa hàng của Thế Giới Di Động. Nhưng giờ tai nghe của em có lỗi. Vậy em phải đem ra cửa hàng em đã mua hay một cửa hàng khác của hệ thống để được bảo hành ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 58.304443,
+         "id": "996207",
+         "field_search": "question",
+         "question": "E mới mua đt dc 2 tuần do lỗi của nhà sản xuất e có đem đổi dc k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.98951,
+         "id": "1006692",
+         "field_search": "question",
+         "question": "ad ơi. đt ss j7 của em. bị bụi camera trước bên trong. bên đó có lau bụi k ạ. nhưng đt em k phải mua ở tgdd",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.95838,
+         "id": "1146684",
+         "field_search": "question",
+         "question": "e vừa đặt mua samsung j4+ ở trên này có khuyến mãi một phía mua hàng trị giá 100k nhưng e k muốn lấy mà trừ thẳng vào tiền đt dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.34796,
+         "id": "895656",
+         "field_search": "question",
+         "question": "Mình mới mua iphone 5s được 10 ngày, nhưng sử dụng liên tục khoảng 20phut, thì máy bị nóng nhiều. Trước đây e có sử dụng ip5s nhưng k bị lỗi như vậy.Zậy mình có thể đổi máy 5s khác được k?Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.346447,
+         "id": "1140711",
+         "field_search": "question",
+         "question": "Cho E hỏi E có đặt mua 1c đt vismart1 nhưng k thấy bên tgdd gọi điện chốt hàng. K biết sp có hàng hay có trục trặc gì k. Để E biết và mua khác. Tks ạ. Đuôi sdt 0961.xxx.061",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.22479,
+         "id": "833508",
+         "field_search": "question",
+         "question": "ĐT e vừa mua ở tgdd hàng đổi trả E dùng vấn bt nc ks nhưng e gọi video call messigger thấy mặt nhau nhưng lúc e nói đầu dây bên kia lại k nghe thấy e đang thắc mắc ĐT e có bị hỏng gì k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.168243,
+         "id": "1010066",
+         "field_search": "question",
+         "question": "E mua máy oppo A37 tại 1 cửa hàng bán đt. Giờ máy e dơi xuống nước e mang ra sấy rồi nhưng k sạc được pin. E mang vào thế giới di động thì bên mình có sửa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.11445,
+         "id": "1009950",
+         "field_search": "question",
+         "question": "Em mới mua điện thoai samsung j2 prime được 25 ngày. Điện thoại bị lỗi chân sạc, cho e hỏi điện thoại em có được đổi trả k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.094852,
+         "id": "1168251",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình mới mua điện thoại hawei p30 lite ở cửa hàng mới hơn 2 tuần., mình muốn đổi lấy điện thoại Samsung được không vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.06893,
+         "id": "890017",
+         "field_search": "question",
+         "question": " Cho em hỏi, laptop em mới mua 2 ngày nhưng đã bị lỗi win, bên cửa hàng có hỗ trợ khắc phục k ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 57.062614,
+         "id": "1012835",
+         "field_search": "question",
+         "question": "Chào shop. Cho e hỏi nếu e mua 1 sp trị giá 20tr. Và sau 1 time sử dụng e muốn đổi 1 sp và chịu phí 20% nhưng e có được đổi sp giá thấp hơn sp đổi ko ạ? Ví dụ e mua samsung s7 edge 15tr490k. E đổi chịu phí 20%. Còn 12tr392k. E đổi xuống j7 pro 6tr990k. Như vậy có đc ko ạ? E cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.892097,
+         "id": "1022089",
+         "field_search": "question",
+         "question": "Mình ở Hà Nội, đang muốn mua máy theo diện đổi trả ở một cửa hàng thuộc hệ thống Thế giới di động ở Quảng Ninh. Vậy mình phải làm sao khi mà không thể đến cửa hàng đó để trực tiếp mua máy được?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.83135,
+         "id": "1003586",
+         "field_search": "question",
+         "question": "Cho e hỏi bên cửa hàng mình có sửa điện thoại không ạ. Em mua ở cửa hàng thegioididong ạ nhưng hết bảo hành rồi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.823273,
+         "id": "1012865",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi trước em mua điện thoại ở thế giới di động vào ngày 11-2-2017,củ sạc của em bị hỏng sạc cả ngày mà nó k nên nổi 1% cho em hỏi em có dk đổi củ mới không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.580715,
+         "id": "995700",
+         "field_search": "question",
+         "question": "Em có mua một sơi dây sạc bên cửa hàng tgdđ hôm nay e sd e ghim sạc r sạc k vào nữa e rút ra thì cái đầu gắn bị đứt ra khỏi dây e mua khoảng 2 tháng r cho e hỏi như v có bảo hành cho e ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.504337,
+         "id": "1019734",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại e mới mua mà e thấy tụt pin nhanh thì có được đổi k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.350967,
+         "id": "991407",
+         "field_search": "question",
+         "question": "em có đổi máy ở shop nhưng mấy hôm nữa mới có , nhưng mà bây giờ em muốn đổi qua hãng khác có dc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 56.21191,
+         "id": "1152021",
+         "field_search": "question",
+         "question": "mình mới mua điện thoại realme 2 tại cửa hàng điện máy xanh.vẫn trong thời gian 1 đổi 1 trong vòng 1 tháng.vậy cho hỏi mình có thể đổi sang điện thoại khác được không hay chỉ đổi được máy mới cùng hãng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.92604,
+         "id": "1002946",
+         "field_search": "question",
+         "question": "Cho e hỏi ... e mua điện thoại Q-mobile nice S ở tgdd... máy e còn thời gian bảo hành. E đưa đt đến sửa về vấn đề không vào đc màn hình chính và máy hỏi gmail mới vào đc. Nhưng e quên mất gmail vì lúc mua là nhân viên tgdd tạo gmail. Lúc e sử dụng có 1 số vết trầy xước ở thân máy vì va quẹt... nhân viên tgdd bải máy trầy xước nên k bảo hành mà phải bỏ tiền ra để sửa. Như vậy có đúng không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.890842,
+         "id": "1158732",
+         "field_search": "question",
+         "question": "Dạ cho e hỏi. Đt e mua đc 1 tháng 10 ngày, Giờ bị lỗi camera và lỗi vân tay thì e có được 1 đổi 1 ko ạ iphone 6s plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.812057,
+         "id": "885338",
+         "field_search": "question",
+         "question": "em có mua iphone 5s ở TGDD, em mua ở cửa hàng TGDD Vật Lại - Ba Vì, giờ em đang ở Hà Nội, em có thể ra cửa hàng TGDD ở trên này để thay miếng dán được không ạ, em vẫn đang được bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.669624,
+         "id": "1162957",
+         "field_search": "question",
+         "question": "ad cho e hỏi hiện e đang trả góp ở 1 cửa hàng khác và đi đống tiền trả góp ở cửa hàng the giới di động khác được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.624226,
+         "id": "1012643",
+         "field_search": "question",
+         "question": "em có mua vài sản phẩm được bảo hành 1 năm nhưng hiện nay đã bị trục trặc, vậy liệu em có thể đem đến cửa hàng đổi mới được không ạ. thiết bị của em có 1 vài trầy xướt do sử dụng, rơi rớt thì vẫn được bảo hành không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.428368,
+         "id": "1021880",
+         "field_search": "question",
+         "question": "cho mình hỏi mình có mua điện thoại bên Điện máy xanhnhưng giwof mình muốn đổi sang máy khác, mình muốn bán lại điện thaoij cho của hàng, rồi đổi sang mua máy khác tại cửa hàng có được k ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.41251,
+         "id": "994663",
+         "field_search": "question",
+         "question": "E mua ĐT A37fw chưa được 1 tháng thấy màng hình không được tốt.  Giờ e muốn đổi mới nhưng e có thể đổi lấy ĐT A37 được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.08342,
+         "id": "1021016",
+         "field_search": "question",
+         "question": "Con Acer Iconia Talk S A1-734 của e đang update thì sập nguồn nên bị treo (liên tục khởi động lại) k vào được recovery nhưng vẫn vào được fastboot. Máy vẫn còn bảo hành e mang đến cửa hàng có được sửa chữa k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.06854,
+         "id": "1150550",
+         "field_search": "question",
+         "question": "Em có chiếc điện thoại Sony M4 Aqua hiện tại bị sập nguồn và đã hết bảo hành. Không biết là đem ra cửa hàng thì cửa hàng có sửa chữa không ạ vì em mua ở hệ thống thế giới di động nhà mình? Và nếu em gửi cho nhân viên kỹ thuật xem xét qua trước và báo giá trước thì em mới có chấp nhận sửa hay không thì được không ạ? Hay là sửa xong hết rồi mới báo giá ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.06407,
+         "id": "753862",
+         "field_search": "question",
+         "question": "Em dùng vivas lotus 2, hôm nọ khôi phục cài đặt gốc thì không dùng được camera sau. Vào máy ảnh nó cũng không hiện đổi camera trước vs sau luôn. Lỗi này là lỗi gj và khắc phục thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 55.023125,
+         "id": "1161916",
+         "field_search": "question",
+         "question": "Nếu tôi mất hoá đơn giao hàng mà điện thoại tôi bị lỗi kĩ thuật bên trong đt mới mua thì có đổi đc máy khác ko vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.9936,
+         "id": "1014423",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại ở điện máy xanh, nhưng bị lỗi. Vậy thì em sẽ được đổi điện thoại mới trong 1 tháng đầu phải không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.9468,
+         "id": "1009669",
+         "field_search": "question",
+         "question": "Dạ cho em hỏi.  E có mua ĐT oppo f3 trả góp 0 đồng ở tgdđ rạch giá,  góp 12 tháng,  đã góp 1 tháng. Bây h em mún đổi sang điện thoại khác thì có được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.933918,
+         "id": "1004787",
+         "field_search": "question",
+         "question": "cho mình hỏi .nếu mua máy tại tgdd trong 30 ngày bị lỗi do NSX và mình tới cửa hàng tgdd khác để xin đổi máy k có đươc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.921436,
+         "id": "1139088",
+         "field_search": "question",
+         "question": "ad làm ơn cho em hỏi em mới mua máy iphone 7 plus ở tgdd được 3 hôm .  khi màn hình sáng, em chạm nhẹ vào phím home thì cảm biến vân tay không  nhận, chỉ hơi tác động lực vào 1 chút thì vân tay mới nhận, em đã thử  những iphone khác của người thân thì khi màn hình sáng chỉ cần chạm nhẹ  vào là nhận vân tay, vậy ad cho em hỏi lỗi này có được đổi trả không ạ.  em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.90116,
+         "id": "1152991",
+         "field_search": "question",
+         "question": "Em mới mua Samsung Galaxy M20 vào tuần trước. Sau vài ngày sử dụng em thấy chiếc điện thoại của mình hay có dấu hiệu bị đơ và loạn cảm ứng. Em có thể đổi sản phẩm của mình được không ạ, và khi muốn đổi thì em cần phải làm gì ạ. Cho em xin lời khuyên .",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.868687,
+         "id": "1148199",
+         "field_search": "question",
+         "question": "Điện thoại e là ip 6 plus mới dùng được hơn 3 tháng mà cứ bị nóng máy suốt. Mà e là con gái nên k chơi game. Chỉ cần dùng 5p là nóng ran cả tay rồi ạ. Vậy cho e hỏi lỗi này có được đổi trả k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.85805,
+         "id": "1020738",
+         "field_search": "question",
+         "question": "em mới mua con DELL inspiron 14 được một tháng , không hư hao nay muốn đổi máy khác tại cửa hàng có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.854424,
+         "id": "1011353",
+         "field_search": "question",
+         "question": "2 tuần trước em có mua một sản phẩm bên thế giới di động nhưng là sản phẩm đổi trả , nhân viên có nói là có thể đổi máy tương ứng với giá tiền của máy , vì máy sử dụng không được tốt cho lắm nên em có thể đổi máy khác với giá tương ứng được không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.829704,
+         "id": "1146860",
+         "field_search": "question",
+         "question": "E có mua 1 cái iphone 7 plus 32g hàng đổi trả lúc mới mua pin là 100% nhung sau 10 ngày thì còn 99% z cho e hỏi là e có thể yêu cầu đổi máy mới đc ko ạ còn 9 tháng bảo hàng chính hãng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.826435,
+         "id": "1007853",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là nếu ở cơ sở chỗ em ở hết hàng thì lúc mình đặt hàng ở nơi khác về thì có được trả không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.711052,
+         "id": "1135748",
+         "field_search": "question",
+         "question": "Tôi mua điện thoại Realme C1 mới 2 ngày, nhân viên TGDĐ xác định máy bị lỗi yêu cầu tôi đổi máy mới, nhưng tôi muốn trả máy có được không? Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.68,
+         "id": "1008100",
+         "field_search": "question",
+         "question": "Chào TGDD : em chuẩn bị mua điện thoại bên cửa hàng. vậy nếu em chọn đặt hàng trước trên website của TGDD thì em có được giảm 40% khi mua các phụ kiện khác không ạ? và em đặt hàng trên website em có thể đến cửa Hàng để kiểm tra lại điện thoại . hay là bên của Hàng giao qua bên em rồi em mới kiểm tra. em muốn đến của Hàng kiểm tra ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.6102,
+         "id": "1152884",
+         "field_search": "question",
+         "question": "Hôm trước em có mua điện thoại xiaomi mi 8 lite tại cửa hàng trước khi về nhân viên có nói với em là ngày hôm nay sẽ gọi điện xác nhận nhưng nãy em không bắt máy được do phải làm việc. Vậy điện thoại em có bị sao không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.46668,
+         "id": "1018593",
+         "field_search": "question",
+         "question": "Ở TGDD có hỗ trợ cắt sim hoặc đổi sim nano không vậy? Vì mình cò mua dthoai ở TGDD . Mà h mình đổi sim khác nhưng to quá. Đút vào k vừa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.397224,
+         "id": "1154632",
+         "field_search": "question",
+         "question": "EM mua con A7 2018 được hơn 1 tuần ,máy cứ bị lỗi không bật được 3g 4g em có vào bên hỗ trợ kỹ thuật của TGDD mà vẫn vậy, đổi cái mới về vẫn không vào được 3g 4g,,nay em muốn đổi sang dòng điện thoại khác được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.385685,
+         "id": "918441",
+         "field_search": "question",
+         "question": "Em mới mua iPhone  5s ở tgdd, em mới sử dụng được 3 ngày và em thấy Sđt mình chậm kinh khủng. Vuốt qua chụp hình phải đợi cỡ 20s mới chụp được, wifi thì đang có mà nhầm lúc kh vào mạng được. Vậy có phải là do máy không ạ ? Vậy em có được đổi không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.347435,
+         "id": "1016657",
+         "field_search": "question",
+         "question": "5 tháng trước em vừa mới mua một cái tai nghe giá 150k, cách nay 1 tháng em cái tai nghe chỉ còn nghe được 1 bên, nên em đã đến cửa hàng tgdđ để bảo hành và được đổi cai tai nghe mới, nhưng hôm nay cai tai nghe mới lại bị hư, em không biết có bảo hành được không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.332104,
+         "id": "1155180",
+         "field_search": "question",
+         "question": "Tôi mua đt A13 ở cửa hàng TGDĐ, cho hỏi đt này có kiểm tra được định vị vị trí điện thoại không? Nếu có xin hướng dẫn cho tôi. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.26542,
+         "id": "1135120",
+         "field_search": "question",
+         "question": "Mình ở Đà Lạt - Lâm Đồng muốn mua samsung galaxy note fe...có thể chuyển hàng về cửa hàng TGDĐ tại Đà Lạt để xem trước được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 54.072083,
+         "id": "1013688",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi mua máy cũ đổi trả ở tgdd nhưng vẫn còn thời gian bảo hành chính hãng của máy nhưng pin không cầm có được đổi trả không Ad. nếu được em có thể thêm phí vào mua cái mới khác được không. Em xin cám ơn Ad tư vấn giúp em!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.984135,
+         "id": "1016531",
+         "field_search": "question",
+         "question": "Cho em hỏi e mới mua chiếc iPhone 5s mà lúc e k dùng điện thoại mà pin vẫn giảm mà còn giảm nhanh bây giờ e đi đổi cái khác có được k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.85923,
+         "id": "1159366",
+         "field_search": "question",
+         "question": "xin hỏi e đã đặt cọc oppo f11 giờ tới khi có hàng đổi thành f11 pro đc k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.82275,
+         "id": "1137007",
+         "field_search": "question",
+         "question": "Cửa hàng cho em hỏi.  Điện thoại của em là OPPO A3S,  vừa mua ngày 11/11/2018 ở TGDĐ Củ Chi, máy em hiện giờ bị nhiễu nửa màn hình, thì có thể áp dụng 1 đổi 1 không ạ?  và bù bao nhiêu tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.794952,
+         "id": "1139086",
+         "field_search": "question",
+         "question": "Anh/Chị làm ơn cho em hỏi em mới mua máy iphone 7 plus ở tgdd được 3 hôm .  khi màn hình sáng, em chạm nhẹ vào phím home thì cảm biến vân tay không  nhận, chỉ hơi tác động lực vào 1 chút thì vân tay mới nhận, em đã thử  những iphone khác của người thân thì khi màn hình sáng chỉ cần chạm nhẹ  vào là nhận vân tay, vậy ad cho em hỏi lỗi này có được đổi trả không ạ.  em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.72671,
+         "id": "998413",
+         "field_search": "question",
+         "question": "TGDĐ có bán USB 3G không? E mua laptop ở nơi khác có thể đem đến TGDĐ sửa được không ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.700123,
+         "id": "1023318",
+         "field_search": "question",
+         "question": "mình hỏi chút, mình mới mua đt ở TGDĐ chưa được một tháng sony XA1, mua trả góp. Giờ mình muốn đổi sang đt khác Sony XA1 plus hơn thì có được không, máy XA1 Plus bao giờ có vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.678246,
+         "id": "993190",
+         "field_search": "question",
+         "question": "mình mua hàng ở cửa hàng thế giới di động bên TP.HCM và giờ hàng bị lỗi mình bảo hành ở bất kì cửa hàng thế giới di động nào trên toàn quốc được đúng k ạ ? mình hiện đang ở Biên Hòa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.64343,
+         "id": "1020328",
+         "field_search": "question",
+         "question": "E mới mua điện thoại kẻ của hàng, e muốn bảo hành lại nhưng bị mất giấy tờ mua bán. Vậy e có được bảo hành máy khi k còn giấy tờ mua bán k ak.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.497345,
+         "id": "1165146",
+         "field_search": "question",
+         "question": "E có mua cáp sạc điên thoại iphone, và được đổi trả trong vòng 1 năm.e mua cách đây cỡ 3 tháng,nhưng e k giữ hoá đơn với hộp đựng.Như vậy e có thể đổi trả được k ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.413372,
+         "id": "788065",
+         "field_search": "question",
+         "question": "Em có mua iphone 5s tại tgdđ vào tháng 8 năm ngoái và có đc dán đt miễn phí. Về sd một thờ gian nó bị bong và e có đi dán lại tại các cửa hàng đt thông thường. Giờ e muốn đi dán lại tại tgdđ thì có đc miễn phí không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.361134,
+         "id": "1143664",
+         "field_search": "question",
+         "question": "cho e hỏi cửa hàng mình ở huế có thay pin samsung s6 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.306446,
+         "id": "1165111",
+         "field_search": "question",
+         "question": "Em mới mua điện thoại iphone 7plus 32G vào ngày 28/4, sau khi dùng em thấy pin có vấn đề, sạc đầy tận 3 - 4 tiếng và hết pin rất nhanh ( dù đêm không dùng thì từ 89% còn 30%). Cho em hỏi vấn đề này có thể đổi điện thoại mới được không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.285343,
+         "id": "797717",
+         "field_search": "question",
+         "question": "Em mới mua iphone 5s về chưa được 15 ngày nhưng lên mạng máy chạy rất chậm lúc chạy được lúc không được , thử dùng nhiều wifi các chỗ nhưng vẫn như thế vậy thì e có thể xuống đổi máy khác được k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 53.23526,
+         "id": "1152586",
+         "field_search": "question",
+         "question": "Cho mình hỏi điện thoại A9 minh mới mua được gần 2 tháng ở tgdd  nhưng giờ màn cảm ứng thi thoảng bị lỗi loạn bị giật màn. Có thể khác phục k a.hay phải ra tgdd để đổi máy a",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

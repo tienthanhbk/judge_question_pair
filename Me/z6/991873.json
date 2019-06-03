@@ -1,0 +1,809 @@
+{
+   "id_query": "991873",
+   "total": 31712,
+   "total_current": 100,
+   "max_score": 81.85538,
+   "origin_question": "lúc mua máy là ios 9, giờ e đã nâng cấp lên mới nhất thì khôi phục cài đặt gốc có về ios 9 k vậy",
+   "hits": [
+      {
+         "score": 81.85538,
+         "id": "991873",
+         "field_search": "question",
+         "question": "lúc mua máy là ios 9, giờ e đã nâng cấp lên mới nhất thì khôi phục cài đặt gốc có về ios 9 k vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 38.35661,
+         "id": "1014526",
+         "field_search": "question",
+         "question": "E đang dùng oppo f1s được một thời gian và có nâng cấp phiên bản mới nhất. Nhưng do bị lỗi về nhắn tin nên e đã cài về khôi phục cài đặt gốc nhưng lại k thể xem phim trên các trang web. Vậy giờ e phải làm sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.90506,
+         "id": "794045",
+         "field_search": "question",
+         "question": " Mới mua iphone 5s 16g về thì có bản nâng cấp ios 9.2.1 thì có nên cho nâng cấp lên k vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 36.016182,
+         "id": "893735",
+         "field_search": "question",
+         "question": " Chào ad. Hiện tại mình dùng iphone 5s và đã nâng cấp lên ios 10 rồi bây giờ mình muốn xuống lại ios 9 được k ạ ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.905563,
+         "id": "794053",
+         "field_search": "question",
+         "question": " Mới mua iphone 5s 16g về thì có bản nâng cấp ios 9.2.1 thì có nên cho nâng cấp lên k vậy ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 35.239197,
+         "id": "965066",
+         "field_search": "question",
+         "question": " giờ em muốn lên hdh ios 8.1.1 lên ios 9 thì có đc k?máy e báo cập nhập lên ios 10.2.1 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.425446,
+         "id": "767714",
+         "field_search": "question",
+         "question": "Ip6 của e lúc mua chạy ios 8 của tgdđ. Sau đó e jailbreak. Vừa rồi e lên 9.2 và ko jailbreak nữa. Cho e hỏi như vậy máy e bây giờ có khôi phục cài đặt gốc (reset được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.739346,
+         "id": "856180",
+         "field_search": "question",
+         "question": "Chào Mod. Mod cho mình hỏi mình đang dùng IP5 đã jb ios 6.1. Vậy mình có thể nâng cấp lên IOS 8.1 được không, hay phải nâng cấp lên bản IOS mới nhất ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.47476,
+         "id": "748255",
+         "field_search": "question",
+         "question": "Anh ơi máy của em là iPhone 5 ios 9 máy em đã jailbreak, xong bây em muốn nâng cấp lên ios 9.1 thì em vào itunes dow bản cập nhập 9.1 về thì máy em hiện lên là '' phụ kiện có thể không đc hỗ trợ '' thì có làm sao ko anh, vẫn nâng cấp được phải không anh?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.31817,
+         "id": "1016596",
+         "field_search": "question",
+         "question": "E dùng htc m8 e vào phần khôi phục cài đặt gốc thì báo là rất tiếc cài đặt đã dừng lại..bây giờ e phải làm thế nào để khôi phục được cài đặt gốc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 33.265915,
+         "id": "767916",
+         "field_search": "question",
+         "question": "Tôi sử dụng ios6.1.6 trước kia nói bản cập nhật ios 9 windows 8.1 sau khi đặt lại trở về bản gốc 6.1.6 vậy nay tôi có thể đặt lại như trước không (ios 9.windows8.1)?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.78121,
+         "id": "1148529",
+         "field_search": "question",
+         "question": "Ad cho hỏi: e đang dùng iphone 6plus, e đã nâng cấp lên ios 12 nhưng máy chạy quá chậm, bây giờ e muốn cài đặt lại ios 10.3.3 thì phải làm sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.271027,
+         "id": "742452",
+         "field_search": "question",
+         "question": " Máy em iPhone 5 xài iOS 6 giờ nâng cấp hệ điều hành lên iOS 7 hay iOS 8 có được không hay lên là lên bản cao nhất? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.402342,
+         "id": "924773",
+         "field_search": "question",
+         "question": " Bên mình có hạ cấp iphone từ ios 10 xuống ios 9 được k ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.358675,
+         "id": "794039",
+         "field_search": "question",
+         "question": " Iphone 5s 16g mới mua về thì có bản nâng cấp ios 9.2.1 thì có nên cho nâng cấp tại nhà k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.174328,
+         "id": "762186",
+         "field_search": "question",
+         "question": "Mình muốn nâng cấp iOS 8 chờ iPhone 5 của mình ở trên điện thoại luôn mà không muốn mang ra cửa hàng liệu có gặp sự cố gì không ? Và lên nâng cấp lên iOS 8 hay iOS 9 vậy bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.844776,
+         "id": "785818",
+         "field_search": "question",
+         "question": "Cho em hỏi gấp về iphone,em vừa mua con lock nhật và hệ điều hành là ios 6.1.4 bây giờ có cách update nào để lên 7.1.2 thôi không ạ,tại em nghe nói nếu update ios thì phải chọn cái mới nhất là 9. mấy thì phải",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.823797,
+         "id": "761232",
+         "field_search": "question",
+         "question": "Mình mua máy iPhone 4S của thế giới di động, máy sài iOS 9, mình muốn hạ từ iOS 9 xuống iOS 8 mình có thể đến cửa hàng nhờ cài đặt lại được không ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.785864,
+         "id": "764118",
+         "field_search": "question",
+         "question": "Chào anh(chị)Em mới mua một chiếc iPhone 5s LOCK 32G. Em nghe bảo cần jaibreak mới fix được hết lỗi. Em cần một lời khuyên là em nên nâng cấp lên IOS mấy? 8.4.1 hay là bản 9. Bản iOS 9 nếu hết lỗi thì 5s có nên lên không vì em sợ máy chưa đủ độ như 6 hay 6sEm cảm ơn !!!  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.623577,
+         "id": "801421",
+         "field_search": "question",
+         "question": "Ipad 3 lỡ update lên IOS 9, máy lag quá, có cách nào downgrade về IOS 7 lúc trước không? hay trở về IOS nào thấp hơn được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.49445,
+         "id": "1160572",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. Giờ e đang oẻ ios 11.2 muốn lên ios 12 mà k muốn lên bản cao hơn thì có đk k ạ. Hay đã lên là bắt buộc phải lên bản mới nhất ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.37947,
+         "id": "1140820",
+         "field_search": "question",
+         "question": "Cho em hỏi iphone có thể nâng cấp lên ios mấy là cao nhất",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.98434,
+         "id": "806819",
+         "field_search": "question",
+         "question": " Máy iPhone 4S của em sau khi khôi phục cài đặt gốc không dùng được bản đồ. ios 8.2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.95293,
+         "id": "750594",
+         "field_search": "question",
+         "question": " Ad cho em hỏi có thể hạ cấp hệ điều hành từ ios 9 về ios 8 được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.943995,
+         "id": "757450",
+         "field_search": "question",
+         "question": " Hiện tại bây giờ còn hạ cấp iOS 9 xuống iOS 8.4.1 được không ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.844625,
+         "id": "827664",
+         "field_search": "question",
+         "question": " Cho e hỏi iPad mini 2 retina có nâng lên đc ios 9 không ạ và nâng lên máy có chạy mượt không ạ. Có bị giật hay gì k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.674892,
+         "id": "1147693",
+         "field_search": "question",
+         "question": "Máy samsung galaxy s6 của e sau khi khôi phục cài đặt gốc xong thì đến lúc khôi phục (hiện chữ đang khôi phục...) lúc này thì máy khôi phục rất lâu mà vẫn chưa xong. Nguyên nhân là gì thế ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.623041,
+         "id": "925261",
+         "field_search": "question",
+         "question": " Tôi đang sài iphone 5s chay ios 10.1.1 giờ muốn chuyển về bản 9 nào gần nhất được không. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.4242,
+         "id": "781413",
+         "field_search": "question",
+         "question": "Anh/Chị có thể cho em hỏi có thể nâng cấp trực tiếp từ IOS 7 trên iPhone 5S lên IOS 9 được không ạ? Nếu không thì làm cách nào? Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.337194,
+         "id": "1022338",
+         "field_search": "question",
+         "question": "Em dùng samsung galaxy s5 tại sao ấn khôi phục cài đặt gốc lại hiện lên là cài đặt đã dừng rồi không khôi phục được ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.331583,
+         "id": "955491",
+         "field_search": "question",
+         "question": " iPhone 5s của e đang xài ios 7,1 giờ e muốn nâng cấp lên ios 9.3 đc k vậy quản trị, e xin cám ơn ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.318466,
+         "id": "867619",
+         "field_search": "question",
+         "question": " Cho e hỏi e dung ios 7.1.2 giờ muốn nâng cấp lên ios 8.0 có dươc không ạ có cách nào nâng cấp lên không ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.31841,
+         "id": "805028",
+         "field_search": "question",
+         "question": "Mình đang xài hệ điều hành iOS. Do mình lỡ tay cập nhật lên iOS 9 nên máy đôi khi cũng khá giật (máy mình ban đầu là iOS 8). Mình thấy trong cài đặt có nút \"đặt lại\". Mình tìm hiểu kỹ thì chung quy là nó sẽ reset máy về trạng thái ban đầu. Cho mình hỏi nếu ấn nút \"đặt lại\" thì máy có trở lại iOS 8 không hay vẫn giữ hđh iOS 9?P/s: Dữ liệu và hình ảnh thì mình không lo",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.289698,
+         "id": "863467",
+         "field_search": "question",
+         "question": "Em muốn nâng cấp iphone 4s lên ios 9.3.3 nhưng em nghe nói iphone4s bị khai tử nên nếu nâng cấp ios thì sẽ bị hỏng máy.. Vậy em có lên được ios 9.3.3 cho máy iphone4s được không ạ? Máy e hiện đang là ios 9.2(13C75)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.158442,
+         "id": "994257",
+         "field_search": "question",
+         "question": "Bây giờ iphone 5s của e đag ở ios 10.3.2 có cách nào để xuống ios 9 k ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.153915,
+         "id": "1016160",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e sao khôi phục cài đặt gốc nó cứ bảo rất tiếc cài đặt đã dừng lại là sao ạ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.055807,
+         "id": "1015791",
+         "field_search": "question",
+         "question": "Tại sao Lenovo K5 Plus không thể khôi phục cài đặt gốc được.Cụ thể: Khi nhấn vào \"Đặt lại về dữ liệu gốc\" thì máy báo \"Rất tiếc, cài đặt đã dừng lại\". Mạc dù đã khởi động lại vẫn vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.028763,
+         "id": "779200",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi sao bấm vô cập nhật phần mềm của Iphone thì nó cứ tìm kiếm mãi mà không ra vậy ạ!? E muốn nâng cấp lên IOS 9.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.89993,
+         "id": "1153042",
+         "field_search": "question",
+         "question": "Xin hỏi: Tôi đang dùng galaxy note 9 nâng cấp lên adroid Pie bi lỗi Sim 4G Viettel không gộ và nhận cuọc gọi được dù đả cài đặt gốc lại.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.868536,
+         "id": "768025",
+         "field_search": "question",
+         "question": " iPhone 5S có nên cập nhật bản mới nhất của iOS 9 không?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.86797,
+         "id": "1000632",
+         "field_search": "question",
+         "question": "ad cho mình hỏi!!!!mình sd đt sony experia Xa mà mình lỡ nâng cấp phiên bản android lên 7.0. Sau khi nâng cấp xong thì điện thoại mình thường bị đơ đơ ko biết làm cách nào để trở về như ban đầu hoặc là e có nên khôi phục cài đặt gốc ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.81791,
+         "id": "767359",
+         "field_search": "question",
+         "question": "Có thể nâng cấp iPhone 4s (8G) từ 8.3 lên ios 9.2 không? cần dung lượng máy trống là bao nhiêu để cài nâng cấp lên 9.2 ? khi nâng cấp lên máy có nặng hơn không và sau khi nâng cấp lên thì có thế quay về phiên bản cũ được không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.751705,
+         "id": "812198",
+         "field_search": "question",
+         "question": "Cho hỏi mình mua iPhone 4s mới tháng 1, mình nâng cấp lên iOS 9.3 cho hỏi trước khi nâng cấp máy mình là hệ điều hành iOS 8. mấy nhỉ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.742456,
+         "id": "1003706",
+         "field_search": "question",
+         "question": "Cho e hỏi e khôi phục cài đặt gốc sao mở nguồn lên lại k thiết lập đk tài khoản vậy ạE dùng máy xperia M4aqua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.572395,
+         "id": "810344",
+         "field_search": "question",
+         "question": "iphone 3 có thể tải trò chơi hay không? đã có tài khoản id apple nhưng khi tải nó đề là cần phải nâng cấp lên ios mới nhất, vậy phải làm sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.49995,
+         "id": "950833",
+         "field_search": "question",
+         "question": "Em lỡ tay cập nhật lên IOS 10.2.1 . bây giờ mới phát hiện là hao pin quá. cho em hỏi, có cách nào hạ cấp xuống IOS 9 dc ko ah? Trên mạng cũng chỉ cách hạ cấp nhưng em không dám làm.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.396544,
+         "id": "790899",
+         "field_search": "question",
+         "question": "Em có máy iPhone 5:cho em hỏi là sao em nâng lên iOS 9.2 thì wifi kém và chập chờn ạ có về được bản 8.1 hay nhỏ hơn 9 không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.392082,
+         "id": "838894",
+         "field_search": "question",
+         "question": "Iphone 4s em mới nâng cấp lên ios mới nhất, pin bị tụt rất nhanh và bây giờ sạc hiện là ĐÃ SẠC nhưng k lên % nào hết. Em không biết là do hư pin, bộ sạc hay bộ phận khác nữa. Giúp em với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.188866,
+         "id": "1168523",
+         "field_search": "question",
+         "question": "Cho e hỏi, nghe nói tháng 9/2019 có IOS 13, nhưng hạn chế Ip6s plus. Liệu không được nâng cấp IOS mới, có ảnh hưởng và Iphone 6s plus có bị hạn chế điều gì không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.068022,
+         "id": "787755",
+         "field_search": "question",
+         "question": "Cho mình hỏi là ipad mini , hình như là mini 1 có nên lên ios 9 ko ạ, tại giờ thấy nhìu ứng dụng hữu ích mà yêu cầu ios 8,9 ko hà, với lại khi lên ios 9 thì quay lại ios 7 dc ko ạ, cho mình lời khuyên nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 28.049574,
+         "id": "754514",
+         "field_search": "question",
+         "question": " Phiên bản ios cao nhất ipad 2 nâng cấp được là bao nhiêu vậy admin ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.929554,
+         "id": "754760",
+         "field_search": "question",
+         "question": "Máy iPhone 4 iOS 6.1.2 thì có thể nâng cấp iOS cao nhất là bao nhiêu? Đưa đến siêu thị thế giới di dộng nâng cấp được không, phí dịch vụ tầm bao nhiêu ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.923773,
+         "id": "1157268",
+         "field_search": "question",
+         "question": "6plus chạy iOS 9 em muốn lên iOS 12 thì phải làm sao ạ không cài thủ công được ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.823412,
+         "id": "1165407",
+         "field_search": "question",
+         "question": "Em muốn khôi phục oppo về cài đặt gốc, nhưng vào cài đặt khôi phục thì nó có vẻ không hoạt động, em nên làm thế nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.803236,
+         "id": "846710",
+         "field_search": "question",
+         "question": "Máy em ipad 2 ios 6.1.3 lúc tải facebook nó bảo phải nâng cấp lên ios 7.0 mà vào Setting -> General -> Software Update thì có ios 9.1.3 thì sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.729204,
+         "id": "1135143",
+         "field_search": "question",
+         "question": "Iphone5s của e giờ đang ở ios7 giờ em có thể lên ios 9 được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.725721,
+         "id": "1151930",
+         "field_search": "question",
+         "question": "Em mới nâng lên Android 9. Giờ không mở máy ảnh được. Có cách j khắc phục không ạ. Nokia 6 ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.70481,
+         "id": "786468",
+         "field_search": "question",
+         "question": "iphone 5 lock từ nhật gủi về ,k bik nó có \"\"S\"\" không nữa,mà mình mún p từ bản ios 6 lên 7 thôi dc k ạ,nghe nói nó up thẳng lên bản cao nhất là 9.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.67085,
+         "id": "873749",
+         "field_search": "question",
+         "question": "Cho mk hỏi là mk lên ios 10 beta 5 roi h mk mún khôi phục cài đặt gốc có dc ko ạ và có bị j ko ạ....(mk định bán mini 2 mua ipad air)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.670694,
+         "id": "776532",
+         "field_search": "question",
+         "question": " cho em hỏi e đang dùng ip5 ios 6 vậy giờ có lên được 7 không ạ hay bắt buộc phải lên 9 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.6149,
+         "id": "959987",
+         "field_search": "question",
+         "question": " Chỗ mình có nâng cấp máy iphone 3gs có hệ điều hành ios 6.1.6 lên ios 8.0 k ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.454092,
+         "id": "1157182",
+         "field_search": "question",
+         "question": "Ad ơi, em đã kiểm tra và máy có hỗ trợ nâng cấp nhanh lên Android 9, thì làm thế nào để nâng cấp ạ. ? Máy em huawei y6 2018 primer Android 8",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.310265,
+         "id": "803397",
+         "field_search": "question",
+         "question": " Hỏi về iPad mini 1 iOS 9 có xuống được iOS 7 không add ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.30911,
+         "id": "975995",
+         "field_search": "question",
+         "question": "cho mình hỏi. hôm nay mình có khôi phục lại cài đặt gốc. trước khi khôi phục lại cài đặt gốc mình đã sao lưu lại mọi thứ trên máy lại. giờ mình khôi phục lại dữ liệu mấy lần trong samsung cloud thì thấy bị mất 1 số hình ảnh, số điện thoại trong danh bạ, với theme mình tải về. không biết giờ mình có lấy lại được ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.292706,
+         "id": "755579",
+         "field_search": "question",
+         "question": "Em cập nhật lên ios 9 giờ khi khoá xoay màn hình thì em không dùng được nút xoay trên phím home ảo theo ý mình như ios 8 được. Có phải ios 9 huỷ tính năng này không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.21823,
+         "id": "1136195",
+         "field_search": "question",
+         "question": "E dùng Nokia x6 xách tay trung Quốc e nâng cấp lên Android 9 họ quá e lỡ reset máy giờ không cài được tiếng việt giờ e có thể xuống Android 8.1 ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.174145,
+         "id": "811745",
+         "field_search": "question",
+         "question": " khôi phục cài đặt gốc trên iphone thì làm sao vậy qtv? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.149254,
+         "id": "1017908",
+         "field_search": "question",
+         "question": "Máy em Lenovo a7000 lúc trước thẻ nhớ hoạt động bình thường sao giờ khôi phục cài đặt gốc lại máy ko hỗ trợ thẻ SD sandisk là bị j vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.126015,
+         "id": "918570",
+         "field_search": "question",
+         "question": " cho mình hỏi nếu hạ hệ điều hành IOS 10 về IOS 9 thì máy có bị ảnh hưởng gì không ??? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.010082,
+         "id": "754088",
+         "field_search": "question",
+         "question": " Bây giờ còn hạ hệ điều hành ios 9 về ios 8.4 ko? Và hạ như thế nào ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.927235,
+         "id": "742465",
+         "field_search": "question",
+         "question": "Em đang xài iphone 5 nhưng khi em nâng cấp ios 9 thì phần gọi điện thoại và coi danh bạ bị đứng là máy bị sao mấy anh giúp em với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.874607,
+         "id": "774862",
+         "field_search": "question",
+         "question": "Em đang dùng iPhone 5 đã lên iOS 9.2 vừa nẫy máy có bản cập nhật iOS 9.2.1 em không tải mà sao máy đã tự tải về vậy em có lên cài đặt không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.822762,
+         "id": "769798",
+         "field_search": "question",
+         "question": " iphone đã jaibreak làm sao để khôi phục cài đặt gốc? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.782524,
+         "id": "819318",
+         "field_search": "question",
+         "question": " AD cho e hỏi hiện tại e có thể hạ bản ios 9 xuống ios 8 k ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.777235,
+         "id": "766272",
+         "field_search": "question",
+         "question": "iPhone 4s Lock 64GB đang ở iOS 6.1.3 giờ có thể nâng lên iOS 7 được không hay là bắt buộc lên iOS 9 luôn hả QTV?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.761143,
+         "id": "789774",
+         "field_search": "question",
+         "question": "Em mới mua lại 1 chiểc iPhone 5 về dùng được ít ngày thì cháu nhỏ nghịch nhập sai mật khầu .em mang ra thợ thì họ chạy lại lại phần mềm và nâng cấp lên ios9.2.1 em về sử dụng thì thấy nhiều lúc máy bị đơ và duyệt wet chậm không xem phim được .em muốn hỏi máy e đã gặp vấn đề j .bây giờ e khôi phục cài đặt thì máy có trở về phần mềm cũ được không .và khi khôi phục có bị treo không vì e không biết kiểm tra jb .máy em là phiên bản quốc tế vì em dùng được nhiều mạng .các anh giúp em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.755198,
+         "id": "758071",
+         "field_search": "question",
+         "question": " Cho mình hỏi iOS 9 có hạ xuống iOS 8 được chưa ạ Apple đã mở khóa chưa vậy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.730434,
+         "id": "858356",
+         "field_search": "question",
+         "question": " Máy e iphone5 cập nhật từ IOS7 lên IOS 9 mãi ko dc   ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.706556,
+         "id": "781802",
+         "field_search": "question",
+         "question": "Mình mới mua iphone 4s của cửa hàng, nhân viên kỹ thuật nói không nên update lên ios 9 vì có thể bị treo. Mình thấy trên mạng nói không vấn đề gì, nhất là bản ios 9.2.1 mới ra, mình có nên update không? Các bạn đã thử chưa thấy thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.684074,
+         "id": "876868",
+         "field_search": "question",
+         "question": " Hi ad,mình ko biết đã update iphone5 lên tới 9.3.4.Bây giờ khôi phục cài đặt gốc có bị mất danh bạ số dt ko? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.56194,
+         "id": "799223",
+         "field_search": "question",
+         "question": "Ad cho e hỏi. e sài iphone 6plus. e đã nâng cấp ios máy e đang sài là 9.2.1 rồi mà khi e vào icloud kiểm tra thì báo là đang ở. ios 8 là như thế nào vậy Ad . mà kiểm tra trong phần cài đặt chung thì vẫn hiển thì 9.2..1Tư vấn giúp e. cảm ơn AD !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.529682,
+         "id": "1164290",
+         "field_search": "question",
+         "question": "Cho em hỏi cách giải mã thẻ sd trên điện thoại đã khôi phục cài đặt gốc với ạ. Trước đó e có mã hóa thẻ sd trên điện thoại sau đó e khôi phục cài đặt gốc máy bây h muốn giải mã và khôi phục lại thẻ sd thì phải làm sao ạ. Máy e là samsung galaxy a8 2018. Mong anh chị giúp đỡ ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.46328,
+         "id": "779619",
+         "field_search": "question",
+         "question": " e đang dùng ip 5 ios 8 có nên lên ios 9 không ạ và nên thì có vấn đề gì không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.37629,
+         "id": "836761",
+         "field_search": "question",
+         "question": "Máy mình là máy Lenovo a7010 . Mình mới nâng HDH từ 51 lên 6.0 .Thì thấy không chơi được nhiều game nữa, và máy nhanh nóng. Mình muốn cài đặt về 5.1 thì phải làm sao? Mình khôi phục cài đặt thì nó vẫn ở 6.0.😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.333378,
+         "id": "760465",
+         "field_search": "question",
+         "question": "Mấy anh chị cho em hỏi là em có 1 máy tính bàn chạy hệ điều hành Windows 8 em nâng cấp lên WIndows 10 thành công rồi em xóa phiên bản cũ bây giờ em khôi phục cài đặt gốc ( Xóa toàn bộ tệp tin) như vậy có vấn đề gì không qtv?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.242046,
+         "id": "1167537",
+         "field_search": "question",
+         "question": "Mình mới mua con nokia 5.1 plus về và nâng cấp lên adroid 9 và máy bắt nhập mật khẩu 2 lần, lần 1 mình đã nhập đúng đến lần 2 lại báo sai là vì lý do gì hay máy bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.206903,
+         "id": "1135165",
+         "field_search": "question",
+         "question": "Em dùng samsung s8+ không xoay được màn hình sau khi cập nhật ạ. Em đã thử khôi phục lại cài đặt gốc rồi sau khi khôi phục thì xoay được bình thường một lúc thì lại không xoay được nữa. Em mới mua máy được 1 tháng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.104065,
+         "id": "826159",
+         "field_search": "question",
+         "question": " Mình đang sử dụng IOS 6.1.3. Giờ muốn nâng cấp hđh thì tối thiểu là ios mấy? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.038252,
+         "id": "770364",
+         "field_search": "question",
+         "question": "  iPad1 iOS 5.1.1 có nâng cấp lên ios 8 không ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.036505,
+         "id": "897650",
+         "field_search": "question",
+         "question": "điện thoại mình là ip6 plus chạy ios 9.2.1, mình muốn update lên ios nhưng khi vào phần cập nhật phần mềm trong cài đặt chung thì không hiện lên bản ios để Tải về và Cài đặt mà lúc nào cũng báo là đang kiểm tra các bản cập nhật cả ngày. Vậy là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.026468,
+         "id": "920601",
+         "field_search": "question",
+         "question": "Ad cho e hỏi, e đag dùng ip4s mà e lỡ nâng cấp lên ios 9.3.5 . Máy lag quá, giờ e muốn hạ ios xuống đc k ad. Mà máy e bị mất mật khẩu icloud r ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.01692,
+         "id": "756928",
+         "field_search": "question",
+         "question": " iPhone 4 có thể nâng cấp lên ios 8.1.3 được không vậy?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.997229,
+         "id": "894029",
+         "field_search": "question",
+         "question": "cho em hỏi một chút là hiện tại e đang dùng ip 5 vì trước đây không muốn nâng ios nên e vẫn để ios 7.1.1. bây giờ ip đã có đến ios 10 nhưng e chỉ muốn nâng lên ios 8 thì có cách nào không ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.970839,
+         "id": "1134275",
+         "field_search": "question",
+         "question": "Máy Huwei của mình thường xuyên bắt người dùng phải khôi phục cài đặt gốc là sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.965313,
+         "id": "774619",
+         "field_search": "question",
+         "question": "Cho mình hỏi chút mình đang dùng ios 9.1 có nên nâng cấp lên ios 9.2 không ? ios 9.2 có bị lỗi giừ không ạ ? cách nâng cấp lên ios 9.2 như nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.939983,
+         "id": "939588",
+         "field_search": "question",
+         "question": " Cho em hỏi cách nâng cấp từ ios 7 lên ios 8 hay 9 thì làm sao ạ ? em đang sài iphone 5s ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.926912,
+         "id": "1016217",
+         "field_search": "question",
+         "question": "Em mua nokia3 được 15 ngày .nhưng giờ cứ cắm sạc là điện thoại đơ .lúc thì vào phần biết tin nhắn nhảy loạn xạ .em khôi phục cài đặt gốc cũng không được .vậy em đổi trả máy khác có được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.923662,
+         "id": "728169",
+         "field_search": "question",
+         "question": " Mình nâng cấp lên iOS 9.1 bây giờ mình muốn hạ xuống iOS 9.0.2 có được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.919085,
+         "id": "772652",
+         "field_search": "question",
+         "question": "Mình đã vô tình khôi phục cài đặt gốc laptop, nên office của mình trên máy bị mất hết. Mình có download office trên mạng về dùng tạm, nhưng mình không hài lòng. Bây giờ mình muốn khôi phục lại cài đặt gốc ban đầu và cài office lại thì bên Thegioididong.com cho mình hỏi chi phí hết bao nhiêu vậy ạ? Cảm ơn.Laptop của mình là HP Pavilion phiên bản 2015, đang chạy Windows 10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.886545,
+         "id": "998982",
+         "field_search": "question",
+         "question": "Em có có iphone 5 dùng 1 thời gian e cảm thấy nó chạy chậm lên e khôi phục cài đặt gốc và sau khi khôi phục nó không nhận đc sim nữa nó ko nhận sim thì ko cài đặt đc máy mong mọi người giúp e với",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

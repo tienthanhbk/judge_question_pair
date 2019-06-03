@@ -1,0 +1,809 @@
+{
+   "id_query": "805199",
+   "total": 29549,
+   "total_current": 100,
+   "max_score": 67.21067,
+   "origin_question": " Máy tính mình khởi động xuất hiện thông báo như ảnh là bị lỗi gì? Hướng dẫn mình các khắc phục được không? ",
+   "hits": [
+      {
+         "score": 67.21067,
+         "id": "805199",
+         "field_search": "question",
+         "question": " Máy tính mình khởi động xuất hiện thông báo như ảnh là bị lỗi gì? Hướng dẫn mình các khắc phục được không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 34.117157,
+         "id": "807320",
+         "field_search": "question",
+         "question": " Máy tính mình khi khởi động xong báo lỗi như Hình, chỉ mình cách khắc phục với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 32.609657,
+         "id": "776645",
+         "field_search": "question",
+         "question": "Laptop mình mấy ngày gần đây khi khởi động máy thì xuất hiện lỗi này, không biết là gì? Mong QTV chỉ khắc phục, Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.75696,
+         "id": "987470",
+         "field_search": "question",
+         "question": "ad cho mình hỏi: gần đây khi khởi động máy tính xuất hiện tiếng kêu  bíp liên tụcloa máy tính không nghe được( tai nghe thi được), biểu tượng vẫn hiển thị.Xin hỏi là máy bị vấn đề gì và cách khắc phục ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 29.389982,
+         "id": "814078",
+         "field_search": "question",
+         "question": "Tôi dùng di động Asus khi vào zalo đọc báo cứ bị thông báo dọa máy của bạn chạy chậm và bắt cài theo hướng dẫn tắt đi khởi động lại nó lại xuất hiện .đành phải bỏ zalo tôi rất bức sức vậy hướng dẫn cho biết phải làm sao.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.68001,
+         "id": "1002642",
+         "field_search": "question",
+         "question": "Máy tính bảng galaxy tab e của mình bị tự động rồi mở nguồn rồi tắt mở nguồn lại( lặp đi lặp lại) là do gì ạ. Trong khi đó pin 0%  cLà bị gì ạ, khắc phục tại nhà được không vậy, hướng dẫn e với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.46444,
+         "id": "937371",
+         "field_search": "question",
+         "question": "cho mình hỏi là hình ảnh của mình tag bạn bè tuy họ không cài phê duyệt vào dòng thời gian nhưng khi mình tag họ họ lại nhận được thông báo đó, còn những người khác tag họ thì xuất hiện ngay trên tường fb mà không có thông báo, phải chăng facebook của mình bị lỗi? và cách khắc phục?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 27.430588,
+         "id": "1017778",
+         "field_search": "question",
+         "question": "hướng dẫn cách khắc phục lỗi facebook messenger báo đã xảy ra lỗi, vui lòng thử lại với ạ. em bấm vô cuộc trò chuyện là bị báo lỗi như vậy.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.92124,
+         "id": "819193",
+         "field_search": "question",
+         "question": "Hiện zalo của mình không hiển thị thông báo các họat động của bạn bè, bạn bè có đăng ảnh hay cập nhật cảm nghĩ mới vẫn không có thông báo như trước. Nhờ bên liên quan chỉ cách khắc phục. Cám ơn nhiều ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.861183,
+         "id": "944820",
+         "field_search": "question",
+         "question": "E có cái laptop asus bị lỗi không vào được Store, bảng thông báo là Element not foud, máy bị gì và làm sao khắc phục được? hiện đã hết bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.431448,
+         "id": "837812",
+         "field_search": "question",
+         "question": "Máy tính của mình khi sạc thì hiện ra thông báo như thế này, đồng thời cũng không nhận sạc. QTV cho mình hỏi khắc phục như thế nào ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.18372,
+         "id": "1014733",
+         "field_search": "question",
+         "question": "Đt của mình là htc 10 evo hiện thông báo cuộc gọi nhỡ nhưng không tắt được. Trên thanh thông báo hiện khung trắng như hình bấm vào thì hiện lịch sử cuộc gọi. Có phải bị lỗi phần mền không. Ad giúp chỉ giúp mình khắc phục. Mình mới mua ở tgdđ được 1 tháng thôi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.16584,
+         "id": "1133987",
+         "field_search": "question",
+         "question": "Mh sd dt samsung j7 2016 bị cảnh báo lỗi camera trước. Hướng dẫn mh cách khắc phục lỗi với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.15376,
+         "id": "994396",
+         "field_search": "question",
+         "question": "Cho mình hỏi mỗi khi mình lấy ảnh từ Ip6splus của mình lên máy tính vào các ổ đều bị như trong ảnh?TGDD cho hỏi nhưu vậy là bị lỗi gì vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.970516,
+         "id": "1155201",
+         "field_search": "question",
+         "question": "chỉ giúp mình lỗi khắc phục khi khởi động máy lên kích vào ứng dụng đã cài đặt : máy oppo f5 báo là không thể khởi động ứng dụng do k đọc được dữ liệu ứng dụng",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.661385,
+         "id": "1022208",
+         "field_search": "question",
+         "question": " Hiện tại mình có sử dụng galaxy A5 2016, có xuất hiện lỗi thông báo như vậy là sao vậy ah?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.593004,
+         "id": "1153542",
+         "field_search": "question",
+         "question": "Máy của mình Samsung A8 bị lỗi ấn vào ảnh rồi chia sẻ thì nó báo lỗi Android bị ngừng hoạt động...Có cách khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.518764,
+         "id": "805213",
+         "field_search": "question",
+         "question": " Xin hướng dẫn cho mình cách cài đặt tiện tích thông báo tin nhắn FB lên màn hình máy tính. ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.45732,
+         "id": "1017988",
+         "field_search": "question",
+         "question": " Cho em hỏi đây là lỗi gì và phải khắc phục như thế nào ạ? Cứ mở 1 ứng dụng bất kỳ là nó hiện thông báo  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.441126,
+         "id": "1150328",
+         "field_search": "question",
+         "question": "IP X của mình đang sử dung face bị sập nguồn đột ngột, không thể khởi động lại được, cắm sạc ko máy khởi động lại??? Đây là lỗi gì? Có cách nào khắc phục không?Máy mình mua tại TGDĐ khoảng 1 năm, chưa chai pin, chưa sửa chữa, va đập gì.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.378418,
+         "id": "826747",
+         "field_search": "question",
+         "question": " Em bị lỗi thông báo messenger. Không thông báo khi có ng nhắn. Khắc phục như nào ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.232765,
+         "id": "920213",
+         "field_search": "question",
+         "question": "mình sử dụng laptop dell hệ diều hành win7 ultimate.Mình sử dụng office bản quyền 2016, trong đó có Onenote. Mọi thứ đều hoạt động tốt cho tới hôm nay..khởi động Onenote thì bị báo lỗi.mình đã làm theo các hướng đẫn trên bảng thông báo lỗi nhưng vẫn không được, ngoài ra mình còn thử khởi động lại máy.Mong mọi người giúp mình làm cho Onenote hoạt động lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.126856,
+         "id": "1006199",
+         "field_search": "question",
+         "question": "Chào bàn. Mình hiện đang dùng đt samsung galaxy J5 thường , nhưng máy hay báo đầy bộ nhớ. xin được hướng dẫn cách khắc phục ạ. cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.113781,
+         "id": "1166325",
+         "field_search": "question",
+         "question": "Mình đang dùng galaxy a5, sau khi cập nhật phần mềm thì máy khởi động lại liên tục. Cho mình hỏi máy bị lỗi gì và cách khắc phục như thế nào ạ?Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.034746,
+         "id": "1009554",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy tính dell của mình dùng win 7 32bit khi cắm dây cáp usb kết nối với điện thoại thì máy tính báo lỗi và tự khởi động lại. Khắc phục giúp mình với. Cảm ơn nhiều1",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.944784,
+         "id": "1146588",
+         "field_search": "question",
+         "question": "Laptop của mình hiện đang dùng win 10 thì bỗng nhiên xuất hiện tình trạng đuôi các file của mình bị đổi thanh tfudet rồi lai đổi thành gefest. Cho mình hỏi máy mình bị lỗi gì và cách khắc phục ạ! Cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.87405,
+         "id": "751920",
+         "field_search": "question",
+         "question": "Lỗi máy ASUS không thể khởi động: Tình hình máy ASUS X555LD của em giờ bật nút nguồn khởi động thì chỉ hiện cái logo của hãng rồi màn hình ko hiện gì lên nữa( chỉ sáng sáng) nguồn và quạt vẫn chạy. Xin các anh/chị các bạn chỉ cách khắc phục lỗi này. em xin cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.79203,
+         "id": "778355",
+         "field_search": "question",
+         "question": "iPhone 5 ios 9.2.1 tải appcola về dùng không được. Toàn bị văng ra khi vào dù đã trao quyền theo hướng dẫn. Mình đã khởi động lại máy hay xoá đi cài lại vẫn không khắc phục được. Vậy phải làm sao đây ạ??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.644787,
+         "id": "994339",
+         "field_search": "question",
+         "question": "máy tính asus của e thường xuyên bị đơ khi sd là bị gì ạ, em phải khởi động mt thì mới sd được...có cách nào khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.634834,
+         "id": "1157455",
+         "field_search": "question",
+         "question": "IPhone 6s Đang sử dụng thì tự nhiên tắt nguồn và khởi động lại thì không lên được. Xin hỏi bị như vậy là nguyên nhân gì và khắc phục lỗi như thế nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.397106,
+         "id": "800204",
+         "field_search": "question",
+         "question": " Cho em hỏi. laptop của em khởi động là có thông báo như thế này thì có sao không ạ? cách khắc phục thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.343605,
+         "id": "1147662",
+         "field_search": "question",
+         "question": "Mình đang dùng Nokia 3.1 Ram 3gb, máy bị lỗi tự động Restart liên tục.  TGDD cho mình biết máy bị lỗi gì và khắc phục như thế nào nhé!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.178392,
+         "id": "1157651",
+         "field_search": "question",
+         "question": "máy mh htc one m8 dùng được một lúc nó sập nguồn khởi động lại. Liên tục như thế. xong máy báo lỗi là máy khôi phục lại một lượt reset không bình thường. làm thế nào khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.162123,
+         "id": "1134473",
+         "field_search": "question",
+         "question": "Nokia 6.1 plus đèn flash khi chụp ảnh luôn tông màu vàng, làm ảnh bị ám vàng.. xin giải thích lỗi và hướng dẫn cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.132011,
+         "id": "786471",
+         "field_search": "question",
+         "question": " Laptop hiệu Dell không khởi động được, nó hiện ra màn hình đen. Cho hỏi bị gì và cách khắc phục. Thanks! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.030079,
+         "id": "1162939",
+         "field_search": "question",
+         "question": "cho mình hỏi điện thoại của mình là samsung A3 2016, mặc dù đt không làm gì, để yên thì lâu lâu ại tự động sáng màn hình mặc dù không có thông báo hay gì cả. Giúp mình cách khắc phục lỗi này nhé vì nó làm ảnh hưởng đến lượng pin quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.98468,
+         "id": "1016962",
+         "field_search": "question",
+         "question": " cho em hỏi lúc khởi động hiện lên như này thì khắc phục kiều gì ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.961452,
+         "id": "1150387",
+         "field_search": "question",
+         "question": "E đang dùng ss glx s9+ mỗi lần bật dữ liệu di động thì máy k bật mà phải khởi động lại máy mới có dữ liệu ạ. Hướng dẫn e cách khắc phục được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.904564,
+         "id": "1013574",
+         "field_search": "question",
+         "question": "Hướng dẫn sửa lỗi không thông báo tin nhấn Zalo oppo neo 7",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.78941,
+         "id": "1022913",
+         "field_search": "question",
+         "question": "Tình trạng máy của mình là sau khi cập nhật lên IOS 10.3 thì màn hình nền xuất hiện mấy đường sọc dọc trong khi đó vào phần tin nhắn hay xem hình ảnh, cũng như các phần khác thì thấy màn hình vẫn bình thường không hề có dấu hiệu sọc như trên. Cho hỏi hướng khắc phục ạ. Mình dùng IP6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.762035,
+         "id": "1163129",
+         "field_search": "question",
+         "question": "Hướng dẫn khắc phục lỗi điều khoản dịch vụ apple media trên appstore với ad ,giúp mình với?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.723627,
+         "id": "998351",
+         "field_search": "question",
+         "question": "Dt của mình là galaxy s7 edge trên mành mình xuất hiện những cái lỗi như vậy thì khắc phục như thế nào mong anh/chị giúp ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.716845,
+         "id": "996336",
+         "field_search": "question",
+         "question": "Hướng dẫn khắc phục lỗi lớp phủ màn hình máy itel s11 plus",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.603449,
+         "id": "1008933",
+         "field_search": "question",
+         "question": "Làm sao để tắt thông báo màu xanh đó vậy ad, mình có bấm 2 lần như hướng dẫn mà vẫn kh tắt được thông báo đó v ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.594639,
+         "id": "1023666",
+         "field_search": "question",
+         "question": "Qtv cho mình hỏi htc desire 10 pro mình vào cài đặt như hướng dẫn sao không thấy mục tắt mở khởi động nhanh...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.501726,
+         "id": "827251",
+         "field_search": "question",
+         "question": "Tại sao mesenger của iphone không thông báo tin nhắn đến ạ ?Mình bật thông báo lên cũng không hiển thịXoá đi tải lại, khởi động lại máy, khôi phục lại máy cũng không được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.393332,
+         "id": "801224",
+         "field_search": "question",
+         "question": "máy oppo f1 của mình thỉnh thoảng không nhe nhạc được ở loa ngoài ở mặt sau của máy mà nhạc lại được phát ra ở loa gần camera trước khởi động lại thì hết được lúc lâu lâu lại bị như vậy là lỗi gì vaf cách khắc phục ra sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.292675,
+         "id": "912958",
+         "field_search": "question",
+         "question": "Tgdđ ơi cho mình hỏi laptop minh hiện ở chỗ mấy cột sóng wf là dầu x đỏ và ô vuông như cái màn hình laptop đang kết nối sạc là bị làm sao và hướng dẫn mình cách khắc phục.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.255083,
+         "id": "1145649",
+         "field_search": "question",
+         "question": "máy tính của minh hiện đang dùng win 10 và bỗng nhiên đuôi của các tệp tin trong máy tự động đổi thành tfudet. Cho mình hỏi máy của mình bị lỗi gì và cách sửa lỗi như thế nào vậy. Cám ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.248028,
+         "id": "1149400",
+         "field_search": "question",
+         "question": "Ad cho mìn mình hỏi, mìn có hard reset lại j7 prime và làm theo các bước đã hướng dẫn nhưng đến đoạn như ảnh thì lại bảo là không thực hiện được. Mong nhận được trả lời sớm từ ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.887133,
+         "id": "895283",
+         "field_search": "question",
+         "question": "Mình sử dung ĐT thoại Samsung Galaxy A8. Dạo này FB của mình cứ bị lỗi chuyển trang như thế này ko biết phải khắc phục như thế nào? Bấm vào các link báo mà bạn bè chia sẻ trên FB nhưng ko hiện ra nội dụng gì chỉ báo lỗi chuyển trang, còn vào Firefox hay các trình duyệt Web khác thì đọc bình thường ko bị gì.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.881105,
+         "id": "774074",
+         "field_search": "question",
+         "question": "iPhone 4s thỉnh thoảng màn hình bị tối, cuộc gọi đến vẫn đổ chuông nhưng không hiện, phải khởi động lại máy mới được, như thế là lỗi gì ad?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.7862,
+         "id": "756938",
+         "field_search": "question",
+         "question": "AD ơi máy mình dạo này bị lỗi này, giúp mình với. khi khởi động của sổ search result luôn hiện ra (hình 1), tắt mãi mới được, thỉnh thoảng lại hiện lại. còn trong trinh duyệt web mỗi khi đánh chữ thì được mấy kí tự thì nó nhảy đến hiện trong hộp thoại mình khoanh vòng đỏ trong hình 12. Mình cài lại win cũng vẫn bị, cài win khác (win xp) vẫn bị, vào mini win xp hộp thoại vẫn hiện ra, hiện tại mình đang dùng win 7. Nếu mình tắt tính năng windows search thì khởi động xong máy báo lỗi windows search và máy không cho làm việc (kích chuột không được). nếu các bạn biết lỗi gì chỉ mình với, cảm ơn AD nhiều!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.779964,
+         "id": "1024500",
+         "field_search": "question",
+         "question": "Máy Iphone 6s plus dao này hay bị tình trạng hiên thông báo như trong hình kèm theo, xin cho biết nó bị lỗi gì và khắc phục nhu the nào",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.716202,
+         "id": "1138591",
+         "field_search": "question",
+         "question": "Ad ơi. Cho mình hỏi máy mình là samsung j7+ khi mình tải về theme nó hiện như vậy và xoay suốt không thể tải được là bị gì vậy ad. Xin cách khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.699978,
+         "id": "838631",
+         "field_search": "question",
+         "question": "iphone 5 mở nguồn không lên gắn cáp nối với máy tính hiện lên logo iTunes như hình. ở thế giới di động có khắc phục được lỗi không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.6412,
+         "id": "752340",
+         "field_search": "question",
+         "question": "Cho em hỏi máy tính dùng 1 thời gian khi khởi động lại thông báo lỗi của explorer nhưng không ghi gì cả kèm 1 hình tam giác vàng có chấm than?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.620596,
+         "id": "835292",
+         "field_search": "question",
+         "question": "Mình xài máy tính bảng asus mua hơn 1 năm . Hiện máy bị sọc trắng rồi chuyển sang trang màn hình . Tắt nguồn khởi động lại xài được . Nhưng nay bị như vậy nhưng tắt nguồn khởi động lại hiện màn hình trắng . Vậy là bị làm sao . Cách sửa??",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.608307,
+         "id": "1140550",
+         "field_search": "question",
+         "question": "Em có máy oppo a71 bị mất nguồn đột ngột và không khởi động được dù không có va chạm gì, em phải khắc phục như thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.574408,
+         "id": "1149851",
+         "field_search": "question",
+         "question": "mình mới mua A7 2018 bản 64GB nhưng chụp selfie không được, máy báo lỗi server.đã làm hết các cách kể cả khởi động lại máy mà vẫn không được.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.50939,
+         "id": "807505",
+         "field_search": "question",
+         "question": " Cho minh hỏi lỗi lúc khởi động máy bị vậy, khắc phục bằng cách nào  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.496746,
+         "id": "1135069",
+         "field_search": "question",
+         "question": "Cho mình hỏi máy tính của mình gặp phải lỗi trong khi xem video thì bị lỗi review lại không như vậy là lỗi gì",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.486187,
+         "id": "1138550",
+         "field_search": "question",
+         "question": "sau khi mình nhấn khởi động lại máy asus zenfone 2 thì bị báo lỗi màn hình có hình sợi dây sạc và không thể lên nguồn được nữa. mình đã thử khởi động mấy lần nhưng vẫn không lên. sử dụng tổ hợp phím nguồn cộng volum up củng k xuất hiện chế độ recovery. mong ad chỉ cách xử lý với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.466618,
+         "id": "1138056",
+         "field_search": "question",
+         "question": "Mình muốn chuyển ảnh từ điện thoại samsung A6 Plus sang máy tính thì làm ntn? hướng dẫn giúp mình",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.43765,
+         "id": "989918",
+         "field_search": "question",
+         "question": "cho hỏi mình có cái iphone 5 vô youtube máy báo lỗi .. đã xảy ra lỗi hướng dẫn mình chỉnh lại nhe",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.303337,
+         "id": "1010975",
+         "field_search": "question",
+         "question": "e xài gionee j103 pro sao mà không di chuyển được các ứng dụng trong máy và không nhận được ảnh trong thư viện .... đã thử khôi phục máy lại nó trở lại bình thường và chỉ sau vài giờ nó lại bị giống v . có thể hướng dẫn e cách khắc phục được không.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.292414,
+         "id": "990716",
+         "field_search": "question",
+         "question": "ad cho em hỏi, lúc đầu mới đăng nhập zalo trên máy tính thì điện thoại sẽ nhận thông báo, nếu em ko đăng xuất zalo trên máy tính qua 1 thời gian khởi động máy tính thì đt có nhận lại thông báo ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.289492,
+         "id": "805220",
+         "field_search": "question",
+         "question": " Xin hướng dẫn mình làm sao để thông báo lên màn hình khi có tin nhắn Facebook hay thông báo mới? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.12347,
+         "id": "825850",
+         "field_search": "question",
+         "question": "zalo báo không đủ bộ nhớ để nhận.(lỗi 506)mình đã gỡ các ứng dụng cũ.nhưng vẫn không được.khởi động lại máy cũng không được.ai biết cách khắc phục lỗi giúp e với ạh",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.114464,
+         "id": "998452",
+         "field_search": "question",
+         "question": "Mình đang xài điện thoại Android HTC desire dual sim 700.Hôm qua điện thoại mình bị lỗi wifi. Tức là có bật ON wifi nhưng không tìm thấy thiết bị, 1 lúc sau thì báo error wifi.Mình đã khôi phục lại cài đặt gốc nhưng vẫn không sửa được lỗi này. Minh cung đã quay số  *#*#526#*#* nhưng cũng không được.  Mong tgdd giải đáp và hướng dẫn mình cách khắc phục.  Cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.033203,
+         "id": "1165442",
+         "field_search": "question",
+         "question": "Máy oppo F9 tự khởi động lại khi vào file ảnh hoặc gửi ảnh qua zalo là lỗi gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.010578,
+         "id": "1152217",
+         "field_search": "question",
+         "question": "Sao mình đã cài đặt giống như hướng dẫn mà ko thấy thông báo cuộc gọi nhỡ vậy bạn. Mình đang xài huawei y9",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.004786,
+         "id": "997710",
+         "field_search": "question",
+         "question": "Máy mình bị báo lỗi \" không may là quy trình bộ nhớ phương tiện đã dừng lại \". Cửa hàng với ứng dụng chụp ảnh, video đều không vào đc. Mình khôi phục cài đặt gốc máy vẫn báo lỗi. Phải làm ntn để máy hoạt động bt đc",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.962296,
+         "id": "756656",
+         "field_search": "question",
+         "question": "Máy mình đang dùng là Dell Xps 13 2015, hiện mình đang khởi động lại máy nhưng không được và máy cứ chạy hiện chữ đang khởi động lại nhưng đã chạy 30' rồi, chỉ giúp mình cách tắt nguồn máy tính với máy chạy win 10.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.871141,
+         "id": "778107",
+         "field_search": "question",
+         "question": "Ad có thể giúp giúp mình giải thích hiện tượng là: Mới đây khoảng vài ngày thì Laptop mình khởi động nó báo lỗi không vào được windows, mình phải tăt máy vài lần + tháo pin lắp lại nó mới chịu lên, nhưng khi khởi động được thì đến desktop lạ bị đơ ra khoảng 1 lúc tầm 1-2' thì mới login pass được. ( Hồi trước thì bình thương máy chạy rất tốt không lỗi gì, lỗi chỉ mới xuất hiện vài ngày trở lại đây).Máy mình hiệu SONY. Model: 14SVE132CV. Windows 10 Pro 64bit. Bản nâng cấp tháng 11.Mong ad giúp, nêu giùm mình biện pháp xử lý trường hợp trên. TKS",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.744377,
+         "id": "1021295",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi, khi mình cài itunes cho laptop thì hiện thông báo như trong hình.Đây là lỗi gì? và cách sửa ntn ạ?Cảm ơn ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.665224,
+         "id": "1163131",
+         "field_search": "question",
+         "question": "Khắc phục hướng dẫn giúp mình sửa lỗi điều khoản và điều kiện về dịch vụ apple media đã thay đổi với ad ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.642897,
+         "id": "896252",
+         "field_search": "question",
+         "question": " Ai pit sửa lỗi này không chỉ cho mình với  trên YouTube toàn hướng dẫn sửa cho máy tính k Ak ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.642145,
+         "id": "825091",
+         "field_search": "question",
+         "question": " Hướng dẫn tìm Iphone bị mất trên máy tính làm như thế nào? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.632648,
+         "id": "1003656",
+         "field_search": "question",
+         "question": "Cho hỏi tự nhiên hiện biểu tượng gì trên thanh thông báo vậy..khởi động lại máy vẫn k mất đi ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.618309,
+         "id": "769048",
+         "field_search": "question",
+         "question": "QTV cho mình hỏi Product ID windown 8 có quan trọng không ạ? Bị người khác nhìn thấy có ảnh hưởng gì không? Và bị ảnh hưởng như thế nào? Tại mình thấy nhiều trang Web hướng dẫn của các Pro IT họ thường che đi Product không cho người khác xem. Rất mong nhận được sự hổi âm từ QTV. Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.585627,
+         "id": "1023092",
+         "field_search": "question",
+         "question": "cho em hỏi oppo R830k lâu lâu không chụp được ảnh không lưu được ảnh là lỗi gì ạ. giúp em khắc phục được không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.579075,
+         "id": "751947",
+         "field_search": "question",
+         "question": " Cho mình hỏi, máy iphone 6 bản 16Gb bị lỗi báo dung lượng ảo thì khắc phục như thế nào ạ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.559813,
+         "id": "1139212",
+         "field_search": "question",
+         "question": "điện thoại em bị như vậy là sao ạ tự nhiên đang sài ngon mà bị vậy em củng hk pk sao nửa nó báo là '' đả sãy ra lỗi với cảm biến dấu vân tayNiếu thông báo này xuấn hiện nhiều hãy khởi động máy lại '' mà em dẳ khởi động nhiều lần rồi mà vẫn vậy bây giờ làm sao ạ mong giúp dỡ em",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.556223,
+         "id": "1153101",
+         "field_search": "question",
+         "question": "Điện thoại IP7S của mình bị mờ và chấm than như hình, copy vào máy tính ko dc, tải lên gg dirve báo lỗi ko dc, làm sao khắc phục ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.537085,
+         "id": "1161224",
+         "field_search": "question",
+         "question": "samsung j6 của hình hiện thông báo cập nhật phần mềm thành công ( mà mình không biết phần mềm gì). sau đó thì liệt cảm ứng. cho mình hỏi dt đang bị gì, cách khắc phục ạ.  xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.51626,
+         "id": "1161909",
+         "field_search": "question",
+         "question": "cho mình hỏi, mình đăng xuất nik zalo ở máy tính 1 , sau đó đổi mật khẩu và đăng nhập ở máy tính 2, thì máy tính 2 có xem được các tin nhắn hoặc khôi phục các tin nhắn ở máy tính 1 không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.478197,
+         "id": "1138034",
+         "field_search": "question",
+         "question": "máy mình hôm nay khi khởi động lại thì bị đứng ở chỗ load luôn  . không biết là do lỗi gì . red mi note 4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.426332,
+         "id": "909791",
+         "field_search": "question",
+         "question": " Em đang xài win 8.1 mà refresh lại không được,nó hiện rra thông báo này là sao ạ,cach khắc phục như thế nào ạ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.378601,
+         "id": "1158590",
+         "field_search": "question",
+         "question": "mình mới mua e ssa50 nhưng khi tải ứng dụng từ chplay thành công thì ko thấy  nó xuất hiện trên màn hình chính. Mình thử vào ch play, cài đặt nhưng ko thấy mục \"Bật hiển thị ứng dụng trên màn hình\" như hướng dẫn. Máy mình bị lỗi à?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.339684,
+         "id": "804197",
+         "field_search": "question",
+         "question": "   messenger của em 2 ngày nay bị như thế này.... ai có thể hướng dẫn em khắc phục với  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.314558,
+         "id": "871595",
+         "field_search": "question",
+         "question": "Cho mình hỏi khi vào facebook trên smarthphone thì có hiện thông báo là phải tạo một mã khóa mới. Nhưng khi tạo thì lại bảo là xảy ra lỗi như hình dưới đây. Có bạn nào biết thì chỉ mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.261385,
+         "id": "1142505",
+         "field_search": "question",
+         "question": "Mình mua con A7(2018) từ hôm 1.1.2019. Mới được mấy ngày và cảm nhận bị lỗi sóng 4G. Khởi động lại máy thì mới được. Xin shop cho ý kiến khắc phục",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.20058,
+         "id": "1154116",
+         "field_search": "question",
+         "question": "Máy mình mua tại shop . Máy ip xr cũ đang dùng thì bị sập nguồn rồi mình khởi động lại máy lại bình thường cho mình hỏi là lỗi gì ạ . Mình đang nghi máy bị lỗi nguồn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.184305,
+         "id": "1145706",
+         "field_search": "question",
+         "question": "Xin hướng dẫn giúp tôi khắc phục lỗi này: gần đây tôi mới mua điện thoại huawei nova 3e từ TGDĐ, đt thường tự bật sáng màn hình khi đang khóa máy để nằm yên, và cả khi đang sạc pin đều bị hiện tượng giống nhau; màn hình khóa tối tự nhiên bật lên hình nền màn hình chính (chỉ hình nền, và thanh thông tin trên cùng thôi, trên màn hình chỉ hiện hình nền không kèm thông tin gì khác), sau đó nó lại tự chuyển sang màn hình khóa (có đồng hồ, ngày, ...) rồi tắt tối lại. Cứ khoảng 10' lại bị vậy. Xin hướng dẫn tôi khắc phục lỗi này. Xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.174747,
+         "id": "1157000",
+         "field_search": "question",
+         "question": "hướng dẫn hiện thị thông báo có tin nhắn đến trên màn hình khóa sam sung A50",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.149975,
+         "id": "840782",
+         "field_search": "question",
+         "question": "laptop của mình cắm sạc thì ở biểu tượng pin hiện \"plugged-in, charging\" nhưng để bao nhiêu lâu % pin cũng không tăng lên. xin các bạn tư vấn giúp máy mình bị lỗi gì và cách khắc phục. mình xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.141724,
+         "id": "1155021",
+         "field_search": "question",
+         "question": "Thưa QTV, mình đang dùng điện thoại SS J4, máy vẫn đang bình thường nhưng tự dưng mình không mở khóa màn hình được, mỗi lần mở khóa máy báo sai mật khẩu. Vậy cho mình hỏi máy mình đang bị lỗi gì ạ? và cách khắc phục như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.108479,
+         "id": "1138160",
+         "field_search": "question",
+         "question": "Cho em hỏi samsung j6 2018 chơi liên quân bị lỗi duy chuyển lâu lâu bị hướng dẫn em cách khắc phục ik ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.10762,
+         "id": "998488",
+         "field_search": "question",
+         "question": "Mọi người giúp em với. Máy tính của em tự nhiên cứ tự động mở trình duyệt và mở các trang web linh tinh là bị gì ạ ?khắc phục như thế nào mong mọi người giúp đỡ.em cảm ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

@@ -1,0 +1,809 @@
+{
+   "id_query": "1011313",
+   "total": 31771,
+   "total_current": 100,
+   "max_score": 88.20857,
+   "origin_question": " Tại sao con Huawei media pad t3 của em khi sử dụng facebook lại bị mất 1 phần thành công cụ vậy ạ và cách sửa ạ  ",
+   "hits": [
+      {
+         "score": 88.20857,
+         "id": "1011313",
+         "field_search": "question",
+         "question": " Tại sao con Huawei media pad t3 của em khi sử dụng facebook lại bị mất 1 phần thành công cụ vậy ạ và cách sửa ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 31.980906,
+         "id": "1007973",
+         "field_search": "question",
+         "question": "E sử dụng j5 prime khi vào camera thì mất thanh công cụ r ạ. Cho e hỏi là sửa lại làm sao ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.28928,
+         "id": "1153988",
+         "field_search": "question",
+         "question": "Em có cái  máy tính bản huawei   media pad, lúc tắt máy đi...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.255388,
+         "id": "755252",
+         "field_search": "question",
+         "question": " tại sao microsoft cho công cụ media tool để tải win 8.1 và 10 từ microsoft , mà không cho win 7 và 8 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.651001,
+         "id": "1162917",
+         "field_search": "question",
+         "question": "Cái tablet Huawei T3 10 của em bị bể màn hình, bây giờ nếu em gửi đến thay thì mất bao lâu và giá là bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.57826,
+         "id": "892232",
+         "field_search": "question",
+         "question": "máy tính e khi sạc hoặc sử dụng thì bị nóng ở bên phải touch pad, vậy có vấn đề gì với phần cứng không ạ? cảm ơn ad nhìu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.323969,
+         "id": "1160953",
+         "field_search": "question",
+         "question": "Máy Huawei GR5 2017 của mình khi đang dùng các ứng dụng khá thì thanh công cụ đọt ngột xuất hiện nhiều lần, khi khởi động lại thì hiện tượng đó vẫn xuất hiện. Mình dừng sử dụng một lúc thì không còn hiện tượng đó nữa nhưng thanh công cụ lại không gạt xuống được. Mong được giúp đỡ. Cảm ơn nhiều.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.752192,
+         "id": "1137872",
+         "field_search": "question",
+         "question": "Qtv cho em hỏi. Em dùng ip6s plus mà trên thanh công cụ bị mất chữ viettel thì làm sao để có lại ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.50266,
+         "id": "765046",
+         "field_search": "question",
+         "question": "Cho mình hỏi tại sao mình dùng công cụ savior trên cốc cốc để tải video về, có một số video tải được, một số video khi tải thì máy thông báo \" không thành công - bị cấm \" dù cùng một nghệ sĩ. Vậy là sao ạ? có thể cho mình cách khắc phục không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.175274,
+         "id": "1138702",
+         "field_search": "question",
+         "question": "Vấn đề phần trên của sony z3 không kéo đc thanh công cụ xuống. Kiểm tra tuoch screen thì ntn. Cho e hỏi bị hỏng cảm ứng phải không ạ? Và cách xử lý ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.973053,
+         "id": "1138904",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao zalo em lại thông báo có người khác đăng nhập trên thiết bị khác và bị đổi tên vậy ạ? Đổi tên em thành tên người đó và khi e đăng nhập lại thì bị mất hết dữ liệu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.938526,
+         "id": "1135667",
+         "field_search": "question",
+         "question": "Làm sao lấy lại được thanh công cụ khi kéo màn hình từ trên xuống? Mình dùng điện thoại huawei 2i",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.916294,
+         "id": "848769",
+         "field_search": "question",
+         "question": " Máy tính của mẹ em sao không hiện biểu tượng unikey ở thanh công cụ vậy ạ ?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.754173,
+         "id": "997069",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao oppo neo 7 của em không hề sử dụng mà bị rớt pin từ 64 xuống 16% vậy ạ ? Dù em đã khởi động lại vài lần nhưng vẫn bị như vậy với mất sóng ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.364834,
+         "id": "1024339",
+         "field_search": "question",
+         "question": "Cho em hỏi vào ngày 30/11/2016 e có mua 1 laptop tại tdgđ và được tặng 1 chuột k dây ạ. Em mới sử dụng chuột k dây được tầm 3 tháng thì chuột có hiện tượng nhanh hết pin và bị lỗi nháy đúp ( khi e chỉ nháy 1 lần ). Vậy cho em hỏi cách giải quyết để sửa lỗi của chuột được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.286116,
+         "id": "1004168",
+         "field_search": "question",
+         "question": "Máy của e k sử dụng các ứng dụng mà ad nói ở trên thì có cách nào khắc phục k ạ. Hiện giờ phiên bản ở máy là 10.3.2.Tại sao máy của e lại gặp tình trạng như vậy và có sửa đc k ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.203865,
+         "id": "1165917",
+         "field_search": "question",
+         "question": "Cho mình hỏi sao con a50 của mình tự động giảm media xuống vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.134861,
+         "id": "930872",
+         "field_search": "question",
+         "question": "E vừa mới khôi phục iphone 4 xong và bị mất dữ liệu của máy. máy e xài ios 7.1.2 nên ko tải về facebook đc. thậm chí, cái thanh công cụ vuông nhỏ thường xuất hiện trên màn hình giờ ko còn. e ko bt phải làm thế nào nhờ ad giúp e tải facebook và xuất hiện thanh công cụ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.027653,
+         "id": "937429",
+         "field_search": "question",
+         "question": " sao máy tính của em vào ứng dụng facebook lại bị lỗi khi viết chữ ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.580788,
+         "id": "1162140",
+         "field_search": "question",
+         "question": "tại sao e nhập đúng mật khẩu nhưng facebook lại ghi đăng nhập không thành công còn ở máy tính thì hiện sorry something we wrong biết khi nào mới vào lại đươc facebook",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.498854,
+         "id": "993053",
+         "field_search": "question",
+         "question": "Ad cho em hỏi là máy em còn được bảo hành. Vậy khi em ra cửa hàng khác sửa tại sao lại mất bảo hành vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.444042,
+         "id": "1011385",
+         "field_search": "question",
+         "question": "1 giờ 20phut  hao hụt 10 pin khi sử dụng facebook vậy thì pin ổn không ạ ???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.391216,
+         "id": "828801",
+         "field_search": "question",
+         "question": "Tại sao zalo+ google vẫn truy cập bình thường nhưng khi truy cập Facebook thì lại bị như vậy , tôi đang sử dụng nokia lumia 530 ! Như vậy thì có cách nào để khắc phục không ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.3734,
+         "id": "801940",
+         "field_search": "question",
+         "question": "BQT cho em hỏi là : tại sao em lại bị văng ứng dụng khi vào những ứng dụng như là : youtube , facebook , messenger , zalo , nói chung là những ứng dụng cần internet mới sử dụng được thì bị văng ra ạ ? Giúp em với BQT....!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.326023,
+         "id": "1140984",
+         "field_search": "question",
+         "question": "Cho em hỏi ạ em xài iphone 4 nhưng sau khi restore lại thành ra thế này vậy bên a có sửa ko ạ nếu sửa thì giá thành bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.229261,
+         "id": "1154213",
+         "field_search": "question",
+         "question": "em muốn hỏi sao trên macbook air của em lại bị lỗi kích hoạt facetime với imessenger vậy ạ? có cách khắc phục không? trong khi đt iphone của em facetime vẫn sử dụng bình thường",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.222494,
+         "id": "849006",
+         "field_search": "question",
+         "question": " laptop của em kết nối wifi thành công sao lại có biểu tượng như mình cắm trực tiếp bằng dây mạng vậy ạ! ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.216635,
+         "id": "1129689",
+         "field_search": "question",
+         "question": " Cho e hỏi làm sao để có nút video tren thanh công cụ của facebook dược ạk ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.19563,
+         "id": "915425",
+         "field_search": "question",
+         "question": " Sao không thể viết nhận xét trên app store trong khi đó đã tải xong và cài đặt ứng dụng thành công mà vẫn bị như vậy?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.085594,
+         "id": "791647",
+         "field_search": "question",
+         "question": " Thế giới di động có tạo tài khoản Apple không vậy???Với lại tại sao ứng dụng Facebook trên ip không sử dụng được ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.042448,
+         "id": "1153645",
+         "field_search": "question",
+         "question": "Iphone 5s của mình bị sóng lúc có lúc yếu rồi mất luôn. Đã thử mọi cách xác định bị phần cứng. Vậy sửa bao nhiêu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.021492,
+         "id": "876000",
+         "field_search": "question",
+         "question": "xin chào Anh Chị. Hiện tại giờ 17-08-2016 đả có thể jaibreak IP ios 9.3.2 thành công dc chưa ạ, và nếu thành công thì sử dụng ổn như những phiên bản trước ko ạ. xin hướng dẩn cho em với. thông tin xin gửi giúp em vào địa chỉ mail. hoaibao792@gmail.com: em cảm ơn nhiều",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.94798,
+         "id": "1143771",
+         "field_search": "question",
+         "question": "E sử dụng samsung a5 2016 , trươc đây e sử dụng 4g vẫn hiện lên chữ h+ và sài rất tốt nhưng trở về sau chữ 4g vẫn còn nhưng lại mất chữ h+ và ko sử dụng đc mạng nữa .thế chỉ e cách sửa lại ạ :))",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.813467,
+         "id": "1163321",
+         "field_search": "question",
+         "question": "facebook em liên tục bị xác nhận danh tính, tạo tài khoản sử dụng chưa đầy năm phút lại bị xác nhận danh tính, facebook trước đây của em sử dụng hơn 1 năm không biết bên thế giới di động có hỗ trợ vấn đề này không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.808517,
+         "id": "1134856",
+         "field_search": "question",
+         "question": "anh chị ơi giúp em với hiện tại em đang sử dụng oppo a3s và mới mua được 2 tháng và nếu hiện tại em sạc đầy 100 % pin trước khi đi ngủ và khi dậy chỉ còn 48 % thì máy của em đang bị làm sao ạ , và dù cho em không sử dụng máy thì vẫn hết pin ạ dưới đây là ảnh chụp màn hình về tiêu thụ điện năng máy của em ạ ac xem giúp em sửa máy với ạ em cảm ơn trước",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.681417,
+         "id": "889213",
+         "field_search": "question",
+         "question": " Cho e hỏi tại sao facebook của em không có tính năng tiểu sử bản thân vậy ạ  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.642391,
+         "id": "1136585",
+         "field_search": "question",
+         "question": "Laptop của em lúc nào mở lên sử dụng 1 lúc thì lại như hình ạ. Google chrom thì kick cái gì nó cũng chuyển thành tải xuống hết ạ. Ví dụ e kick vào trang chủ facebook thì nó cũng tải xuống ạ. Ac nào có cách khắc phục ko ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.588106,
+         "id": "1151583",
+         "field_search": "question",
+         "question": "cho em laptop bị mất hết phần mềm office là bị lỗi win phải không ạ, sửa chữa như nào vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.43797,
+         "id": "960603",
+         "field_search": "question",
+         "question": "AD cho em hỏi ip5 của em phần cảm ứng phía trên nút home khoảng 1cm của em bị liệt nên thanh công cụ không dùng được.cái này do lỗi màn hình hay do phân mềm ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.415855,
+         "id": "1008498",
+         "field_search": "question",
+         "question": "Cho e hỏi máy e sao lại bị mất ở phần này vậy ạ? E cũg k biết gọi nó là gì nữa 😔😔😔. Các ứng dụng của máy e toàn bị mất như vậy thôi???",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.351908,
+         "id": "1020474",
+         "field_search": "question",
+         "question": "Đt em là oppo A37, em mới mua và sạc được 3 lần thôi. Em vẫn để thêm hơn nửa tiếng khi báo đầy, nhưng không sử dụng gì thì sau khoảng 1 tgian nó vẫn bị mất 1 -2% pin thì là có bị sao không vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.323328,
+         "id": "1020460",
+         "field_search": "question",
+         "question": "Điện thoại tôi mặc dù không cắm tai nghe nhưng phần âm thanh media lại tự động chuyển thành âm lượng khi cắm tai nghe, xin hỏi cách khắc phục??? Samsung GalaxyA5 (2016)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.303518,
+         "id": "816651",
+         "field_search": "question",
+         "question": " Cho mình hỏi cách lấy lại thanh công cụ trên màn hình chính ạ. Mình đang dùng iPhone 5s ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.25011,
+         "id": "1145063",
+         "field_search": "question",
+         "question": "Hiện tại e đang xài huawei nova 3e ah. Ko hiểu sao gần đây nó lại mất tính năng xạc nhanh. Cho e hỏi là nó bị gì và hướng giải quyết sao vậy ah. E chân thành cảm ơn nhiều ah",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.150515,
+         "id": "1168727",
+         "field_search": "question",
+         "question": "Mình đang sử dụng con Huawei Y7 Pro 2019 và mình muốn đổi sang Samsung A50 thì phải bù bao nhiêu vậy??? Con Huawei vẫn chưa hết bảo hành.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.125326,
+         "id": "800097",
+         "field_search": "question",
+         "question": " Sử dụng line bị lỗi như vậy là sao a.cách sửa như thế nào ạ    ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.119139,
+         "id": "957870",
+         "field_search": "question",
+         "question": "cho em hỏi laptop của em khi tải ứng dụng như game về thị khi tắt máy bật lên lại  thì ko thấy nửa,phải tải lại,mổi lần sử dụng phỉa tải lại..... QTV cho em hỏi em phỉa sửa sao ạ !!!!!!!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.114546,
+         "id": "988768",
+         "field_search": "question",
+         "question": "cho mình hỏi máy mình là asus x441u , tại sao máy tự nhiên đang sử dụng tự khởi động lại , mà hiện màn hình lên lại mất con chuột , khi cắm dây chuột ngoài vào mới sử dụng được",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.110062,
+         "id": "1167692",
+         "field_search": "question",
+         "question": "Hiện tại em đang dùng con oppo A57, kh biết sao ứng dụng messenger của em phần story nó lại hiển thị dọc (bình thường thì nằm ngang). Em đã xóa và tải lại nhưng vẫn như vậy. Em cũng đã thử khôi phục cài đặt gốc của điện thoại nhưng vẫn bị. Anh giúp em khắc phục với ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.080187,
+         "id": "1157996",
+         "field_search": "question",
+         "question": "Tại sao cùng 1 loại máy oppo f1s tại sao có máy thì nhận sim skt (mạng hàn quốc) có máy thì không ạ?Hình2 e bấm vào bộ công cụ sim",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.068134,
+         "id": "856880",
+         "field_search": "question",
+         "question": " cho mình hỏi con sony m4 của mình bị mất sóng có cách nào sửa không? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.011106,
+         "id": "865231",
+         "field_search": "question",
+         "question": "Em đăng kí tài khoản app store nhưng nhập sai mã thư tín nên không thành công. Khi tải phần mềm, gõ mật khẩu và password thì máy báo ID không đúng. Cho em hỏi, em phải làm sao để sửa lại thông tin nhập sai khi đăng kí tài khoản. Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.009916,
+         "id": "1163735",
+         "field_search": "question",
+         "question": "Cho em hỏi tại sao điện thoại coolpad n5 lại nóng lên ở phần màn hình tai thỏ khi sử dụng và sạc pin mặc dù mới mua",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.00787,
+         "id": "1156327",
+         "field_search": "question",
+         "question": "Mình muốn đổi máy huawei medipad t3 10inh lấy con t5 thì bù bao nhiu tiền",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.96803,
+         "id": "1018725",
+         "field_search": "question",
+         "question": "Em muốn sửa điện thoại, cụ thể là em muốn thay màn hình samsung J7 pro thì hết khoảng bao nhiêu tiền ạ ? Và sửa thì phải mất bao lâu ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.952713,
+         "id": "777190",
+         "field_search": "question",
+         "question": "Cho mình hỏi, Ipad mini của mình sử dụng khoản 5 phút là báo lỗi báo \"Nhiệt độ, làm mát trước khi sử dụng\" như vậy bị như thế náo, cách sữa chữa. Công ty hỗ trợ giúpThanks",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.949476,
+         "id": "838975",
+         "field_search": "question",
+         "question": "Mình và bạn đều ko lưu sdt của nhau. Tại sao zalo tự kết bạn thành công mà ko hề có sự đồng ý của mình và bạn mình. Thế là sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.945105,
+         "id": "1158530",
+         "field_search": "question",
+         "question": "xin chào !tôi đang phân vân giữa S10 và note 9tôi muốn 1 công cụ có công nghe Ar core để có thể sử dụng những app phục vụ công tác đo đạc ,... trong công việc.mong được tư vấnyêu cầu: -phải kết nối không dây mạnh,pincamera.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.937984,
+         "id": "788979",
+         "field_search": "question",
+         "question": "Em có mua 1 máy laptop và vừa đem đi bảo hành do ở cứng HDD em bị treo ứng dụng . KHi nhận máy là thành Win10Liệu bây giờ em đem ra cái lại win 8.1 có mất phí ko ạ ???Máy còn bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.937178,
+         "id": "1167383",
+         "field_search": "question",
+         "question": "Em quên mất mật khẩu riêng tư và câu trả lời ở phần câu hỏi để khôi phục thì em phải làm sao?  , hiện tại em đang sử dụng oppo F9 ạ,  mong Anh chị giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.917744,
+         "id": "922852",
+         "field_search": "question",
+         "question": " cho e hỏi e muốn cài win lại mất khoảng bao lâu ak. hiện tại máy e đang sử dụng cụ hiện màng hình đen .  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.827274,
+         "id": "837320",
+         "field_search": "question",
+         "question": " em lỡ xóa mất cái lạc việt media gì đó nên máy tính bị mất tiếng luôn,vậy phải làm sao?  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.800468,
+         "id": "1159300",
+         "field_search": "question",
+         "question": "ad ơi cho em hỏi, em mới vừa mua con Huawei Y9 ở TGDD, em sử dụng wifi nhà để tải ứng dụng trên CH Play thì nó cứ báo \"chờ tải xuống\" còn nếu sử dụng wifi phát từ điện thoại khác thì lại tải được, vậy mình khắc phục sao ạ, em cám ơn ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.755669,
+         "id": "1156393",
+         "field_search": "question",
+         "question": "Huawei nova 3e của em bị vô nước xong không lên được nữa, có cách nào sửa nó không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.751297,
+         "id": "1160672",
+         "field_search": "question",
+         "question": "Có cách nào loại bỏ phần đậm màu đen trên cái bảng công cụ này được ko tgdd mình đang sài máy samsung galaxy a50 ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.745317,
+         "id": "883365",
+         "field_search": "question",
+         "question": "mình mới sắm con asus X555UJ tại nguyễn thị minh khai ngày 2/9 , mình tải unikey thì dùng bình thường trên web , mình sử dụng trên app facebook trên win 10 thi nó bị lỗi là sao ? VD : mình đánh chữ : \" cầm\" thì nó thành chữ \" cmầ\" như vậy là nó bị làm sao vậy ad??????",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.73588,
+         "id": "870853",
+         "field_search": "question",
+         "question": "Facebook của em mục \" lời mời kết bạn\" bị ẩn mất , khi có yêu cầu kết bạn thì được báo trong mục \" thông báo\" làm sao để sửa lại bình thường ak?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.718285,
+         "id": "1023404",
+         "field_search": "question",
+         "question": "cho mình hỏi, máy của mình A5 2017, phần mềm Secure Folder của máy bị mất, làm sao mình có thể tải lại phần mềm Secure Folder? mình chưa sử dụng lần nào.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.716394,
+         "id": "1140571",
+         "field_search": "question",
+         "question": "Mặt sau con huawei nova 3e của em bị ố em kh biết có là bị hỏng pin hay là ố nước nữa. Em còn bảo hành nếu đem lại sửa thì có tốn tiền không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.71213,
+         "id": "1150206",
+         "field_search": "question",
+         "question": "E lỡ tay đóng mất nhân đôi ứng dụng Facebook của nova 2i Huawei  Có thể khôi phục lai đc không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.704365,
+         "id": "856969",
+         "field_search": "question",
+         "question": "Iphone của em. Sao cứ từ 30 giây đến 1 phút thì lại bị đơ, không sử dụng được màn hình cảm ứng, trong khi các nút cứng vẫn sử dụng được. E đã khởi động lại nhưng vẫn như vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.692574,
+         "id": "843654",
+         "field_search": "question",
+         "question": "hiện tại e đang sử dụng oppo neo 3 nhưng mấy hôm nay thì truy cập chrome, chplay và những ứng dụng khác ( trừ facebook và bản đồ ) là bị thoát ra, hôm qua e có lên TGDD chạy lại phần mềm thì sáng nay lại bị lại",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.620993,
+         "id": "897075",
+         "field_search": "question",
+         "question": "Em đang sử dụng laptop asus, wifi đang sử dụng thì tự động mất kêt nối, khi khởi động lại máy thì bắt wifi bình thường ạ. mỗi lần như vậy là em restart lại máy. xin giúp em ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.585638,
+         "id": "1007266",
+         "field_search": "question",
+         "question": "Em đang sử dụng Galaxy A5 2017, máy của em bị lỗi gửi tin nhắn (sim1 gửi được nhưng sim2 gửi không được). Em có tham khảo bài viết hướng dẫn cách khắc phục lỗi nhưng không thành công, nên em đã khôi phục cài đặt gốc. Nhưng sau khi khôi phục cài đặt gốc thì nó vẫn còn bị lỗi như vậy. Ai giúp em với ạ. Cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.57195,
+         "id": "761444",
+         "field_search": "question",
+         "question": "Dạ em đang dùng iPhone 4S, cách đây khoảng 1 tháng, điện thoại của em có bị thấm nước và em đã đem đi sửa, khi về em dùng đt bình thường, nhưng đt của em không biết sao, màn hình cứ tối đen không lên mấy lần, em có gọi thử thì vẫn gọi được nhưng màn hình đt vẫn tối đen, không lên được. Em phải đợi khi đt hết pin, cắm sạc thì mới có thể sử dụng lại được. Cho em hỏi là đt của em bị gì và sửa chữa như thế nào ạ? Em xin cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.570475,
+         "id": "1007157",
+         "field_search": "question",
+         "question": "Cho em hỏi em đang xài 7plus 32gb nhưng em không bật được bluetooth ở thanh công cụ ngoài màn hình,phải vào cài đặt mới bật được, vậy là lỗi gì vậy ạ?và cho em cách khắc phục nhé, em cảm ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.557438,
+         "id": "827757",
+         "field_search": "question",
+         "question": "Tôi sử dụng iphone, tại sao danh sách bạn bè của tôi bị mất hết, truy cập danh sách thì bị báo lỗi fbapierrordomain 200, tôi thử gở bỏ ứng dụng và cài đặt lại vẫn không được, nhờ ad hướng dẫn cách khắc phục giùm nhé.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.466011,
+         "id": "1143606",
+         "field_search": "question",
+         "question": "Mình có mua cái máy của hãng Huawei media pad ple701_L T2pro do cháu mình cai mật khẩu Ma nó quên thấy vậy mình bẻ cái mât khẩu luôn ai ngờ cứ tưởng như máy thường mở nguồn nó bảo bắt buộc phải có tài khoản sao lưu của  google nó mới cho sài bình thường mà giờ quên mất mật khẩu và tài khoản google rồi toàn dữ liệu quan trọng khong biết có cách nào giúp với ad.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.462847,
+         "id": "782378",
+         "field_search": "question",
+         "question": "Hiện em đang muốn sử dụng phần mềm Shou dành quay màn hình điện thoại nhưng khi vào thì nó bắt con LG G2 của em phải root điện thoại. Như vậy có còn cách nào khác để sử dụng Shou không hay em phải root điện thoại. Ở thế giới di động có hỗ trợ root máy không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.373531,
+         "id": "866446",
+         "field_search": "question",
+         "question": "Em có 1 cái iPhone 4s tự nhiên nó bị liệt mất phần trên + phần dưới của màn hình tầm 0.5cm có cách nào để khắc phục không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.337502,
+         "id": "998216",
+         "field_search": "question",
+         "question": "Máy của em là samsung galaxy tap 3. Đang sử dụng thì bị tắt nguồn nhưng không phải bị hết pin, em đã cố khởi động lại mà không được. Vậy máy em bị gì và bên thế giới di động có sửa được không ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.334583,
+         "id": "799712",
+         "field_search": "question",
+         "question": " Cho mình hỏi. Iphone 6 plus của mình không sử dụng duoc thanh cong cụ nhanh Cả trên và dưới la bị sao. Giup mình với ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.329578,
+         "id": "1150457",
+         "field_search": "question",
+         "question": "hiện tại thì em đang sử dụng con oppo F7,  nhưng khi xem các tin trên story của insta hay fb gì thì đều k xem được trọn vẹn ảnh,  tất cả đều bị cắt xén đi mất 1 phần bao quanh ảnh, đây là lần đầu em xài oppo nên không biết phải làm thế nào, mong aec giup đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.290958,
+         "id": "914968",
+         "field_search": "question",
+         "question": "E dùng facebook ios bản mới nhất 67.0 khi cập nhật lên thì thanh phí dưới mất đi phần kết bạn chỉ còn lại 4 mục là bản tin, nhắn tin, thông báo và tuỳ chọn khi tìm hiểu thì phần kết bạn đã gộp chung với phần thông báo vậy là sao ạ có phải do bị lỗi",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.249008,
+         "id": "996120",
+         "field_search": "question",
+         "question": "mình sử dụng oppo a39, tại sao ko thể tắt ứng dụng chạy ẩn facebook vậy ad",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.24867,
+         "id": "757870",
+         "field_search": "question",
+         "question": "Em nâng cấp iPhone 5 của em lên iOS 9.2. Sau khi đăng nhập ID và pass xong, vào đồng ý các điều khoản dịch vụ máy báo chờ ít phút, sau lại báo là đăng nhập không thành công là do lỗi của phần mềm hay do mạng ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.229385,
+         "id": "1018690",
+         "field_search": "question",
+         "question": "Em đang dùng Sony XA Ultra nhưng dạo gần đây lại bị mất sóng và hiện \"emergency calls only\". Cho em hỏi là tại sao và cách giải quyết ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.214733,
+         "id": "1157256",
+         "field_search": "question",
+         "question": "Chào ac , em đang sử dụng đt oppo A3S .Cho em hỏi sao abum ảnh của em chụp vào đt lâu ngày lại bị mất ảnh tự động ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.212824,
+         "id": "1164646",
+         "field_search": "question",
+         "question": "Em mua huawei  y6 prim nhưng về phần loa của máy sao chỉ có thể nghe được 1 bên ạ? Hay do hãng đã cài đặt sẵn như vậy ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.205164,
+         "id": "1161224",
+         "field_search": "question",
+         "question": "samsung j6 của hình hiện thông báo cập nhật phần mềm thành công ( mà mình không biết phần mềm gì). sau đó thì liệt cảm ứng. cho mình hỏi dt đang bị gì, cách khắc phục ạ.  xin cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.203083,
+         "id": "1140123",
+         "field_search": "question",
+         "question": "Cho em hỏi là tại sao laptop asus của em chỉ sử dụng 2 tiếng là nhanh hết pin, và làm sao để lâu hết pin vậy ạ, em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.188456,
+         "id": "1003002",
+         "field_search": "question",
+         "question": "Tại sao laptop đang sử dụng lại bị tắt và mở k lên",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.156906,
+         "id": "1161092",
+         "field_search": "question",
+         "question": "Cho e hỏi.e xem trên youtobe về cách chạy lại đt như ban đầu,xong e làm theo như trên youtobe.và e chạy lại thành công nhưng hk hĩu sao đt e bị mất một nữa số ảnh và video trong máy.vậy mấy ac có thể nghỉ cách cứu mấy tấm ảnh với video của e về được hk ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.147366,
+         "id": "1148628",
+         "field_search": "question",
+         "question": "cho em hỏi con huawei y7 pro 2018 của em mặt trước sao lại kh chữ huawei ở góc dưới màn hình vậy nhỉ ? v",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.125107,
+         "id": "1020742",
+         "field_search": "question",
+         "question": "Em đang sử dụng galaxy tab3, e lỡ nhấn vào phần cài đặt lại máy, h e mở lại thì lại mất sđt trong sim, lm sao bây h ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.110054,
+         "id": "1161375",
+         "field_search": "question",
+         "question": "Cho mình hỏi \"khi tải file về từ Facebook, gmail, tại sao mình k thể mở file đc ạ?\" Khi mình tải về thành công, ấn vào thông báo để lễ.mở file thì hiện \" không có sẵn ững dụng để mở file\" là như thế nào ạ? Rất mong nhận hồi đáp sớm. Xin cám ơn ạ!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.102493,
+         "id": "1156142",
+         "field_search": "question",
+         "question": "Chào mấy anh chị, em xài Samsung J7+ bị rơi vỡ màn hình và màn hình bị sọc trắng che mất 1 phần. Em có thể đem ra cho bên mình gửi về hãng sửa được không ạ. Cho em hỏi luôn chi phí nếu sửa được ạ. Em cảm ơn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.093645,
+         "id": "1154681",
+         "field_search": "question",
+         "question": "Máy Huawei 3e sửa loa ngoài mất khoảng bao nhiêu tiền và khoảng mấy ngày ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.084995,
+         "id": "910453",
+         "field_search": "question",
+         "question": "Mình đang tìm mua một máy tính để lập trình.cần sử dụng cường độ cao.\"máy ảo+server+browser(khoảng 5tab)+Công cụ lập trình\".cùng 1 lúc sử dụng từng đó thì nên chọn laptop cấu hình như thế nào, cụ thể là cần khoảng bao nhiêu ram, chip xử lý khoang bao nhiêu ghz.vd 1 số laptop.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.070068,
+         "id": "800705",
+         "field_search": "question",
+         "question": "Tại sao wifi của mình cái từ khóa thường là connected, nay mình mở lên thì nó thành connected, secured là sao vậy ? Có cách nào đổi lại từ khóa như cũ ko, lúc bị lỗi thay gì là limited giờ nó thành secured nên mình tìm hoài cũng ko đổi tên lại được mìn đang sử dụng win 10",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}

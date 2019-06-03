@@ -1,0 +1,809 @@
+{
+   "id_query": "1010006",
+   "total": 28342,
+   "total_current": 100,
+   "max_score": 100.012596,
+   "origin_question": "Mik mua máy dc một thời gian,khi hơi gõ nhẹ vào phần trên của mặt sau điện thoại thấy nó kêu như bị rơi j trong đó y",
+   "hits": [
+      {
+         "score": 100.012596,
+         "id": "1010006",
+         "field_search": "question",
+         "question": "Mik mua máy dc một thời gian,khi hơi gõ nhẹ vào phần trên của mặt sau điện thoại thấy nó kêu như bị rơi j trong đó y",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.429663,
+         "id": "1020857",
+         "field_search": "question",
+         "question": "Cho mình hỏi, SS J7 Pro mình gõ nhẹ vào phần đầu mặt lưng sau, gần camera thì có tiếng rẹt rẹt, như ỏ trong bị lỏng gì ấy. Vậy có bị gì không",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 30.172398,
+         "id": "761174",
+         "field_search": "question",
+         "question": " Em gõ nhẹ vào bên trên đầu máy iPhone 5s có tiếng kêu lắc cắc. Như vậy là bị làm sao ạ ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 26.189217,
+         "id": "1013155",
+         "field_search": "question",
+         "question": "A ơi cho e hỏi là. Sao e gõ nhẹ phần camera vào tay thì chổ camera có vật gì ở trong kêu ấy anh ip6s",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 25.51673,
+         "id": "796537",
+         "field_search": "question",
+         "question": "iphone 4s của em mới mua dùng được một thời gian thì cứ thấy yêu cầu cài đặt phần mềm gì đó em không nhớ.em đồng ý cài đặt sau đó máy bị treo hoàn toàn,như vậy là bị thế nào,sửa chữa ra sao và chi phí nhiều không ạ.Em cảm ơn!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.410702,
+         "id": "1163673",
+         "field_search": "question",
+         "question": "Cho em hỏi là em xài Oppo A3S , khi lưu hình một thời gian sau hình tự nhiên biến mất,kiếm mọi nơi trong điện thoại cũng không thấy, xin cách khắc phục ạ !!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 24.38593,
+         "id": "1016536",
+         "field_search": "question",
+         "question": "Điện wiko rainbow jam của em chỉ gõ nhẹ sau nắp là bị tắt nguồn là sao ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.801199,
+         "id": "1134238",
+         "field_search": "question",
+         "question": "Bạn cho mình hỏi. Điện thoại Nokia 5.1 Plus khi mình gọi điện thì màn hình nó bị đen hết không nhìn thấy gì, sau một khoảng thời gian thì nó sẽ sáng lại. Vậy đây là lỗi cài đặt hay là lỗi nhà sản xuất ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.587915,
+         "id": "1155162",
+         "field_search": "question",
+         "question": "Mình sử dụng con Samsung galaxy a7 2018. Mình phát hiện một điều là khi dùng tay gõ nhẹ lên phần phía trên theo chiều từ ngoài vào lưng điện thoại. Chỗ camera. Có tiếng lách tách. Ban đầu mình cứ nghĩ đấy là óp lưng, nhưng khi rút ốp ra thì mới biết do phần cứng bên trong. Đội ngũ giải đáp giùm mình ạ  ( Điện thoại mới mua 1 tuần, chưa rớt hay va đập lần nào)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 23.08922,
+         "id": "1005323",
+         "field_search": "question",
+         "question": "Máy mình không thể truy cập vào một vài ứng dụng trên máy, một thời gian sau đó thì máy lại không thể kết nối được với thẻ nhớ. Máy mình bị làm sao vậy? Ai cho mình cách khắc phục với.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.969187,
+         "id": "841896",
+         "field_search": "question",
+         "question": "Cho em hỏi máy iPhone 5s của e nhấn vào 2 góc màng hình trên thì bên trái nhịp hơi nhẹ còn bên phải phát ra tiếng kêu luôn thì có sao kg",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.62706,
+         "id": "1004743",
+         "field_search": "question",
+         "question": "Chào Anh/ Chị! Em đang dùng laptop Dell LATITUDE 3540 / i5 và đang dùng windows 10Pro 64bits. Không biết máy hay do win bị lỗi gì sau khi cài lại một thời gian , máy của em không hiện ổ C/D/E . Em cũng bị một lần mất ổ E/D sau khi cài lại được một thời gian lại sảy ra hiện tượng lỗi như trong hình .Mong Anh/ Chị tư vấn giúp em. Cám ơn Anh/ Chị.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.451805,
+         "id": "1134239",
+         "field_search": "question",
+         "question": "Tôi đang dùng Nokia 5.1Plus trong hôm nay tôi thấy có một lỗi là khi mình gọi màn hình nó đen hết không nhìn thấy gì cả, sau một khoảng thời gian tầm 30s có khi đến hơn phút thì tôi mới thấy màn hình nó sáng lại, vậy cho tôi hỏi cách khắc phục thế nào ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.446266,
+         "id": "865134",
+         "field_search": "question",
+         "question": "Điện thoại Iphone 5S của mình mua ở TGDĐ, còn thời gian bảo hành. Hôm trước mình vô tình bị cấn góc điện thoại làm viền của Iphone bị móp vào một xíu. Trường hợp trên có được bảo hành không? Nếu không thì phí sửa chữa thay thế như thế nào? Mong TGDĐ trả lời giúp nha.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.304909,
+         "id": "919361",
+         "field_search": "question",
+         "question": "Mình mới mua iPhone 7 plus tại TGDD. Về nhà kiểm tra máy thấy cầm ngang vặn hơi nhẹ máy thì thấy tiếng kêu nghe rất khó chịu. Nghe như máy có khoảng hở ấy. TGDD thể giải thích tình trạng. Mình có thể đem đổi máy bị tình trạng này ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 22.294456,
+         "id": "1020168",
+         "field_search": "question",
+         "question": "Anh chị ơi cho e hỏi con wiko lenny 2 của e vào phần đặt lại điện thoại trên máy thì nó tắt nguồn và khởi động lại máy và vào phần recovery để factory reset cũng ko đc lun là nó bị j z ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.989113,
+         "id": "799252",
+         "field_search": "question",
+         "question": "mik đang xài Ipad Mini 1..vừa rồi mik lỡ tay xoá Zalo khỏi máy..sau đó cài lại dc..nhưng tin nhắn mất hết..jo mik mún lấy lại mấy tin nhắn trước đó..nó rất qan trọng vs mik..mong giúp mik với",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.809196,
+         "id": "855067",
+         "field_search": "question",
+         "question": "Điện thoại của em: iphone 5s, Sau 1 thời gian thì e xem lại 1 số ảnh trên máy xuất hiện dấu chấm than ở góc phải và bị mờ. Cho em hỏi, như vậy là máy bị làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.470682,
+         "id": "757049",
+         "field_search": "question",
+         "question": "iPhone 6 Plus của mình khi cắm sạc or tai nghe vào. Sau đó vào phần điện thoại để gọi và thao tác thì bị treo. Mình restart lại thì ok.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.4132,
+         "id": "922676",
+         "field_search": "question",
+         "question": "Tại sao không thể đăng nhập zalo, facebook trên điện thoại của em. Trong khi đó có thể đăng nhập trên một thiết bị khác ạ. Xin giúp đỡ ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.370882,
+         "id": "1021164",
+         "field_search": "question",
+         "question": "Cho em hỏi ở thế giới di động mình có phần lưng máy điện thoại Lenovo A7010 không vậy? Máy em bị hở phần lưng(mặt sau) của máy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.227663,
+         "id": "922135",
+         "field_search": "question",
+         "question": "A/c cho em hỏi. Màn hình iPhone 5 của em đang xài, k làm rơi rớt hay bị cấn gì cả nhưng lại bị mờ màn hình( như kiểu bị rách vậy). Xài được một thời gian sau thì cảm ứng bị loạn, k bấm được.Vậy sửa chửa hết lỗi trên là khoảng bao nhiu tiền ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.210524,
+         "id": "998763",
+         "field_search": "question",
+         "question": "Điện thoại ip6 của em có bị rơi. Rơi mạnh ạ. Sau đó thì ko thể kết nối được với mạng wifi . Làm ơn chỉ cho em cách khắc phục. Trạng thái máy vẫn bìh thường ạ. Chỉ k kết nối dc wf thôi ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.14108,
+         "id": "1009175",
+         "field_search": "question",
+         "question": "điện thoại Samsung galaxy J7 bị hỏng IC nguồn đã chữa tại cửa hàng SAMSUNG dùng một thời gian thì nạp không lên, báo 0% dung lượng và sau đó là hình dấu chấm than",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 21.137754,
+         "id": "1022913",
+         "field_search": "question",
+         "question": "Tình trạng máy của mình là sau khi cập nhật lên IOS 10.3 thì màn hình nền xuất hiện mấy đường sọc dọc trong khi đó vào phần tin nhắn hay xem hình ảnh, cũng như các phần khác thì thấy màn hình vẫn bình thường không hề có dấu hiệu sọc như trên. Cho hỏi hướng khắc phục ạ. Mình dùng IP6",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.953556,
+         "id": "1150783",
+         "field_search": "question",
+         "question": "Samsung tap A6 của mình tự động tắt nguồn trong khi vẫn còn pin,sau đó mình mở nguồn đồng thời cắm sạc nhưng màng hình hiển thị như trên là bị gì ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.952848,
+         "id": "1007426",
+         "field_search": "question",
+         "question": "Cho em hoi ? E mua điện thoại samsung a5 2017 em thấy thời gian sử dụng qua nhanh trong khi đó e không bặt 3g hoặc wifi và on display mà điện thoại vân mắt pin và rất nhanh cho e hỏi lỏi cho điện thoại hay điện thoại sản xuất ra mau hết pin...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.946173,
+         "id": "1152063",
+         "field_search": "question",
+         "question": "em mới mua con Samsung M20 hôm 23/2. nay dùng thấy nó mắc cái lỗi là tắt màn hình rồi nhưng khi thao tác trên mặt điện thoại vẫn thấy cảm ứng được và nghe thấy tiếng kêu cảm ứng khi thao tác. cho e hỏi khắc phục như nào và em có được hỗ trợ 1 đổi 1 nếu hư hỏng k",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.82973,
+         "id": "801470",
+         "field_search": "question",
+         "question": "Em đang sài iphone 4 16gb ios 7.1.2.Sau khi sài một thời gian iphone e có hiện tượng tự động hiện voice control rồi điện thoại cho người khác đôi lúc tự động nghe nhạc trong khi đó e chưa hề chạm đến iphone.Mong Ad giúp e bằng mọi cách 😭",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.777264,
+         "id": "1002926",
+         "field_search": "question",
+         "question": "các anh chị cho em hỏi là: e bị mất máy điện thoại oppp F1s mấy hôm rồi. Trên máy đó e đã từng dùng tài khoản Google để truy cập và đồng bộ. Sau khi mất e lên máy tính làm theo hướng dẫn tìm điện thoại, cài đặt khóa máy. Thỉnh thoảng lại vào tìm thiết bị, nhưng ko tiếp cận được thiết bị, thời gian đồng bộ lần cuối vẫn là ngày 3.7. E hiểu là điện thoại của em có thể vẫn bị tắt nguồn, hoặc mở nguồn nhưng ko truy cập internet. Nếu khi người ta kết nối internet,truy cập  vào google, youtobe,... thì trên máy tính em đang tìm có báo cho em biết thời gian đồng bộ mới nhất của máy Oppo F1s đó ko? Và nếu báo và có vị trí của máy thì e làm gì tiếp theo?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.70514,
+         "id": "882548",
+         "field_search": "question",
+         "question": "anh chị cho em hỏi, trong thời gian sử dụng laptop e có tải một số ứng dụng về nhưng làm máy không chaỵ được, sau đó em vào phần thiết lập lại PC mà không làm mất tài liệu lưu trong máy, sau khi hoàn tất em lỡ tay xoá mất ứng dụng 365 office đã được cài đặt sẵn trong máy. Vậy anh chị có thể cài đặt lại cho em được không ah?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.5782,
+         "id": "783110",
+         "field_search": "question",
+         "question": "Cho mình hỏi ipad mini 2 của mình bỗng nhưng xài thì bị loạn cảm ứng. Khóa máy mở lại thì hết nhưng 1 thời gian lại bị như cũ.Trước có bị 1 thời gian nhưng sau đó hết và giờ lại bị lại. Ko biết lỗi này là sao nhỉNếu cần sửa chữa thì TGDĐ sửa dc ko ?Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.486778,
+         "id": "995070",
+         "field_search": "question",
+         "question": "Ad cho mình hỏi chút ạ! Mình có mua 1 tai nghe, giờ nó bị hỏng 1 bên tai nghe mà mình không nhớ thời gian mua ( theo hình thức 1 đổi 1 trong 1 năm đó ạ) vậy mình có thể vào đâu để biết thông tin về thời gian mua xem còn trong thời gian 1 năm không vậy ạ?. Cám ơn ad ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.471897,
+         "id": "937925",
+         "field_search": "question",
+         "question": "Em chào tgdd, trước e có mua ở tgdd một laptop acer sử dụng nay đã hơn 2 năm trong thời gian sử dụng máy có lỗi nên e có đến tgdd và dc cài lại win... sau đó e không nhớ được tài khoảng win ban đầu nên đã sử dụng tài khoảng mới.. sử dụng được một thời gian thì chương trình office của lap top bị lỗi .. các ứng dụng word, powerpoint, excel.. bị mất chức năng ... có phải do đổi tài khoảng win không... và làm sao để sử dụng các ứng dụng bản quyền này, không bị giới hạn thời gian...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.458189,
+         "id": "1018010",
+         "field_search": "question",
+         "question": "Cho mình hỏi màn hình của điện thoại j7 prime mình mua ở của hàng TGDD bị rơi vỡ màn hình. Còn bảo hành thì mang sang của hàng sửa có mất nhiều thời gian ko vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.439362,
+         "id": "1134377",
+         "field_search": "question",
+         "question": "chào bạn.hiện tại mình đang dùng điện thoại oppo F1. minh mới thay màn hình mới do bị vỡ, nhưng sau khi thay xong chức năng mở màn hình sáng bằng cách gõ 2 lần vào màn hình nhưng ko dc. bây giờ khắc phục nó như thê nào vậy bạn.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.439137,
+         "id": "998233",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại samsung galaxy j2 prime của em tải nhạc trên mp3 về sau đó di chuyển hết vào thẻ nhớ mà sao khi vào phần nhạc chuông để cài nhạc từ bpoj nhớ trong lại ko có bài hát nào hết v :((",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.432571,
+         "id": "1153482",
+         "field_search": "question",
+         "question": "Cho em hỏi điện thoại em là iphone 6s plus, khi sử dụng như xem youtobe hay chơi liên quân trong thời gian xem hoặc chờ vào game thì màn hình sụp tối chạm vào thì sáng, khi khởi động lại thì hết bị, vậy cần bảo hành không? Điện thoại em mua ngày 22/12/2019",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.41983,
+         "id": "1159435",
+         "field_search": "question",
+         "question": "Hi các bạn,Mình có mua sản phẩm galaxy A50 ở TGDD được gần tuần, hôm nay mình vô tình phát hiện là máy hoàn thiện chưa tốt hay sao mà khi dùng ngón tay gõ gõ phái cạnh trên mặt sau của máy, thì lại có âm thanh re re, kiểu như hai miếng nhựa, thép hay cái j đó phát ra, ngay khớp nối hay ssao đó.đó là tình trạng chung, hay đơn lẻ, có hỗ trợ đổi cái khác hay không?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.379763,
+         "id": "1011273",
+         "field_search": "question",
+         "question": "cho mình hỏi, điện thoại của mình( oppo f1)  mua tại tgdđ đã hết thời gian bảo hành. Máy mình bị đứng, sau đó đen màn hình và tự khởi động lại. Bên tgdđ có kiểm tra giúp mình được không ? Cảm ơn !",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.301668,
+         "id": "1158388",
+         "field_search": "question",
+         "question": "Laptop khi vào this pc mà nó qua chỗ giống như giới thiệu phần mềm win10 thì bị lỗi j v ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.128208,
+         "id": "882429",
+         "field_search": "question",
+         "question": "Cho em hỏi sử dụng điện thoại iphone 5 có khi nào rơi nhẹ mà hư luôn không ạ? em nghe nói iphone 5 chống va đập cũng tốt nhưng em lỡ tay làm rơi, điện thoại tắt nguồn. Bấm nút nguồn thì điện thoại không lên. Khi cắm sạc thì nó chỉ hiện logo của apple rồi tắt, cứ hiện rồi tắt. Cho em hỏi bị như vậy thì làm sao ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.115011,
+         "id": "1024030",
+         "field_search": "question",
+         "question": "Điện thoại tôi bị lổi tôi đi bảo hành mà hãng bảo là màng hình bị oxi hóa. Trong khi điện thoại tôi k rơi. K trầy xước j cả k ẩm nước j. Nhưng hãng bảo là lổi do người dùng là sao.?Rỏ ràng là lổi sản xuất. Nhưng tôi vẩn bỏ qua chấp nhận thay mới và chịu toàn bộ chi phí. Nhưng khi nhận lại máy thì hãng k cùi lại đúng cái màng hình bị oxi hóa của tôi. Mà là màng hình điện thoại khác. Trong khi màng hình mới thay lại k dc như mới . k nhạy như xưa. Đèn thông báo k dc như xưa. Tôi viết như vậy để cảnh báo mọi người cẩn thận khi đi bảo hành điện thoại. Cần câu tl cửa tgdd. Và hảng mobisstrar.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 20.075666,
+         "id": "813271",
+         "field_search": "question",
+         "question": "Điện thoại ip6s cua tôi bị rơi xuông nước sau đó không nghe được loa trong mà chỉ nghe được khi cắm tai nghe và mở loa ngoài . Tôi phai làm soa đây?huuu",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.963224,
+         "id": "1151572",
+         "field_search": "question",
+         "question": "Ad ơi mình k may làm đổ một chút nước lên bàn phím máy tính và touchpad của máy tính. Nhưng mình đã lau ngay nhưng còn sót lại một ít và một lát sau thì thấy biến mất hết. Vậy là nước đã ngấm vào bên trong máy hay bay hơi rồi vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.897963,
+         "id": "961422",
+         "field_search": "question",
+         "question": " Em làm rơi nhẹ cái máy iphone4 suống đất thế là loa không kêu tại sao vậy míc thì vấn tốt ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.809467,
+         "id": "1155245",
+         "field_search": "question",
+         "question": "Anh/chị cho em hỏi với ạ,Từ ngày tải google photos thì ảnh em tự động bị đồng bộ hoá, sau thời gian nào đó thì ảnh trong thư viện bị mất dần dần. Em có vào cài đặt trong google photos để tắt đồng bộ hoá mà nó vẫn bị vậy.Em đang sử dụng điện thoại xiaomi redmi note 5Mong anh/chị giúp em ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.797375,
+         "id": "1138400",
+         "field_search": "question",
+         "question": "Em đag dùng j6 2018  thời gian thấy trong game phím di chuyển hay bị liệt Cho em hỏi đó là tai sao",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.741234,
+         "id": "1145594",
+         "field_search": "question",
+         "question": "Mình hỏi một chút về 2 camera sau của điện thoại nokia 6.1 plus. Theo quảng cáo là đằng sau có 2 camera nhưng thực tế vào phần chụp ảnh rồi lấy tay che 1 trong 2 camera đi thì thấy chỉ có 1 camera hoạt động là sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.72085,
+         "id": "1146981",
+         "field_search": "question",
+         "question": "Cho hỏi tôi làm rơi điện thoại redmi note trong nhà tắm, ngay sau đó điện thoại có vấn đề là bị mất tiếng loa ngoài, tôi đã thử lau chùi và reset máy nhưng không được, xin được giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.684214,
+         "id": "883035",
+         "field_search": "question",
+         "question": "tôi vừa mới mua một máy dell giá 13 triệu 300, thời gian khoảng 1 tuần, nhưng mà máy có đoi lúc dùng hơi bị đơ, vậy tôi có thể mang ra đổi được ko ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.619238,
+         "id": "992309",
+         "field_search": "question",
+         "question": "cho e hỏi: chuột máy tính e mua tại thế giới di động, mà nó dây chuột bị chóc lớp nhựa ngoài thì có thể đổi dc không, nó còn trong thời gian bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.587719,
+         "id": "995284",
+         "field_search": "question",
+         "question": "Hiện em đang sử dụng điện thoại Sony XA Ultra vẫn đang còn trong thời gian bảo hành. Trong thời gian gần đây điện thoại thường hay bị giật màn hình hai bên viền mép điện thoại đặc biệt sau mỗi lần gọi điện thoại hoặc gọi messenger thì màn hình càng giật mạnh và bị nhiễu. Vậy điện thoại đang bị gì ạ cách khắc phục như thế nào em có thể đem đến TGDĐ để sửa theo chính sách bảo hành ko?!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.57218,
+         "id": "817140",
+         "field_search": "question",
+         "question": "Cho mình hỏi mình đã xóa tên một người bạn khỏi danh bạ điện thoại và cũng vào mục xóa bạn trên zalo và xóa hết tin nhắn trên zalo với người đó. Sao mấy ngày sau lại thấy nick người đó hiện trong danh sách bạn bè. (Mình không chặn, chỉ xóa bạn thôi)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.503798,
+         "id": "995376",
+         "field_search": "question",
+         "question": "Thế giới di động cho em hỏi ? điện thoại của em bị loạn cảm ứng? mà vẫn còn trong thời gian bảo hành / nếu gửi đi BH thì khoảng mất bao nhiêu thời gian ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.47829,
+         "id": "1010671",
+         "field_search": "question",
+         "question": "Dạ nik facebook của mik bị đăng nhập ko được nó nói mik ko phải dùng tên thật rồi mik chụp giấy tờ tùy thân của mik gửi cho nó như yêu cầu á, mà sao vẫn ko vào đc, có thể giup mik đc ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.477318,
+         "id": "1001396",
+         "field_search": "question",
+         "question": "mình mua điện thoại ở đây và mua kèm theo ốp lưng nhưng ốp lưng có một chút lệch vậy có đổi lại được không ( đang trong thời gian bảo hành )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.363495,
+         "id": "1008642",
+         "field_search": "question",
+         "question": "cho em hỏi điện thoại còn trong thời gian bảo hành nhưng bị xé tem do kiểm tra bên trong khi đem sửa có được bảo hành ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.312107,
+         "id": "1167766",
+         "field_search": "question",
+         "question": "mik mún mua một chiếc đt trong phân khúc giá rẻ từ 4tr5 trở xuống cho con em mik dùng hì nên chọn đt j, cho mik bik chiếc realme 3 32gb, samsung galaxy 20,oppo a5s,oppo a7 32gb, huawei Y7 pro thì nên mua máy nào dùng mượt.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.310799,
+         "id": "753484",
+         "field_search": "question",
+         "question": " Hạn chế thời gian gọi trên điện thoại Asus Zenfone 5 ? ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.27567,
+         "id": "869643",
+         "field_search": "question",
+         "question": "Xin chào Anh/Chị!Anh/Chị vui lòng cho hỏi: Mình đang sử dụng điện thoại iphone 4, sử dụng phần mềm Tango trên điện thoại này bình thường, tuy nhiên, hôm nay vào Tango thì nó chạy một lúc hiển thị ra các tin nhắn nhưng sau đó tự quay lại giao diên ban đầu của Tango, phía bên dưới có chữ download. Như vậy là bị lỗi gì, xin Anh/Chị chỉ giúp. Trân trọng cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.203117,
+         "id": "1009675",
+         "field_search": "question",
+         "question": "Cho mình hỏi, điện thoại mình là samsung j5 , khi sạc pin ,cục sạc và điện thoại chạm tay vào ko thấy nóng, khi áp mặt vào cục sạc và điện thoại thì nóng thường thì khi sạc trưa chiều bị nóng, cho hỏi có sao không, phần mềm batterry doctor nói điện thoại nóng có thể làm hỏng pin.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.115833,
+         "id": "1160834",
+         "field_search": "question",
+         "question": "Cho mik hỏi hiên tượng vẫn còn ảnh trong thư viện nhưng khi bấm vào lại hiện là anh không hiển thị là bị j vậy ad (đt oppo A71)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.11547,
+         "id": "773140",
+         "field_search": "question",
+         "question": " máy em mua dc 2 3 tháng j đó mà nay e mới sài camera h nó bị z là thế nào z ad.  ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.107939,
+         "id": "1159398",
+         "field_search": "question",
+         "question": "Cho mình hỏi là laptop Acer Aspire E15 E5-576G-52YQ bàn phím được làm bằng gì vậy ạ vì sau 1 thời gian sài thì mình thấy nút hơi lún ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.080957,
+         "id": "796365",
+         "field_search": "question",
+         "question": "Có một số app trên máy mình click vào không lên gì cả, xong toàn phải restart mới bật được. Ví dụ như mở được Microsoft Word nhưng muốn gõ tiếng việt thì ấn vào Unikey mãi không thấy lên, vậy là phải restart. Ngoài ra còn 1 số app cũng bị như vậy trên máy như cốc cốc, chrome, adobe cloud premire,...",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.060286,
+         "id": "909297",
+         "field_search": "question",
+         "question": "Chào Admin!Mình đang dùng máy tính xách tay DELL Inspiron 7548 cài sẵn Windows 10 bản quyền. Sau một thời gian sử dụng nay mình muốn khôi phục lại hệ điều hành giống như khi bung Win lúc mới mua thì làm như thế nào? (Không phải vào Control Panel rồi vào Recovery) Thanks!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.037735,
+         "id": "1008407",
+         "field_search": "question",
+         "question": "Điện thoại mình là ip6 plus đang chạy bản 9.3.2 trong khi sử dụng nó bị màn hình đen hoặc xanh sau đó tự reset máy. Cho mình hỏi là bị lỗi ở gì vậy",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 19.035103,
+         "id": "822929",
+         "field_search": "question",
+         "question": "Xin chào. Tôi mua lại máy, lập tự iCloud mới, ghi lại mật khẩu và ban đầu dùng được. Sau một thời gian tôi dùng lại m khẩu đó lại báo k được. Tôi đành phải thay đổi mk và xác nhận thành công. Nhưng ngay sau đó tôi cần tải một số thứ thì k thể dc do báo là Tk bị khoá. Tôi phải làm sao ạ? Xin giúp tôi với!",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.984764,
+         "id": "1143489",
+         "field_search": "question",
+         "question": "Mọi người có thể giúp mik lỗi này đc không? Hnay, mih mới vào setting để update điện thoại nhưng nó lại bị lỗi gì đó... Mong ae giúp.Điện thoại mình:Samsung Grand PrimeAndroid 4.4.4",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.963795,
+         "id": "836204",
+         "field_search": "question",
+         "question": "em có một số ảnh trên điện thoại iphone và muốn cop sang máy tính nhưng khi kết nối với máy tính thì lại ko thấy hết ảnh mà chỉ được một số ít như vậy là bị sao ạ và em phải làm như nào để thấy được hết ảnh ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.948944,
+         "id": "1155151",
+         "field_search": "question",
+         "question": "Màn hình máy mik hay bị như thế này mỗi khi tắt nguồn. Máy của mik là asus zenphone max pro m2 ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.931076,
+         "id": "806908",
+         "field_search": "question",
+         "question": "Ad ơi cho em hỏi, trong danh bạ điện thoại em không lưu số của người này và họ đã add em trong zalo. Nhưng sau 1 thời gian em không còn thấy tên người này trong danh bạ zalo nữa. Vậy thì có phải người này đã không chơi zalo nữa phải không ạ? hay em đã bị người đó chặn nên không còn thấy tên người này nữa. Mong ad giải đáp giùm. Cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.92965,
+         "id": "1000281",
+         "field_search": "question",
+         "question": "Mình vừa mua s8..nhưng bị rơi vỡ ốp lưng sau...vậy mình có đc b.hành j ko",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.881134,
+         "id": "1001473",
+         "field_search": "question",
+         "question": "Ad cho em hỏi nếu trước đó em đã mua trả góp 1 điện thoại nhưng chưa hết thời gian đáo hạn trả góp thì em có thể mua trả góp thêm một máy nữa được không ạ. Em cảm ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.803337,
+         "id": "1133859",
+         "field_search": "question",
+         "question": "Điện thoại của em là samsung j3 đang chơi liên quân thì nó bị khởi động lại rồi sau đó em vào cài đặt resert lại điện thoại nhưng chơi được mấy ngày thì nó trở lại như cũ mong anh chị giúp em tìm giải pháp",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.79987,
+         "id": "782682",
+         "field_search": "question",
+         "question": "Cho mình hỏi sau khi điện thoại đã được jaibreak.Sử dụng 1 thời gian liệu có phát sinh trục trặc gì k,như là nhanh hết pin hay có khả năng bị nhiễm vỉut(mình dùng iphone6)",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.783634,
+         "id": "926042",
+         "field_search": "question",
+         "question": "Anh cho mình hỏi. ip4 của em bị lỗi màn hình. thông báo trước là cách 1 năm đã có một lần bị xe cáng nứt màn hình đã đi thay mới một lần chưa zô nước hay bị rơi xuống đất lần nào. Và cách đây 2 tuôn lúc đầu đang sài bỗng nhiên màn hình nó có sọc dọc đen cam và đỏ. cảm ứng nghe rồi vẫn bình thường màn hình ko thấy j cả chỉ thấy sốc đến cảm đó em lại đi thay mới màn hình lần nữa. 2 tuần sau y là bi giờ đang sài nó lại bị sốc độc lần này là trang xăng tìm 2 phút sau màu sắc màn hình nó mờ đi rồi nó trắng xóa luôn cảm ứng và nghe vẫn đc người gọi thì nó ko có chương như lần trước nữa màn hình thì trắng xóa. anh bít thế là bị kái j ko có hình ảnh nè níu bít hay không cũng trả lời cuo em nhaẢnh bị lỗi giài quá",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.772442,
+         "id": "1023303",
+         "field_search": "question",
+         "question": "Điện thoại samsung s8 của mình bị rơi và vỡ màn hình. Vậy cho mình hỏi giá thay màn hình là bao nhiêu và thời gian gửi bảo hành là bao lâu vậy ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.764545,
+         "id": "1014641",
+         "field_search": "question",
+         "question": "Xin chào,cho mình hỏi camera sau ip6+ của mình khi bật lên có tiếng kêu rè rè (như bị đứng) màn hình hơi rung rung,không biết là bị gì nữa bên mình có hỗ trợ sửa chữa không ạ? ( mình mua ở nơi khác )",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.760458,
+         "id": "998378",
+         "field_search": "question",
+         "question": "Con lumia 525 của em bị rơi xuống nước. Sau khi mang lên thì nó hoạt động một lúc thì sập nguồn. Bây giờ mang đi sửa ở đâu đây ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.735695,
+         "id": "1136757",
+         "field_search": "question",
+         "question": "em có mua một laptop lenovo ở tgdd. ổ usb của máy khi ghim các thiết bị như chuột, bàn có hiện tượng nhá điện sáng chuột rồi lập tức mất kết nối. cho em hỏi là lỗi phần cứng hay phần mềm và bảo hành như thế nào .. Số điện thoại: 0858881774",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.663921,
+         "id": "989319",
+         "field_search": "question",
+         "question": "Xin cho em hỏi, đặt sai Date and Time trên laptop có gây tác hại gì cho máy tính không ạ? Có tác hại gì tới pin Cmos không ạ? Vì một số lý do cá nhân, em muốn dặt sai thời gian trong khoảng thời gian dài, vậy liệu như vậy có tổn hại gì tới hệ thống sau này không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.61614,
+         "id": "998716",
+         "field_search": "question",
+         "question": "em đang dùng oppo neo5, máy chỉ bị xước nhẹ cường lực với mặt ốp đằng sau, bây giờ muốn đổi sang iphone5 hoặc 5s thì giá cả như nào ạ ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.602837,
+         "id": "1024515",
+         "field_search": "question",
+         "question": "Laptop của em bàn phím khi nhấn nó ra một số ký tự j đó đánh chữ nó lại ra x63....... mong mọi người giúp đỡ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.590801,
+         "id": "999644",
+         "field_search": "question",
+         "question": "ad cho em hỏi là em bị kẻ gian lấy mất điện thoại,điện thoại em là huawei y6 II ,có liên kết gmail,onedrive,và theo em được biết thì hình như là điện thạoi này có chức năg tìm vị trí j j đó phải ko ạ?ad cho em hỏi là có cách nào giúp em xác địh được vị trí của điện thoại bị mất ko ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.583881,
+         "id": "834139",
+         "field_search": "question",
+         "question": "Tại sao khi vào cài đặt chung của iphon5s rồi vào trợ năng sau đó bấm chữ đậm sao nó ra như vầy nó cứ đứng như vậy miết là vì sao?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.536074,
+         "id": "941636",
+         "field_search": "question",
+         "question": "Tôi mua 1 iphone 5s tại cửa hàng. Sau khi dùng 1 thời gian. Chiếc điện thoại của tôi hay bị loạn cảm ứng. Vậy xin hỏi tôi có được đổi lại không. Tôi còn đầy đủ phiếu bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.52093,
+         "id": "1137810",
+         "field_search": "question",
+         "question": "Tôi dùng củ sạc vooc của oppo f9 trong thời gian sạc thì tôi sờ vào củ sạc thấy nóng nóng khi rút ra thấy củ sạc có mùi khét . Thì tôi muốn hỏi phụ kiện như củ sạc có đổi được không ạ ? Xin cám ơn",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.49126,
+         "id": "786177",
+         "field_search": "question",
+         "question": "Tgdđ cho mình hỏi mình dùng iphone 6. Sáng nay có làm rơi xong giờ cầm điện thoại lắc có tiếng kêu lạch cạch bên trong. Vậy là máy mình bị làm sao vậy?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.452614,
+         "id": "746046",
+         "field_search": "question",
+         "question": "Chào bạn.mình hiện tại đang xài ip6.khi xài phát hiện dt khi thoát ứng dụng thì có bóng mờ của ứng dụng cũ trên màn hình vd khi nhắn tin lâu thoát ra thì xuất hiện bóng mờ của bàn phím xin hỏi đây là lỗi phần cứng hay phần mền và mình mang ra tgdd có dc hỗ trợ không máy mình vẫn còn trong thời gian bảo hành",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.439257,
+         "id": "1019740",
+         "field_search": "question",
+         "question": "Thưa add! Em mới bị mất một chiếc Oppo F1s ạ! Em có bật GPS nữa ạ! Sau khi thử nhiều cách để dò điện thoại bằng tài khoản Google thì em được biết máy của mình đang bắt một Wifi có tên là Khanhnguyen! Rồi sau đó khi dò thì em nhận được máy nữa, liệu add có thể dò vị trí số điện thoại của em hay giúp em cách nào đó được không ạ?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.405874,
+         "id": "1024311",
+         "field_search": "question",
+         "question": "Cho mk hỏi tại sao điện thoại mk sau khi cập nhật pm lên android 7.0 sài được thời gian thì điện thoại luôn bị chậm,mọi thao tác đều chậm mặc dù không có nóng máy,mk sài sony xa",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.394064,
+         "id": "1159788",
+         "field_search": "question",
+         "question": "Chào, hôm nay tôi đã đến thế giới di động, và vào quầy kiểm tra kỹ thuật miễn phí, rất hài lòng với cách phục vụ của các bạn. Nhưng có một chuyện làm tôi cảm thấy rất khó chịu như này:1) Tôi đến tgdđ để hỏi về việc điện thoại iPhone 7+ bị lỗi không nghe hay nói chuyện được khi đàm thoại, và bị mất icon loa ngoài2) Và sau đó, nhân viên bên bạn có nói tôi rằng sẽ tiến hành reset máy để kiểm tra có bình thường hay không3) Tôi vẫn đồng ý, nhưng lúc đó tôi có nói rằng:\"Có gì bạn check giúp mình trước rằng điện thoại này là lock hay quốc tế được không, vì lúc mình mua, có check là quốc tế, nhưng giờ bị lỗi như này thì sợ rằng nếu reset, ra lock thì nó lại tốn thời gian và tiền bạc.4) Bạn nói rằng không sao, không cần check. Lúc đó thì mình cũng ok, nghĩ rằng ko sao, vì máy thì sử dụng bình thường, nên không nghĩ rằng nó sẽ là máy lock.5) Nhưng đùng 1 cái, khi bạn reset lại, thì nó ra lock thật. Và mình vừa mất thời gian, vừa mất tiền để đi sửa máy. Mà còn không được gì. Thật sự rất bức xúc, nếu bạn kiểm tra máy kỹ giúp tôi, thì thật sự nó đã không làm tôi bực mình như thế này.Tất nhiên có thể câu chuyện cũng không hẳn là lỗi của nhân viên bên bạn, nhưng lời khuyên của tôi, sau này hãy check kỹ máy cho khách, trước khi tiến hành sửa chữa hay làm điều gì đó. Và hãy là người dùng thông minh, check kỹ càng trước khi mua máy, để tránh tình trạng bị dính cú lừa như mình các bạn nhé.Hiện trạng bây giờ của mình sau khi gắn sim ghép, thì điện thoại vẫn không nhận sim. Nói chung thà rằng mình ko sửa, thì không sao. Đi sửa rồi mang bệnh về nhà. Mất tiền bạc lẫn thời gian..",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.387302,
+         "id": "1015134",
+         "field_search": "question",
+         "question": "Tôi bị mất điện thoại lẫn số điện thoại. Khi tôi đăng nhập gmail trên điện thoại mới thì nó yêu cầu làm như hình bên dưới. Tôi phải làm gì để có thể đăng nhập vào gmail của mình?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.3866,
+         "id": "1017028",
+         "field_search": "question",
+         "question": "Mình đang dùng sam sung note 3 . khi mình mua gậy tự sướng cắm tai nghe thì dùng được. Nhưng một thời gian mình ko dùng sau đó đem ra dùng lại thì ko được. Nhưng khi kết nối thì vẫn được mà chụp hình lại ko được. Mà khi chụp ko được nhưng trên máy chẳng hiển thị gì cả. Giờ mình phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.373558,
+         "id": "856104",
+         "field_search": "question",
+         "question": "Em viết bài trên dòng thời gian của trang khác mà sao nó không hiện bài viết của em trên trang đó vậy trời??? Có ai giúp em với không ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.343569,
+         "id": "1019132",
+         "field_search": "question",
+         "question": "cho em hỏi lầ máy oppo a37 của em mua dc chưa đầy 1 tháng mà sao nó không chạy mượt mở nguồn lên đó đứng một lúc rồi mới lên vào ứng dụng nó cũng đứng một hồi nó mới vào đc làm sao để khắc phục ạ",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.285559,
+         "id": "1023383",
+         "field_search": "question",
+         "question": "sau khi cài thêm font chữ cho máy tính. thì một số trang web của e bị lỗi font chữ như trong hình. e phải khắc phục như thế nào ạ.",
+         "answer": "_",
+         "relate_q_q": 0
+      },
+      {
+         "score": 18.279661,
+         "id": "1015002",
+         "field_search": "question",
+         "question": "mình có mua j7 pro tại thế giới di động .hôm trước mình có đánh rơi máy vào nước. thấy loa 1 số phần bị lỗi ko đc như trước. giờ mình muốn kiểm tra sản phẩm thì phải làm như thế nào?",
+         "answer": "_",
+         "relate_q_q": 0
+      }
+   ]
+}
