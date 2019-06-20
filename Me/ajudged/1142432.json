@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 68.76095,
    "origin_question": "Mình xài samsung j6 mà còn trên 60 sạc được không ạ có tổn hại cho pinhay không",
+   "short": "sạc khi chưa hết pin", 
    "hits": [
-      {
-         "score": 68.76095,
-         "id": "1142432",
-         "field_search": "question",
-         "question": "Mình xài samsung j6 mà còn trên 60 sạc được không ạ có tổn hại cho pinhay không",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 25.864342,
          "id": "1163482",
          "field_search": "question",
          "question": "Mình có vivoy91c sạc khi máy chưa hết pin hoặc rút sạc khi chưa đầy có làm tổn hại gì cho pin của máy không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 25.351606,
@@ -27,23 +20,15 @@
          "field_search": "question",
          "question": " iPhone 6s mà đang sạc được 1 tiếng thì bị mất điện, được 80 thôi, thì có bị tổn hại đến pin không ạ ? ",
          "answer": "_",
-         "relate_q_q": 0
-      },
-      {
-         "score": 25.351606,
-         "id": "841451",
-         "field_search": "question",
-         "question": " iPhone 6s mà đang sạc được 1 tiếng thì bị mất điện, được 80 thôi, thì có bị tổn hại đến pin không ạ ? ",
-         "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.453276,
          "id": "1019509",
          "field_search": "question",
-         "question": "Cho hỏi sạc pin đt khi còn 5060 có tổn hại gì đến pin khôngVà cho em những cách bảo quản pin tôt nhất",
+         "question": "Cho hỏi sạc pin đt khi còn 50 60 có tổn hại gì đến pin khôngVà cho em những cách bảo quản pin tôt nhất",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 23.232603,
@@ -51,7 +36,7 @@
          "field_search": "question",
          "question": "cho mình hỏi. iPhone 5s của mình xài hơn một năm. mới thay pin được 5 ngày. vậy mà sạc đầy để qua đêm lại mất đến 60%. mọi ứng dụng làm hại pin mình đã tắt hết.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.283348,
@@ -59,7 +44,7 @@
          "field_search": "question",
          "question": "Xin cho em hỏi, đặt sai Date and Time trên laptop có gây tác hại gì cho máy tính không ạ? Có tác hại gì tới pin Cmos không ạ? Vì một số lý do cá nhân, em muốn dặt sai thời gian trong khoảng thời gian dài, vậy liệu như vậy có tổn hại gì tới hệ thống sau này không ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 21.214193,
@@ -67,7 +52,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi xem phim nóng trên vivo android có tổn hại gì đến máy hay pin gì ko v",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 21.058777,
@@ -75,7 +60,7 @@
          "field_search": "question",
          "question": "mình đang xài samsung j6 mà không thấy hiển thị led thông báo ở trước. k biết j6 có hổ trợ cái đó k ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 20.969582,
@@ -83,7 +68,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi mik dùng máy tính bảng Mobell Tab 8 mà dùng sạc của oppo và hoco thì máy có bị lâu vào pin ko ạ, có làm tổn hại đến máy ko ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 20.449198,
@@ -91,7 +76,7 @@
          "field_search": "question",
          "question": "Samsung Galaxy J6 pin khi sạc đầy thì xài được bao nhiêu giờ ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 19.62183,
@@ -99,7 +84,7 @@
          "field_search": "question",
          "question": "- Cho Em hỏi. khi điện thoại còn 100% em bật chế độ tiết kiệm pin và dùng bình thường . Liệu như vậy có làm tổn hại đến pin ko ạ . E CẢM ơn ạ !!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 18.928669,

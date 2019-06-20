@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 161.30095,
    "origin_question": "Mình đang dùng Oppo r7 lite. Chẳng may điện thoại bị vỡ màn hình trong, thay lại nhiều xiền quá. Mà mình lỡ không copy dữ liệu ảnh từ google ảnh trong máy. Nên giờ muốn lấy lại hình ảnh mà không biết làm cách nào? Đã thử đăng nhập email lưu trữ nhưng không thấy cái ảnh nào chạy về cả, huhu.",
+   "short": "lấy lại hình ảnh trong máy khi không lưu trên cloud ",
    "hits": [
-      {
-         "score": 161.30095,
-         "id": "1151947",
-         "field_search": "question",
-         "question": "Mình đang dùng Oppo r7 lite. Chẳng may điện thoại bị vỡ màn hình trong, thay lại nhiều xiền quá. Mà mình lỡ không copy dữ liệu ảnh từ google ảnh trong máy. Nên giờ muốn lấy lại hình ảnh mà không biết làm cách nào? Đã thử đăng nhập email lưu trữ nhưng không thấy cái ảnh nào chạy về cả, huhu.",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 64.31243,
          "id": "751047",
          "field_search": "question",
          "question": "Điện thoại Oppo R7 mới ra. Em tải hình ảnh ở trên Zalo về nhưng không biết nằm ở thư mục nào. Mà không thấy trong thư mục ảnh.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 57.7546,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "Em sử dụng oppo f7, em mở lưu trữ đám mây (ảnh). Khi em tắt lưu trữ đám mây đó thì sẽ như thế nào ạ ? Và khi em xoá dữ liệu ảnh mà không xoá ảnh trong máy thì sao ạ ?? Có bị mất ảnh trong mấy  hiện có không ạ ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 55.911278,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Em dùng iphone 6plus, em lỡ xóa ảnh trong album \" đã xóa gần đây \" nên không khôi phục lại được, vậy có cách nào để lấy lại những hình ảnh đó không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 53.46452,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": " Hình ảnh lưu trong thẻ nhớ mà mở ra xem lại bị vậy ạ? Nếu thẻ nhớ bị lỗi có lấy lại được hình ảnh không?  ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 53.44171,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi chút ạ . Mình mới mua oppo f9 khi sài bên zalo lưu hình về máy. ảnh vẫn lưu về mình mở ảnh trong zalo hay fb đều thấy . Nhưng khi thoát ra ngoài vào thư viện ảnh của máy lại k thấy ? zay minh làm sao để ảnh nó hiện trong thư viện ảnh ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 52.90302,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "Mình có một số ảnh trên zalo chưa kịp lưu về máy. Trong quá trình sử dụng cũng không hề xóa. Nhưng mình đã xóa ứng dụng zalo và tải lại và mất hết ảnh trong cuộc trò chuyện. Bây giờ có cách nào khôi phục ảnh không ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 52.579597,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Dạ hiện tại em đang dùng điện thoại Samsung J5. Vì công việc nên em dùng hình ảnh từ viber tải về máy rất nhiều. Vậy cho em hỏi có cách nào để hình ảnh từ viber tự lưu về thẻ nhớ của mình được không ạ? Em xin cảm ơn.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 52.468464,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "cho mình hỏi. hôm nay mình có khôi phục lại cài đặt gốc. trước khi khôi phục lại cài đặt gốc mình đã sao lưu lại mọi thứ trên máy lại. giờ mình khôi phục lại dữ liệu mấy lần trong samsung cloud thì thấy bị mất 1 số hình ảnh, số điện thoại trong danh bạ, với theme mình tải về. không biết giờ mình có lấy lại được ko",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 51.903244,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "anh ơi lúc trước đt e vẫn hiện toàn bộ ảnh lưu trữ từ fb chụp màn hình, down về chung một chỗ....nhưng bây giờ thì lưu ảnh trên fb thì nó lưu vào \" ảnh trên thiết bị\" nên bây giờ e không thể gửi ảnh qua mes như trước nữa. Mes bây h chỉ gửi được \" ảnh trên thiết bị \"thôi... Có cách nào khắc phục không ạ!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 51.901825,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "Mình dùng cái Sony Xperia XA, hôm qua thấy bộ nhớ máy đầy trên 70%, mình đã vào phần lưu trữ bộ nhớ và nhấn vào \"nhấn để biết thêm chi tiết, sau đó mình chọn vào \"bộ nhớ trong dùng chung\" và xoá hết 745MB trong \"dữ liệu khác\". Sau đó tự game mình tải về chơi không đc mà bắt tải lại, gỡ bỏ game xong thì máy tự khoá màn hình và bên hình ảnh thì bị thay đỗi cái phần sắp xếp... Mình phảo làm sao ạk?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 51.658146,

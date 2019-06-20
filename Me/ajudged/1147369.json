@@ -6,20 +6,12 @@
    "origin_question": "Chỉ em cách thay phong chữ A7 và ạ ...vào mục nào vậy ad",
    "hits": [
       {
-         "score": 50.68615,
-         "id": "1147369",
-         "field_search": "question",
-         "question": "Chỉ em cách thay phong chữ A7 và ạ ...vào mục nào vậy ad",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 20.096394,
          "id": "1145054",
          "field_search": "question",
          "question": "Em không xoá ảnh trong thư viện mà tại sao ảnh tự mất và hiện lên dòng chữ \" không mục nào \" là sao vậy ạ .Chỉ em cách khôi phục lại đi ạ ( em dùng điện thoại Samsung j2)",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 17.928535,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Ad cho mình hỏi tí. Mình đang dùng đt Samsung A7 2018. Khi mình dùng instagram, nếu vào bình luận hay gửi tn thì hoặc chỉ hiện khung bàn phím mà không hiện khung chữ đang gõ hoặc mình thoát khung bàn phím ra thì mới thấy khung chữ. Có cách nào khắc phục được ko vậy Ad?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 17.054567,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Chỉ tôi Cách thay đổi font chữ trên itela13 ......................",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 16.749062,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Cho hỏi A7 dùng bàn phím tiếng nhật sao chỉ đánh được chữ hiragana mà không đánh được chữ katakana và kanji vạy ạ ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 16.550968,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "Mình đang sử dụng Sam sung A7 2018. Mình mới cập nhật máy và mục cài đặt đã thay đổi hoàn toàn. Có những cài đặt bị mất đi. Có cách nào để đổi lại cấu hình cũ ko ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 16.309269,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "mình có cách nào thay avt ẩn trên zalo được ko ad. mình kiếm trong mục setting mà ko có",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 16.236225,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "Ins và fb của e cmt vào story đều không hiện dòng chữ em cmt làm sao ạ. E đang xài ss a7 2018 ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 15.94,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Làm cách nào để thay đổi hoặc xóa mục  ....  Ở dưới tên của messenger  mà em khoanh tròn trong hình ạ?  ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 15.06043,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Làm cách nào để thay đổi hoặc xóa mục  ....của chính nick mình Ở dưới tên của messenger  ạ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 14.75587,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "Mình lỡ chọt cây tăm để đẩy sim ra mà nó bị gãy và nằm bên trong, nhờ ad có cách nào để lấy ra không ? Đt samsung A7 Nhờ ad chỉ .Cảm ơn.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 14.614187,

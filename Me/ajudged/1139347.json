@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 55.067287,
    "origin_question": " Mình muốn đổi máy Sony Xperia sang máy khác được khôngMáy mình mua ở TGDD ",
+   "short": "đổi máy đt", 
    "hits": [
-      {
-         "score": 55.067287,
-         "id": "1139347",
-         "field_search": "question",
-         "question": " Mình muốn đổi máy Sony Xperia sang máy khác được khôngMáy mình mua ở TGDD ",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 27.89915,
          "id": "1004603",
          "field_search": "question",
          "question": "Mình mới mua sony xperia l1 giờ muốn đổi sang sony xa1 thi fai bù bao nhiêu",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 26.537601,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "mình hỏi chút, mình mới mua đt ở TGDĐ chưa được một tháng sony XA1, mua trả góp. Giờ mình muốn đổi sang đt khác Sony XA1 plus hơn thì có được không, máy XA1 Plus bao giờ có vậy?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 25.553503,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Mình muốn hỏi, mình đang dùng điện thoại sony xperia XA dual. Hiện tại máy mình còn 2,5 tháng bảo hành. Vậy mình muốn bán máy lại cho tgdd, thì sẽ được định giá là bao nhiêu? Máy mình mua ở tgdd động luôn.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.14376,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "cho mình hỏi mình có mua điện thoại bên Điện máy xanhnhưng giwof mình muốn đổi sang máy khác, mình muốn bán lại điện thaoij cho của hàng, rồi đổi sang mua máy khác tại cửa hàng có được k ak?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 24.168415,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "mình muốn mua máy đổi trả ở tgdd nhưng ở tỉnh mình k có. thì có thể mua online ở tỉnh khác đc k",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.7863,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "mình mới mua một máy nhưng lại muốn đổi sang máy hãng khác. Mình trả lại máy mới mua và thêm tiền cho máy khác vậy có được ko  ad",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 23.643124,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "QTV ơi mình muốn hỏi là ở TGDD có đổi máy cũ sang máy mới ko ạk",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.62678,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "Mình mua máy ở tgdd được nửa tháng dùng đơ và chậm có được đổi máy khác không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 23.464449,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "Mình mới mua Samsung M20 được 04 ngày nay muốn đổi sang máy khác được không?. Mua trả góp 0",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 23.068853,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "Mình mua máy ở đó giờ mình muốn đổi sang máy khác mình xem máy iPhone 4S cũ có giá là 2.440.000đ đó là ngưng sản xuất hay qua sử dụng rồi à, mình muốn đổi máy đó, bảo hành nhiêu thấng ad?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.945442,

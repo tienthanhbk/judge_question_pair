@@ -3,23 +3,16 @@
    "total": 34589,
    "total_current": 100,
    "max_score": 166.29808,
-   "origin_question": "Em đang sử dụng điện thoại Oppo A3s 32GB,Hiện tại thì mới mua được 3 ngày,em thấy camera trước của Oppo có màu sắc không bình thường (màu nâu hay vàng), khi em call video hay chụp selfieEm không biết chỗ điều chỉnh.Em muốn hỏi là do máy có màu như vậy hay người dùng mua về điều chỉnh ạ? và điều chỉnh thì ở đâu?",
+   "origin_question": "Em đang sử dụng điện thoại Oppo A3s 32GB,Hiện tại thì mới mua được 3 ngày,em thấy camera trước của Oppo có màu sắc không bình thường (màu nâu hay vàng), khi em call video hay chụp selfie Em không biết chỗ điều chỉnh.Em muốn hỏi là do máy có màu như vậy hay người dùng mua về điều chỉnh ạ? và điều chỉnh thì ở đâu?",
+   "short": "opppo camera trướcå",
    "hits": [
-      {
-         "score": 166.29808,
-         "id": "1143296",
-         "field_search": "question",
-         "question": "Em đang sử dụng điện thoại Oppo A3s 32GB,Hiện tại thì mới mua được 3 ngày,em thấy camera trước của Oppo có màu sắc không bình thường (màu nâu hay vàng), khi em call video hay chụp selfieEm không biết chỗ điều chỉnh.Em muốn hỏi là do máy có màu như vậy hay người dùng mua về điều chỉnh ạ? và điều chỉnh thì ở đâu?",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 60.758537,
          "id": "916295",
          "field_search": "question",
          "question": "E mua ip 7 plus màu hồng về dùng bình thường nhưng sao cái 3d touch nó không ổn ạ. Ví dụ như chat bong bóng e không mở được. Hay điều chỉnh độ sáng của đèn pin chỗ control cũng không được",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 55.48424,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "Cho em hỏi 5S màu vàng và màu bạc mức tiền như nhau hay như thế nào, ví dụ hôm nay mua điện thoại màu bạc đi đổi màu vàng được không?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 53.397453,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": " Mình gọi video zalo thì camera bị tối màu trong khi camera trước của gọi fb thì hình ảnh vẫn tốt màu sắc bình thường ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 52.269814,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "Người ta điện thoại cho em thì xuất hiện dòng chữ \" chuyển hướng cuộc có điều kiện \" tức là điện thoại cho em không được mà em điện thoại cho người  khác thì được hiện tại em đang sai điện thoại oppo f1s và chỉ sử dụng 1 sim vina hoạt động 4g của sim bình thường ạ cho em biết cách khắc phục tình trạng này",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 51.045822,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "điện thoại oppo f3 e mới mua chụp ảnh trong phòng chất lượng ảnh có dấu hiệu nhu lem màu ! ko sắc nét !có nhìu hạt! có phải chuyện bình thường hay e phải làm sao ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 50.550003,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "Tạo sao khi chụp ảnh bằng Camera trước lại thấy hình ảnh tươi hơn và có màu sắc khác xa so với Camera sau và trong lúc đang quay video thì chụp hình bằng camera trước cũng khác so với chụp hình bình thường? (Samsung Galaxy J7 Pro)",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 50.49879,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Hi mọi người ! Cho mình hỏi một chút. Mình dùng iPhone 4S. Trước vẫn dùng bình thường. Dạo gần đây, camera 360 của mình có vấn đề. Vào selfie camera trước lúc giơ lên chụp thì bình thường, nhưng nhấn chụp và lưu hình thì bị ám đỏ. Camera sau thì màu bình thường nhưng lưu hình rất lâu, có khi không lưu được và đang chụp thì bị đẩy ra. Lỗi vậy là sao hả mọi người? Ai biết thì chỉ cho em cách khắc phục với ạ! Thanks mọi người!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 49.541687,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "Ad ơi cho em hỏi ! Em vừa mua 1 máy samsung galaxy A50, máy ảnh của máy chỉ chụp được chế độ âm bản, không chụp được chế độ bình thường ? Vậy em phải làm như thế nào mới có thể điều chỉnh lại ạ ?? Xin cám ơn ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 49.39769,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "e đang xài laptop win 8, gần đây máy có tự động điều chỉnh độ sáng, và e ko thể điều chỉnh độ sáng thủ công được nữa, vậy máy em bị lỗi hay là sao ạ, khắc phục ntn vậy ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 49.30575,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "cho em hỏi với ạ, máy của em là lap HP pavilion-14ab120TU, lúc mới mua về em có thể chỉnh đc độ sáng bằng phím f2 f3, nhưng sang ngày thứ hai lại không điều chỉnh được là sao ạ, với cả khi nhấn phím f4 lại ko hiện lên như hôm mới mua ạ???",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 49.297207,

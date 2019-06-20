@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 77.549835,
    "origin_question": "cho em hỏi  mua máy asus m2 trực tiếp tại cửa hàng TGDD thì có hàng k hay chỉ áp dụng cho mua online  cảm ơn ",
+   "short": "mua asus m2 trực tiếp có hàng không ", 
    "hits": [
-      {
-         "score": 77.549835,
-         "id": "1141478",
-         "field_search": "question",
-         "question": "cho em hỏi  mua máy asus m2 trực tiếp tại cửa hàng TGDD thì có hàng k hay chỉ áp dụng cho mua online  cảm ơn ",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 36.27965,
          "id": "1154367",
          "field_search": "question",
          "question": "cho e hỏi . mua điện thoại samsung galaxy A50 128GB có thể đặc hàng tại cửa hàng trực tiếp k ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.197308,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "T thấy bên cửa hàng đang bán giảm giá tai nghe khi mua online. V giờ t đặt hàng online rồi trực tiếp đến cửa hàng nhận có dk k",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.497765,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "shop ơi cho em hỏi 1 chút là em muốn mua điện thoại vsmart joy 1 thì em đến mua trực tiếp ở cửa hàng luôn hay phải đặt online ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.20543,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "em muốn mua máy QSD nhưng không thấy đặt hàng, vậy phải đến trực tiếp tại cửa hàng mua chứ k có ship hả ad",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.6579,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi combo phụ kiện kèm theo vs galaxy A6 có áp dụng khi mua hàng trực tiếp tại hệ thống tgdđ không ạ ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.72381,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "e có thể mua trả góp trực tiếp tại cửa hàng không ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.481422,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "QTV cho em hỏi nếu ở gần tgdd có được đặt điện thoại với giá online sau đó trực tiếp đến cửa hàng lấy không??",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.42758,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "mua máy rẻ online là may như thế nào vậy ad ? giả sử e đặt hàng online theo sđt nhưng e lại ra trực tiếp cửa hàng để mua máy theo đơn hàng onlinethì có được ko ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.0186,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "cho mình hỏi con asus zenfone max pro m2 chỉ bán online th th hay có thể ra tận cửa hàng để xem và mua zậy mong mọi người hoặc shop giải đáp cho mình",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 32.865894,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": " tôi muốn mua đt, có thể sử dụng thẻ visa để thanh toán trực tiếp tại cửa hàng được k? xin hướng dẫn.  ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 32.372414,

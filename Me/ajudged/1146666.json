@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 197.51585,
    "origin_question": "Xin chào em đang dùng laptop acer aspire v5-471G win 10 và em muôn hỏi là mấy bữa nay mạng wifi dùng có cứ bị chập chập lúc thì vô được lúc thì không vô được và firefox nó báo là Server not found, hôm nay thì tự nhiên máy tính nó hiện lên thông báo nói là có máy tính khác trong mạng trùng địa chỉ ip gì đó, trên điện thoại cũng không vô  mạng được luôn, không biết phải sửa sao đây ạ ?",
+   "short": "không kết nối đc wifi server not found - trùng ip ",
    "hits": [
-      {
-         "score": 197.51585,
-         "id": "1146666",
-         "field_search": "question",
-         "question": "Xin chào em đang dùng laptop acer aspire v5-471G win 10 và em muôn hỏi là mấy bữa nay mạng wifi dùng có cứ bị chập chập lúc thì vô được lúc thì không vô được và firefox nó báo là Server not found, hôm nay thì tự nhiên máy tính nó hiện lên thông báo nói là có máy tính khác trong mạng trùng địa chỉ ip gì đó, trên điện thoại cũng không vô  mạng được luôn, không biết phải sửa sao đây ạ ?",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 65.21652,
          "id": "843131",
          "field_search": "question",
          "question": "Xin Chào em đang dùng máy Windows 7 Acer và em muốn hỏi không biết có phần mềm nào hiện địa chỉ MAC của máy chủ hay thiết bị đang kết nối với một mạng wifi mà mình không cần kết nối với mạng wifi đó hay không?Mong ad trả lời sớm cho em vì em đang bí không biết là phải làm sao vì nhà hàng xóm có wifi mà nó lại chặn của em. Em định thay địa chỉ MAC của em cho giống nó thì mới kết nối được.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 65.02471,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "cho mình hỏi là mình bỏ thánh sim vô điện thoại Sony Z3 thì máy vô mạng bình thường nhưng khi mình dùng Z3 làm wifi hostpot thì các máy khác dù đa kết nối được mạng Z3 phát ra nhưng vẫn không vô mạng được riêng Z3 thì dùng bình thường, cho hỏi là sao ạ ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 64.08232,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Máy em đang xài là Oppo A39 mà mấy hôm nay điện thoại em nó cứ có  thông báo trên  mạng về miết nó hiển thị cả mang hình bực lắm em không biết làm sao để tắt nó Đi cả",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 63.891865,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "Chào ad cho mình hỏi chút ạ? Ở cty của mình có mạng wifi mở? Lúc trước mình có vô được.nhưng hôm nay mình lại không vô được. Mình đã thử rieset lại máy ui.ấn quên ui đăng nhập lại.nói chung là thử những cách mình biết.mà các điện thoại khác vẫn vô được. Mình kết nối lại thì máy báo \" không kết nối được\". Mong ad giúp đỡ. Cám ơn..!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 63.850075,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Cho em hỏi tại sao mà em điện thoại lên tổng đài thì nó nói là ở chỗ nó kiểm tra cho em mạng của em không có bị lỗi gì hết mà tại sao lúc em vô Facebook với mess với Zalo nói chung là tất cả ứng dụng trong điện thoại luôn mà nó không có đăng nhập được.bị như vậy là do đt hay là mạng v ad",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 62.221703,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "Xin chào cho em hỏi em dùng laptop acer V5-471G lúc trước kết nỗi bluetooth bình thường nhưng sau khi cập nhật win 10 thì nó không dò thấy thiết bị bluetooth nào nữa là sao ạ ??",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 61.35824,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "A50 mình bật mạng dữ liệu lên cứ bị chập chờn lúc được lúc không là tại sao ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 60.918262,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "Xin chào em đang dùng laptop acer win 7 và em muốn hỏi là máy của em cứ dùng lâu lâu là lại bị màn hình biến thành màu xanh dương xong rồi có chữ trắng chạy trên màn hình nó báo là recovery gì đó không biết có phải bị nhiễm virus hay bị sao không ạ ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 60.776825,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "cho em hỏi iphone4 không kết nối mạng được là bị gì ạ? wifi mạnh mà không vô được em sao lưu mấy lần cũng không được ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 58.457253,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "em chào admin. ad cho em hỏi là máy em thi thoảng mới dùng, không tải phầm mềm gì nặng, chỉ dùng để lướt web thôi mà máy lag lắm ạ. máy win 10 em mới mua hồi cuối năm. máy hay bị đứng khi lên mạng, lướt k được, đơ vài giây sau đó tắt đen luôn rồi tự thoát, nó cứ vây hoài. lúc mà k bị thì nó chạy nhanh lắm, còn lúc đơ thì cứ tắt đen màn hình hoặc là đứng màn hình luôn. giờ em đem ra cài win lại hay sao ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 58.252323,

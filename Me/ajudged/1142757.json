@@ -3,23 +3,16 @@
    "total": 31013,
    "total_current": 100,
    "max_score": 123.62379,
-   "origin_question": "Coolpad dùng 3000 mAnh nhưng có đúng vây không ?Sạc bao lâu từ 20% vậyNhanh hết pin không 🔋🔋🔋🔋????Bền không ????Tại sao đắt hơn realme c1 , có phải vì cảm ứng vận tay không ????",
+   "origin_question": "Coolpad dùng 3000 mAnh nhưng có đúng vây không ?Sạc bao lâu từ 20% vậy Nhanh hết pin không 🔋🔋🔋🔋????Bền không ????Tại sao đắt hơn realme c1 , có phải vì cảm ứng vận tay không ????",
+   "short": "coolpad ",
    "hits": [
-      {
-         "score": 123.62379,
-         "id": "1142757",
-         "field_search": "question",
-         "question": "Coolpad dùng 3000 mAnh nhưng có đúng vây không ?Sạc bao lâu từ 20% vậyNhanh hết pin không 🔋🔋🔋🔋????Bền không ????Tại sao đắt hơn realme c1 , có phải vì cảm ứng vận tay không ????",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 35.37379,
          "id": "1003676",
          "field_search": "question",
          "question": " cho xin hỏi mình sài máy ipad sạc pin thế nào mới đúng không bị chai sạc pin phải bền lâu hơn? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.08235,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "Giữa coolpad mega 5 và realme c 1 cái nào sạc nhanh hơn, cái nào dùng lâu hết (Mặc dù biết dùng được bao lâu nhưng chưa chắc)",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 27.450249,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Vui lòng cho em hỏiEm muốn sử dụng cảm ứng vân tay để mở không dùng mã pin luôn dc kg? Vì có lúc sử dụng vân tay dc, nhưng có lúc bắt buộc phải dùng mã pin là sao? Có thể ưu tiên dùng vân tay trước mã pin kg? Em dùng samsung A30.Cám ơn!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 27.328793,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "Realme C1 ko có đèn thông báo khi sạc pin Phải làm sao đây",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.546087,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Sao realme c1 có hiện tượng là để sạc từ tối khi tới sáng lại mở nguồn không lên vậy",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.366274,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "Cho em hỏi đt Realme C1 tối e dùng bình thường đt hết pin sạc qua đêm sáng mở không lên. Em có lấy đt khác gọi qua vẫn nghe đổ chuông nhưng đt em vẫn không hiển thị là bị sao vậy ạ ???",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.733822,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": " realme C1 có bán tại cửa hàng không ạ................. ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.638287,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "tại sao tui có đt reamle c1 mÀ NÓ KHÔNG THỂ CHỤP HÌNH ĐX VÂY ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.502554,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "Máy realme C1 mình mới mua bị lỗi phần cảm ứng thì có đổi trả được không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.21879,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "Cho em hỏi, điện thoại em cắm sạc khi ấy là còn 20% pin, nhưng do máy sạc lâu phải mất 4 tiếng thì mới sạc đầy pin. Lúc em rút sạc thì máy mới đến 80%,không biết có ảnh hưởng gì đến chất lượng pin không ạ( e dùng Oppo 3as)",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.208431,

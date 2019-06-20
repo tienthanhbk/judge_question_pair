@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 127.06256,
    "origin_question": "Điện thoại e là ip 6 plus mới dùng được hơn 3 tháng mà cứ bị nóng máy suốt. Mà e là con gái nên k chơi game. Chỉ cần dùng 5p là nóng ran cả tay rồi ạ. Vậy cho e hỏi lỗi này có được đổi trả k ạ",
+   "short": "iphone nóng máy",
    "hits": [
-      {
-         "score": 127.06256,
-         "id": "1148199",
-         "field_search": "question",
-         "question": "Điện thoại e là ip 6 plus mới dùng được hơn 3 tháng mà cứ bị nóng máy suốt. Mà e là con gái nên k chơi game. Chỉ cần dùng 5p là nóng ran cả tay rồi ạ. Vậy cho e hỏi lỗi này có được đổi trả k ạ",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 54.04772,
          "id": "1023311",
          "field_search": "question",
          "question": "Cho e hỏi. E mới mua con samsung j7 pro. E mới dùng được 2 tuần mà suốt ngày máy báo nóng máy, rồi bộ nhớ đầy là sao ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 45.19413,
@@ -27,15 +20,7 @@
          "field_search": "question",
          "question": "Cho e hỏi e mới dùng điện thoại f3 plus được 3 tháng muốn đổi sang iphone 6 plus cũ có đc không ạ",
          "answer": "_",
-         "relate_q_q": 0
-      },
-      {
-         "score": 44.627262,
-         "id": "1019869",
-         "field_search": "question",
-         "question": "cho e hỏi máy e bị như này e phải làm sao ạ ???E mới dùng được hơn 1 tháng mà thi thoảng nó nóng máy r nó tự động sập nguồn r ra hình như này",
-         "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 43.342045,
@@ -43,7 +28,7 @@
          "field_search": "question",
          "question": "Máy e tự nhiên không khôi phục được touch id nút home thỉnh thoảng nóng ran máy e là máy mua đổi trả nhưng vẫn còn bảo hành 5 tháng vậy e có đc bảo hành này ko",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 42.77046,
@@ -51,7 +36,7 @@
          "field_search": "question",
          "question": "em dùng ip 6s ạ mà sạc báo vào mà k vào điện là bị sao ạtrước thì e rất hay hỏng cáp mua cáp zin cũng chỉ đc hơn 2 tháng thôiad xem máy e bị sao ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 42.11429,
@@ -59,7 +44,7 @@
          "field_search": "question",
          "question": "E mới mua Đt được 4 bữa nhưng bị lỗi nóng máy và không tải game được.....và đã đổi 1 lần....bây giờ Lại lỗi là không chơi game được và không nhận được tin nhắn......cho e hỏi em đổi đt hãng khác được không ạ đt e mua là oppo a7",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 41.892216,
@@ -67,7 +52,7 @@
          "field_search": "question",
          "question": "Cho e hỏi sao máy nokia 5 cuả e  mới mua mà nhanh tụt pin quá vậy ạ. Xài ứng dụng đơn giản, không chơi game nặng mà xài chưa đc nửa ngày. Máy e mới mua tầm 3 ngày thôi. 3 lần sạc pin đầu tiên là 8 tiếng theo sự hướng dẫn. E chỉ chơi game bắn trứng chứ k chơi game gì nặng mà chơi được chút xíu thì hết pin. Không biết e có thể mang ra đổi lại được k ạ.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 41.63964,
@@ -75,7 +60,7 @@
          "field_search": "question",
          "question": "cho mình hỏi mình đang dùng ip5 lock mà dùng máy được tầm 15 phút là thấy nóng máy rồi là bị làm sao ạ,tất cả các ứng dụng mình tắt hết máy mình k cài đặt nhiều ứng dụng.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 41.594444,
@@ -83,7 +68,7 @@
          "field_search": "question",
          "question": "Cho e hỏi là e đang dùng chiếc iphone6 dạo gần đây e k biết máy e bị sao. E tắt hết 3G và cả wifi e chỉ nghe nhạc thôi nghe được gần 1 tiếng thì máy e nóng bất thường cà hao pin rất nhanh là sao thế ạ? Mong được câu trả lời!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 41.47679,
@@ -91,7 +76,7 @@
          "field_search": "question",
          "question": "E hơi dốt về ip các bác cho e hỏi bị thế này là bị thế nào ạVân tay của e không nhậy mấy hôm qa e có xoá bỏ vân tay cũ đi đặt lại vân tay mới nhưng mà k được đặt gần xong ùi thì nó cứ chạy lại từ đầu nên giờ e gí vào vân tay nó k chạy nữa là sao ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 41.151768,
@@ -99,7 +84,7 @@
          "field_search": "question",
          "question": "Em mới mua Dell Inspiron 5559 i5 6200U/4GB/500GB/Win10/Office365 nhưng máy chạy rất nóng. Em chơi lol đc tầm 10 phút thì máy tắt (chắc do nóng quá) nên phải dùng đế tản nhiệt. Máy vẫn chạy đc nhưng vẫn rất nóng ạ. Cho e hỏi máy e có lỗi gì k hay dòng máy này như vậy ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 41.143993,

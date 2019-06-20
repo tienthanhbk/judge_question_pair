@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 138.58571,
    "origin_question": "Toi moi mua dt A8 da qua su dụng.toi thay dt A7 2018 cau hinh manh hon.toi muon doi thi phí bù tru la bao nhieu ạ",
+   "short": "đổi đt phí bao nhiêu ", 
    "hits": [
-      {
-         "score": 138.58571,
-         "id": "1141530",
-         "field_search": "question",
-         "question": "Toi moi mua dt A8 da qua su dụng.toi thay dt A7 2018 cau hinh manh hon.toi muon doi thi phí bù tru la bao nhieu ạ",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 35.60713,
          "id": "1015332",
          "field_search": "question",
          "question": "cho e hoi neu nhu minh mua tra gop dt thi co the mua toi da bao nhieu cai a",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.762707,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "Minh mua dt tra gop dt zênòn 3 max 5.5 khi dem ve xai thay dt bat wifi yeu,chup hinh hay bi lat man hinh,vo mang xa hoi cug lau toan la cho tai hoac dung may,ra cho nhan vien tgdd kiem tra thi nhan vien bao la may binh thuong,nhung theo minh thay dien thoai nay xai that vong vo cung,khong muot ma hay manh me nhu tren tgdd quang cao,vay minh dang tra gop neu doi qua lay may re hon may hien tai minh dang su dung la khoang 400k dc k",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.443768,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Sdt 0907510431 toi co dat mua dt huawei nova3e da qua su dung.ko biet gio co hang chua",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.277164,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "Minh dang su dung dien thoai nokia 7plus .may con bao hanh .gio muon doi qua nokia 8.1 thi bu tien bao nhieu ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 33.95392,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Toi moi mua con Samsung A9 nay muon doi sang S10. Hoi TGDĐ co chuong trinh thu lai A9? Neu thu lai thi gia bao nhieu?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 33.59804,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "cho minh hoi minh co mua 1 chieec dt da qua su dung cua cua hang ( moi 1 tuan)  nhung dung ko dc on dinh minh muon doi may do lay may khac cung loao hoac tuong dupng lieu co dc ko",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.48239,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Dt zenfone c bi nut man hinh thi thay mới het bao nhieu tien a?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.48239,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "Dt cua e bi rot, bi nứt màn hinh thi thay mơi bao nhieu tien ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.30859,
@@ -83,15 +76,15 @@
          "field_search": "question",
          "question": "dt e sam sung s8 mua dc 12th roi h e muon đổi ngang qua s8 mới thì bù bao nhieu tjen ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 33.19359,
          "id": "1159127",
          "field_search": "question",
-         "question": "Minh moi mua dt a50 tu 28/3/19 den nay lau lau dt bi giat man hinh thi minh co the doi dt moi dc hay ko va co may phi gi hok ? Dt minh dag tra gop",
+         "question": "Minh moi mua dt a50 tu 28/3/19 den nay lau lau dt bi giat man hinh thi minh co the doi dt moi dc hay ko va co mat phi gi hok ? Dt minh dag tra gop",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 32.829018,

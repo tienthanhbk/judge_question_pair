@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 71.248,
    "origin_question": " Hi ad cho em hỏi em mua máy iphone xs max lại của tgdd, cho em hỏi máy đấy có tai nghe blutoob k ạ ",
+   "short": "iphone có tai nghe bluetooth ko ",
    "hits": [
-      {
-         "score": 71.248,
-         "id": "1144378",
-         "field_search": "question",
-         "question": " Hi ad cho em hỏi em mua máy iphone xs max lại của tgdd, cho em hỏi máy đấy có tai nghe blutoob k ạ ",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 27.87201,
          "id": "1153958",
          "field_search": "question",
          "question": "Ad cho em hỏi, máy Laptop em cấm tai nghe vào r nhưng máy k nhận.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 27.53645,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "Cho em hỏi là bên mình có dịch vụ đổi iphone xs lên xs max không nhỉ . Em cảm ơn ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.067375,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "em đang dùng 5c, cho em hỏi phải cắm tai nghe của apple mới hiện icon tai nghe trên máy hả ad ơi, cái icon ngay cạnh pin ấy ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.032066,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "Ad ơi ví dụ em muốn mua Iphone xs max 256gb cho bạn bè ở xa thì có được giảm giá không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.850183,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Em mới mua đt xs max bên thế giới di động. Bên mình có thu lại đt k ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.781525,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "AD cho em hỏi là em có mua 1 máy Iphone 5s 16g ở tgdd khoảng chừng 5-6 tháng em muốn bán lại tgdd mình có thu lại không ạ ???",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.284008,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi bên mình có thu lại máy iphone XS max 256Gb gold VNA còn nguyên seal chưa active không?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.258444,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "Ad cho em hỏi. Em mua iPhone 4s tại thế giới di động nhưng hiện giờ em đã làm mất hoá đơn. Vậy TGDD có thu lại máy của em được không ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.241047,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "Cho em hỏi trả góp điện thoại xs max 256GB có quà tặng gì không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.116892,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "dạ cho em hỏi điện thoại của em là iphone Xs max em đã tháo sim và tắt định vị tắt tìm iphone vậy người khác có thể định vị được em không ạ. Em cảm ơn",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.07157,

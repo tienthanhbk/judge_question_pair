@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 194.52802,
    "origin_question": "Em moi mua dien thoai a7 ma gio khong biet no bi gi nua dag mo 3g len tu nhien no tat roi tat nguon khoi dong lai no moi len do la bi gi ạ",
+   "short": "điện thoại sập nguồn ",
    "hits": [
-      {
-         "score": 194.52802,
-         "id": "1149399",
-         "field_search": "question",
-         "question": "Em moi mua dien thoai a7 ma gio khong biet no bi gi nua dag mo 3g len tu nhien no tat roi tat nguon khoi dong lai no moi len do la bi gi ạ",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 101.98129,
          "id": "903321",
          "field_search": "question",
          "question": "dien thoai iphone4s cua em tu nhien hay bi tat nguon la bi gi vay QTV?Voi lai luc len nguon roi bam vo ung dung cai tu dong bi tat nguon la bi lam sao ak?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 96.79502,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": " Laptop e khoi dong len sao do tu nhien tat va gio k khoi dong duoc. Vay la bi gi a ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 87.00438,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Minh sai đt samsum galaxy j7 ma sao moi lan mjh ket noi wifi roi minh tat wifi thi mo len no lai đoi nhap mat khau.cu moi lan tat wifi hay đt bi cup nguon la lai bat nhap mk wifi",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 83.42979,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "QTV oi cho e hoi sao tu nhien cai dt iphone 4s cua bi tat nguon xong mo len no lai hien thi hinh trai tao khong la bi lam sao ak?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 76.088295,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "dien thoai e dag su dung tu dưng tat nguon ma mo hoai ko len",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 74.393715,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "Ad oi cho e hoi...e xai samsung j7 2016...sao ma dien thoai e tu nhien no phat nhac v ad... roi nhiei khi e noi chuyen dt ben dt khac khong nghe duoc... tat nguon mo may len lai thi no lai noi chuyen duoc... ad giup e voi. E chan thanh cam on",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 69.25577,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Cho minh hoi ming xai dien thoai sony c4 nhung moi khi tat nguon hay khoi dong lai may thi 20phut sau moi len duoc..ca nay co sua duic khong ban",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 68.13852,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "Cho e hoi sao e dang xac pin dien thoai cua e,roi no tat nguon em mo k len nguon.em xai oppoa3s,e mua chua duoc 2 thang",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 64.93197,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": " Bi vay ne may anh moi chup lai do .co gi dien thoai tu van nha  ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 64.90862,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "LAPTOP bi loi Nay la the nao vay ad? khi khoi dong thi no hien ra xong roi nhan enter thi no mat. cho em hoi co the tat no duoc khong chu tinh trang nay lam mat thoi gian khoi dong. em de y la luc truoc thi khong co, con sau khi chong phan manh o cung thi no ntn.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 62.446877,

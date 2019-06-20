@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 84.0791,
    "origin_question": "xin hỏi điện thoại sam sum j6 tắt màn hình rồi mà một lúc nó lại sáng màn hình lên thì cài đặt tắt ở đâu ạ.",
+   "short": " đt tự động sáng màn hình ",
    "hits": [
-      {
-         "score": 84.0791,
-         "id": "1151878",
-         "field_search": "question",
-         "question": "xin hỏi điện thoại sam sum j6 tắt màn hình rồi mà một lúc nó lại sáng màn hình lên thì cài đặt tắt ở đâu ạ.",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 35.58052,
          "id": "1142483",
          "field_search": "question",
          "question": "Điện thoại e là Oppo f7, dạo này khi e nhấc điện thoại lên hay đặt xuống thì màn hình đều sáng lên, lúc trước chưa từng bị như vậy. E tắt chế độ đó ở đâu vậy ạ, hay máy e có vấn đề j ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 34.744476,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "điện thoại Samsung J7 Prime của mình lâu lâu cái màn hình nó cứ bị gì ấy, mình không sử dụng nữa mình tắt màn hình nhưng nó cứ sáng lên, mình để yên cho nó tự tắt, nó tắt xong lại sáng lên, làm sao để sửa đc ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 34.277603,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Cho em hỏi. Em đang sài sam sung j6. Khi mà em có cuộc gọi. Trong lúc nghe điện thoại. Màn hình không sáng. Giờ khắc phục sao ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.39025,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "ad ơi . em có máy iphone 5s lúc nghe điện thoại thì màn hình ko tắt mà có tật thì phải đặt ngón tay vào đó khoảng 5s thì nó mới tắt .cho em hỏi nó bị sao thế ạ.em xin cảm ơn!!!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.09495,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Cho em hỏi là điện thoại Sam Sung J5 Prime đang xài bị treo và đứng màn hình k bấm gì đc... h nó tắt đen màn hình và mở k lên lun rồi ạ .... cho em hỏi nó bị sao ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.05861,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "Điện thoại mình là a7 2018, nhưng dạo này khi tắt điện thoại thì một lát sau nó lại tự hiện lên màn hình chờ của mình lúc này phải bấm thoát ra thì nó mới trở về màn hình khóa còn không bấm thoát thì một lát sau nó sẽ tự trở về màn hình khóa. Đt của mình đang bị gì thế ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 32.801025,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Em đang dùng Samsung J7. Dùng cũng được hơn 1 năm rồi bây giờ thì khi em đang xem Youtube hay Facebook thì điện thoại tự dưng tắt. Bấm mấy lần vào màn hình thì nó mới lên. Lúc thì mới sáng lên thì đã tắt còn lúc thì khoảng 1 - 5 phút là đã tắt đi rồi mong ad giúp em. Xin cảm ơn !",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.624107,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "mình xài dt samsung j5 prime cho mình hỏi . dt mình sau khi tắt màn hình ko sử dụng thì khoảng 5p sau màn hình tự sáng lên rồi tắt . cứ lặp đi lặp lại hoài .xin chỉ mình cách khắc phục",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.241928,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "TGDĐ cho mình hỏi điện thoại iP6 của mình tự dưng lại tự khóa màn hình ko hiểu nguyên nhân lúc bấm nút nguồn lúc được lúc không rồi lắc lắc điện thoại thì nó lên màn hình, lắc lắc thì nó khóa màn hình cho hỏi như vậy bị hư gì?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 30.933184,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "Laptop của mình bị lỗi mở màn hình không lên, đèn nguồn vẫn sáng nhưng ko màn hình ko lên. Lúc đè phím nguồn tắt màn hình thì có nghe tiếng bíp, mở lại vẫn vậy. Cho hỏi bị lỗi gì ạ ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 30.932938,

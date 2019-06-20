@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 97.68449,
    "origin_question": "Điện thoại Xiaomi Mi8 lite của tôi khi chụp bằng chế độ thủ công thì máy đơ ra sau đó ảnh không xem được xin hỏi phải khắc phục như thế nào ạ. Xin cảm ơn.",
+   "short": "đt chụp hình bị đơ máy và ko xem đc ảnh",
    "hits": [
-      {
-         "score": 97.68449,
-         "id": "1142473",
-         "field_search": "question",
-         "question": "Điện thoại Xiaomi Mi8 lite của tôi khi chụp bằng chế độ thủ công thì máy đơ ra sau đó ảnh không xem được xin hỏi phải khắc phục như thế nào ạ. Xin cảm ơn.",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 38.887184,
          "id": "1157011",
          "field_search": "question",
          "question": "E mới mua mi8 lite giờ muốn đổi sang redmi note 7 được không  ? Và nếu được thì thủ tục như thế nào ạk. E xin cảm ơn !",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.796497,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "Ad ơi cho em hỏi ! Em vừa mua 1 máy samsung galaxy A50, máy ảnh của máy chỉ chụp được chế độ âm bản, không chụp được chế độ bình thường ? Vậy em phải làm như thế nào mới có thể điều chỉnh lại ạ ?? Xin cám ơn ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.12575,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Điện thoại Samsung của mình bị chế độ này, xem giúp mình chỉnh lại như thế nào để có sóng điện thoại, hiện tại máy không có sóng điện thoại không liên lạc được, xin cảm ơn.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.83934,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "Cho tôi hỏi Xiaomi mi8 lite có chức năng pico pic hok. Nếu có thì dùng như thế nào? Cảm ơn",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.76158,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Chào anh/chị,Hiện tại sau khi update lên Android 9.0 cho Nokia 8 thì chế độ Dual và PIP của camera không sử dụng được, cụ thể là khi chọn một trong hai chế độ trên thì máy bị đứng. Như vậy là do đâu và khắc phụ như thế nào?Xin cảm ơn.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.615456,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": " Cho tôi hỏi đây là bị j z có ảnh hưởng gì không qtv nêu có cách khắc phục thì phải làm thế nào xin cảm ơn.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.17725,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Tôi copy 1 ảnh từ điện thoại iphone 6s sang máy tính, copy xong ở máy tính có 2 ảnh (1 ảnh có tên là IMG_0005.JPG và 1 ảnh có tên là IMG_0005.MOV). Khi mở xem ảnh trên máy tính ảnh có đuôi JPG mở bình thường; ảnh có đuôi MOV phải mở dạng video. Hỏi vậy tại sao? nếu do cài chế độ chụp ảnh của iphone thì cách cài đặt cụ thẻ ra sao? xin cảm ơn!!!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.935238,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "tôi bị lỗi phím số bên phải.bị lỗi số 4 với lại nhiều khi tôi viết trên bàn phím,thì hiện ra phần như nut f12.đây có phải lỗi driver không và cách khắc phục lỗi này như thế nào, tôi xin cảm ơn !",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.373362,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "Mình mới mua ipad mini 4, cho mình hỏi khi chụp hình và tự sướng để chế độ hẹn giờ chụp . Sau khi hết thời gian hẹn giờ thì máy chụp ra 10 ảnh liên tục , có cách nào cài đặt lại khi chụp như vậy chỉ hiện ra 1 ảnh thôi. Cám ơn",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.189281,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "Cho e hỏi ịp của e kiểu máy ghi là MD298J/A khi chụp ảnh camera vẫn phát ra âm thanh mặc dù e đã để thanh gạt ở chế độ im lặng rồi tắt âm các thứ.để khắc phục phải làm ntn ạ? e cảm ơn",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.014591,

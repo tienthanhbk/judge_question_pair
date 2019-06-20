@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 81.3558,
    "origin_question": "TGDD cho mình hỏi khi nào thì sẽ có ốp lưng và kính cường lực cho điện thoại Vsmart Joy 1 và Active 1 ??",
+   "short": "ốp lưng vs kính cường lực cho đt vsmart joy / active",
    "hits": [
-      {
-         "score": 81.3558,
-         "id": "1139473",
-         "field_search": "question",
-         "question": "TGDD cho mình hỏi khi nào thì sẽ có ốp lưng và kính cường lực cho điện thoại Vsmart Joy 1 và Active 1 ??",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 62.472878,
          "id": "1150577",
          "field_search": "question",
          "question": "có ốp lưng và kính cường lực vsmart active 1 plus không?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 55.46779,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "Có ốp lưng với kính cường lực vsmart joy 1 chưa ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 41.138264,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "khi nào có điện thoại vsmart  joy 1    khi nào có điện thoại vsmart  joy 1 khi nào có điện thoại vsmart  joy 1 khi nào có điện thoại vsmart  joy 1",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.636375,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "Cho hỏi mình có kính cường lực và ốp lung cho galaxy m20 ko",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.899605,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Có dán màn hình với ốp lưng của vsmart active 1 ko?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 35.276398,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "ad cho hỏi là bên mình có dáng mặt sau cho joy 1 không và khi nào có ốp lưng thì có thể liên hệ mình mua đc ko",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 34.82489,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Hi em, bên em co ốp lưng vsmart joy 1 ko?XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 32.217186,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "Shop có bán ốp lưng và cường lực của máy Xiaomi không vậy",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.751408,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "Cho em hỏi điện thoại vsmart Joy 1 bên mình có không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.362068,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "1/ Vsmart Joy 1 plus và Joy 1 có hỗ trợ Wifi Direct ko, và giải thích giùm mình Wifi Direct có phải dùng để chiếu màn hình điện thoại lên Tivi ko?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 30.963264,

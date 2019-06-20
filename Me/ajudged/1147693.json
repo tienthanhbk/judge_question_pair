@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 133.15552,
    "origin_question": "Máy samsung galaxy s6 của e sau khi khôi phục cài đặt gốc xong thì đến lúc khôi phục (hiện chữ đang khôi phục...) lúc này thì máy khôi phục rất lâu mà vẫn chưa xong. Nguyên nhân là gì thế ạ",
+   "short": "đt khôi phục lâu ", 
    "hits": [
-      {
-         "score": 133.15552,
-         "id": "1147693",
-         "field_search": "question",
-         "question": "Máy samsung galaxy s6 của e sau khi khôi phục cài đặt gốc xong thì đến lúc khôi phục (hiện chữ đang khôi phục...) lúc này thì máy khôi phục rất lâu mà vẫn chưa xong. Nguyên nhân là gì thế ạ",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 63.7629,
          "id": "1022338",
          "field_search": "question",
          "question": "Em dùng samsung galaxy s5 tại sao ấn khôi phục cài đặt gốc lại hiện lên là cài đặt đã dừng rồi không khôi phục được ạ??",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 63.522636,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "E dùng htc m8 e vào phần khôi phục cài đặt gốc thì báo là rất tiếc cài đặt đã dừng lại..bây giờ e phải làm thế nào để khôi phục được cài đặt gốc",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 60.527386,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi cách khắc phục lỗi máy không thể khôi phục cài đặt gốc. Nó vẫn trở về nguyên nội dung trước khi khôi phục. Nó cũng không cho reset hard hay là root? Máy lenovo a7000",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 59.758556,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "Em dùng samsung s8+ không xoay được màn hình sau khi cập nhật ạ. Em đã thử khôi phục lại cài đặt gốc rồi sau khi khôi phục thì xoay được bình thường một lúc thì lại không xoay được nữa. Em mới mua máy được 1 tháng",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 59.409134,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Cho em hỏi cách giải mã thẻ sd trên điện thoại đã khôi phục cài đặt gốc với ạ. Trước đó e có mã hóa thẻ sd trên điện thoại sau đó e khôi phục cài đặt gốc máy bây h muốn giải mã và khôi phục lại thẻ sd thì phải làm sao ạ. Máy e là samsung galaxy a8 2018. Mong anh chị giúp đỡ ạ.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 58.65515,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "Em khôi phục cài đặt gốc trên điện thoại Samsung j2, đến...",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 58.45553,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Máy em oppo neo 7s rom 16, ram 1 hay bị đầy ram nên em khôi phục cài đặt gốc máy lại, khôi phục xong chưa đăng nhập lại tài khoản và chưa tải ứng dụng gì hết vậy mà bộ nhớ ram lại chiếm 60%",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 57.501076,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "Em muốn khôi phục oppo về cài đặt gốc, nhưng vào cài đặt khôi phục thì nó có vẻ không hoạt động, em nên làm thế nào.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 57.30187,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": " Máy em bị như vậy thì phải làm saoem khôi phục cài đặt gốc rồi mà vẫn ko hết  ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 57.27732,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "Cho e hỏi tại sao sau khi khôi phục lại cài đặt gốc thì máy không hiện ứng dụng đặt chuông báo thức ạ? E dùng ss j5",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 56.788067,

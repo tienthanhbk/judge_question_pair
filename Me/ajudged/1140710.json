@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 44.556828,
    "origin_question": "Tại sao oppo a3s không cài đặt trợ lí google được.",
+   "short": "đt ko cài đc gooogle assistant", 
    "hits": [
-      {
-         "score": 44.556828,
-         "id": "1140710",
-         "field_search": "question",
-         "question": "Tại sao oppo a3s không cài đặt trợ lí google được.",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 18.75807,
          "id": "999746",
          "field_search": "question",
          "question": "Oppo r8007  tải  sao cài google play services không được",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 18.664644,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "Điệb thoại Oppo a3s em mới mua về thì sạc sao cho hợp lí ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 18.264297,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": " Chào ad iPhone 4s của e tại sao không thấy cho mục quản lí thiết bị trong cài đặt chung ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 18.019793,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": " oppo f3 tại sao không cài đặt được font chữ.đã thử rất nhiều lần nhưng không cài được.mong được chỉ giúp  ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 17.956991,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi : Mình dùng Oppo a3s , tại sao mình không tải các ứng dụng trên Google Play về thẻ SD được mà nó lại tải trên lưu trữ thiết bị",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 17.885756,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "tại sao tải game cf về laptop không được, và tại game từ google play và cài đặt cần pass ; email or phone , nhưng tôi không có.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 17.671213,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Cửa hàng cho em hỏi tại sao oppo a3s không tải được facebook ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 17.447304,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "Cho em hỏi oppo a3s có hỗ trợ sạc nhanh được không 3",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 17.282585,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "Cách cài đặt mở màn hình 2 chạm trên điện thoại oppo a3s",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 17.071747,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "Làm sao để bật tính năng OK Google lên được ạ? Em vào mà nó cứ không cho bật. Oppo A3S, mong được các anh giúp đỡ! ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 16.818981,

@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 216.75276,
    "origin_question": "Mình dùng ss j7 2016. Máy mình bỏ trong túi nên bị tắt nguồn lúc mình bật lên là 8:30 nhưng thời gian hiện trên màn hình là 20:30. Mình thấy có cuộc gọi nhỡ trên thanh thông báo nhưng đã gạt bỏ để vào nhật kí xem rõ hơn nhưng k có số nhỡ. Mình chỉnh lại ngày giờ vẫn không tìm được các cuộc gọi bị nhỡ hay đã gọi lúc đồng hồ không chính xác. Mình muốn tìm thông tin các số liên lạc ấy thì phải làm sao ạ??",
+   "short": "tìm lại cuộc gọi nhỡ ",
    "hits": [
-      {
-         "score": 216.75276,
-         "id": "1150793",
-         "field_search": "question",
-         "question": "Mình dùng ss j7 2016. Máy mình bỏ trong túi nên bị tắt nguồn lúc mình bật lên là 8:30 nhưng thời gian hiện trên màn hình là 20:30. Mình thấy có cuộc gọi nhỡ trên thanh thông báo nhưng đã gạt bỏ để vào nhật kí xem rõ hơn nhưng k có số nhỡ. Mình chỉnh lại ngày giờ vẫn không tìm được các cuộc gọi bị nhỡ hay đã gọi lúc đồng hồ không chính xác. Mình muốn tìm thông tin các số liên lạc ấy thì phải làm sao ạ??",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 85.17822,
          "id": "1014733",
          "field_search": "question",
          "question": "Đt của mình là htc 10 evo hiện thông báo cuộc gọi nhỡ nhưng không tắt được. Trên thanh thông báo hiện khung trắng như hình bấm vào thì hiện lịch sử cuộc gọi. Có phải bị lỗi phần mền không. Ad giúp chỉ giúp mình khắc phục. Mình mới mua ở tgdđ được 1 tháng thôi",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 79.901695,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "Làm sao để điện thoại GR5 mini báo chuông ở zalo và messenger khi màn hình đã khóa nhưng vẫn đang bật wifi liên tục? Chỉ nhận được thông báo có cuộc gọi nhỡ. Tuy nhiên đã  bật thông báo trên zalo và messenger.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 78.243996,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Iphone 6s thỉnh thoảng lại bị mất tiếng(tiếng bàn phím, khóa màn hình và cuộc gọi đến, tin nhắn...) mặc dù mình kiểm tra âm lượn đã bật lớn, gạt khóa âm lượng, không bật các chế độ không làm phiền, nguồn điện thấp. Rồi mình gạt qua gạt lại khóa âm lượn thì lại được. Vì cứ thỉnh thoảng nó lại bị nên mình không lường được cuộc gọi tin nhắn nên toàn bị nhỡ???",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 77.32005,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "Mình đang dùng sam sung J7 prime. giờ máy mình tự nhiên nhật ký điện thoại không hiển thị các cuộc gọi nhỡ hay gọi đến và đi trong ngày nữa. Và số mình liên lạc nhiều nhất lưu trong danh bạ không hiển thị, trừ khi gõ hẳn tên trong mục tìm kiếm mới hiển thị. Giờ khắc phục tn m.n hướng dẫn giúp.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 76.75941,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Máy mình dùng android 9, tại sao ko có thông báo cuộc gọi nhỡ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 74.43575,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "Sao mình đã cài đặt giống như hướng dẫn mà ko thấy thông báo cuộc gọi nhỡ vậy bạn. Mình đang xài huawei y9",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 71.98393,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi vì sao mình gọi zalo cho một và người bn thì không được mà họ gọi mình cũng không báo là đang gọi luôn, chỉ thấy toàn là cuộc gọi nhỡ không hà...còn đại đa số những người khác thì mình gọi được...các bạn có cách nào chỉ giúp mình với",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 71.83594,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "cho mình hỏi C9 pro chỉ lưu đc nhật kí cuộc gọi trong ngày thôi hqua mất sạch muốn tìm lại số đã liên lạc ma ko đc có cách nào khắc phục không ạ!!!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 71.62236,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": " cho e hỏi sao fb của e người khác gọi đến thì k báo cuộc gọi mà toàn thành gọi nhỡ nhưng mình gọi đi thì vẫn được ạ ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 71.5118,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "Mình mới mua Iphone 5s ở thegioididong được 1 tuần,  khi có cuộc gọi đến, nếu mình không bắt máy ngay mà để 1 lát chắc khoảng 20 30s thì màn hình sẽ tắt, chuông vẫn kêu máy vẫn rung bt, mình mở máy để kéo trả lời thì màn hình nhận cuộc gọi không xuất hiện, bấm vô các mục trong Cuộc gọi hay kéo thanh thông báo xuất cũng chả thấy gì, mà máy vẫn rung vẫn kêu nên chả biết làm sao để trả lời cuộc gọi, đành chờ người ta ngắt rồi gọi lại",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 71.381226,

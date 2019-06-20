@@ -4,30 +4,23 @@
    "total_current": 100,
    "max_score": 78.58673,
    "origin_question": "máy mình đi sửa và mất win 10 bản quyền thì phải làm thế nào vậy ??vì mình k ở VN nên k mang ra tgdd  được",
+   "short": "máy mất win bản quyền",
    "hits": [
-      {
-         "score": 78.58673,
-         "id": "1148678",
-         "field_search": "question",
-         "question": "máy mình đi sửa và mất win 10 bản quyền thì phải làm thế nào vậy ??vì mình k ở VN nên k mang ra tgdd  được",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 38.66624,
          "id": "888833",
          "field_search": "question",
          "question": " ở tgdd có hỗ trợ cài win 10 bản quyền k ạ. Vì máy e k mua ở tgdd ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.05147,
          "id": "1164493",
          "field_search": "question",
-         "question": "mình mua máy ở tgdd và mình bị mất  Win bản quyền..phải làm sao để cài lại winvà mình muốn cài win 10 pro thì có mất phí không ạ cám ơn!",
+         "question": "mình mua máy ở tgdd và mình bị mất  Win bản quyền..phải làm sao để cài lại win và mình muốn cài win 10 pro thì có mất phí không ạ cám ơn!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.575914,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Mình có cài lại win 10 bản quyền ở TGDD , mà sao win chưa được activate",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.3004,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "xin chào thế giới di động, lúc trước mình có mua laptop ở tgdd, và đc cài win bản quyền (win 8) sau đó thì nó đã update lên win 10, một số app mình cài lúc trước cũng mất luôn, vậy cho mình hỏi như v thì lap mình có cần phải cài phần mềm diệt virut k, hay là trong win đã có rồi,,",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 30.184423,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "anh thế giới di động của mình không còn cài dc win 7 cho máy tính vậy sao hôm bữa máy e bị lỗi e mang đi cài win lai thì bên tgdd ở quận 9 lại cài win 7 cho e .và giờ e muốn về win 8 bản quyền lại được không?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 29.748596,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "chào TGDD! Cho mình hỏi win 10 bản quyền giá nhiêu vậy nhỉ? có hạn sdungj k? khi mua win có cần mua office nữa ko?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 29.699398,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Anh chị cho mình hỏi. Máy tính mình lúc mua là win 8 bản quyền, sau đó mình xóa đi và cài win 7 . giờ mình muốn cài lại win 8 thì có thể lấy lại bản quyền khong ạ. Ở thế giới di động có cài win được không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 29.587221,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": " Hôm trước mình mua laptop ở Thế giới di động, được tặng win 8.1 bản quyền, refresh win 8.1 bản quyền có mất không? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 29.550482,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "Em có mua laptop Dell inspiron 3543 RAM 4G ở shop và đã được cài sẵn win 8.1 bản quyền sau đó thì em có up lên win 10. Cách đây vài ngày em có cài bản win 7 professional mà là bản 32 bit nên em thấy rất phí RAM. Vậy bây giờ cho em hỏi là em mang máy ra shop thì shop có thể cài lại bản win cũ được không ạ ?. Nếu được thì mang ra chi nhánh nào cũng được ạ??",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 28.915745,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "Máy em dùng win 8.1 bản quyền, em có mang máy ra thế giới di động để update lên win 10 khoảng 2 tháng trước nhưng bây giờ máy cứ hiện thông báo là win sắp hết hạn và bảo là phải nhập key, em phải làm sao ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 28.646849,
