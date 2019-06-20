@@ -6,20 +6,12 @@
    "origin_question": "Tôi muốn hạ điều hành androi 9.0 xuống đc k ạ trên sam sung a7 2018",
    "hits": [
       {
-         "score": 73.23471,
-         "id": "1158253",
-         "field_search": "question",
-         "question": "Tôi muốn hạ điều hành androi 9.0 xuống đc k ạ trên sam sung a7 2018",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 48.605354,
          "id": "1161691",
          "field_search": "question",
          "question": "Có thể hạ hệ điều hành androi A7 2018 9.0 xuống phiên bản góc đc ko ad",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 31.811073,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Tôi muốn hạ hệ điều hành android 9 xuống android 8. Tgdđ có hỗ trợ đc k",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 27.724165,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Máy em là 5s bâyh có hạ hệ điều hành xuống 11 đc k ạ ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 27.391209,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Mình hạ phiên bản android xuống 8.0  cho A7 2018 đc ko ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 27.130083,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "Mình muốn hạ cấp androi 9 xuống 8 trên máy samsung A8 có đc ko",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 26.527401,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": " Cho em hỏi nhân viên Kỹ Thuật của TGDD có thể hạ hệ điều hành Android 9.0 xuống Android 8.1 không ạ ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 25.940306,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "Cho em hỏi, điện thoại Sony XA có thể hạ hệ điều hành Androi 7.0 xuống 6.0 được không ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.459917,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Tgdd chỉ giúp tôi cách bỏ chặn cuộc gọi trên sam sung a7 2018, họ gọi đến cho mình mà không gọi được.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.0617,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Sam sung a6+ nang câp len android 9 chơi game k dc. Toi la 1 game thủ mà bị vậy sao sài đc. Kêu hạ androi ve 8.1 thi k ai chịu",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 23.428148,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "Cấu hình iphone 5s của tôi hiện giờ là 10.2. Thế có hạ xuống 9.0 được không. Nếu được thì gtdd có hạ xuống cho tôi được không",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.16675,

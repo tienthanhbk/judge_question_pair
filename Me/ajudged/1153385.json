@@ -6,20 +6,12 @@
    "origin_question": "Cho em hỏi cách cài bảo mật khuôn mặt trên  xiaomi redmi 6 ạ . Với lại em xài 2 máy xiaomi redmi 6 y chang nhau ,mà 1 máy có bảo mật khuôn mặt.  1 máy không có ạ",
    "hits": [
       {
-         "score": 128.7947,
-         "id": "1153385",
-         "field_search": "question",
-         "question": "Cho em hỏi cách cài bảo mật khuôn mặt trên  xiaomi redmi 6 ạ . Với lại em xài 2 máy xiaomi redmi 6 y chang nhau ,mà 1 máy có bảo mật khuôn mặt.  1 máy không có ạ",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 51.35911,
          "id": "1169198",
          "field_search": "question",
          "question": "Sao em vào phần màn hình khóa để xóa nhận diện khuôn mặt mà nhập mật khẩu y hệt rồi bấm Tiếp Tục k đc ạ? Redmi note 7",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 50.642197,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Tại sao em mua redmi note 6 pro lại k có nhận diện khuôn mặt ạ. Lúc mua còn mị mất siu ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 48.909763,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Anh Ơi em phân vân quá! Em muốn mua 1 chiếc máy mà khó quá! Anh giúp em với!        1, Xiaomi Redmi Note 4x           2, Xiaomi Redmi 5      3,Xiaomi Redmi note 4     4,Xiaomi Mi 5           5,Xiaomi Redmi 5A              6,Xiaomi Redmi 3 Pro          Nhu cầu của em là Pin trâu Và chơi Pubg Mobile ạ!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 48.79671,
@@ -43,15 +35,7 @@
          "field_search": "question",
          "question": "Sao Xiaomi note 6 e lại mất phần nhận diện khuôn mặt là sao vậy",
          "answer": "_",
-         "relate_q_q": 0
-      },
-      {
-         "score": 48.500217,
-         "id": "1160381",
-         "field_search": "question",
-         "question": "Anh Ơi em phân vân quá! Em muốn mua 1 chiếc máy mà khó quá! Anh giúp em với!                1, Xiaomi Redmi Note 4x                     2, Xiaomi Redmi 5                     3,Xiaomi Redmi note 4                      4,Xiaomi Mi 5                              5,Xiaomi Redmi 5A                               6,Xiaomi Redmi Note 3 Pro                                     Nhu cầu của em là Pin trâu Và chơi Pubg Mobile ạ!",
-         "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 46.09856,
@@ -59,15 +43,7 @@
          "field_search": "question",
          "question": "cho e hỏi là sao máy xiaomi redmi 6 pro có 2 loa dưới mà chỉ nghe đc 1 loa chị ạ",
          "answer": "_",
-         "relate_q_q": 0
-      },
-      {
-         "score": 44.08627,
-         "id": "1160325",
-         "field_search": "question",
-         "question": "Anh Ơi em phân vân quá! Em muốn mua 1 chiếc máy mà khó quá! Anh giúp em với!1, Xiaomi Redmi Note 4x2, Xiaomi Redmi 53,Xiaomi Redmi note 44,Xiaomi Mi 55,Xiaomi Redmi 5A6,Xiaomi Redmi 3 ProNhu cầu của em là Pin trâu Và chơi Pubg Mobile ạ!",
-         "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 41.756496,
@@ -75,7 +51,7 @@
          "field_search": "question",
          "question": "Cho em hỏi cách tắt tăng tốc trò chơi của máy xiaomi redmi 6",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 41.32327,
@@ -83,7 +59,7 @@
          "field_search": "question",
          "question": "cho em hỏi là dòng máy xiaomi redmi note 6 pro vs loại máy xiaomi redmi note 5 thì nên chọn máy nào để chơi game với tầm giá hơn 5 triệu ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 40.957184,
@@ -91,7 +67,7 @@
          "field_search": "question",
          "question": "Sao máy em mới mua lúc ra tết mà sau 1 tháng sạc pin đầy chỉ khoảng 93-95% là sao ạ . Máy em là máy xiaomi redmi note 6 pro ạ.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 40.920166,
@@ -99,7 +75,7 @@
          "field_search": "question",
          "question": "Máy galaxy s8 của e sao k có phần bảo mật vân tay,mống mắt,khuôn mặt vậy.e tìm hết tất cả trong phần cài đặt rồi nhưng vẫn k có những tính năng đó",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 40.80636,
@@ -107,7 +83,7 @@
          "field_search": "question",
          "question": "Em muốn root máy Xiaomi redmi 6 ạ h em phải làm nên??",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 40.307922,

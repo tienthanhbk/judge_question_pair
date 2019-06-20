@@ -6,20 +6,12 @@
    "origin_question": "chiều nay 22/03/2019 tôi có cập nhật phần mềm cho j7+ ..nhưng máy bị lỗi \"tự động bật tắt nguồn, và máy sử dụng nóng lên\" xin cho biết cách khắc phục",
    "hits": [
       {
-         "score": 169.8767,
-         "id": "1156344",
-         "field_search": "question",
-         "question": "chiều nay 22/03/2019 tôi có cập nhật phần mềm cho j7+ ..nhưng máy bị lỗi \"tự động bật tắt nguồn, và máy sử dụng nóng lên\" xin cho biết cách khắc phục",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 64.012924,
          "id": "1142241",
          "field_search": "question",
          "question": "Cho mình hỏi : điện thoại asus go tv mình đang dùng , cứ hay bị nóng máy , lúc bật dữ liệu mạng dùng cở 2p thì máy nóng  và tự tắt nguồn . Cho mình biết máy bị làm sao ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 60.20254,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "em đang dùng dòng samsung j7plus, hôm nay em có cập nhật phần mềm thì lúc cập nhật xong điện thoại tự tắt nguồn và em không mở nguồn lên được nữa. Vậy là điện thoại em gặp vấn đề gì vậy ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 58.43831,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Máy mình nâng cấp lên win 10, bây giờ restar lại không được. toàn phải tắt đi rồi mở lại, có cách nào khắc phục được không QTV? mình nghĩ chắc win 10 xung đột phần mềm nào đó mà mình cài, vì lúc mới cài thì vẫn restar được, máy tự động cập nhật phầm mềm rồi bị luôn, lap mình là acer win 8.1 cài sẵn lên 10?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 56.736855,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi là Laptop Asus mình mới dùng được 1 năm, nhưng máy hay bị treo và máy rất nóng nóng dù quạt tản nhiệt vẫn hoạt động và không dùng lâu thì có cách khắc phục nào không ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 55.498,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "Cho tôi hỏi hiện tôi dùng asus zefone2 tại sao không biết mấy ngày hôm nay máy tôi cứ không dùng một lúc là tự nhiên mất mạng và khởi động lại thì mới có cho tôi hỏi cách khắc phục?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 54.85573,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "E đang dùng laptop hp win 10 nhưng k hiểu sao sáng nay bật máy lên tự dưng màn hình xanh có chữ shutting down đang load.Vậy cho e hỏi là máy e đang bị sao và cách khắc phục tnào ạ!!!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 54.48221,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "AD ơi, em lỡ tay nhấn gỡ cài đặt cập nhật dịch vụ của google và tắt CH play, bây giờ không có phiên bản cập nhật nữa rồi, em đang sử dụng điện thoại ASUS ZENPHONE 5 ạ. Mong mọi người chỉ cho em cách khắc phục",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 52.90245,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Ad ơi cho em hỏi em vừa mua máy iphone 5 được khoảng 2 tuần nhưng đến hôm nay sạc pin không vào mà tự tắt nguồn rồi khi cắm sạc thì để pin đang vào nhưng cả ngày không lên nguồn ? ad giúp em khắc phục tình trạng này với =.=- và có khi em vừa sạc vừa sử dụng thì pin lại hết và tắt nguồn sảy ra tình trạng như trên !!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 51.599834,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "tại sao khi máy của mình mỗi lần vào facebook đều bị lỗi k có phản hồi như này và cho minh cách khắc phục",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 51.41114,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "QTV cho mình hỏi chút.Mình sử dụng A5 được hơn 4 tháng.Hôm trước máy tự dưng có hiện tượng cảm ứng kém nhạy,khởi động lại vẫn không khắc phục được.Nhưng khi cắm sạc vào máy lại trở lại bình thường và giờ không bị sao cả.QTV cho mình hỏi máy mình bị hiện tượng gì thế ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 51.168026,

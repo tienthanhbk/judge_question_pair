@@ -6,20 +6,12 @@
    "origin_question": "cho em hỏi giá bán của sim bum tại các cửa hàng tgdd ạ",
    "hits": [
       {
-         "score": 48.17546,
-         "id": "1153059",
-         "field_search": "question",
-         "question": "cho em hỏi giá bán của sim bum tại các cửa hàng tgdd ạ",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 24.95372,
          "id": "1006803",
          "field_search": "question",
          "question": "TGDD cho hỏi đt galaxy j5 prime giờ đang bán tại các cửa hàng của tgdd là bao nhiêu tiền?có đc giảm giá như ở viettell store là 3.790.000 ko?muốn mua hàng ở tgdd nhưng giá mác quácảm ơn tgdd",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.970825,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "cho em hỏi bên cửa hàng của mình còn bán thánh sim không ạ!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.053091,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": " Giá sim vina hiện tại tại các cửa hàng thế giới di động là bao nhiêu vậy ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.95801,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": " Giá sim vina bùm tại các cửa hàng thế giới di động là bao nhiêu ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 22.852207,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "Bên TGDĐ có bán điện thoại kèm với sim bum giá 350000 không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 21.780432,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "Cho e hỏi. Khay sim samsung s7 của e bị gãy và còn kẹt trong máy. Bên cửa hàng có hỗ trợ e lấy ra không ạ. Với bên cửa hàng có bán khay sim s7 không ạ. Giá cả như thế nào. Tư vấn giúp em ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 21.383654,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": " Ad cho em hỏi là các cửa hàng TGDD thuộc Tỉnh Tuyên Quang có còn bán sản phẩm Laptop Dell Latitude E6510 không ạ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 20.644714,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Cho em hỏi nếu em muốn đổi điện thoại thì em phải ra cửa hàng lúc em mua, hay em được đổi bất kỳ tại các cửa hàng của TGDĐ ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 20.128849,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "xin chào.cho hỏi bên tại các cửa hang có bán và đang kí sim số tra sau luôn không?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 19.969587,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "cho mình hỏi khi nào thì các cửa hàng của thegioididong mới bán asus max pro m2 vậy ạ ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 19.968811,

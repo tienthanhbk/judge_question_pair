@@ -6,20 +6,12 @@
    "origin_question": "Cho mình hỏi nếu mua laptop trả góp thì có phải trả trước bao nhiêu phần trăm không hay là trả ngóp ngay từ đầu cũng được?",
    "hits": [
       {
-         "score": 80.09532,
-         "id": "1155011",
-         "field_search": "question",
-         "question": "Cho mình hỏi nếu mua laptop trả góp thì có phải trả trước bao nhiêu phần trăm không hay là trả ngóp ngay từ đầu cũng được?",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 49.425922,
          "id": "772481",
          "field_search": "question",
          "question": " Cho em hỏi là nếu mua trả góp iphone 5s thì sẽ phải trả trước bao nhiêu phần trăm ạ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 38.651695,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Cho hỏi cửa hàng mình có bán Laptop Asus ROG GL552JX hay không ?Nếu có thì giá bao nhiêu và có thể mua trả góp được hay không và trả bao nhiêu % ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 38.511837,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi nếu mà mua iphone trả góp , trả trước bao nhiêu ạ , và trả góp bao nhiêu tháng ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.795868,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Cho em hỏi ip 5s 16GB là 8tr460 vậy nếu trả góp theo ACS thì góp từ mấy tháng và em phải đưa trước bao nhiêu và mỗi tháng em phải trả bao nhiêu vậy ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.773617,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "ad cho em hỏi là nếu giờ em muốn mua j7 pro theo phương thức trả góp thì phải trả trước bao nhiêu và mỗi tháng trả bao nhiêu ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.639362,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "Em cần mua iPhone 5S theo hình thức trả góp không lãi xuất thì đối với 15 tháng thì có cần trả tiền trước không và mức trả trước là bao nhiêu phần trăm anh chị tư vấn gíup em.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.632942,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "Cho em hỏi nếu mua Iphone 5S 16GB trả góp có lãi suất thì phải trả trước bao nhiêu và hàng tháng tổng chi phí hết bao nhiêu ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.618637,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Cho em hỏi.. E muốn mua mobistar trả góp  thì phải trả trước bao nhiêu  ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.468456,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": " Cho em hỏi là mình muốn mua trả góp iPhone 6S máy đổi trả thì mình trả trước bao nhiêu? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.394382,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": " mình muốn mua trả góp điện thoại iphone6 16gb thì trả trước là bao nhiêu và góp bao nhiêu ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.025715,

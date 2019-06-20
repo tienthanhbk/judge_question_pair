@@ -6,20 +6,12 @@
    "origin_question": "Cho e hoi tại sao điện thoại xiaomi redmi not 5 của e dạo nay cứ tắt màn hình liên tục vậy",
    "hits": [
       {
-         "score": 73.31733,
-         "id": "1164957",
-         "field_search": "question",
-         "question": "Cho e hoi tại sao điện thoại xiaomi redmi not 5 của e dạo nay cứ tắt màn hình liên tục vậy",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 28.621775,
          "id": "1022586",
          "field_search": "question",
          "question": "Chào ad cho e hỏi là con iphone 5 của e tự dưng bị khởi động lại mà không vào màn hình chính đc. cứ khởi động tới táo rồi tắt rồi khởi động lại liên tục như vậy ạ. pin của điện thoại e cũng đang bị chai nữa",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 27.129894,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": " Tại sao điện thoại mobiistar lai z1 tự động tắt nguồn rồi tự khỏi động lại, cứ liên tục như vậy. ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.290943,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": " E đang xài iphon 5s mà cứ bị tắt nguồn liên tục,5 phút tắt 1 lần ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.487621,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Tôi sd điện thoại HTC 10 PRO,kg biết sao dạo này dt của tôi treo liên tục,phải tắt màn hình rồi mở lại mới được,cho dù đã khôi phục cài đặt gốc nhưng vẫn bị.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.64796,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "anh ơi , e dung điện thoại xiaomi redmi not 3, sau khi khởi động lại thì phần wifi của e bị đứng. bấm vào không phản ứng gì",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.615509,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "XIAOMI REDMI NOTE 4 e mua 3-5-2018 đến h 12-12-2018 thì điện thoại e bị đen màn hình và mở nguồn k lên vậy giờ e gửi tgdđ sửa nguồn có được giảm % không ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.535158,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "Điện thoại mình dạo này hay bị tình trạng như hình. Có ngày bị 5 6 đợt, có đợt liên tục 3 4 lần luôn. Điện thoại mình là sony xa ạ.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.558262,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": " Cho e hỏi làm sao tắt lớp phủ màn hình trên điện thoại masstel. N535 đc vậy  ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.481203,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Bên mình có hỗ trợ up rom tiếng việt cho xiaomi redmi not 5 pro k ạ.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.449526,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "Sao con xiaomi redmi a2 lite của e phát wifi ko điện thoại nào bắt được",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.434557,

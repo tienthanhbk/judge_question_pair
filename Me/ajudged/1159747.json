@@ -6,20 +6,12 @@
    "origin_question": "ad cho mình hỏi, mình muốn vào trang wed mà nó lại hiện lên dòng chữ \" Không thể tìm thấy địa chỉ IP của máy chủ  tructiepgame.com .\" mà máy vẫy có mạng bình thường thì mình phải sữa như thế nào đây mình cảm ơn",
    "hits": [
       {
-         "score": 113.06755,
-         "id": "1159747",
-         "field_search": "question",
-         "question": "ad cho mình hỏi, mình muốn vào trang wed mà nó lại hiện lên dòng chữ \" Không thể tìm thấy địa chỉ IP của máy chủ  tructiepgame.com .\" mà máy vẫy có mạng bình thường thì mình phải sữa như thế nào đây mình cảm ơn",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 40.642796,
          "id": "828994",
          "field_search": "question",
          "question": "mình vừa tải phần mềm làm video từ ảnh về máy tính acer mà khi mình làm xong video thì nó có dòng chữ màu vàng. lên mạng tìm cách xử lí thì họ yêu cầu phải crack mà mình ko pk crack như thế nào QTV có thể giúp mình ko ( máy mình win 10)",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 40.231712,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi là iphone của mình đã cài id apple nhưng trong itunes & appstore lại là địa chỉ khác và nó không hiện chữ màu xanh như bình thường để thay đổi thì phải làm thế nào để thay đổi",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 39.677002,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Nhờ bạn giải quyết hộ mình trường hợp này: mình bị mất Iphone 4s, và đã dùng Find My Phone đăng nhập icloud để tìm, mình đã chọn \" Chế độ mất\" và tìm lại đc Ip, nhưng bây giờ ip của mình chỉ hiện thị lên dòng chữ lúc mình nhắn và số đt có thể gọi lại, làm thế nào để dùng ip lại bình thường",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.723488,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi máy tính hp của mình hiện tại chuột nhấn vào chổ mà để shutdown được! Thêm nữa khi thu nhỏ trang wed thì không thấy xuất hiện ở thanh dưới !",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.24497,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "Mình mới cài win 10 tại tgdd,về game online thì chơi được nhưng lên wed bằng trình duyệt coc coc hoặc chữ em có sẵn trong máy thì không được,vào trang wed thì cứ đẩy về trang chủ hoài ak,khi đẩy về xong là một trình duyệt màu trắng, vào trang nào cũng vậy, vậy nguyên nhân vì sao ? Xin qtv hỗ trợ với! Hình dưới là trang chủ cốc cốc không giống như lúc trước, nhập địa chỉ nào nó cũng về màn hình y như vậy đó ???",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.024757,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "Mình có con xaomi noet 4 mà cứ mở mạng lên máy báo dòng chữ nhỏ ở dưới ( tìm kiếm thiết bị lưu trữ hư hỏng. Thiệt bị của bạn hiện ko an toàn) mình kiểm tra rồi ko thấy gì cả.. Mong ad giải đáp giúp mình . mình cảm on",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.980263,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "Xin Chào em đang dùng máy Windows 7 Acer và em muốn hỏi không biết có phần mềm nào hiện địa chỉ MAC của máy chủ hay thiết bị đang kết nối với một mạng wifi mà mình không cần kết nối với mạng wifi đó hay không?Mong ad trả lời sớm cho em vì em đang bí không biết là phải làm sao vì nhà hàng xóm có wifi mà nó lại chặn của em. Em định thay địa chỉ MAC của em cho giống nó thì mới kết nối được.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.694115,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Điện thoại của mình là Nokia 3 mới mua được 3 tháng. Mấy ngày gần đây thì khi mình mở kết nối Wifi thì máy chỉ hiện dòng chữ đang tìm mạng Wifi suốt nhưng máy mình không tìm ra được một mạng nào trong khi máy mọi người đều hiện rất nhiều  mạng và bắt được Wifi. Xong có lúc máy đt của mình đã dò được  wifi r thì khi gõ mật khẩu vào thì vẫn không kết nối được wifi, chỉ hiện mỗi dòng \"đã lưu\" ở dưới tên mạng wifi. chắc chắn lỗi không phải do ổ phát wifi vì máy của ng khác vẫn kết nối bình thường. Mình đã ra TGDĐ và đc cập nhật lên Android 8, ngay lúc đó thì bắt đc wifi nhưng sau đó khi về nhà thì lại không tìm được mạng wifi nào nữa dù xung quanh nhà mình có rất nhiều mạng wifi. Mong admin giải đáp giúp.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.494503,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Mình mới lấy 1 em Lenove Ideapad 100s ở TGDD. Mình dùng và thấy nó load gần như không được trang facebook, các trang khác bình thường. Kết nối mạng ổn. mình vào fb bằng ipad vẫn bình thường.Cho mình hỏi lí do? có phải do máy không",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.882515,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi cách tìm imei của iPad Air 2 Wifi 16gb. Mình tìm như hướng dẫn trên mạng mà không thấy? Mong các bạn giúp mình. Mình xin cảm ơn!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.72081,

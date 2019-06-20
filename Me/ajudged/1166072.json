@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 51.598225,
    "origin_question": "cho mình hỏi màn hình samsung A720 cháy thì sửa là bao nhiêu tiền",
+   "short": "sửa đt samsung a720",
    "hits": [
-      {
-         "score": 51.598225,
-         "id": "1166072",
-         "field_search": "question",
-         "question": "cho mình hỏi màn hình samsung A720 cháy thì sửa là bao nhiêu tiền",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 26.562271,
          "id": "1011328",
          "field_search": "question",
          "question": "Mình muốn sửa màn hình cảm ứng samsung galaxy j3 thì hết bao nhiêu tiền thế",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.192238,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "Em muốn sửa điện thoại, cụ thể là em muốn thay màn hình samsung J7 pro thì hết khoảng bao nhiêu tiền ạ ? Và sửa thì phải mất bao lâu ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.903534,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Amin cho mình hỏi máy samsung A5 2016 muốn thay màn hình thì bao nhiêu tiền vậy ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.65826,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": " Cho mình hỏi là iphone 4s bị hư sóng thì sửa hết bao nhiêu tiền? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.376438,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "Máy của em là xiaomi redmi note 5a h bị vỡ màn hình thì sửa hết bao nhiêu tiền ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.30172,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "Điện thoại samsung j7 pro bị nhiễu màn hình tím thì làm sao ạ? Nếu đem ra thegioididong sửa thì bao nhiêu tiền vậy ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 21.55519,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "cho mình hỏi thay màn hình samsung j7 prime thì mất khoảng nhiêu tiền vậy ạ.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 21.430902,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "em muốn thay màn hình samsung galaxy j4 thì bao nhiêu tiền v ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 21.290743,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "Cho e hỏi màn hình j7 pro bể thì thay màn hình mất bao nhiêu tiền ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 21.268808,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": " Cho mình hỏi Ip5s thay màn hình với mặt kính trước luôn là bao nhiêu tiền vậy? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 20.929005,

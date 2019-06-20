@@ -6,20 +6,12 @@
    "origin_question": "Cho em hỏi tại sao điện thoại j1 2016 không vuốt được phần trên vậy. Phần ở dưới thì bth, cảmare bị vào nước",
    "hits": [
       {
-         "score": 79.947876,
-         "id": "1164672",
-         "field_search": "question",
-         "question": "Cho em hỏi tại sao điện thoại j1 2016 không vuốt được phần trên vậy. Phần ở dưới thì bth, cảmare bị vào nước",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 26.377892,
          "id": "1137479",
          "field_search": "question",
          "question": "Cho em hỏi. Hiện tại e đang xài điện thoại xiaomi a2 lite. Ở phần dưới của điện thoại có 2 dãy loa. Khi xài thì chỉ có dãy loa hoạt động. Không biết dãy còn lại bị sao hay là do vậy ạ.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.183376,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Điện thoại của em bị nứt ở phần dưới, điện thoại vẫn dùng được nhưng lại có các đường sọc sọc em nên làm sao đây ạ dòng samsung galaxy note 8",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.032507,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Cho em hỏi là điện thoại của em ( samsung j3 pro) bị vào nước trong màn hình và camera nhưng vẫn sài bth thì sữa lại tầm bao nhiêu ạ hoặc em có thể đổi điện thoại không ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.913313,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Cho em hởi điện thoại sam sung s8+ , vào phần mềm facebook có sẵn trên điện thoại mà không loát được các bài đăng cũ trên trang chủ . Mà Vào facebook bằng trình duyệt google trên điện thoại thì loát được vậy  ak ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.851845,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "Cho em hỏi điện thoại sam sung s8+. Vào phần mềm có sẵn facebook trên máy không loát được các bài đăng cũ trên trang chủ, hội nhóm vậy ak. Mà vào google trên điện thoại thì loding đc ak.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.317848,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": " Mình đang sài iphone 5s cho hỏi tại sao vào phần cài thì click vào Icloud k được vậy...phần icloud để hình màu xám  ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.87849,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "Cho em hỏi ở thế giới di động mình có phần lưng máy điện thoại Lenovo A7010 không vậy? Máy em bị hở phần lưng(mặt sau) của máy",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.773624,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Nắp sau iphone 5s của e ở phần trên gần camera ý. E thấy ko được phẳng như phần bên dưới là bị sao ạ. Phần trắng và vàng giáp nhau ý ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.65223,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Ad ơi cho em hỏi tại sao điện thoại của e lại không có Siri trong phần cài đặt vậy ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.38086,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "Em dùng 5s lên iOS 9.1 thì bị treo phần điện thoại. Muốn gọi điện thì phải vào phần danh bạ. Bây giờ phải làm thế nào vậy Ad ơi ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.360283,

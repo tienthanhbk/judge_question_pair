@@ -6,20 +6,12 @@
    "origin_question": "Laptop Dell không nhận headphone. Dù đã thử rất nhiều headphone khác nhau, sau đó đã thử scan for hardware changes, và rất nhiều cách khác nhưng vẫn không nhận headphone.",
    "hits": [
       {
-         "score": 156.10527,
-         "id": "1166454",
-         "field_search": "question",
-         "question": "Laptop Dell không nhận headphone. Dù đã thử rất nhiều headphone khác nhau, sau đó đã thử scan for hardware changes, và rất nhiều cách khác nhưng vẫn không nhận headphone.",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 43.042896,
          "id": "1138656",
          "field_search": "question",
          "question": " Điện thoại em sạc không vô ? Em đã thử nhiều cáp sạc củ sạc khác nhau vẫn vậy ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 42.097927,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "iPhone 6s của e hôm nay bị rè một bên headphone (L), nhưng tháo headphone ra để kiểm tra loa thì ko thấy rè(max volume). vậy đó là do lỗi của loa hay lỗi của headphone ạ. Cảm ơn các qtv nhiều",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 40.214134,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": " Cho em hỏi là sao em cắm loa ngoài và headphone vào máy tính lại không nghe được mặc dù loa và headphone ko bị hỏng ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 37.97714,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Chào admin thegioididong; Mình xài laptop dell vostrol 5470, vừa cái lại win7 64 bit. Minh đã cài driver wifi (cài nhiều lần từ các nguồn khác nhau), laptop đã bắt sóng wifi và sử dụng bình thường. Tuy nhiên biểu tượng cột sóng wifi trên thanh taskbar lại có dấu sao màu vàng (như là chưa kết nối wifi), phải ấn vào nó mới thấy kết nối wifi (connected và hiện thị số vạch sáng)Mình thử nhiều cách nhưng vẫn không sử được, nhờ admin giúp mình nhé. Cám ơn rất nhiều.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.92696,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "đã thử rất nhiều cách nhưng không kết nối được bluetooth trên ip7 plus ios 12. cần được hỗ trợ ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.879974,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "anh chị kĩ thuật viên cho e hỏi, laptop e cắm headphone vào mà chỉ nghe 1 bên, nhưng cắm headphone vào điện thoại, vẫn nghe bình thường, sửa có lâu ko ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.137665,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "Em đang cần mua headphone kèm mic thu âm. Bên ad có headphone nào như thế mà dưới 150k không ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.08745,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "cho mình hỏi loa ngoài laptop mình nghe được nhưng cắm headphone thì không nghe được, có thể trong lúc xài mình bấm linh tinh gì đó, không biết thế giới di động có nhận sửa không ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 35.04325,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Mình có mua headphone bên TGDD , hiện tại mình gặp tình trạng chỉ có một bên headphone còn sử dụng được , lúc mua mình được tư vấn là bảo hành 1 năm . Không biết với tình trạng như trên mình có thể đổi hoặc sử chữa gì không ? Cám ơn đã xem và tư vấn",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.540947,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "ad ơi cho em hỏi chút. em đang dùng iPhone 6 lock nhật , 8,3 đã jb . gần đây wifi của máy không biết bị làm sao,lúc bắt được lúc không, hầu như là không bắt được. em đã thử rất nhiều wifi khác nhau . em mong ad giúp đỡ ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.4946,

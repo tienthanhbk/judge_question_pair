@@ -6,20 +6,12 @@
    "origin_question": "ad cửa hàng có bán thẻ zing để nạp game pubg không ad",
    "hits": [
       {
-         "score": 84.31706,
-         "id": "1157519",
-         "field_search": "question",
-         "question": "ad cửa hàng có bán thẻ zing để nạp game pubg không ad",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 30.057032,
          "id": "1140789",
          "field_search": "question",
          "question": "Cho tôi hỏi cửa hàng có bán ốp lưng Samsung J4 Core không?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 29.433771,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Cho hỏi  cửa hàng mình có bán micro karaoke bluetooth k ah",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 29.024534,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "ở cửa hàng mình có bán iphone 7 plus 64G chính hãng không? và nếu có thì giá bao nhiêu ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 27.283173,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Ad cho em hỏi cửa hàng mình có vỏ oppo neo 5 k",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.717617,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "hqua e có đến cửa hàng lấy cái oppo đỏ , sao không có bộ khuyến mãi kèm theo vậy ad ,",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.523577,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "Dán keo lại laptop có cần đến cửa hàng đã mua hay đến bất cứ cửa hàng nào của tgdd cũng được vậy ad",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.961218,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "cho e hỏi hiện tại các cửa hàng bán lẻ của bên mình có còn bán cục pin rời của Lumia 540 không ạ? em cảm ơn ạ!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.942705,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Ad cho e hỏi muốn mua  laptop asus X441UA i5  7200U/4GB/500GB win 10/(GAO56T) thì có thể đến bất cứ cửa hàng tgdd nào trên toàn quốc để mua phải k v",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.601162,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "chào ad .cho em hỏi cửa hàng mình có ổ cứng SSD k ạ .và giúp em tư vẫn chút ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.354004,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "Cửa hàng có nhập xiaomi redmi note 7 về không",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.15482,

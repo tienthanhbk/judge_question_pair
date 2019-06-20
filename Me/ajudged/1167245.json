@@ -6,20 +6,12 @@
    "origin_question": "sạc dành cho con samsung C9 còn hàng ko nhỉ , giá như thế nào",
    "hits": [
       {
-         "score": 56.220474,
-         "id": "1167245",
-         "field_search": "question",
-         "question": "sạc dành cho con samsung C9 còn hàng ko nhỉ , giá như thế nào",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 22.54786,
          "id": "1146240",
          "field_search": "question",
          "question": "Cho anh hỏi vivo v11 còn hàng không nhỉ với giá cả thế nào",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 20.358416,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "samsung c9 pro còn màu đen ko vậy, đặt hàng thì mấy ngày là có",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 20.091734,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Cho e hỏi giá của cục sạc dành cho samsung galaxy j3 bao nhiu ak ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 20.004421,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "tgdd có dán chống xước laptop ko nhỉ? Và giá như thế nào?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 19.320934,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "bạn ơi cho mình hỏi bên mình còn oppo F5 không nhỉ? Giá cả thế nào nhỉ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 18.888762,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi hôm nay Samsung C9 giả giá phải ko??????????????????????????????????????????????????????????????????????????????????",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 18.501535,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "Cho e hỏi sạc điện thoại Sony Xperia X còn không ạ? Mua lẻ giá như thế nào?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 18.22684,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Samsung c9 pro vs a9pro mấy nao tốt hon nhỉ .???Ggggggggg",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 17.830761,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Galaxy S7 Egde ở TGDD còn hàng mới và hàng đổi trả không vậy và giá như thế nào",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 16.794102,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": " Em cần mua dây sạc dành cho Apple Watch giá bao nhiêu? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 16.157269,

@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 121.33777,
    "origin_question": "Cac ban cho minh hoi la lam the nao de dung  Fake GPS Location  Ho la cho may ximao note 6pro?",
+   "short": "đt fake gps ",
    "hits": [
-      {
-         "score": 121.33777,
-         "id": "1152653",
-         "field_search": "question",
-         "question": "Cac ban cho minh hoi la lam the nao de dung  Fake GPS Location  Ho la cho may ximao note 6pro?",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 43.801014,
          "id": "1024045",
          "field_search": "question",
          "question": "lam on cho hoi. lam cach nao de cai tool vao may samsung j2 vay? vi vao thanh nay co hi la file cua ban bi dung",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 42.059834,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "Quan tri viên oi mị dang dung dien thoai iPhone 4s phiên ban 16gb mị muốn hoi la ban co the giúp minh lam the nao de co dk ma pin cua iPhone 4s ko vay",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.7511,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "P oi cho minh hoi tai sao minh goi video car wa face book ma' khong duoc la sao' cac ban co cach nao co' the? khac phuc duoc khong Thak!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.295986,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "Minh co dac mua tra gop y7 2019 may da qua su dung gia la 3 trieu may.luc nay ben homredit co dt cho minh nhu minh dang ban viec nen hok nghe dt dc.nhug den g ben do van chua lien lac de tiep tuc lam ho so la sao zay.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.19055,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "xin chao admin cho minh hoi la hien tai minh dang dung 2 chiec iphon va dung 2 ID khac nhau tam goi la may A va may BMinh out ID cua may A ra va dang nhap ID cua may B vao may A .Sau  do minh OUT ID cua may B dang tren may A ra  va dang nhap ID cua may A  vao nhu ban dau .Thi tu nhien 2 may bay gio bi xung dot so dien thoai vao nhau (ca 2 may may nao cung co nhu la dung chung 1 ID vay ) bay gio phai lam cach nao de cho 2 may khong lien ket danh ba voi nhau .Co ai biet ko giup minh voi Thank nhieu admin va cac ban nhe .",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.668266,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": "bn oi  cho minh hoi la may cua minh no bao ve la dich vu google play lien tuc dung la bai sao vay ban j3 pro",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.239704,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Ad cho minh hoi lam the nao de tat che do an toan vay",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.94808,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "anh da mua cai sim ben em va da dang ky voi cmnd roisdt la 01223030655 hien anh dang bi van de la van con nguoi dang su dung cai sdt nay va ho dang dung de dang nhap vao cac chuong trinh tren mang va cac van de khac . hien anh nen lam gi day khi ma nhieu sdt la goi nham so anh va con nhieu van de nua ... ben e sao ban a cai sim gi ki vay .",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.519608,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "Qtv cho em hoi em dang dung may galaxy j2 prime .em tai cac ung dung ve sao ko tai duoc truc tiep ve the nho ma phai qua bo nho may .em muon cai dat lai duong chuyen tu bo nho may sang the nho thj em la nhu the nao",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.356762,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": "Cho hoi may vivo1724 lam gi de chuyen duoc dung luong ung dung sang the sd",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.227287,
@@ -628,8 +621,6 @@
          "question": "chao ban minh muon hoi ban lam canh nao đê đanh nhâp 1 nich zlo chên 2 đien thoai",
          "answer": "_",
          "relate_q_q": 0
-      },
-      {
-         "score": 25.813469,
-         "id": "800194",
-         "field_search"
+      }
+   ]
+}

@@ -6,20 +6,12 @@
    "origin_question": "Chào bạnbạn cho mk hỏi giữa samsung A6 và huawei y9 mình nên chọn sản phẩm nào a, mk muố sản phẩm bền 1 chút",
    "hits": [
       {
-         "score": 119.01874,
-         "id": "1158474",
-         "field_search": "question",
-         "question": "Chào bạnbạn cho mk hỏi giữa samsung A6 và huawei y9 mình nên chọn sản phẩm nào a, mk muố sản phẩm bền 1 chút",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 44.696934,
          "id": "1131747",
          "field_search": "question",
          "question": "Dạ e muốn hỏi giữa samsung galaxy a6 và huawei nova y9 thì e nên chọn con nào? ( e muốn chơi game và chụp hình tốt 1 chút)",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 43.22401,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Tgdd cho hỏi là giữa hai sản phẩm huawei y9 2019 với samsung galaxy m20 thì nên mua máy nào để có trải nghiệm chơi game tốt nhất ạ.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 42.772892,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": " cho em hỏi giữa chiếc iphone 6splus mới và chiếc iphone 7plus cũ thì nên chọn sản phẩm nào ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 41.468685,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Samsung a7 và relame 2pro nên chọn sản phẩm nào v ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 38.2434,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "Cho hỏi giữa samsung Galaxy A10 và oppo A5 sản phẩm nào tốt hơn ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.57314,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "Mình cần 1 máy chuyên chơi game nhưng giá thành rẻ thì nên chọn tablet hay smartphone và nên mua sản phẩm nào mình cần tư vấn",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.267143,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "Cho e hỏi tầm giá dưới 4 triệu hiện nay, e cần 1 sản phẩm cấu hình vừa phải, pin tốt thì sản phẩm nào là lựa chọn hàng đầu",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.79172,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Mình đang phân vân giữa hauwei gr5 2017 và xiaomi redmi note4.cho mình hỏi 2 sản phẩm trên sản phẩm nào cho trải nghiệm chơi game mượt mà và ổn định nhất.mình chơi game crossfire legends và liên quân ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.660007,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Cho em hỏi,  nếu ah đc chọn giữa 3 sản phẩm thìh sẽ chọn chiếc máy nào, 1 là iphone7 plus2 là not 83 là A70Cho em xin ý kiến cá nhân từ ah",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.444622,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "Mình mới mua 1 chiếc Huawei 2 hôm trc trả góp 10% nhưng sản phẩm k xem đc full màn YouTube và pin tụt nhanh mình có thể đổi sản phẩm khác k",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.22232,

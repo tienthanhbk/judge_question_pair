@@ -6,20 +6,12 @@
    "origin_question": "Cho e hỏi là shop mình có bán ốp lưng điện thoại Nokia 2.1 không ạ?",
    "hits": [
       {
-         "score": 52.3053,
-         "id": "1161888",
-         "field_search": "question",
-         "question": "Cho e hỏi là shop mình có bán ốp lưng điện thoại Nokia 2.1 không ạ?",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 35.02377,
          "id": "1139468",
          "field_search": "question",
          "question": " Ốp lưng nokia 2 có dùng cho nokia 2.1 được không ạ ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 30.168455,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Shop ơi cho em hỏi là có ốp lưng điện thoại mobiistar zumbo j2 không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.716187,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Có ốp lưng với miếng dán màn hình cho nokia 5 chưa shop?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.668892,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "cho em hỏi anhchị cửa hàng mình có bán ốp lưng điện thoại vivo Y553_1606 không vậy?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.141314,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "Có bán ốp lưng nokia 216 koVậy............yyyyyyyyyyyuuu",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.122713,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "Cho e hỏi hiện tại bên mình có ốp lưng Nokia 5.1 plus không ad?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.87556,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "cho e hỏi bên mình có bán ốp lưng lenovo P70a k ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.213228,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "chào bạn  cho mình hỏi có ốp của điện thoại này không với?mua ốp lưng",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.16957,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Em muốn hỏi Shop còn bán ốp lưng cho Mobell Tab 8 pro không vậy ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.877934,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "Shop có bán ốp lưng và cường lực của máy Xiaomi không vậy",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.300816,

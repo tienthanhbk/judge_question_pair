@@ -4,22 +4,15 @@
    "total_current": 100,
    "max_score": 86.92918,
    "origin_question": "Cho e hỏi em xài iphone 5s sau khi đặt lại máy thì không thể khởi động lại máy được. Đăng nhập id apple toàn hiện không thể đăng nhập.giờ e phải làm sao ạ",
+   "short": "ip không khởi động lại đc, ko đăng nhập id apple đc sau khi cài đặt lại máy",
    "hits": [
-      {
-         "score": 86.92918,
-         "id": "1153003",
-         "field_search": "question",
-         "question": "Cho e hỏi em xài iphone 5s sau khi đặt lại máy thì không thể khởi động lại máy được. Đăng nhập id apple toàn hiện không thể đăng nhập.giờ e phải làm sao ạ",
-         "answer": "_",
-         "relate_q_q": 0
-      },
       {
          "score": 58.96772,
          "id": "1153010",
          "field_search": "question",
          "question": "Ip 5s của em sau khi đặt lại máy ko thể khởi động lại máy được toàn hiện không thể đăng nhập",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 40.219273,
@@ -27,7 +20,7 @@
          "field_search": "question",
          "question": "  Cho em hỏi ID Apple không đăng nhập được thì phải làm sao? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 39.841057,
@@ -35,7 +28,7 @@
          "field_search": "question",
          "question": "Mình có máy điện thoiaj iphone 4S sau khi tải cài đặt phần mềm trên máy sau đó khởi động lại máy báo phải nhập mật mật khẩu ID Apple nhưng mình không nhớ, giờ phải làm sao",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 39.5296,
@@ -43,7 +36,7 @@
          "field_search": "question",
          "question": "mình mới mua Iphone 7 plus lúc đầu đăng nhập tk apple vào không sao hết nhưng sau khi mình khỏi động lại thì máy yêu cầu nhập tk apple. mình nhập đúng nhưng vẫn không vào được trên ip7 ( đã đăng nhập thành công trên máy tính và ip khác) ad cho hỏi có cách nào khắc phục không ạ . ID apple đúng máy rồi nhưng sao không vào được , có phải ip yêu cầu @icloud.com hay không , do mình xài ID apple là @gmail.com",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 39.361626,
@@ -51,7 +44,7 @@
          "field_search": "question",
          "question": "e bị mất máy iphone 5s, và đã tìm lại được máy. Nhứng không may sau khi mất máy e đã đăng nhập icould trên máy tính và vào chế độ xóa iphone, vầy bây giờ làm sao e có thể kích hoạt lại được máy",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 39.257908,
@@ -59,7 +52,7 @@
          "field_search": "question",
          "question": " Em vừa khôi phục lại iPhone 5S giờ chỉ cần đăng nhập ID Appleem đã đăng nhập đúng nhưng nó cứ hiện không thể đăng nhập ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 38.790966,
@@ -67,7 +60,7 @@
          "field_search": "question",
          "question": "Em mua iPhone cũ, máy chưa dính iCloud, vào App Store tải ứng dụng thì bắt đăng nhập, em không biết tài khoản ID Apple hiện có giờ em phải làm sao, em có thể tạo ID Apple mới không?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.649662,
@@ -75,7 +68,7 @@
          "field_search": "question",
          "question": "tại sao sau khi đăng kí được tài khoản ID Apple rồi mà lúc đăng nhập vào AppStore lại không được",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.629448,
@@ -83,7 +76,7 @@
          "field_search": "question",
          "question": "Chào ad ad, Mình cài đặt lại iphone, đã hơn 24 tiếng đồng hồ mà đăng nhập ID và Ap store thì nó chạy lâu và kết quả nó báo : Không thể xác minh, lỗi kết nối với máy chủ ID Apple, giờ phải làm sao vậy ad. Mình cũng xem lại múi giờ, và còn tắt máy khởi động rất nhiều lần. Ad có thể hướng dẫn giúp mình được không. Xin cảm ơn",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.608,
@@ -91,7 +84,7 @@
          "field_search": "question",
          "question": " cho e hỏi sau khi em đặt lại đt iphone4 mà e không có tài khoản ID Apple phải làm sao a? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.549248,

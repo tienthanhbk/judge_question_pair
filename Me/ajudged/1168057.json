@@ -6,20 +6,12 @@
    "origin_question": "Chào bạn. cho mình hỏi dòng realme 2 bên mình còn màu xanh ko ạ ?",
    "hits": [
       {
-         "score": 51.007374,
-         "id": "1168057",
-         "field_search": "question",
-         "question": "Chào bạn. cho mình hỏi dòng realme 2 bên mình còn màu xanh ko ạ ?",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 27.275335,
          "id": "1150182",
          "field_search": "question",
          "question": "Shop ơi cho em hỏi còn máy xiaomi realme 2pro màu xanh ko ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 27.235191,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "chào bạn, cho mình hỏi là bên mình hiện còn ip7 màu rose ko ạ? và gía là bao nhiêu?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.079966,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "cho mình hỏi bên mình còn oppo f9 màu xanh phỉ thúy k ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.176287,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "nokia 6.1 plus 4gb64gb bên mình còn bản màu xanh ko v.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 25.141035,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "Chào bạn, bạn ơi mình muốn hỏi bên bạn còn điện thoại nokia 3310 màu đỏ không?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 24.073318,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": " Chào bạn, cho mình hỏi ở shop thế giới di động ở quy nhơn có bán chiếc máy realme 2 ko ạ ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.419071,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "mình mới đặt cọc tiền đthoại realme c1 màu đenhôm qua giờ có màu xanh. z có đổi màu đc ko",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 23.017529,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi điện thoại Realme 2 pro có mấy màu ạ ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 22.557278,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "bên bạn còn bán dòng nokia 1280 ko bạn ? bán ở đâu ? mình cần mua",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.427654,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "Bạn ơi cho mình hỏi  bên bạn còn kinh doanh dòng apple iphone 6, 6 không ạ? Mình cảm ơn!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 22.084084,

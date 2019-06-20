@@ -6,20 +6,12 @@
    "origin_question": "Kkichs hoạt lưới khi chụp của redmi 7 là làm sao,...........",
    "hits": [
       {
-         "score": 55.29775,
-         "id": "1164941",
-         "field_search": "question",
-         "question": "Kkichs hoạt lưới khi chụp của redmi 7 là làm sao,...........",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 19.167498,
          "id": "1144817",
          "field_search": "question",
          "question": " Lưới phủ màn hình là bị ntn àhE tải các app chụp đều bị lưới phủ màn hình ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 17.018484,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": " Điện thoại xioami redmi 7 ,Sao anh không thấy chức năng chụp toàn cảnh",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 15.5684805,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Xiaomi redmi 7 của em bị đơ màng hình ,vậy giờ làm sao để khắc phục anhchị",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 15.3145,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": " 3D Touch iphone 7 của mình không hoạt động mặc dù đã bật là tại sao ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 14.379908,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "redmi note 7 bên shop là hàng chính hãng hay sao ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 14.281849,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "tgdd chỗ em ko có bán redmi note 7 thì phải làm sao ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 14.150615,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "cho hỏi là con redmi note 7 khi nào về và mức giá khoảng bn",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 13.757304,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "ad cho em hỏi với ạ: em mới từ win 7 và chạy lên win 10. ở win 7 thì em đã kích hoạt và là win bản quyền. mà sao lúc lên win 10 em không thể kích hoạt được và hiện ra lỗi 0x803f7001 . giờ em phải làm sao để kích hoạt ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 13.647532,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": " Add cho hoi làm sao tắt đc âm thanh khi chụp ảnh của iphone Zạ ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 13.584078,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "cho mình hỏi dòng redmi 7 32GB giá khi mua onlline và khi mua trực tiếp là bao nhieeu vậy.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 13.079375,

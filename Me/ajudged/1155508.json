@@ -6,20 +6,12 @@
    "origin_question": "Cho em hỏi em dùng máy samsung j5 prime máy em bị rơi và bị hỏng phím giảm âm lượng rồi nó tự chuyển chế độ an toàn em dùng mọi cách mà ko làm gì được kể cả khôi phục cài đặt gốc",
    "hits": [
       {
-         "score": 114.070206,
-         "id": "1155508",
-         "field_search": "question",
-         "question": "Cho em hỏi em dùng máy samsung j5 prime máy em bị rơi và bị hỏng phím giảm âm lượng rồi nó tự chuyển chế độ an toàn em dùng mọi cách mà ko làm gì được kể cả khôi phục cài đặt gốc",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 42.787666,
          "id": "1149118",
          "field_search": "question",
          "question": "điện thoại samsung galaxy a7 2018 của em bị đổ dung dịch khử mùi vào, bây giờ phím âm lượng (cả tăng lẫn giảm) bị liệt không thể điều chỉnh âm lượng được, kính camera bị bám hơi nước, điện thoại về chế độ safe mode nhưng không trở về chế độ bình thường được. cho em hỏi nguyên do và cách khắc phục ạ!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 42.76593,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Cho  em  hỏi  máy  oppo A37 của  em  mất  chế  độ  chuyển  camera  trước  chỉ  dùng  được  mỗi  sau  ,từ  khi  cập  nhật  mới  ,em  đã  thử  xoá  dữ  liệu  camera  k  được  ,và  khôi  phục  cài  đặt  gốc  cũng  k  được  ....vậy  em  phải  làm  sao",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 42.47726,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": " Máy em bị như vậy thì phải làm saoem khôi phục cài đặt gốc rồi mà vẫn ko hết  ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 42.368668,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Anh chị cho e hỏiĐiện thoại samsung galaxy j3 của e bị rơi, rồi ở bên dưới góc trái màn hình hiện chế độ an toàn. Thì bây giờ e phải làm sao để nó không hiện nữa ạ ? E khôi phục cài đặt gốc vs tắt nguồn và khởi động lại vẫn không được",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 42.36339,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": " Em đang dùng laptop asus . anh chị cho em hỏi em có nên khôi phục cài đặt gốc ko và nó có hại gì ko? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 38.6505,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "Em dùng samsung galaxy s5 tại sao ấn khôi phục cài đặt gốc lại hiện lên là cài đặt đã dừng rồi không khôi phục được ạ??",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 38.142014,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "điện thoại của em là samsung galaxy j2 prime, tự nhiên bữa nay mọi hình ảnh(chụp bình thường) trước đó mà em chụp đều bị chuyển sang hiển thị dạng ảnh kèm âm thanh. Cho em hỏi là điện thoại em bị gì và cách khắc phục. Em cảm ơn.",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 38.14071,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Em có có iphone 5 dùng 1 thời gian e cảm thấy nó chạy chậm lên e khôi phục cài đặt gốc và sau khi khôi phục nó không nhận đc sim nữa nó ko nhận sim thì ko cài đặt đc máy mong mọi người giúp e với",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.980812,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Em dùng laptop ASUS TP500LA i3, mỗi máy thoát khỏi chế độ ngủ thì máy lại khởi động lại rất lâu và mất hết toàn bộ những gì chưa lưu và cài đặt trước khi máy vào chế độ ngủ. Cho em hỏi nguyên nhân là gì, có khắc phục được không?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.622513,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "Em đang dùng máy samsung j7 prome hôm qua giờ thẻ sim cứ báo vòng tròn gạch chéo như hình và không gọi, nhắn tín được. Em đã thử tắt nguồn, mở chế độ máy bay, khôi phục cài đặt gốc,...nhưng vẫn không được. Giờ e làm sao ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 37.464375,

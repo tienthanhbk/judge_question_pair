@@ -6,20 +6,12 @@
    "origin_question": "Em có con samsung j4 mua bên mình giờ em muốn đổi sang dòng khác bù tiền có được không ạ",
    "hits": [
       {
-         "score": 58.21724,
-         "id": "1157503",
-         "field_search": "question",
-         "question": "Em có con samsung j4 mua bên mình giờ em muốn đổi sang dòng khác bù tiền có được không ạ",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 31.777426,
          "id": "1165578",
          "field_search": "question",
          "question": "cho em hỏi em có con samsung a7 2015 mà bây giờ em muốn đổi qua con nova 3i vậy có được không, có bù thêm tiền không",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.7217,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Ad ơi cho em hỏi? Em muốn đổi con xaomi not 6pro sang con galaxy m 20 bên mình có cho đỏi như vậy mà bù thêm tiền không ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.009521,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Mấy anh chị....giơ em muốn đổi Samsung j4 core thành samsung A10 được không ạVà có bù thêm tiền không ạ...xin cho e hỏi ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 30.62956,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Em mua sony xa đc 2 tháng. Giờ muốn đổi sang sony xa1 thì bên mình có hỗ trợ mua lại máy xa và bù tiền sang để mua xa1 k ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 28.70261,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "E đang trả góp con samsung j4 mà giờ e muốn đổi lại con điện thoại khác có được ko anh chị ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 28.687706,
@@ -59,15 +51,15 @@
          "field_search": "question",
          "question": "Mình có con mobiistar x2017 mua được gần 9 tháng tại tgdđ, giờ mình muốn đổi sang con J7 pro có được không, nếu được phải bù bao nhiêu vậy?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 27.608337,
          "id": "1161472",
          "field_search": "question",
-         "question": "Chào Thế Giới Di Động. Mình có mua 1 con samsung j4+ vào tháng 2 và bây giờ mình muốn đổi lại con redmi note 7 thì mình phải bù thêm bao nhiêu nữa vậy 😭😭",
+         "question": "Chào Thế Giới Di Động. Mình có mua 1 con samsung j4 vào tháng 2 và bây giờ mình muốn đổi lại con redmi note 7 thì mình phải bù thêm bao nhiêu nữa vậy 😭😭",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 27.474203,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Chào chị nhân viên ạ Chị có thể cho em hỏi em muốn đổi con Samsung A8 lấy con iPhone8 thì bù bao nhiêu tiền ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 27.321331,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Mình có con Realme C1 mua ngày 21122018 giá 2.490.000đ giờ mình muốn đổi sang redmi 7 thì phải bù bao nhiêu ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.903297,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "cho mình hỏi , mình có 1 chiếc galaxy S9  muốn đổi sang s10 bù thêm tiền có được không",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 26.537437,

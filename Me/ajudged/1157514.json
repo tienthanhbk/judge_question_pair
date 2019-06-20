@@ -6,20 +6,12 @@
    "origin_question": "Mình mới mua Samsung A50 từ tgdd nhưng khi mình dùng bị lỗi như sau.Cảm biến vân tay rất khó nhận. Mở 10 lần may ra đc 1 lần và rất lấu.Thứ 2 là điện thoại không kết nối được wiffi từ cục phát wiffi. ( cái j7 pro kết nối bt, cái a50 này ko thế kết nối)",
    "hits": [
       {
-         "score": 178.46521,
-         "id": "1157514",
-         "field_search": "question",
-         "question": "Mình mới mua Samsung A50 từ tgdd nhưng khi mình dùng bị lỗi như sau.Cảm biến vân tay rất khó nhận. Mở 10 lần may ra đc 1 lần và rất lấu.Thứ 2 là điện thoại không kết nối được wiffi từ cục phát wiffi. ( cái j7 pro kết nối bt, cái a50 này ko thế kết nối)",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 53.094997,
          "id": "1168758",
          "field_search": "question",
          "question": "Mình xài samsun a50 bị lỗi lâu lâu cảm ứng không nhạy với bị lâu lâu mất kết nối wifi và blutooth cùng 1 lúc mình phải tự kết nối lại . Vậy phải làm sao đây tgdd",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 52.47832,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "messenger ko kết nối đc dù có wifi mạnh, em mở đi mở lại cái điện thoại nhiều lần nhưng vẫn ko hiệu quả. Khắc phục sao đây?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 51.995052,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Khi apple k còn kết nối với iphone thi cac ưng dụng trên smart watch apple có dùng dc ứng dung khi kết nối với wiffi k ak",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 51.64226,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": " Cho mình hỏi cách kết nối từ điện thoại với tivi Samsung hay LG là như thế nào vậy. Mình dùng iPhone 6 ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 50.765835,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "Mình có mua 1 điện thoại Samsung J7 ở cửa hang Thegioididong. Hiện giờ nó đang bị lỗi khi vào mạng wifi của văn phòng minh. Mạng wifi ở nhà thì ok nhung mạng ở văn phòng thì nó cứ kết nối rồi ngắt kết nối rồi lại kết nối. Cứ liên tục như vậy. Bạn có thể chỉ cho minh cách chỉnh được ko?Cảm ơn rất nhieuLinh",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 50.563263,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "Mình dùng điện thoại Samsung galaxy J5 prime, theo bên hỗ trợ thì dth sẽ kết nối được với samsung galaxy watch nhưng khi sáng nay ra tgdd thì ko thể nào kết nối được vậy do tư vấn sai hay do nhân viên ở chỗ đó không biết cách kết nối vậy ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 50.42304,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "Mình có chiếc máy tính HP CORE 5 mang đi sửa nhưng khi về thì mình kết nối mạng nhưng ko kết nối đc chỉ có cạnh cục phát mạng thì nó mới có mạng cho mình hỏi có cách nào sửa ko?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 50.05399,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Mình và bạn gái dùng chung tài khoản icloud khi mình gửi tin nhắn trên điện thoại bạn gái vẫn nhận đc. Nhưng cứ phải kết nối internet thì mình mới nhận được tin nhắn từ điện thoại của bạn mình. Cho mình hỏi như vậy là sao?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 50.010845,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": " cái zalo cua mình muốn kết bạn từ kết nối qua facebook ma không được máy báo danh sách trông ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 49.860275,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "Kết nối gậy tự sướng với điện thoại Mobiistar lai Zoro như thế nào và em đã thử rất nhiều lần rùi hãy cho em 1 lời giải thích !!!",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 49.43459,

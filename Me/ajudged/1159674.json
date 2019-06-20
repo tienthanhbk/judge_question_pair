@@ -6,20 +6,12 @@
    "origin_question": "Tôi mua gậy chụp hình Cosano Bluetooth. Đã kết nối được với Điện thoại Iphone 7 plus nhưng không chụp được hình. Xin cho ý kiến. Gậy mua từ tháng 8/2018",
    "hits": [
       {
-         "score": 114.64692,
-         "id": "1159674",
-         "field_search": "question",
-         "question": "Tôi mua gậy chụp hình Cosano Bluetooth. Đã kết nối được với Điện thoại Iphone 7 plus nhưng không chụp được hình. Xin cho ý kiến. Gậy mua từ tháng 8/2018",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 48.36284,
          "id": "787838",
          "field_search": "question",
          "question": " Sao điện thoại Mobiistar lai yuna kết nối với gậy tự sướng không chụp được ạ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 48.028915,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": " iPhone 4 có sử dụng gậy chụp hình được không ạ? Với làm sao để kết nối với máy được ạ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 41.466995,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "cho em hỏi là điện thoại em là sony xperia x1 plus có xài được gậy tự sướng không ạ? em cắm vào nhưng nó không chụp hình được ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 39.03576,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": " Cách cài đặt để chụp hình bang gậy tự sướng điện thoại HTC 626 ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.770157,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": " Sony Xperia M2 D2303 chơi được Liên Quân ko ạ? Với lại có dùng được vs gậy chụp hình ko nhỉ?   ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 36.12338,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": " Sao em chụp hình bằng gậy selfie không được vậy, em đang dùng iPhone 6 và camera 360 v7.1.1? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": 1
       },
       {
          "score": 36.000256,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "sao không chụp được gậy chụp ảnh cho máy điện thoại oppo r831 ạ,  với lại nó hiện dòng chữ danh sách bài hát  hiện thời trống rỗng ạ?  Làm sao để chụp lại nữa?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.774055,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": " iPhone 5s của em không kết nối được với gậy tự sướng , mà iPhone 5 của bạn em vẫn kết nối được , vậy là sao ạ ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.328327,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Cho e hỏi làm sao để chụp hình bằng gậy tự sướng với máy Oppo r831 ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 34.240116,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": " Tại sao gậy tự sướng có kết nối dây nhưng không sử dụng được với Gionee Gtab G3 ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.772648,

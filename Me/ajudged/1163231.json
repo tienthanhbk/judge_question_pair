@@ -6,20 +6,12 @@
    "origin_question": "Sao máy em đang chơi game rồi tự động tắt nguồn khi mở lên thì hiện logo oppo thoi là bị gì ạ .hiện logo oppo từ sáng đến giờ không làm gì được hết",
    "hits": [
       {
-         "score": 164.83101,
-         "id": "1163231",
-         "field_search": "question",
-         "question": "Sao máy em đang chơi game rồi tự động tắt nguồn khi mở lên thì hiện logo oppo thoi là bị gì ạ .hiện logo oppo từ sáng đến giờ không làm gì được hết",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 75.74054,
          "id": "1023488",
          "field_search": "question",
          "question": "Boss ơi máy sony z c6602 của em giờ khởi động hiện logo xong rồi tự khởi động lại rồi lại hiện logo rồi lại khởi động lại giờ em phải làm sao ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 66.4332,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": " E dùng oppo mà khi lên facebook thì bị tắt nguồn và tự khởi động lại cho e hỏi nó bị gì ạ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 64.41707,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": "Tình hình là em mới chạy lại win 7 ạ,, hôm qua thì máy hoạt động bình thường. tự nhiên hôm nay mở lên vào chorm thì con chuột nó cứ nhấp nháy và có hình tròn bên cạnh, lâu lâu lại tự hiện lên hình bên cạnh như kiểu bấm F12 và nó tắt luôn, tắt chorm xuống thanh tác vụ thì lại tự bật lên. vào internet explorer thì nó cứ hiện lên cái bảng gì đó rồi nhấp nháy liên tục không thể bấm hay làm gì được. vào paint hoặc là word thì chưa kịp bấm gì nó đã hiện lên cái bảng để save rồi. ad cho e biet tai sao khong a??",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 59.546158,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "Đây là lỗi gì vậy ạ, mỗi khi khởi động máy thì cửa sổ này lại hiện lên. ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 56.915207,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "Iphone 5 đang xài tự nhiên tụt pin rất nhanh rồi mất nguồn luôn trong vòng khoảng 2g(dù đã sạc đầy 100%). Giờ mình mở nguồn không lên? Máy bị gì và sửa chữa ở đâu được ad?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 56.20221,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "Máy của mình đang xài cái OPPO R7. Mình bị tắt nguồn mà mình sạc nó vô pin và giờ lại mở nguồn không được là sao vậy?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 55.10499,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": "Cho mình hỏi tại sao những cuộc gọi đi hay đến mỗi lần nhắc máy tl thì máy lại tự động bật chế độ Không làm phiền khiến cả 2 đều không thể nghe được gì vậy ạ ,làm sao để tắt?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 54.529156,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "em đang dùng dòng samsung j7plus, hôm nay em có cập nhật phần mềm thì lúc cập nhật xong điện thoại tự tắt nguồn và em không mở nguồn lên được nữa. Vậy là điện thoại em gặp vấn đề gì vậy ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 54.35318,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Máy asus zenfone 4 max em đag dùng đột ngột tắt nguồn em mở lại đến màn hình khởi động có chử zenfone thì đơ vậy luôn không thao tác gì được nửa anh (chị) giúp em với ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 53.773808,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": "QTV cho mình hỏi chút.Mình sử dụng A5 được hơn 4 tháng.Hôm trước máy tự dưng có hiện tượng cảm ứng kém nhạy,khởi động lại vẫn không khắc phục được.Nhưng khi cắm sạc vào máy lại trở lại bình thường và giờ không bị sao cả.QTV cho mình hỏi máy mình bị hiện tượng gì thế ạ?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 53.59871,

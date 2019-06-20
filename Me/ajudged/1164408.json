@@ -6,20 +6,12 @@
    "origin_question": "Mình ở rạch giá, cho hỏi a7 có chương trình trả góp k? Cần những gì và trả trước bao nhiêu",
    "hits": [
       {
-         "score": 71.0313,
-         "id": "1164408",
-         "field_search": "question",
-         "question": "Mình ở rạch giá, cho hỏi a7 có chương trình trả góp k? Cần những gì và trả trước bao nhiêu",
-         "answer": "_",
-         "relate_q_q": 0
-      },
-      {
          "score": 35.6085,
          "id": "774401",
          "field_search": "question",
          "question": " Em đang đi làm muốn mua trả góp iPhone 5 thì cần những gì và trả góp trước bao nhiêu ạ? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.39603,
@@ -27,7 +19,7 @@
          "field_search": "question",
          "question": "Trả góp cần những gì ... Và trả trước báo nhiêu .  .... Và lãi suất ntn ....thời gian duyệt trong bao lâu",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 35.225075,
@@ -35,7 +27,7 @@
          "field_search": "question",
          "question": " Em muốn mua trả góp iPhone 5, giờ giá bao nhiêu ạ? Và cần những thứ gì để mua trả góp? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.807068,
@@ -43,7 +35,7 @@
          "field_search": "question",
          "question": "hiện tại bên mình có chương trình mua trả góp trả trước 0đ k ad?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 33.29503,
@@ -51,7 +43,7 @@
          "field_search": "question",
          "question": "mình muốn mua trả góp điện thoại oppo a7 thì cần những gì và nếu như k cần gọi cho người thân có được k",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 32.83711,
@@ -59,7 +51,7 @@
          "field_search": "question",
          "question": "ad cho mình hỏi về chương trình trả trước 0đ trả góp 0 của tgdd được k ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 32.638405,
@@ -67,7 +59,7 @@
          "field_search": "question",
          "question": " Em mua trả góp laptop cần những gì và không trả trước có được không ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.38852,
@@ -75,7 +67,7 @@
          "field_search": "question",
          "question": "Mình mua điện thoại trả góp dưới 5rtr, mình có cần đưa trước bao nhiêu ? Thủ tục nhanh không và cần có những loại giấy tờ nào?",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.25817,
@@ -83,7 +75,7 @@
          "field_search": "question",
          "question": "Cho em hỏi là bao nhiêu tuổi thì được mua trả góp và cần những giấy tờ gì ạ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 31.09663,
@@ -91,7 +83,7 @@
          "field_search": "question",
          "question": " Cho mình hỏi mua iPhone 5S trả trước 2 triệu thì mỗi tháng phải góp bao nhiêu và thủ tục cần gì? ",
          "answer": "_",
-         "relate_q_q": 0
+         "relate_q_q": -1
       },
       {
          "score": 30.93144,
